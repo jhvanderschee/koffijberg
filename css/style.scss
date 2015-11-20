@@ -10,14 +10,22 @@ body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT San
 
 
 .intro {height: 800px;}
-.intro > div {background: url('../img/1.png') center top no-repeat; height: 800px; }
+.intro > div {background: url('../img/kapper-amsterdam-koffijberg.jpg') center top no-repeat; height: 800px; }
 .intro .highlight {text-align: center; margin: 250px 0 0;}
+
 
 .about {text-align: center; padding: 90px 0; background: white; color: $accentkleur;}
 .about .post-content {font-size: 18px; line-height: 1.9em;}
 .about .post-content p {opacity: 0.7;}
-.about .post-header span {font-size: 23px; text-transform: uppercase; font-weight: 400;}
+.about .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
 .about .post-header h1 {font-size: 60px; margin-top: 5px;}
+
+.salon {height: 502px; background: url('../img/kapper-amsterdam-salon.jpg') center top no-repeat; background-size: cover; background-attachment: fixed;}
+.salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px auto 0; border-radius: 250px;}
+.salon .circle p {text-align: right; margin: 0 auto; display: block; width: 230px; position: relative; right: 10px;}
+.salon .post-header {padding: 70px 0 0;}
+.salon .post-content {font-size: 18px; line-height: 1.9em;}
+.salon .post-content p {opacity: 0.7;}
 
 .navbar-default {z-index: 2; position: absolute; width: 100%; background: transparent; border: 0; text-transform: uppercase;}
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover,
@@ -29,6 +37,10 @@ body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT San
     transition: all 0.3s ease;
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {border-top: 3px solid $tekstkleur_op_basis;}
+.navbar-collapse {-webkit-box-shadow: none; box-shadow: none;}
+.navbar-default .navbar-toggle .icon-bar {background-color: $tekstkleur_op_basis;}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {background-color: transparent;}
+.navbar-default .navbar-toggle {border-color: transparent;}
 
 h1 {text-transform: uppercase; font-weight: 700; font-size: 50px; margin-bottom: 0.5em;}
 p {margin-bottom: 2em;}
@@ -43,3 +55,11 @@ p {margin-bottom: 2em;}
 }
 .btn-default:hover, .btn-primary {background: $accentkleur; color: $tekstkleur_op_accent;}
 .btn-primary:hover, .btn-default {background: $tekstkleur_op_accent; color: $accentkleur;}
+
+
+@media all and (max-width: 767px) {
+	.navbar-default .navbar-collapse {background: $accentkleur; border: none;}
+}
+@media all and (max-width: 991px) {
+	.intro > div > div {background: rgba(86,76,73,0.8); height: 800px; }
+}

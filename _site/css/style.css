@@ -13,7 +13,7 @@ body {
   height: 800px; }
 
 .intro > div {
-  background: url("../img/1.png") center top no-repeat;
+  background: url("../img/kapper-amsterdam-koffijberg.jpg") center top no-repeat;
   height: 800px; }
 
 .intro .highlight {
@@ -34,13 +34,46 @@ body {
   opacity: 0.7; }
 
 .about .post-header span {
-  font-size: 23px;
+  font-size: 22px;
   text-transform: uppercase;
   font-weight: 400; }
 
 .about .post-header h1 {
   font-size: 60px;
   margin-top: 5px; }
+
+.salon {
+  height: 502px;
+  background: url("../img/kapper-amsterdam-salon.jpg") center top no-repeat;
+  background-size: cover;
+  background-attachment: fixed; }
+
+.salon .circle {
+  text-align: center;
+  background: white;
+  color: #241a1f;
+  height: 450px;
+  width: 450px;
+  margin: 25px auto 0;
+  border-radius: 250px; }
+
+.salon .circle p {
+  text-align: right;
+  margin: 0 auto;
+  display: block;
+  width: 230px;
+  position: relative;
+  right: 10px; }
+
+.salon .post-header {
+  padding: 70px 0 0; }
+
+.salon .post-content {
+  font-size: 18px;
+  line-height: 1.9em; }
+
+.salon .post-content p {
+  opacity: 0.7; }
 
 .navbar-default {
   z-index: 2;
@@ -64,6 +97,19 @@ body {
 
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
   border-top: 3px solid white; }
+
+.navbar-collapse {
+  -webkit-box-shadow: none;
+  box-shadow: none; }
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white; }
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  background-color: transparent; }
+
+.navbar-default .navbar-toggle {
+  border-color: transparent; }
 
 h1 {
   text-transform: uppercase;
@@ -103,3 +149,12 @@ p {
 .btn-primary:hover, .btn-default {
   background: white;
   color: #241a1f; }
+
+@media all and (max-width: 767px) {
+  .navbar-default .navbar-collapse {
+    background: #241a1f;
+    border: none; } }
+@media all and (max-width: 991px) {
+  .intro > div > div {
+    background: rgba(86, 76, 73, 0.8);
+    height: 800px; } }
