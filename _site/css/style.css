@@ -1,0 +1,105 @@
+html {
+  overflow-y: scroll; }
+
+body {
+  color: white;
+  background: #403732;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 1.4em; }
+
+.intro {
+  height: 800px; }
+
+.intro > div {
+  background: url("../img/1.png") center top no-repeat;
+  height: 800px; }
+
+.intro .highlight {
+  text-align: center;
+  margin: 250px 0 0; }
+
+.about {
+  text-align: center;
+  padding: 90px 0;
+  background: white;
+  color: #241a1f; }
+
+.about .post-content {
+  font-size: 18px;
+  line-height: 1.9em; }
+
+.about .post-content p {
+  opacity: 0.7; }
+
+.about .post-header span {
+  font-size: 23px;
+  text-transform: uppercase;
+  font-weight: 400; }
+
+.about .post-header h1 {
+  font-size: 60px;
+  margin-top: 5px; }
+
+.navbar-default {
+  z-index: 2;
+  position: absolute;
+  width: 100%;
+  background: transparent;
+  border: 0;
+  text-transform: uppercase; }
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a {
+  border-top: 3px solid transparent;
+  color: white;
+  margin: 20px 15px;
+  padding: 4px 0;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+  border-top: 3px solid white; }
+
+h1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 50px;
+  margin-bottom: 0.5em; }
+
+p {
+  margin-bottom: 2em; }
+
+.post-content {
+  font-family: 'Merriweather', serif;
+  font-family: 'PT Serif', serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 2em; }
+
+.btn {
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 0;
+  border: 0;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: 700;
+  font-size: 17px;
+  text-transform: uppercase;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+
+.btn-default:hover, .btn-primary {
+  background: #241a1f;
+  color: white; }
+
+.btn-primary:hover, .btn-default {
+  background: white;
+  color: #241a1f; }
