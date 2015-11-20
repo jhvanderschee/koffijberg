@@ -54,27 +54,13 @@ body {
 
 .intro .highlight {
   text-align: center;
-  padding: 100px 0 0; }
+  padding: 90px 0 0; }
 
 .intro .highlight table {
-  height: 700px; }
+  height: 710px; }
 
 .intro .highlight article {
   display: none; }
-
-.page-template .intro {
-  height: 75px;
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#403732+0,5a504d+63,403732+100 */
-  background: #403732;
-  /* Old browsers */
-  background: -moz-linear-gradient(left, #403732 0%, #5a504d 63%, #403732 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #403732 0%, #5a504d 63%, #403732 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #403732 0%, #5a504d 63%, #403732 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#403732', endColorstr='#403732',GradientType=1 );
-  /* IE6-9 */ }
 
 .about {
   text-align: center;
@@ -146,8 +132,12 @@ body {
   background-attachment: fixed; }
 
 .page-template .salon2 {
-  height: 250px;
+  height: 300px;
   background-attachment: scroll; }
+
+.page-template .salon2 > div {
+  background: rgba(86, 76, 73, 0.8);
+  height: 250px; }
 
 .salon3 {
   height: 502px;
@@ -156,7 +146,7 @@ body {
   background-attachment: fixed; }
 
 .page-template .salon3 {
-  height: 250px;
+  height: 300px;
   background-attachment: scroll; }
 
 .twocols {
@@ -190,6 +180,9 @@ footer p {
 .site-footer2 {
   padding: 15px 0; }
 
+.navbar {
+  border-radius: 0px !important; }
+
 .navbar-default {
   z-index: 2;
   position: absolute;
@@ -204,7 +197,7 @@ footer p {
   text-decoration: none;
   border-top: 3px solid transparent;
   color: white;
-  margin: 20px 15px;
+  margin: 20px 0 25px 30px;
   padding: 4px 0; }
 
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
@@ -226,6 +219,20 @@ footer p {
 
 .navbar-default .navbar-toggle {
   border-color: transparent; }
+
+.navbar-default .navbar-brand {
+  margin: 20px 0 0; }
+
+.page-template .navbar-default, .navbar-default.attop {
+  position: fixed;
+  background: white;
+  border-bottom: 1px solid rgba(86, 76, 73, 0.15); }
+
+.navbar-default.attop .navbar-brand:focus, .navbar-default.attop .navbar-brand:hover,
+.navbar-default.attop .navbar-nav > li > a:focus, .navbar-default.attop .navbar-nav > li > a:hover, .navbar-default.attop .navbar-brand, .navbar-default.attop .navbar-nav > li > a,
+.page-template .navbar-default .navbar-brand:focus, .page-template .navbar-default .navbar-brand:hover,
+.page-template .navbar-default .navbar-nav > li > a:focus, .page-template .navbar-default .navbar-nav > li > a:hover, .page-template .navbar-default .navbar-brand, .page-template .navbar-default .navbar-nav > li > a {
+  color: #403732; }
 
 .navmenu-default {
   border: 0;
