@@ -5,56 +5,162 @@ $tekstkleur_op_accent: white;
 $basiskleur: #403732;
 $tekstkleur_op_basis: white;
 
+@-moz-keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -moz-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -moz-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -moz-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+}
+@-webkit-keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -webkit-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+}
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -moz-transform: translateY(-30px);
+    -ms-transform: translateY(-30px);
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -moz-transform: translateY(-15px);
+    -ms-transform: translateY(-15px);
+    -webkit-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+}
+
+
 html {overflow-y: scroll;}
 body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.4em;}
 
 
 .intro {height: 800px;}
 .intro > div {background: url('../img/kapper-amsterdam-koffijberg.jpg') center top no-repeat; height: 800px; }
-.intro .highlight {text-align: center; margin: 250px 0 0;}
-
+.intro .highlight {text-align: center; padding: 100px 0 0;}
+.intro .highlight table {height: 700px;}
+.intro .highlight article {display: none;}
+.page-template .intro {height: 75px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#403732+0,5a504d+63,403732+100 */
+background: #403732; /* Old browsers */
+background: -moz-linear-gradient(left,  #403732 0%, #5a504d 63%, #403732 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #403732 0%,#5a504d 63%,#403732 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #403732 0%,#5a504d 63%,#403732 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#403732', endColorstr='#403732',GradientType=1 ); /* IE6-9 */
+}
 
 .about {text-align: center; padding: 90px 0; background: white; color: $accentkleur;}
 .about .post-content {font-size: 18px; line-height: 1.9em;}
 .about .post-content p {opacity: 0.7;}
 .about .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
 .about .post-header h1 {font-size: 60px; margin-top: 5px;}
+.about .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px auto;}
 
-.salon {height: 502px; background: url('../img/kapper-amsterdam-salon.jpg') center top no-repeat; background-size: cover; background-attachment: fixed;}
+.salon {height: 502px; background: url('../img/kapper-amsterdam-salon.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
 .salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px auto 0; border-radius: 250px;}
 .salon .circle p {text-align: right; margin: 0 auto; display: block; width: 230px; position: relative; right: 10px;}
 .salon .post-header {padding: 70px 0 0;}
 .salon .post-content {font-size: 18px; line-height: 1.9em;}
 .salon .post-content p {opacity: 0.7;}
 
+.salon2 {height: 502px; background: url('../img/kapper-amsterdam-salon2.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
+.page-template .salon2 {height: 250px; background-attachment: scroll;}
+
+.salon3 {height: 502px; background: url('../img/kapper-amsterdam-salon3.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
+.page-template .salon3 {height: 250px; background-attachment: scroll;}
+
+.twocols {padding: 90px 0; background: white; color: $accentkleur;}
+.twocols .post-content p {opacity: 0.7;}
+ 
+.behandelingen {padding: 90px 0; background: white; color: $accentkleur;}
+
+footer p {margin: 0; font-family: 'PT Serif', serif; font-weight: 400; font-size: 15px; line-height: 2em;}
+.site-footer {padding: 90px 0; background: $accentkleur; color: $tekstkleur_op_accent;}
+.site-footer .day {float: left;}
+.site-footer2 {padding: 15px 0;}
+
+
 .navbar-default {z-index: 2; position: absolute; width: 100%; background: transparent; border: 0; text-transform: uppercase;}
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover,
-.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {border-top: 3px solid transparent; color: $tekstkleur_op_basis; margin: 20px 15px; padding: 4px 0;
-    -webkit-transition: all 0.3s ease;                  
-    -moz-transition: all 0.3s ease;                 
-    -o-transition: all 0.3s ease;   
-    -ms-transition: all 0.3s ease;          
-    transition: all 0.3s ease;
-}
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {opacity: 1; text-decoration: none; border-top: 3px solid transparent; color: $tekstkleur_op_basis; margin: 20px 15px; padding: 4px 0;}
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {border-top: 3px solid $tekstkleur_op_basis;}
 .navbar-collapse {-webkit-box-shadow: none; box-shadow: none;}
+.navbar-default .navbar-toggle {margin-top: 20px;}
 .navbar-default .navbar-toggle .icon-bar {background-color: $tekstkleur_op_basis;}
-.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {background-color: transparent;}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {background-color: transparent; opacity: 1;}
 .navbar-default .navbar-toggle {border-color: transparent;}
+.navmenu-default {border: 0; background-color: $accentkleur; border-color: transparent;}
+.navmenu-default .navmenu-nav>li>a {text-decoration: none; color: $tekstkleur_op_accent;}
+.navmenu-default .navmenu-nav>li>a:hover, .navbar-default .navbar-offcanvas .navmenu-nav>li>a:hover, .navmenu-default .navmenu-nav>li>a:focus, .navbar-default .navbar-offcanvas .navmenu-nav>li>a:focus { color: $tekstkleur_op_accent;}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {color: $tekstkleur_op_basis;}
+.navmenu-nav {margin-top: 16px;}
 
 h1 {text-transform: uppercase; font-weight: 700; font-size: 50px; margin-bottom: 0.5em;}
+h3 {font-weight: 700; font-size: 21px; text-transform: uppercase;}
 p {margin-bottom: 2em;}
-.post-content {font-family: 'Merriweather', serif; font-family: 'PT Serif', serif; font-weight: 400; font-size: 15px; line-height: 2em;}
+a {color: white; text-decoration: underline;}
+a:hover {color: white;}
+.post-content {font-family: 'PT Serif', serif; font-weight: 400; font-size: 15px; line-height: 2em;}
 
-.btn {padding-left: 25px; padding-right: 25px; border-radius: 0; border: 0; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; text-transform: uppercase;
+.btn {text-decoration: none; padding-left: 25px; padding-right: 25px; border-radius: 0; border: 0; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; text-transform: uppercase;
     -webkit-transition: all 0.3s ease;                  
     -moz-transition: all 0.3s ease;                 
     -o-transition: all 0.3s ease;   
     -ms-transition: all 0.3s ease;          
     transition: all 0.3s ease;
 }
-.btn-default:hover, .btn-primary {background: $accentkleur; color: $tekstkleur_op_accent;}
-.btn-primary:hover, .btn-default {background: $tekstkleur_op_accent; color: $accentkleur;}
+.btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; background: $tekstkleur_op_accent; color: $accentkleur; -webkit-box-shadow: none; box-shadow: none;}
+.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {opacity: 1; border: 1px solid $accentkleur !important; background: $accentkleur; color: $tekstkleur_op_accent; -webkit-box-shadow: none; box-shadow: none;}
+.btn-default:active:hover, .btn-default:hover, .btn-primary:active:hover, .btn-primary:hover {opacity: 1;}
+.btn:active:hover, .btn:focus, .btn:hover {color: white;}
+.intro .btn {border: 0!important;}
+.fa {font-size: 180%; display: inline-block; cursor: pointer; margin: 0 0 0 10px; position: relative; top: 3px;} 
+
+.arrow {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  margin-left: -20px;
+  width: 40px;
+  height: 40px;
+  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/PjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDE4NS4zNDQgMTg1LjM0NCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTg1LjM0NCAxODUuMzQ0OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PGc+PHBhdGggc3R5bGU9ImZpbGw6I2ZmZmZmZjsiIGQ9Ik05Mi42NzIsMTQ0LjM3M2MtMi43NTIsMC01LjQ5My0xLjA0NC03LjU5My0zLjEzOEwzLjE0NSw1OS4zMDFjLTQuMTk0LTQuMTk5LTQuMTk0LTEwLjk5MiwwLTE1LjE4YzQuMTk0LTQuMTk5LDEwLjk4Ny00LjE5OSwxNS4xOCwwbDc0LjM0Nyw3NC4zNDFsNzQuMzQ3LTc0LjM0MWM0LjE5NC00LjE5OSwxMC45ODctNC4xOTksMTUuMTgsMGM0LjE5NCw0LjE5NCw0LjE5NCwxMC45ODEsMCwxNS4xOGwtODEuOTM5LDgxLjkzNEM5OC4xNjYsMTQzLjMyOSw5NS40MTksMTQ0LjM3Myw5Mi42NzIsMTQ0LjM3M3oiLz48L2c+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjwvc3ZnPg==);
+  background-size: contain;
+}
+
+.bounce {
+  -moz-animation: bounce 2s infinite;
+  -webkit-animation: bounce 2s infinite;
+  animation: bounce 2s infinite;
+}
+
+
+
+
+
 
 
 @media all and (max-width: 767px) {

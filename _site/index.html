@@ -4,20 +4,24 @@
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <title></title>
   <meta name="description" content="">
-  
-  <link rel="stylesheet" href="/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="canonical" href="/">
   <link rel="alternate" type="application/rss+xml" title="" href="/feed.xml">
-  
+
+    <link rel="shortcut icon" type="image/png" href="/img/icon-196x196.png">
+    <link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png">
+    <link rel="apple-touch-icon" href="/img/icon-196x196.png">
+
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/jasny-bootstrap.min.css">
+  <link rel="stylesheet" href="/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/style.css">
+
   <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
 
-  <link rel="icon" type="image/x-icon" href="/favicon.ico">
 </head>
 
 
@@ -34,12 +38,22 @@
 </script>
 
 
+
 <header class="site-header">
       <nav class="navbar navbar-default">
         <div class="container">
+
+
+<div class="navmenu navmenu-default navmenu-fixed-left offcanvas">
+      <ul class="nav navmenu-nav">
+              <li><a href="/#over-ons">Over ons</a></li>
+              <li><a href="/#openingstijden">Openingstijden</a></li>
+              <li><a href="/#behandelingen">Behandelingen</a></li>
+              <li><a href="/contact">Contact</a></li>           
+      </ul>
+</div>
           <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-              <span class="sr-only">Toggle navigation</span>
+            <button type="button" class="navbar-toggle" data-toggle="offcanvas" data-target=".navmenu">
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
@@ -58,40 +72,56 @@
       </nav>
 </header>
 
+    <div class="arrow bounce"></div>
     <div class="intro"><div><div>
   		<div class="container">
   			<div class="row">
   		    	<div class="col-md-8"></div>
-            <div class="col-md-4">
-  		    	    <article class="highlight">
-                     
+            <div class="col-md-4 highlight">
+            <table cellpadding="0" cellspacing="0"><tr><td>
+  		    	    <article id="n1">
                         <header class="post-header">
-                          <h1 class="post-title">De keuze van jouw kleur</h1>
+                          <h1 class="post-title">De keuze van jouw kleur1</h1>
                         </header>
                       
                         <div class="post-content">
-                          <article class="post page">
-                          
-                            <div class="post-content">
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris.</p>
-                              <a href="#" class="btn btn-primary">Spoelen en wassen</a>
-                            </div>
-                          
-                          </article>
+                              <a href="/contact" class="btn btn-primary">Maak een afspraak</a><br />
+                              <a href="#" class="btn">bel 020-6732374</a>
                         </div>
-                      
                 </article>
+                <article id="n2">
+                        <header class="post-header">
+                          <h1 class="post-title">De keuze van jouw kleur2</h1>
+                        </header>
+                      
+                        <div class="post-content">
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris.</p>
+                              <a href="/contact" class="btn btn-primary">Maak een afspraak</a>
+                        </div>
+                </article>
+                <article id="n3">
+                        <header class="post-header">
+                          <h1 class="post-title">De keuze van jouw kleur3</h1>
+                        </header>
+                      
+                        <div class="post-content">
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris.</p>
+                              <a href="/contact" class="btn btn-primary">Maak een afspraak</a>
+                        </div>
+                </article>
+            </td></tr></table>
   		    	</div>
   		    </div>
   		</div>
     </div></div></div>
 
 
-    <div class="about">
+    <div class="about" id="over-ons">
       <div class="container">
         <div class="row">
-            <div class="col-md-2"></div>
-            <div class="col-md-8">
+            <div class="col-lg-2"></div>
+            <div class="col-lg-8">
                 <article class="">
                      
                         <header class="post-header">
@@ -112,13 +142,13 @@
                       
                 </article>
             </div>
-            <div class="col-md-2"></div>
+            <div class="col-lg-2"></div>
           </div>
       </div>
     </div>
 
 
-    <div class="salon">
+    <div class="salon" id="openingstijden">
       <div class="container">
         <div class="circle">
           <article class="">
@@ -126,28 +156,27 @@
               <h1 class="post-title">Openingstijden</h1>
             </header>
             <div class="post-content">
-              <p>maandag&nbsp;&nbsp;&nbsp;&nbsp;9.00 - 17.00 uur<br />
-              dinsdag&nbsp;&nbsp;&nbsp;&nbsp;9.00 - 17.00 uur<br />
-              woensdag&nbsp;&nbsp;&nbsp;&nbsp;9.00 - 17.00 uur<br />
-              donderdag&nbsp;&nbsp;&nbsp;&nbsp;9.00 - 17.00 uur<br />
-              vrijdag&nbsp;&nbsp;&nbsp;&nbsp;9.00 - 17.00 uur<br />
-              zaterdag&nbsp;&nbsp;&nbsp;&nbsp;9.00 - 17.00 uur</p>
+              <p>maandag&nbsp;&nbsp;&nbsp;&nbsp;9.30 - 19.00 uur<br />
+              dinsdag&nbsp;&nbsp;&nbsp;&nbsp;9.30 - 21.00 uur<br />
+              woensdag&nbsp;&nbsp;&nbsp;&nbsp;9.30 - 17.30 uur<br />
+              donderdag&nbsp;&nbsp;&nbsp;&nbsp;9.30 - 21.00 uur<br />
+              vrijdag&nbsp;&nbsp;&nbsp;&nbsp;9.30 - 19.00 uur<br />
+              zaterdag&nbsp;&nbsp;&nbsp;&nbsp;8.30 - 17.00 uur</p>
             </div>
         </div>
       </div>
     </div>
 
 
-    <div class="about">
+    <div class="twocols">
       <div class="container">
         <div class="row">
-            <div class="col-md-2"></div>
-            <div class="col-md-8">
+            <div class="col-lg-2"></div>
+            <div class="col-sm-6 col-lg-4">
                 <article class="">
                      
                         <header class="post-header">
-                          <span>Over Koffijberg</span>
-                          <h1 class="post-title">Topkapper in Amsterdam</h1>
+                          <h1 class="post-title">Blow Dry Area</h1>
                         </header>
                       
                         <div class="post-content">
@@ -163,32 +192,140 @@
                       
                 </article>
             </div>
-            <div class="col-md-2"></div>
+            <div class="col-sm-6 col-lg-4">
+                <article class="">
+                     
+                        <header class="post-header">
+                          <h1 class="post-title">Blow Dry Area</h1>
+                        </header>
+                      
+                        <div class="post-content">
+                          <article class="post page">
+                          
+                            <div class="post-content">
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris. Donec sagittis pharetra est, elementum volutpat velit congue tristique. Proin commodo vestibulum lobortis. Duis hendrerit interdum est sit amet dignissim. Duis ultricies porttitor sagittis. Suspendisse ultrices hendrerit facilisis.</p>
+                              <a href="#" class="btn btn-primary">Spoelen en wassen</a>
+                            </div>
+                          
+                          </article>
+                        </div>
+                      
+                </article>
+            </div>
+            <div class="col-lg-2"></div>
+          </div>
+      </div>
+    </div>
+
+    <div class="salon2">
+    </div>
+
+
+    <div class="behandelingen" id="behandelingen">
+      <div class="container">
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-sm-12 col-lg-8">
+                tabel
+            </div>
+            <div class="col-lg-2"></div>
+          </div>
+      </div>
+    </div>
+    
+    <!--<div class="salon3">
+    </div>-->
+
+    <div class="twocols">
+      <div class="container">
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-sm-6 col-lg-4">
+                <article class="">
+                     
+                        <header class="post-header">
+                          <h1 class="post-title">Blow Dry Area</h1>
+                        </header>
+                      
+                        <div class="post-content">
+                          <article class="post page">
+                          
+                            <div class="post-content">
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris. Donec sagittis pharetra est, elementum volutpat velit congue tristique. Proin commodo vestibulum lobortis. Duis hendrerit interdum est sit amet dignissim. Duis ultricies porttitor sagittis. Suspendisse ultrices hendrerit facilisis.</p>
+                              <a href="#" class="btn btn-primary">Spoelen en wassen</a>
+                            </div>
+                          
+                          </article>
+                        </div>
+                      
+                </article>
+            </div>
+            <div class="col-sm-6 col-lg-4">
+                <article class="">
+                     
+                        <header class="post-header">
+                          <h1 class="post-title">Blow Dry Area</h1>
+                        </header>
+                      
+                        <div class="post-content">
+                          <article class="post page">
+                          
+                            <div class="post-content">
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris. Donec sagittis pharetra est, elementum volutpat velit congue tristique. Proin commodo vestibulum lobortis. Duis hendrerit interdum est sit amet dignissim. Duis ultricies porttitor sagittis. Suspendisse ultrices hendrerit facilisis.</p>
+                              <a href="#" class="btn btn-primary">Spoelen en wassen</a>
+                            </div>
+                          
+                          </article>
+                        </div>
+                      
+                </article>
+            </div>
+            <div class="col-lg-2"></div>
           </div>
       </div>
     </div>
 
 
-    <footer class="site-footer">
 
-<div class="container">
-    
-<div class="row">
+    <footer>
 
-
-
-</div>    
-    
+<div class="site-footer">
+      <div class="container">
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-lg-2 col-sm-3 col-xs-6"><h3>Koffijberg</h3><p>Scheldestraat 8<br />1078 GK Amsterdam<br />020-6732374<br /><a href="mailto:receptie@koffijberg.nl">receptie@koffijberg.nl</a><br />KVK 1121429<br />BTW 23423902340</p></div>
+            <div class="col-lg-2 col-sm-3 col-xs-6"><h3>Openingstijden</h3><p class="text-right">
+            	<span class="day">Maandag</span>9.30-19.00<br />
+            	<span class="day">Dinsdag</span>9.30-21.00<br />
+            	<span class="day">Woensdag</span>9.30-17.30<br />
+            	<span class="day">Donderdag</span>9.30-21.00<br />
+            	<span class="day">Vrijdag</span>9.30-19.00<br />
+            	<span class="day">Zaterdag</span>8.30-17.00
+            </p></div>
+            <div class="col-lg-4 col-sm-6 text-center"><h3>Nieuws</h3><p><a href="/2015/11/09/introduction.html">Jekyll against the rest of the world</a><br /></p></div>
+            <div class="col-lg-2"></div>
+          </div>
+      </div>
 </div>
-
-
+<div class="site-footer2">
+      <div class="container">
+        <div class="row">
+        	<div class="col-sm-6"><p>Koffijberg is een topkapper, gevestigd in Amsterdam aan de Scheldestraat.</p></div>
+        	<div class="col-sm-6 text-right"><p>Disclaimer&nbsp;&nbsp;&nbsp;
+        	<i class="fa fa-facebook-square"></i> 
+        	<i class="fa fa-pinterest-square"></i> 
+        	<i class="fa fa-instagram"></i></p></div>
+        </div>
+      </div>
+</div>
 </footer>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery-1.11.2.min.js"></script>
+    <script src="/js/jasny-bootstrap.min.js"></script>
+    <script src="/js/custom.js"></script>
 
   </body>
 

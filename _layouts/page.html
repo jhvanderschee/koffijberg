@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="page-template">
+	  {% include header.html %}
+    <div class="intro"></div>
+    <div class="salon2"></div>
+
+    <div class="about">
+      <div class="container">
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-lg-8">
+                <article class="">
+                     
+                        <header class="post-header">
+                          <span>{{ page.subtitle }}</span>
+                          <h1 class="post-title">{{ page.title }}</h1>
+                        </header>
+                      
+                        <div class="post-content">
+                          <article class="post page">
+                          
+                            <div class="post-content">
+                              {{ content }}
+                            </div>
+                          
+                          </article>
+                        </div>
+                      
+                </article>
+            </div>
+            <div class="col-lg-2"></div>
+          </div>
+      </div>
+    </div>
+
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
