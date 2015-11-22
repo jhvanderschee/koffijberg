@@ -4,6 +4,7 @@ $accentkleur: #241a1f;
 $tekstkleur_op_accent: white;
 $basiskleur: #403732;
 $tekstkleur_op_basis: white;
+$highlightkleur: #5e2d83;
 
 @-moz-keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
@@ -61,8 +62,8 @@ body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT San
 
 .intro {height: 800px;}
 .intro > div {background: url('../img/kapper-amsterdam-koffijberg.jpg') center top no-repeat; height: 800px; }
-.intro .highlight {text-align: center; padding: 90px 0 0;}
-.intro .highlight table {height: 710px;}
+.intro .highlight {text-align: center; padding: 80px 0 0;}
+.intro .highlight table {height: 720px;}
 .intro .highlight article {display: none;}
 
 .about {text-align: center; padding: 90px 0; background: white; color: $accentkleur;}
@@ -73,7 +74,7 @@ body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT San
 .about .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px auto;}
 
 .salon {height: 502px; background: url('../img/kapper-amsterdam-salon.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
-.salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px auto 0; border-radius: 250px;}
+.salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px 0 0 -225px; border-radius: 250px; position: absolute; left: 50%;}
 .salon .circle p {text-align: right; margin: 0 auto; display: block; width: 230px; position: relative; right: 10px;}
 .salon .post-header {padding: 70px 0 0;}
 .salon .post-content {font-size: 18px; line-height: 1.9em;}
@@ -90,8 +91,10 @@ body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT San
 .twocols .post-content p {opacity: 0.7;}
  
 .behandelingen {padding: 90px 0; background: white; color: $accentkleur;}
+.behandelingen .post-content p {opacity: 0.7;}
 
 footer p {margin: 0; font-family: 'PT Serif', serif; font-weight: 400; font-size: 15px; line-height: 2em;}
+footer a, footer a:hover {color: white;}
 .site-footer {padding: 90px 0; background: $accentkleur; color: $tekstkleur_op_accent;}
 .site-footer .day {float: left;}
 .site-footer2 {padding: 15px 0;}
@@ -112,6 +115,7 @@ footer p {margin: 0; font-family: 'PT Serif', serif; font-weight: 400; font-size
 .navbar-default.attop .navbar-nav>li>a:focus, .navbar-default.attop .navbar-nav>li>a:hover, .navbar-default.attop .navbar-brand, .navbar-default.attop .navbar-nav>li>a,
 .page-template .navbar-default .navbar-brand:focus, .page-template .navbar-default .navbar-brand:hover,
 .page-template .navbar-default .navbar-nav>li>a:focus, .page-template .navbar-default .navbar-nav>li>a:hover, .page-template .navbar-default .navbar-brand, .page-template .navbar-default .navbar-nav>li>a {color: $basiskleur;}
+.navbar-default.attop .navbar-nav>li>a:hover, .page-template .navbar-default .navbar-nav>li>a:hover {border-color: $basiskleur;}
 
 .navmenu-default {border: 0; background-color: $accentkleur; border-color: transparent;}
 .navmenu-default .navmenu-nav>li>a {text-decoration: none; color: $tekstkleur_op_accent;}
@@ -122,24 +126,30 @@ footer p {margin: 0; font-family: 'PT Serif', serif; font-weight: 400; font-size
 h1 {text-transform: uppercase; font-weight: 700; font-size: 50px; margin-bottom: 0.5em;}
 h3 {font-weight: 700; font-size: 21px; text-transform: uppercase;}
 p {margin-bottom: 2em;}
-a {color: white; text-decoration: underline;}
-a:hover {color: white;}
+.post-content p a {color: $accentkleur;}
+a {text-decoration: underline;}
+a:hover {text-decoration: none;}
 .post-content {font-family: 'PT Serif', serif; font-weight: 400; font-size: 15px; line-height: 2em;}
 
-.btn {text-decoration: none; padding-left: 25px; padding-right: 25px; border-radius: 0; border: 0; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; text-transform: uppercase;
-    -webkit-transition: all 0.3s ease;                  
-    -moz-transition: all 0.3s ease;                 
-    -o-transition: all 0.3s ease;   
-    -ms-transition: all 0.3s ease;          
-    transition: all 0.3s ease;
+.btn {color: white; text-decoration: none; padding-left: 25px; padding-right: 25px; border-radius: 0; border: 0; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; text-transform: uppercase;
+    -webkit-transition: all 0.2s ease;                  
+    -moz-transition: all 0.2s ease;                 
+    -o-transition: all 0.2s ease;   
+    -ms-transition: all 0.2s ease;          
+    transition: all 0.2s ease;
 }
-.btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; background: $tekstkleur_op_accent; color: $accentkleur; -webkit-box-shadow: none; box-shadow: none;}
+.btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; border: 1px solid $accentkleur !important; background: transparent; color: $accentkleur; -webkit-box-shadow: none; box-shadow: none;}
+.btn-default:active:hover, .btn-default:focus, .btn-default:hover {background: $highlightkleur; border-color: $highlightkleur!important;}
 .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {opacity: 1; border: 1px solid $accentkleur !important; background: $accentkleur; color: $tekstkleur_op_accent; -webkit-box-shadow: none; box-shadow: none;}
+.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {background: $highlightkleur; border-color: $highlightkleur!important;}
 .btn-default:active:hover, .btn-default:hover, .btn-primary:active:hover, .btn-primary:hover {opacity: 1;}
 .btn:active:hover, .btn:focus, .btn:hover {color: white;}
-.intro .btn {border: 0!important;}
+.intro .btn-primary:hover, .intro .btn-default {color: white!important; border: 1px solid white!important; background: transparent!important;}
+.intro .btn-primary, .intro .btn-default:hover {border: 1px solid $accentkleur!important; background: $accentkleur!important;}
 .fa {font-size: 180%; display: inline-block; cursor: pointer; margin: 0 0 0 10px; position: relative; top: 3px;} 
 
+table {width: 100%; opacity: 0.7;}
+td.text-center {padding-left: 15px; padding-right: 15px;}
 .arrow {
   position: absolute;
   bottom: 0;

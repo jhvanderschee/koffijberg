@@ -54,10 +54,10 @@ body {
 
 .intro .highlight {
   text-align: center;
-  padding: 90px 0 0; }
+  padding: 80px 0 0; }
 
 .intro .highlight table {
-  height: 710px; }
+  height: 720px; }
 
 .intro .highlight article {
   display: none; }
@@ -104,8 +104,10 @@ body {
   color: #241a1f;
   height: 450px;
   width: 450px;
-  margin: 25px auto 0;
-  border-radius: 250px; }
+  margin: 25px 0 0 -225px;
+  border-radius: 250px;
+  position: absolute;
+  left: 50%; }
 
 .salon .circle p {
   text-align: right;
@@ -162,12 +164,18 @@ body {
   background: white;
   color: #241a1f; }
 
+.behandelingen .post-content p {
+  opacity: 0.7; }
+
 footer p {
   margin: 0;
   font-family: 'PT Serif', serif;
   font-weight: 400;
   font-size: 15px;
   line-height: 2em; }
+
+footer a, footer a:hover {
+  color: white; }
 
 .site-footer {
   padding: 90px 0;
@@ -234,6 +242,9 @@ footer p {
 .page-template .navbar-default .navbar-nav > li > a:focus, .page-template .navbar-default .navbar-nav > li > a:hover, .page-template .navbar-default .navbar-brand, .page-template .navbar-default .navbar-nav > li > a {
   color: #403732; }
 
+.navbar-default.attop .navbar-nav > li > a:hover, .page-template .navbar-default .navbar-nav > li > a:hover {
+  border-color: #403732; }
+
 .navmenu-default {
   border: 0;
   background-color: #241a1f;
@@ -266,12 +277,14 @@ h3 {
 p {
   margin-bottom: 2em; }
 
+.post-content p a {
+  color: #241a1f; }
+
 a {
-  color: white;
   text-decoration: underline; }
 
 a:hover {
-  color: white; }
+  text-decoration: none; }
 
 .post-content {
   font-family: 'PT Serif', serif;
@@ -280,6 +293,7 @@ a:hover {
   line-height: 2em; }
 
 .btn {
+  color: white;
   text-decoration: none;
   padding-left: 25px;
   padding-right: 25px;
@@ -289,18 +303,23 @@ a:hover {
   font-weight: 700;
   font-size: 17px;
   text-transform: uppercase;
-  -webkit-transition: all 0.3s ease;
-  -moz-transition: all 0.3s ease;
-  -o-transition: all 0.3s ease;
-  -ms-transition: all 0.3s ease;
-  transition: all 0.3s ease; }
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  transition: all 0.2s ease; }
 
 .btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {
   opacity: 1;
-  background: white;
+  border: 1px solid #241a1f !important;
+  background: transparent;
   color: #241a1f;
   -webkit-box-shadow: none;
   box-shadow: none; }
+
+.btn-default:active:hover, .btn-default:focus, .btn-default:hover {
+  background: #5e2d83;
+  border-color: #5e2d83 !important; }
 
 .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {
   opacity: 1;
@@ -310,14 +329,24 @@ a:hover {
   -webkit-box-shadow: none;
   box-shadow: none; }
 
+.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {
+  background: #5e2d83;
+  border-color: #5e2d83 !important; }
+
 .btn-default:active:hover, .btn-default:hover, .btn-primary:active:hover, .btn-primary:hover {
   opacity: 1; }
 
 .btn:active:hover, .btn:focus, .btn:hover {
   color: white; }
 
-.intro .btn {
-  border: 0 !important; }
+.intro .btn-primary:hover, .intro .btn-default {
+  color: white !important;
+  border: 1px solid white !important;
+  background: transparent !important; }
+
+.intro .btn-primary, .intro .btn-default:hover {
+  border: 1px solid #241a1f !important;
+  background: #241a1f !important; }
 
 .fa {
   font-size: 180%;
@@ -326,6 +355,14 @@ a:hover {
   margin: 0 0 0 10px;
   position: relative;
   top: 3px; }
+
+table {
+  width: 100%;
+  opacity: 0.7; }
+
+td.text-center {
+  padding-left: 15px;
+  padding-right: 15px; }
 
 .arrow {
   position: absolute;
