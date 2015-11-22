@@ -165,7 +165,29 @@ body {
   color: #241a1f; }
 
 .behandelingen .post-content p {
+  opacity: 0.7;
+  margin-bottom: 0; }
+
+.behandelingen .post-content p.smaller {
+  font-size: 12px;
+  line-height: 1.7em; }
+
+.behandelingen .expand1 {
+  display: none; }
+
+.behandelingen #expand1 {
+  position: relative;
+  bottom: 7px; }
+
+.behandelingen table {
+  width: 100%;
   opacity: 0.7; }
+
+.behandelingen td.text-center {
+  font-size: 15px;
+  line-height: 1.7em;
+  padding-left: 15px;
+  padding-right: 15px; }
 
 footer p {
   margin: 0;
@@ -355,14 +377,6 @@ a:hover {
   margin: 0 0 0 10px;
   position: relative;
   top: 3px; }
-
-table {
-  width: 100%;
-  opacity: 0.7; }
-
-td.text-center {
-  padding-left: 15px;
-  padding-right: 15px; }
 
 .arrow {
   position: absolute;
