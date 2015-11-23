@@ -76,7 +76,7 @@ body.iOS .salon3 {
   position: absolute;
   left: 0;
   top: 660px;
-  z-index: 98; }
+  z-index: 1; }
 
 .intro {
   height: 800px; }
