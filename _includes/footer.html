@@ -6,12 +6,9 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-3 col-sm-3 col-xs-6"><h3>Koffijberg</h3><p>Scheldestraat 8<br />1078 GK Amsterdam<br />020-6732374<br /><a href="mailto:receptie@koffijberg.nl">receptie@koffijberg.nl</a><br />KVK 1121429<br />BTW 23423902340</p></div>
             <div class="col-lg-2 col-sm-3 col-xs-6"><h3>Openingstijden</h3><p class="text-right">
-            	<span class="day">Maandag</span>9.30-19.00<br />
-            	<span class="day">Dinsdag</span>9.30-21.00<br />
-            	<span class="day">Woensdag</span>9.30-17.30<br />
-            	<span class="day">Donderdag</span>9.30-21.00<br />
-            	<span class="day">Vrijdag</span>9.30-19.00<br />
-            	<span class="day">Zaterdag</span>8.30-17.00
+            {% for d in site.openingstijden %}
+                      <span class="day">{{ d.dag }}</span>{{ d.vanaf }} - {{ d.tot }}<br />
+            {% endfor %}
             </p></div>
             <div class="col-lg-5 col-sm-6 text-center"><h3>Nieuws</h3><p>{% for post in site.posts %}<a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p></div>
             <div class="col-lg-1"></div>
@@ -23,9 +20,9 @@
         <div class="row">
         	<div class="col-sm-6"><p>Koffijberg is een topkapper, gevestigd in Amsterdam aan de Scheldestraat.</p></div>
         	<div class="col-sm-6 text-right"><p>Disclaimer&nbsp;&nbsp;&nbsp;
-        	<i class="fa fa-facebook-square"></i> 
+        	<i class="fa fa-facebook-square" onclick="window.open('https://www.facebook.com/Koffijberg-Hairdressers-143537182417933/');"></i> 
         	<i class="fa fa-pinterest-square"></i> 
-        	<i class="fa fa-instagram"></i></p></div>
+        	<i class="fa fa-instagram" onclick="window.open('https://instagram.com/koffijberghairdressers/');"></i></p></div>
         </div>
       </div>
 </div>

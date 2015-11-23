@@ -33,9 +33,23 @@ function get_cookie(Name) {
 function set_cookie(what){
     document.cookie="splashshown="+what
 }
-
+function nextmember() {
+		//$('.ch-grid li').css('left','-195px');
+		$('.ch-grid').append($('.ch-grid li:first'));
+		//$('ul.ch-grid li').css('left','0');
+}
+function prevmember() {
+		//$('.ch-grid li').css('left','195px');
+		$('.ch-grid').prepend($('.ch-grid li:last'));
+		//$('ul.ch-grid li').css('left','0');
+}
 
 $( document ).ready(function() {
+	if ('ontouchstart' in window) {
+	  /* browser with Touch Events
+	     running on touch-capable device */
+	     $('body').addClass('touch');
+	}
 	var iOS = /(iPad|iPhone|iPod)/g.test(navigator.userAgent);
 	if(iOS) $('body').addClass('iOS');
 	
