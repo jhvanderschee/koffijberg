@@ -58,7 +58,12 @@ $highlightkleur: #5e2d83;
 
 html {overflow-y: scroll;}
 body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.4em;}
+body.iOS .salon {background-attachment: scroll;}
 
+#splash {position: fixed; height: 100%; width: 100%; background: #5e2d83; z-index: 99; cursor: pointer;}
+#splash table {height: 100%; width: 100%;}
+#splash td {vertical-align: middle; text-align: center;}
+#splash img {width: 75%; max-width: 729px;}
 
 .intro {height: 800px;}
 .intro > div {background: url('../img/kapper-amsterdam-koffijberg.jpg') center top no-repeat; height: 800px; }

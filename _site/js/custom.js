@@ -6,6 +6,9 @@ function showslide(el) {
 }
 
 $( document ).ready(function() {
+	var iOS = /(iPad|iPhone|iPod)/g.test(navigator.userAgent);
+	if(iOS) $('body').addClass('iOS');
+	
     if(window.location.hash) {
     	var hash = window.location.hash.substring(1);
     	var offset = $('#'+hash).offset();
@@ -31,4 +34,6 @@ $( document ).ready(function() {
 	    }, 500);
 	    return false;
 	});
+
+	$('#splash').delay(1500).fadeOut();
 });
