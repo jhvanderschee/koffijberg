@@ -243,6 +243,10 @@ footer a, footer a:hover {
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white; }
 
+.page-template .navbar-default.attop .navbar-toggle .icon-bar,
+.navbar-default.attop .navbar-toggle .icon-bar {
+  background-color: #403732; }
+
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
   background-color: transparent;
   opacity: 1; }
@@ -251,7 +255,22 @@ footer a, footer a:hover {
   border-color: transparent; }
 
 .navbar-default .navbar-brand {
-  margin: 20px 0 0; }
+  margin: 11px 0 0; }
+
+.navbar-default .navbar-brand img {
+  display: block;
+  width: 200px; }
+
+.navbar-default .navbar-brand img.attop {
+  display: none; }
+
+.page-template .navbar-brand img,
+.navbar-default.attop .navbar-brand img {
+  display: none; }
+
+.page-template .navbar-default .navbar-brand img.attop,
+.navbar-default.attop .navbar-brand img.attop {
+  display: block; }
 
 .page-template .navbar-default, .navbar-default.attop {
   position: fixed;
@@ -266,6 +285,9 @@ footer a, footer a:hover {
 
 .navbar-default.attop .navbar-nav > li > a:hover, .page-template .navbar-default .navbar-nav > li > a:hover {
   border-color: #403732; }
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+  margin-left: 0px !important; }
 
 .navmenu-default {
   border: 0;
@@ -396,7 +418,10 @@ a:hover {
 @media all and (max-width: 767px) {
   .navbar-default .navbar-collapse {
     background: #241a1f;
-    border: none; } }
+    border: none; }
+
+  .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+    margin-left: 15px !important; } }
 @media all and (max-width: 991px) {
   .intro > div > div {
     background: rgba(86, 76, 73, 0.8);
