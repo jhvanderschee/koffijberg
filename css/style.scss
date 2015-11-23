@@ -58,12 +58,16 @@ $highlightkleur: #5e2d83;
 
 html {overflow-y: scroll;}
 body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.4em;}
-body.iOS .salon {background-attachment: scroll;}
+body.iOS .salon, 
+body.iOS .salon2,
+body.iOS .salon3 {background-attachment: scroll;}
 
-#splash {position: fixed; height: 100%; width: 100%; background: #5e2d83; z-index: 99; cursor: pointer;}
+#splash {display: none; position: fixed; height: 100%; width: 100%; background: #5e2d83; z-index: 99; cursor: pointer;}
 #splash table {height: 100%; width: 100%;}
 #splash td {vertical-align: middle; text-align: center;}
 #splash img {width: 75%; max-width: 729px;}
+
+#review {visibility: hidden; position: absolute; left: 0; top: 660px; z-index: 98;}
 
 .intro {height: 800px;}
 .intro > div {background: url('../img/kapper-amsterdam-koffijberg.jpg') center top no-repeat; height: 800px; }
@@ -116,9 +120,9 @@ footer a, footer a:hover {color: white;}
 .navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {opacity: 1; text-decoration: none; border-top: 3px solid transparent; color: $tekstkleur_op_basis; margin: 20px 0 25px 30px; padding: 4px 0;}
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {border-top: 3px solid $tekstkleur_op_basis;}
 .navbar-collapse {-webkit-box-shadow: none; box-shadow: none;}
-.navbar-default .navbar-toggle {margin-top: 20px;}
+.navbar-default .navbar-toggle {margin-top: 20px; margin-bottom: 22px;}
 .navbar-default .navbar-toggle .icon-bar {background-color: $tekstkleur_op_basis;}
-.page-template .navbar-default.attop .navbar-toggle .icon-bar,
+.page-template .navbar-default .navbar-toggle .icon-bar,
 .navbar-default.attop .navbar-toggle .icon-bar {background-color: $basiskleur;}
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {background-color: transparent; opacity: 1;}
 .navbar-default .navbar-toggle {border-color: transparent;}

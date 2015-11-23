@@ -45,10 +45,13 @@ body {
   font-size: 17px;
   line-height: 1.4em; }
 
-body.iOS .salon {
+body.iOS .salon,
+body.iOS .salon2,
+body.iOS .salon3 {
   background-attachment: scroll; }
 
 #splash {
+  display: none;
   position: fixed;
   height: 100%;
   width: 100%;
@@ -67,6 +70,13 @@ body.iOS .salon {
 #splash img {
   width: 75%;
   max-width: 729px; }
+
+#review {
+  visibility: hidden;
+  position: absolute;
+  left: 0;
+  top: 660px;
+  z-index: 98; }
 
 .intro {
   height: 800px; }
@@ -261,12 +271,13 @@ footer a, footer a:hover {
   box-shadow: none; }
 
 .navbar-default .navbar-toggle {
-  margin-top: 20px; }
+  margin-top: 20px;
+  margin-bottom: 22px; }
 
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white; }
 
-.page-template .navbar-default.attop .navbar-toggle .icon-bar,
+.page-template .navbar-default .navbar-toggle .icon-bar,
 .navbar-default.attop .navbar-toggle .icon-bar {
   background-color: #403732; }
 
