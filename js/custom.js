@@ -57,7 +57,10 @@ $( document ).ready(function() {
 	if(	(useragent.indexOf("Mozilla/5.0") > -1) &&
 		(useragent.indexOf("Android") > -1) &&
 		(useragent.indexOf("Chrome") == -1)
-	) $('body').addClass('old_Android');
+	) {
+		$('body').addClass('old_Android');
+	alert('old_Android');
+}
 
 	var iOSversion = iOSversion();
 	if(iOSversion[0]<5) $('body').addClass('old_iOS');
