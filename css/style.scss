@@ -81,7 +81,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 .about .post-header h1 {font-size: 60px; margin-top: 5px;}
 .about .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px auto;}
 
-.salon {height: 502px; background: url('../img/kapper-amsterdam-salon.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
+.salon {overflow: hidden; height: 502px; background: url('../img/kapper-amsterdam-salon.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
 .salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px 0 0 -225px; border-radius: 250px; position: absolute; left: 50%;}
 .salon .circle p {text-align: right; margin: 0 auto; display: block; width: 230px; position: relative; right: 10px;}
 .salon .post-header {padding: 70px 0 0;}
