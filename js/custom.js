@@ -43,16 +43,34 @@ function prevmember() {
 		$('.ch-grid').prepend($('.ch-grid li:last'));
 		//$('ul.ch-grid li').css('left','0');
 }
+function iOSversion() {
+  if (/iP(hone|od|ad)/.test(navigator.platform)) {
+    // supports iOS 2.0 and later: <http://bit.ly/TJjs1V>
+    var v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
+    return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)];
+  }
+  return false;
+}
 
 $( document ).ready(function() {
+	var useragent = navigator.userAgent;
+	if(	(useragent.indexOf("Mozilla/5.0") > -1) &&
+		(useragent.indexOf("Android") > -1) &&
+		(useragent.indexOf("Chrome") == -1)
+	) $('body').addClass('old_Android');
+
+	var iOSversion = iOSversion();
+	if(iOSversion[0]<5) $('body').addClass('old_iOS');
+	
+	var iOS = /(iPad|iPhone|iPod)/g.test(useragent);
+	if(iOS) $('body').addClass('iOS');
+
 	if ('ontouchstart' in window) {
 	  /* browser with Touch Events
 	     running on touch-capable device */
 	     $('body').addClass('touch');
 	}
-	var iOS = /(iPad|iPhone|iPod)/g.test(navigator.userAgent);
-	if(iOS) $('body').addClass('iOS');
-	
+
 	if (get_cookie("splashshown")=="") $('#splash').show();
 	set_cookie('true');
 
