@@ -34,6 +34,9 @@
     -ms-transform: translateY(-15px);
     -webkit-transform: translateY(-15px);
     transform: translateY(-15px); } }
+* {
+  -webkit-text-size-adjust: 100%; }
+
 html {
   overflow-y: scroll; }
 
@@ -43,7 +46,8 @@ body {
   font-family: 'PT Sans Narrow', sans-serif;
   font-weight: 700;
   font-size: 17px;
-  line-height: 1.4em; }
+  line-height: 1.4em;
+  -webkit-text-size-adjust: none; }
 
 body.iOS .salon,
 body.iOS .salon2,
