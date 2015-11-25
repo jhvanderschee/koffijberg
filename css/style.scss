@@ -57,9 +57,9 @@ $highlightkleur: #5e2d83;
 
 html {overflow-y: scroll;}
 body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.4em;}
-body.old_iOS .salon, 
-body.old_iOS .salon2,
-body.old_iOS .salon3 {background-attachment: scroll;}
+body.iOS .salon, 
+body.iOS .salon2,
+body.iOS .salon3 {background-attachment: scroll;}
 
 #splash {display: none; position: fixed; height: 100%; width: 100%; background: #5e2d83; z-index: 99; cursor: pointer;}
 #splash table {height: 100%; width: 100%;}
@@ -180,6 +180,7 @@ a:hover {text-decoration: none;}
   background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/PjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDE4NS4zNDQgMTg1LjM0NCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTg1LjM0NCAxODUuMzQ0OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PGc+PHBhdGggc3R5bGU9ImZpbGw6I2ZmZmZmZjsiIGQ9Ik05Mi42NzIsMTQ0LjM3M2MtMi43NTIsMC01LjQ5My0xLjA0NC03LjU5My0zLjEzOEwzLjE0NSw1OS4zMDFjLTQuMTk0LTQuMTk5LTQuMTk0LTEwLjk5MiwwLTE1LjE4YzQuMTk0LTQuMTk5LDEwLjk4Ny00LjE5OSwxNS4xOCwwbDc0LjM0Nyw3NC4zNDFsNzQuMzQ3LTc0LjM0MWM0LjE5NC00LjE5OSwxMC45ODctNC4xOTksMTUuMTgsMGM0LjE5NCw0LjE5NCw0LjE5NCwxMC45ODEsMCwxNS4xOGwtODEuOTM5LDgxLjkzNEM5OC4xNjYsMTQzLjMyOSw5NS40MTksMTQ0LjM3Myw5Mi42NzIsMTQ0LjM3M3oiLz48L2c+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjwvc3ZnPg==);
   background-size: contain;
 }
+.touch .arrow {display: none;}
 
 .bounce {
   -moz-animation: bounce 2s infinite;

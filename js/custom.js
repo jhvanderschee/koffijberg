@@ -1,17 +1,24 @@
 function showslide(el,now) {
-	if (now) {
-		el.show().delay(7000).fadeOut(300, function() {
+	if($('body').hasClass('Android') || $('body').hasClass('iOS')) {
+		el.fadeIn().delay(7000).hide(0, function() {
 		if(el.next().is('article')) showslide(el.next(),false);
 		else showslide($('.highlight article').first(),false);
-	    });
+		});
 	}
 	else {
-		el.delay(300).animate( { height: "toggle" }, 1000, 'swing').delay(7000).fadeOut(300, function() {
-		if(el.next().is('article')) showslide(el.next(),false);
-		else showslide($('.highlight article').first(),false);
-	    });
+		if (now) {
+			el.show().delay(7000).fadeOut(300, function() {
+			if(el.next().is('article')) showslide(el.next(),false);
+			else showslide($('.highlight article').first(),false);
+		    });
+		}
+		else {
+			el.delay(300).animate( { height: "toggle" }, 1000, 'swing').delay(7000).fadeOut(300, function() {
+			if(el.next().is('article')) showslide(el.next(),false);
+			else showslide($('.highlight article').first(),false);
+		    });
+		}
 	}
-
 }
 function get_cookie(Name) {
     var search = Name + "="
@@ -51,8 +58,15 @@ function iOSversion(useragent) {
   }
   return false;
 }
+$(window).on('orientationchange', function(e) {
+	window.location.reload();
+});
 
 $( document ).ready(function() {
+	if($(window).height()<500) {
+		$('body').addClass('low_height');
+	}
+
 	var useragent = navigator.userAgent;
 	//check for old stock Android browser
 	//to remove position fixed and background attachment fixed
@@ -64,14 +78,18 @@ $( document ).ready(function() {
 		alert('old_Android');
 	}
 
-	//check for old iOS browser 
+	//check for Android
+	//to remove animation
+	if(useragent.indexOf("Android") > -1) $('body').addClass('Android');
+
+	//check for old iOS version 
 	//to remove position fixed
 	var iOS_version = iOSversion(useragent);
 	if(iOS_version[0]<5) $('body').addClass('old_iOS');
 	if(iOS_version[0]>6) $('body').addClass('new_iOS');
 
 	//check for iOS 
-	//to remove background attachment fixed
+	//to remove background attachment fixed and animation
 	var iOS = /(iPad|iPhone|iPod)/g.test(useragent);
 	if(iOS) $('body').addClass('iOS');
 
@@ -97,7 +115,7 @@ $( document ).ready(function() {
 	  if($(window).scrollTop()<(800-$( ".navbar-default" ).height()-1) && $( ".navbar-default" ).hasClass('attop')) $( ".navbar-default" ).removeClass('attop');
 
 	  if($(window).scrollTop()) $( ".arrow" ).hide(  );
-	  else $( ".arrow" ).show( );
+	  else if(!$('body').hasClass('touch')) $( ".arrow" ).show( );
 	});
 	
 	showslide($('.highlight article').first(),true);
@@ -109,9 +127,18 @@ $( document ).ready(function() {
 	    }, 500);
 	    return false;
 	});
+	
 
-	$('#splash').delay(1500).fadeOut();
-    $('#review').css('left', '-'+$('#review').width()+'px');
-    $('#review').css('visibility','visible'); 
-	$('#review').animate({"left": '+='+$('#review').width()},1500);
+	if($('body').hasClass('Android') || $('body').hasClass('iOS')) {
+		//no animation
+		$('#splash').delay(1500).hide();
+		$('#review').css('visibility','visible'); 
+	}
+	else {
+		//animation
+		$('#splash').delay(1500).fadeOut();
+	    $('#review').css('left', '-'+$('#review').width()+'px');
+    	$('#review').css('visibility','visible'); 
+		$('#review').animate({"left": '+='+$('#review').width()},1500);
+	}
 });
