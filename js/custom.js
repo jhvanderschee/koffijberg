@@ -59,8 +59,8 @@ $( document ).ready(function() {
 		(useragent.indexOf("Chrome") == -1)
 	) {
 		$('body').addClass('old_Android');
-	alert('old_Android');
-}
+		alert('old_Android');
+	}
 
 	var iOSversion = iOSversion();
 	if(iOSversion[0]<5) $('body').addClass('old_iOS');
