@@ -57,9 +57,9 @@ $highlightkleur: #5e2d83;
 
 html {overflow-y: scroll;}
 body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.4em;}
-body.iOS .salon, 
-body.iOS .salon2,
-body.iOS .salon3 {background-attachment: scroll;}
+body.old_iOS .salon, 
+body.old_iOS .salon2,
+body.old_iOS .salon3 {background-attachment: scroll;}
 
 #splash {display: none; position: fixed; height: 100%; width: 100%; background: #5e2d83; z-index: 99; cursor: pointer;}
 #splash table {height: 100%; width: 100%;}
