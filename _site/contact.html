@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Maak een afspraak</title>
   <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta id="viewport" name="viewport" content="width=device-width">
   <link rel="canonical" href="/contact.html">
   <link rel="alternate" type="application/rss+xml" title="" href="/feed.xml">
 
@@ -21,6 +21,12 @@
 
   <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+	<script>
+	if (screen.width < 450) {
+	  document.getElementById("viewport").setAttribute("content", "width=450");
+	}
+	</script>
 
 </head>
 

@@ -43,16 +43,44 @@ function prevmember() {
 		$('.ch-grid').prepend($('.ch-grid li:last'));
 		//$('ul.ch-grid li').css('left','0');
 }
+function iOSversion(useragent) {
+  if (/iP(hone|od|ad|od Touch)/.test(useragent)) {
+    // supports iOS 2.0 and later: <http://bit.ly/TJjs1V>
+    var v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
+    return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)];
+  }
+  return false;
+}
 
 $( document ).ready(function() {
+	var useragent = navigator.userAgent;
+	//check for old stock Android browser
+	//to remove position fixed and background attachment fixed
+	if(	(useragent.indexOf("Mozilla/5.0") > -1) &&
+		(useragent.indexOf("Android") > -1) &&
+		(useragent.indexOf("Chrome") == -1)
+	) {
+		$('body').addClass('old_Android');
+		alert('old_Android');
+	}
+
+	//check for old iOS browser 
+	//to remove position fixed
+	var iOS_version = iOSversion(useragent);
+	if(iOS_version[0]<5) $('body').addClass('old_iOS');
+	if(iOS_version[0]>6) $('body').addClass('new_iOS');
+
+	//check for iOS 
+	//to remove background attachment fixed
+	var iOS = /(iPad|iPhone|iPod)/g.test(useragent);
+	if(iOS) $('body').addClass('iOS');
+
 	if ('ontouchstart' in window) {
 	  /* browser with Touch Events
 	     running on touch-capable device */
 	     $('body').addClass('touch');
 	}
-	var iOS = /(iPad|iPhone|iPod)/g.test(navigator.userAgent);
-	if(iOS) $('body').addClass('iOS');
-	
+
 	if (get_cookie("splashshown")=="") $('#splash').show();
 	set_cookie('true');
 
