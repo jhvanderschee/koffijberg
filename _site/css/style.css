@@ -91,7 +91,7 @@ body.iOS .salon3 {
 
 .intro .highlight {
   text-align: center;
-  padding: 80px 0 0; }
+  padding: 80px 15px 0; }
 
 .intro .highlight table {
   height: 720px; }
@@ -185,12 +185,15 @@ body.iOS .salon3 {
   background-attachment: scroll; }
 
 .twocols {
-  padding: 90px 0;
+  padding: 0 0 90px;
   background: white;
   color: #241a1f; }
 
 .twocols .post-content p {
   opacity: 0.7; }
+
+.twocols h1 {
+  padding-top: 90px; }
 
 .behandelingen {
   padding: 90px 0;
@@ -233,9 +236,13 @@ footer a, footer a:hover {
   color: white; }
 
 .site-footer {
-  padding: 90px 0;
+  padding: 0 0 90px;
   background: #241a1f;
   color: white; }
+
+.site-footer h3 {
+  padding: 90px 0 0;
+  clear: both; }
 
 .site-footer .day {
   float: left; }
@@ -339,7 +346,16 @@ footer a, footer a:hover {
   color: white; }
 
 .navmenu-nav {
-  margin-top: 16px; }
+  margin-top: 16px;
+  font-size: 27px;
+  line-height: 1.4em; }
+
+.navmenu, .navbar-offcanvas {
+  width: 380px; }
+
+.navmenu img {
+  width: 200px;
+  margin: 20px 15px; }
 
 .low_height.page-template .navbar-default,
 .low_height .navbar-default.attop,

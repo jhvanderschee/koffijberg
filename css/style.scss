@@ -73,7 +73,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 .intro {height: 800px;}
 .intro > div {background: url('../img/kapper-amsterdam-koffijberg.jpg') center top no-repeat; height: 800px; }
-.intro .highlight {text-align: center; padding: 80px 0 0;}
+.intro .highlight {text-align: center; padding: 80px 15px 0;}
 .intro .highlight table {height: 720px;}
 .intro .highlight article {display: none;}
 
@@ -97,9 +97,10 @@ body.iOS .salon3 {background-attachment: scroll;}
 .salon3 {height: 502px; background: url('../img/kapper-amsterdam-salon3.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
 .page-template .salon3 {height: 300px; background-attachment: scroll;}
 
-.twocols {padding: 90px 0; background: white; color: $accentkleur;}
+.twocols {padding: 0 0 90px; background: white; color: $accentkleur;}
 .twocols .post-content p {opacity: 0.7;}
- 
+.twocols h1 {padding-top: 90px;}
+
 .behandelingen {padding: 90px 0; background: white; color: $accentkleur;}
 .behandelingen .post-content p {opacity: 0.7; margin-bottom: 0;}
 .behandelingen .post-content p.smaller {font-size: 12px; line-height: 1.7em;}
@@ -111,7 +112,8 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 footer p {margin: 0; font-family: 'PT Serif', serif; font-weight: 400; font-size: 15px; line-height: 2em;}
 footer a, footer a:hover {color: white;}
-.site-footer {padding: 90px 0; background: $accentkleur; color: $tekstkleur_op_accent;}
+.site-footer {padding: 0 0 90px; background: $accentkleur; color: $tekstkleur_op_accent;}
+.site-footer h3 {padding: 90px 0 0; clear: both;}
 .site-footer .day {float: left;}
 .site-footer2 {padding: 15px 0;}
 
@@ -145,7 +147,9 @@ footer a, footer a:hover {color: white;}
 .navmenu-default .navmenu-nav>li>a {text-decoration: none; color: $tekstkleur_op_accent;}
 .navmenu-default .navmenu-nav>li>a:hover, .navbar-default .navbar-offcanvas .navmenu-nav>li>a:hover, .navmenu-default .navmenu-nav>li>a:focus, .navbar-default .navbar-offcanvas .navmenu-nav>li>a:focus { color: $tekstkleur_op_accent;}
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {color: $tekstkleur_op_basis;}
-.navmenu-nav {margin-top: 16px;}
+.navmenu-nav {margin-top: 16px; font-size: 27px; line-height: 1.4em;}
+.navmenu, .navbar-offcanvas {width: 380px;}
+.navmenu img {width: 200px; margin: 20px 15px;}
 
 .low_height.page-template .navbar-default, 
 .low_height .navbar-default.attop,
