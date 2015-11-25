@@ -113,9 +113,11 @@ $( document ).ready(function() {
 		}, 1);
     }
     $( window ).scroll(function() {
-      
-	  if($(window).scrollTop()>(800-$( ".navbar-default" ).height()-1) && !$( ".navbar-default" ).hasClass('attop')) $( ".navbar-default" ).addClass('attop');
-	  if($(window).scrollTop()<(800-$( ".navbar-default" ).height()-1) && $( ".navbar-default" ).hasClass('attop')) $( ".navbar-default" ).removeClass('attop');
+
+      if(!$('body').hasClass('old_Android') && !$('body').hasClass('old_iOS')) {
+	  	if($(window).scrollTop()>(800-$( ".navbar-default" ).height()-1) && !$( ".navbar-default" ).hasClass('attop')) $( ".navbar-default" ).addClass('attop');
+	  	if($(window).scrollTop()<(800-$( ".navbar-default" ).height()-1) && $( ".navbar-default" ).hasClass('attop')) $( ".navbar-default" ).removeClass('attop');
+	  }
 
 	  if($(window).scrollTop()) $( ".arrow" ).hide(  );
 	  else if(!$('body').hasClass('touch')) $( ".arrow" ).show( );
