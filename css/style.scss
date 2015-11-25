@@ -144,6 +144,13 @@ footer a, footer a:hover {color: white;}
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {color: $tekstkleur_op_basis;}
 .navmenu-nav {margin-top: 16px;}
 
+.low_height.page-template .navbar-default, 
+.low_height .navbar-default.attop,
+.old_Android.page-template .navbar-default, 
+.old_Android .navbar-default.attop,
+.old_iOS.page-template .navbar-default, 
+.old_iOS .navbar-default.attop {position: absolute;}
+
 h1 {text-transform: uppercase; font-weight: 700; font-size: 50px; margin-bottom: 0.5em; margin-top: 0px;}
 h3 {font-weight: 700; font-size: 21px; text-transform: uppercase;}
 p {margin-bottom: 2em;}

@@ -337,6 +337,14 @@ footer a, footer a:hover {
 .navmenu-nav {
   margin-top: 16px; }
 
+.low_height.page-template .navbar-default,
+.low_height .navbar-default.attop,
+.old_Android.page-template .navbar-default,
+.old_Android .navbar-default.attop,
+.old_iOS.page-template .navbar-default,
+.old_iOS .navbar-default.attop {
+  position: absolute; }
+
 h1 {
   text-transform: uppercase;
   font-weight: 700;

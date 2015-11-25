@@ -93,13 +93,15 @@ $( document ).ready(function() {
 	var iOS = /(iPad|iPhone|iPod)/g.test(useragent);
 	if(iOS) $('body').addClass('iOS');
 
+	//detect browser with Touch Events running on touch-capable device
 	if ('ontouchstart' in window) {
-	  /* browser with Touch Events
-	     running on touch-capable device */
 	     $('body').addClass('touch');
 	}
 
-	if (get_cookie("splashshown")=="") $('#splash').show();
+	//show splash if modern device/browser
+	if(!$('body').hasClass('old_Android') && !$('body').hasClass('old_iOS')) {
+		if (get_cookie("splashshown")=="") $('#splash').show();
+	}
 	set_cookie('true');
 
     if(window.location.hash) {
@@ -111,6 +113,7 @@ $( document ).ready(function() {
 		}, 1);
     }
     $( window ).scroll(function() {
+      
 	  if($(window).scrollTop()>(800-$( ".navbar-default" ).height()-1) && !$( ".navbar-default" ).hasClass('attop')) $( ".navbar-default" ).addClass('attop');
 	  if($(window).scrollTop()<(800-$( ".navbar-default" ).height()-1) && $( ".navbar-default" ).hasClass('attop')) $( ".navbar-default" ).removeClass('attop');
 
