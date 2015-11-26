@@ -455,7 +455,7 @@ a:hover {
   font-size: 180%;
   display: inline-block;
   cursor: pointer;
-  margin: 0 0 0 10px;
+  margin: 0;
   position: relative;
   top: 3px; }
 
@@ -493,6 +493,20 @@ a:hover {
   /* webkit (konqueror) browsers */
   -ms-user-select: none;
   /* IE10+ */ }
+
+.teamcontrol.next {
+  position: absolute;
+  right: 15px;
+  display: block;
+  margin-bottom: 67px;
+  z-index: 30; }
+
+.teamcontrol.prev {
+  position: absolute;
+  left: 15px;
+  display: block;
+  margin-bottom: 67px;
+  z-index: 30; }
 
 .ch-img-1 {
   background-image: url(/img/pers1.jpg);
