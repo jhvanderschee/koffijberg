@@ -113,7 +113,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 footer p {margin: 0; font-family: 'PT Serif', serif; font-weight: 400; font-size: 15px; line-height: 2em;}
 footer a, footer a:hover {color: white;}
 .site-footer {padding: 0 0 90px; background: $accentkleur; color: $tekstkleur_op_accent;}
-.site-footer .row > div {height: 323px;}
+.site-footer .row > div {max-height: 99999px;}
 .site-footer h3 {padding: 90px 0 0; clear: both;}
 .site-footer .day {float: left;}
 .site-footer2 {padding: 15px 0; max-height: 99999px;}
