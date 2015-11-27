@@ -315,10 +315,9 @@ a:hover {text-decoration: none;}
 
 
 
-
-
-
-
+@media all and (max-width: 991px) {
+  .intro > div > div {background: rgba(86,76,73,0.8); height: 800px; }
+}
 @media all and (max-width: 767px) {
 	.navbar-default .navbar-collapse {background: $accentkleur; border: none;}
   .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {margin-left: 15px!important;}
@@ -330,6 +329,7 @@ a:hover {text-decoration: none;}
   .salon {background-image: url('../img/kapper-amsterdam-salon-s.jpg');}
   .salon2 {background-image: url('../img/kapper-amsterdam-salon2-s.jpg');}
 }
-@media all and (max-width: 991px) {
-	.intro > div > div {background: rgba(86,76,73,0.8); height: 800px; }
+@media all and (max-width: 500px) {
+	.salon {background-image: url('../img/kapper-amsterdam-salon-xs.jpg');}
+  .salon2 {background-image: url('../img/kapper-amsterdam-salon2-xs.jpg');}
 }
