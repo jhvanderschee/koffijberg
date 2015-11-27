@@ -56,10 +56,10 @@ $highlightkleur: #5e2d83;
 }
 
 * {-webkit-text-size-adjust: 100%;}
+.post-content p {max-height: 99999px;}
 
 html {overflow-y: scroll;}
-body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.4em;
--webkit-text-size-adjust: none;}
+body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.4em;}
 body.iOS .salon, 
 body.iOS .salon2,
 body.iOS .salon3 {background-attachment: scroll;}
