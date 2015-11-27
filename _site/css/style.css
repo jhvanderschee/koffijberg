@@ -87,8 +87,12 @@ body.iOS .salon3 {
 .intro {
   height: 800px; }
 
-.intro > div {
+.intro.dames > div {
   background: url("../img/kapper-amsterdam-koffijberg.jpg") center top no-repeat;
+  height: 800px; }
+
+.intro.heren > div {
+  background: url("../img/kapper-amsterdam-heren.jpg") center top no-repeat;
   height: 800px; }
 
 .intro .highlight {

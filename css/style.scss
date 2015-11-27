@@ -72,7 +72,8 @@ body.iOS .salon3 {background-attachment: scroll;}
 #review {visibility: hidden; position: absolute; left: 0; top: 660px; z-index: 1;}
 
 .intro {height: 800px;}
-.intro > div {background: url('../img/kapper-amsterdam-koffijberg.jpg') center top no-repeat; height: 800px; }
+.intro.dames > div {background: url('../img/kapper-amsterdam-koffijberg.jpg') center top no-repeat; height: 800px; }
+.intro.heren > div {background: url('../img/kapper-amsterdam-heren.jpg') center top no-repeat; height: 800px; }
 .intro .highlight {text-align: center; padding: 80px 15px 0;}
 .intro .highlight table {height: 720px;}
 .intro .highlight article {display: none;}

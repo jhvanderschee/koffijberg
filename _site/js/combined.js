@@ -157,4 +157,7 @@ $( document ).ready(function() {
     	$('#review').css('visibility','visible'); 
 		$('#review').animate({"left": '+='+$('#review').width()},1500);
 	}
+	var rand = Math.floor((Math.random() * 2) + 1);
+	if(rand==1) $('.intro').addClass('dames');
+	if(rand==2) $('.intro').addClass('heren');
 });
