@@ -1,7 +1,7 @@
 ---
 title: Maak een afspraak
 subtitle: Contact
-layout: page
+layout: contact
 ---
 
 KOFFIJBERG
