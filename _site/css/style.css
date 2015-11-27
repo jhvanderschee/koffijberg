@@ -476,6 +476,9 @@ a:hover {
   position: relative;
   top: 3px; }
 
+.form-group {
+  color: #666; }
+
 .arrow {
   position: absolute;
   bottom: 0;
