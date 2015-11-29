@@ -3,4 +3,4 @@ layout:
 ---
 {% include css/bootstrap.min.css %}
 {% include css/jasny-bootstrap.min.css %}
-{% include css/font-awesome.min.css %}
+{% include css/fontello.min.css %} 
