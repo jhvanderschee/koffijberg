@@ -80,29 +80,17 @@
 
     <div class="twocols">
       <div class="container">
+      <article class="">
         <div class="row">
-            <div class="col-sm-5 col-md-4 col-lg-4">
-                <article class="">
-                     
+            <div class="col-sm-7 col-md-8 col-lg-8">
                         <header class="post-header">
                           <h1 class="post-title">{{ page.title }}</h1>
                         </header>
-                                              
-                        <div class="post-content">
-                              {{ content }}
-                        </div>
-                      
-                </article>
             </div>
             <div class="col-sm-7 col-md-8 col-lg-8">
-                <article class="">
-                     
-                        <header class="post-header">
-                          <h1 class="post-title">{{ page.subtitle }}</h1>
-                        </header>
-                                              
+                                             
                         <div class="post-content">
-                        <p>Wij helpen u graag met een professioneel en persoonlijk advies. Vul onderstaand formulier in en wij zullen zo snel mogelijk contact met u opnemen.</p>
+                        {{ content }}
                         <form id="my_form" action="//formspree.io/jhvanderschee@gmail.com" method="POST">
                         <div class="row">
                         <div class="col-md-4">
@@ -121,9 +109,23 @@
                         <input type="text" style="display:none" name="_gotcha"> <a class="btn btn-primary" href="javascript:{}" onclick="$('<input type=submit>').hide().appendTo($(this).parent()).click().remove();">Stel uw vraag</a></form>
                         </div>
 
-                </article>
+            </div>
+            <div class="col-sm-1"></div>
+            <div class="hidden-xs col-sm-4 col-md-3 col-lg-3">                         
+                        <div class="post-content">
+                              <p>Koffijberg Hairdressers<br />
+                              Scheldestraat 8<br />
+                              1078 GK Amsterdam<br />
+                              020-6732374<br />
+                              <a href="mailto:receptie@koffijberg.nl">receptie@koffijberg.nl</a><br />
+                              <a href="/contact">Stel een vraag</a><br />
+                              <a href="/contact">Maak een afspraak</a><br /><br />
+                              KVK 1121429<br />
+                              BTW 23423902340</p>
+                        </div>
             </div>
           </div>
+                </article>
       </div>
     </div>
 

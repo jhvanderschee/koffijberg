@@ -18,7 +18,7 @@
   <link rel="stylesheet" href="/css/style.css">
 
   <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700' rel='stylesheet' type='text/css'>
 
 	<script>
 	if (screen.width < 450) {
@@ -29,7 +29,7 @@
 </head>
 
 
-  <body class="home">
+  <body class="home" id="top">
   <div id="splash"><table cellpadding="0" cellspacing="0"><tr><td><img src="/img/koffijberglogo_white.svg" onerror="this.onerror=null; this.src='/img/koffijberglogo_white.png'"></td></tr></table></div>
     <iframe id="review" class="hidden-xs" scroling="no" width="160" height="120" allowtransparency="1" src="https://www.wiewathaar.nl/embed.php?sid=50577&c=0" border="0" frameborder="0" style="background: #acdfe4;"></iframe>
     <script>
@@ -56,8 +56,8 @@
               <li><a href="/#over-ons">Over ons</a></li>
               <li><a href="/#openingstijden">Openingstijden</a></li>
               <li><a href="/#behandelingen">Behandelingen</a></li>
-              <li class="hidden-sm"><a href="/#team">Team</a></li>
-              <li><a href="/contact">Contact</a></li>           
+              <li><a href="/#team">Team</a></li>
+              <li><a href="/#contact">Contact</a></li>           
       </ul>
 </div>
           <div class="navbar-header">
@@ -66,7 +66,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">
+            <a class="navbar-brand" href="/#top">
               <img src="/img/koffijberglogo_white.svg" onerror="this.onerror=null; this.src='/img/koffijberglogo_white.png'">
               <img src="/img/koffijberglogo_403732.svg" onerror="this.onerror=null; this.src='/img/koffijberglogo_403732.png'" class="attop">
             </a>
@@ -77,7 +77,7 @@
               <li><a href="/#openingstijden">Openingstijden</a></li>
               <li><a href="/#behandelingen">Behandelingen</a></li>
               <li class="hidden-sm"><a href="/#team">Team</a></li>
-              <li><a href="/contact">Contact</a></li>
+              <li><a href="/#contact">Contact</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container -->
@@ -99,7 +99,8 @@
                         <div class="post-content">
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris.</p>
                               <a href="/contact" class="btn btn-primary">Maak een afspraak</a><br />
-                              <a href="#" class="btn">bel 020-6732374</a>
+                              <a href="tel:020-6732374" class="btn mobile">bel 020-6732374</a>
+                              <span class="btn desktop">bel 020-6732374</span>
                         </div>
                 </article>
                 <article id="n2">
@@ -109,7 +110,9 @@
                       
                         <div class="post-content">
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris.</p>
-                              <a href="/contact" class="btn btn-primary">Maak een afspraak</a>
+                              <a href="/contact" class="btn btn-primary">Maak een afspraak</a><br />
+                              <a href="tel:020-6732374" class="btn mobile">bel 020-6732374</a>
+                              <span class="btn desktop">bel 020-6732374</span>
                         </div>
                 </article>
                 <article id="n3">
@@ -119,7 +122,9 @@
                       
                         <div class="post-content">
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris.</p>
-                              <a href="/contact" class="btn btn-primary">Maak een afspraak</a>
+                              <a href="/contact" class="btn btn-primary">Maak een afspraak</a><br />
+                              <a href="tel:020-6732374" class="btn mobile">bel 020-6732374</a>
+                              <span class="btn desktop">bel 020-6732374</span>
                         </div>
                 </article>
             </td></tr></table>
@@ -525,7 +530,7 @@ Alle prijzen op deze lijst zijn vanaf prijzen. De definitieve prijzen kunnen afw
       <div class="container">
         <div class="row">
             <div class="col-lg-7 col-sm-6 text-center visible-xs"><h3>Nieuws</h3><p><a href="/2015/11/09/introduction.html">Jekyll against the rest of the world</a><br /></p></div>
-            <div class="col-lg-3 col-sm-3 col-xs-6"><h3>Contact</h3><p>Koffijberg Hairdressers<br />Scheldestraat 8<br />1078 GK Amsterdam<br />020-6732374<br /><a href="mailto:receptie@koffijberg.nl">receptie@koffijberg.nl</a><br />KVK 1121429<br />BTW 23423902340</p></div>
+            <div class="col-lg-3 col-sm-3 col-xs-6"><h3 id="contact">Contact</h3><p>Koffijberg Hairdressers<br />Scheldestraat 8<br />1078 GK Amsterdam<br />020-6732374<br /><a href="mailto:receptie@koffijberg.nl">receptie@koffijberg.nl</a><br /><a href="/contact">Stel een vraag</a><br /><a href="/contact">Maak een afspraak</a><!--KVK 1121429<br />BTW 23423902340--></p></div>
             <div class="col-lg-2 col-sm-3 col-xs-6"><h3>Openingstijden</h3><p class="text-right">
             
                       <span class="day">maandag</span>9.30 - 19.00<br />

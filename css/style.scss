@@ -70,7 +70,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 #splash td {vertical-align: middle; text-align: center;}
 #splash img {width: 75%; max-width: 729px;}
 
-#review {display: none; visibility: hidden; position: absolute; left: 0; top: 660px; z-index: 1;}
+#review {visibility: hidden; position: absolute; left: 0; top: 660px; z-index: 1;}
 
 .intro {height: 800px;}
 .intro.dames > div {background: url('../img/kapper-amsterdam-dames.jpg') center top no-repeat; height: 800px; }
@@ -79,13 +79,14 @@ body.iOS .salon3 {background-attachment: scroll;}
 .intro .highlight {text-align: center; padding: 80px 15px 0;}
 .intro .highlight table {height: 720px;}
 .intro .highlight article {display: none;}
+.intro .btn.desktop {cursor: text; padding: 0; -webkit-user-select: text; -moz-user-select: text; -ms-user-select: text;}
 
 .about {text-align: center; padding: 90px 0; background: white; color: $accentkleur;}
 .about .post-content {font-size: 18px; line-height: 1.9em;}
 .about .post-content p {color: #666;}
 .about .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
-.about .post-header h1 {font-size: 60px; margin-top: 5px;}
-.about .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px auto;}
+.about .post-header h1 {font-size: 60px; margin-top: 10px;}
+.about .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 40px auto;}
 
 .salon {height: 502px; background: url('../img/kapper-amsterdam-salon.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
 .salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px 0 0 -225px; border-radius: 250px; position: absolute; left: 50%;}
@@ -103,11 +104,18 @@ body.iOS .salon3 {background-attachment: scroll;}
 .twocols {padding: 0 0 90px; background: white; color: $accentkleur;}
 .twocols .post-content p {color: #666;}
 .twocols .post-header {padding-top: 90px;}
-.post .twocols .post-header h1 {font-size: 60px; margin-top: 5px;}
+
+.post .twocols .post-header h1 {font-size: 60px; margin-top: 10px;}
 .post .twocols .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
-.post .twocols .meta {margin-bottom: 45px;}
-.post .twocols .meta > div {position: relative; top: 9px; border-bottom: 1px solid $accentkleur;}
-.post .twocols .meta > div:first-child {border-top: 1px solid $accentkleur;}
+.post .twocols .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 40px 0;}
+.post .twocols .post-content p:first-child {
+    font-size: 22px;
+    line-height: 1.7em;
+    font-style: italic;
+    font-family: 'PT Serif', serif;
+    margin-bottom: 1.3em;
+    font-weight: 400;
+}
 
 .behandelingen {padding: 90px 0; background: white; color: $accentkleur;}
 .behandelingen .post-content p {color: #666; margin-bottom: 0;}
@@ -193,6 +201,7 @@ a:hover {text-decoration: none;}
 .intro .btn-primary, .intro .btn-default:hover {border: 1px solid $accentkleur!important; background: $accentkleur!important;}
 .fa {font-size: 180%; display: inline-block; cursor: pointer; margin: 0; position: relative; top: 3px;} 
 .form-group {color: #666;}
+.btn:active {-webkit-box-shadow: none; box-shadow: none;}
 
 .arrow {
   position: absolute;
@@ -322,7 +331,8 @@ a:hover {text-decoration: none;}
     -ms-transform: scale(1);
     transform: scale(1);
 }
-
+  .mobile {display: none;}
+  .desktop {display: inline;}
 
 
 @media all and (max-width: 991px) {
@@ -339,7 +349,11 @@ a:hover {text-decoration: none;}
   .salon {background-image: url('../img/kapper-amsterdam-salon-s.jpg');}
   .salon2 {background-image: url('../img/kapper-amsterdam-salon2-s.jpg');}
 }
-@media all and (max-width: 500px) {
+@media all and (max-width: 600px) {
+  .mobile {display: inline-block;}
+  .desktop {display: none;}
+}
+@media all and (max-width: 450px) {
   p, .post-content{font-family: Georgia, 'PT Serif'!important;}
   .salon .circle p {width: 235px};
   .salon {background-image: url('../img/kapper-amsterdam-salon-xs.jpg');}

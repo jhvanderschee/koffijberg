@@ -78,7 +78,6 @@ body.iOS .salon3 {
   max-width: 729px; }
 
 #review {
-  display: none;
   visibility: hidden;
   position: absolute;
   left: 0;
@@ -110,6 +109,13 @@ body.iOS .salon3 {
 .intro .highlight article {
   display: none; }
 
+.intro .btn.desktop {
+  cursor: text;
+  padding: 0;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text; }
+
 .about {
   text-align: center;
   padding: 90px 0;
@@ -130,7 +136,7 @@ body.iOS .salon3 {
 
 .about .post-header h1 {
   font-size: 60px;
-  margin-top: 5px; }
+  margin-top: 10px; }
 
 .about .post-header h1::after {
   display: block;
@@ -138,7 +144,7 @@ body.iOS .salon3 {
   width: 80px;
   height: 5px;
   background: #241a1f;
-  margin: 30px auto; }
+  margin: 40px auto; }
 
 .salon {
   height: 502px;
@@ -208,23 +214,28 @@ body.iOS .salon3 {
 
 .post .twocols .post-header h1 {
   font-size: 60px;
-  margin-top: 5px; }
+  margin-top: 10px; }
 
 .post .twocols .post-header span {
   font-size: 22px;
   text-transform: uppercase;
   font-weight: 400; }
 
-.post .twocols .meta {
-  margin-bottom: 45px; }
+.post .twocols .post-header h1::after {
+  display: block;
+  content: "";
+  width: 80px;
+  height: 5px;
+  background: #241a1f;
+  margin: 40px 0; }
 
-.post .twocols .meta > div {
-  position: relative;
-  top: 9px;
-  border-bottom: 1px solid #241a1f; }
-
-.post .twocols .meta > div:first-child {
-  border-top: 1px solid #241a1f; }
+.post .twocols .post-content p:first-child {
+  font-size: 22px;
+  line-height: 1.7em;
+  font-style: italic;
+  font-family: 'PT Serif', serif;
+  margin-bottom: 1.3em;
+  font-weight: 400; }
 
 .behandelingen {
   padding: 90px 0;
@@ -502,6 +513,10 @@ a:hover {
 .form-group {
   color: #666; }
 
+.btn:active {
+  -webkit-box-shadow: none;
+  box-shadow: none; }
+
 .arrow {
   position: absolute;
   bottom: 0;
@@ -670,6 +685,12 @@ a:hover {
   -ms-transform: scale(1);
   transform: scale(1); }
 
+.mobile {
+  display: none; }
+
+.desktop {
+  display: inline; }
+
 @media all and (max-width: 991px) {
   .intro > div > div {
     background: rgba(86, 76, 73, 0.8);
@@ -692,7 +713,13 @@ a:hover {
 
   .salon2 {
     background-image: url("../img/kapper-amsterdam-salon2-s.jpg"); } }
-@media all and (max-width: 500px) {
+@media all and (max-width: 600px) {
+  .mobile {
+    display: inline-block; }
+
+  .desktop {
+    display: none; } }
+@media all and (max-width: 450px) {
   p, .post-content {
     font-family: Georgia, "PT Serif" !important; }
 

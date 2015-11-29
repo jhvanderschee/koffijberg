@@ -1,13 +1,6 @@
 ---
-title: Contact
-subtitle: Stel uw vraag
+title: Stel een vraag
 layout: contact
 ---
 
-Koffijberg Hairdressers<br />
-Scheldestraat 8<br />
-1078 GK Amsterdam<br />
-020-6732374<br />
-[receptie@koffijberg.nl](mailto:receptie@koffijberg.nl)<br />
-KVK 1121429<br />
-BTW 23423902340
+Wij helpen u graag met een professioneel en persoonlijk advies. Vul onderstaand formulier in en wij zullen zo snel mogelijk contact met u opnemen.
