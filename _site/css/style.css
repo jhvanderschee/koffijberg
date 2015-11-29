@@ -285,6 +285,9 @@ footer a, footer a:hover {
   padding: 15px 0;
   max-height: 99999px; }
 
+.site-footer2 .fa {
+  margin-left: 5px; }
+
 .navbar {
   border-radius: 0px !important; }
 
@@ -536,15 +539,21 @@ a:hover {
   position: absolute;
   right: 15px;
   display: block;
-  margin-bottom: 67px;
+  margin-bottom: 61px;
   z-index: 30; }
 
 .teamcontrol.prev {
   position: absolute;
   left: 15px;
   display: block;
-  margin-bottom: 67px;
+  margin-bottom: 61px;
   z-index: 30; }
+
+.teamcontrol .fa {
+  font-size: 250%; }
+
+[class*=" icon-"]:before, [class^=icon-]:before {
+  margin: 0; }
 
 .ch-img-1 {
   background-image: url(/img/pers1.jpg);

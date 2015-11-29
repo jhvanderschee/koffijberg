@@ -125,6 +125,7 @@ footer a, footer a:hover {color: white;}
 .site-footer h3 {padding: 90px 0 0; clear: both;}
 .site-footer .day {float: left;}
 .site-footer2 {padding: 15px 0; max-height: 99999px;}
+.site-footer2 .fa {margin-left: 5px;}
 
 .navbar {border-radius: 0px!important;}
 .navbar-default {z-index: 2; position: absolute; width: 100%; background: transparent; border: 0; text-transform: uppercase;}
@@ -219,8 +220,10 @@ a:hover {text-decoration: none;}
     -khtml-user-select: none; /* webkit (konqueror) browsers */
     -ms-user-select: none; /* IE10+ */
 }
-.teamcontrol.next {position: absolute; right: 15px; display: block; margin-bottom: 67px; z-index: 30;}
-.teamcontrol.prev {position: absolute; left: 15px; display: block; margin-bottom: 67px; z-index: 30;}
+.teamcontrol.next {position: absolute; right: 15px; display: block; margin-bottom: 61px; z-index: 30;}
+.teamcontrol.prev {position: absolute; left: 15px; display: block; margin-bottom: 61px; z-index: 30;}
+.teamcontrol .fa {font-size: 250%;}
+[class*=" icon-"]:before, [class^=icon-]:before {margin: 0;}
 
 .ch-img-1 {background-image: url(/img/pers1.jpg); background-size: cover;}
 .ch-img-2 {background-image: url(/img/pers2.jpg); background-size: cover;}
