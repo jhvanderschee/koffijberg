@@ -3,36 +3,39 @@
 
   {% include head.html %}
 
-  <body class="page-template">
+  <body class="page-template post">
 	  {% include header.html %}
     <div class="salon2"></div>
 
-    <div class="about">
+    <div class="twocols">
       <div class="container">
+      <article class="">
         <div class="row">
-            <div class="col-lg-2"></div>
-            <div class="col-lg-8">
-                <article class="">
-                     
+        <div class="col-lg-12">
                         <header class="post-header">
-                          <span>{{ page.subtitle }}</span>
+                          <span>Nieuwsbericht</span>
                           <h1 class="post-title">{{ page.title }}</h1>
                         </header>
+        </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3"><div class="meta"><div>Datum</div><div>Robert Rijnbeek</div><div>Nieuws, Algemeen</div></div></div>
+            <div class="col-lg-6">
+                
+                     
+
                       
                         <div class="post-content">
-                          <article class="post page">
-                          
+                         
                             <div class="post-content">
                               {{ content }}
                             </div>
-                          
-                          </article>
                         </div>
                       
-                </article>
             </div>
-            <div class="col-lg-2"></div>
+            <div class="col-lg-3"></div>
           </div>
+      </article>
       </div>
     </div>
 

@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Stel ons een vraag
+subtitle: Stel uw vraag
 layout: contact
 ---
 

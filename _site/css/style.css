@@ -78,6 +78,7 @@ body.iOS .salon3 {
   max-width: 729px; }
 
 #review {
+  display: none;
   visibility: hidden;
   position: absolute;
   left: 0;
@@ -120,7 +121,7 @@ body.iOS .salon3 {
   line-height: 1.9em; }
 
 .about .post-content p {
-  opacity: 0.7; }
+  color: #666; }
 
 .about .post-header span {
   font-size: 22px;
@@ -172,7 +173,7 @@ body.iOS .salon3 {
   line-height: 1.9em; }
 
 .salon .post-content p {
-  opacity: 0.7; }
+  color: #666; }
 
 .salon2 {
   height: 502px;
@@ -181,7 +182,7 @@ body.iOS .salon3 {
   background-attachment: fixed; }
 
 .page-template .salon2 {
-  height: 300px;
+  height: 240px;
   background-attachment: scroll; }
 
 .salon3 {
@@ -191,7 +192,7 @@ body.iOS .salon3 {
   background-attachment: fixed; }
 
 .page-template .salon3 {
-  height: 300px;
+  height: 240px;
   background-attachment: scroll; }
 
 .twocols {
@@ -200,10 +201,30 @@ body.iOS .salon3 {
   color: #241a1f; }
 
 .twocols .post-content p {
-  opacity: 0.7; }
+  color: #666; }
 
-.twocols h1 {
+.twocols .post-header {
   padding-top: 90px; }
+
+.post .twocols .post-header h1 {
+  font-size: 60px;
+  margin-top: 5px; }
+
+.post .twocols .post-header span {
+  font-size: 22px;
+  text-transform: uppercase;
+  font-weight: 400; }
+
+.post .twocols .meta {
+  margin-bottom: 45px; }
+
+.post .twocols .meta > div {
+  position: relative;
+  top: 9px;
+  border-bottom: 1px solid #241a1f; }
+
+.post .twocols .meta > div:first-child {
+  border-top: 1px solid #241a1f; }
 
 .behandelingen {
   padding: 90px 0;
@@ -211,7 +232,7 @@ body.iOS .salon3 {
   color: #241a1f; }
 
 .behandelingen .post-content p {
-  opacity: 0.7;
+  color: #666;
   margin-bottom: 0; }
 
 .behandelingen .post-content p.smaller {
@@ -227,7 +248,7 @@ body.iOS .salon3 {
 
 .behandelingen table {
   width: 100%;
-  opacity: 0.7; }
+  color: #666; }
 
 .behandelingen td.text-center {
   font-size: 15px;
@@ -398,7 +419,7 @@ p {
   margin-bottom: 2em; }
 
 .post-content p a {
-  color: #241a1f; }
+  color: #666; }
 
 a {
   text-decoration: underline; }
@@ -664,6 +685,12 @@ a:hover {
   .salon2 {
     background-image: url("../img/kapper-amsterdam-salon2-s.jpg"); } }
 @media all and (max-width: 500px) {
+  p, .post-content {
+    font-family: Georgia, "PT Serif" !important; }
+
+  .salon .circle p {
+    width: 235px; }
+
   .salon {
     background-image: url("../img/kapper-amsterdam-salon-xs.jpg"); }
 

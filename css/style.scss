@@ -58,6 +58,7 @@ $highlightkleur: #5e2d83;
 * {-webkit-text-size-adjust: 100%;}
 .post-content p {max-height: 99999px;}
 
+
 html {overflow-y: scroll;}
 body {color: $tekstkleur_op_basis; background: $basiskleur; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.4em;}
 body.iOS .salon, 
@@ -69,7 +70,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 #splash td {vertical-align: middle; text-align: center;}
 #splash img {width: 75%; max-width: 729px;}
 
-#review {visibility: hidden; position: absolute; left: 0; top: 660px; z-index: 1;}
+#review {display: none; visibility: hidden; position: absolute; left: 0; top: 660px; z-index: 1;}
 
 .intro {height: 800px;}
 .intro.dames > div {background: url('../img/kapper-amsterdam-dames.jpg') center top no-repeat; height: 800px; }
@@ -81,7 +82,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 .about {text-align: center; padding: 90px 0; background: white; color: $accentkleur;}
 .about .post-content {font-size: 18px; line-height: 1.9em;}
-.about .post-content p {opacity: 0.7;}
+.about .post-content p {color: #666;}
 .about .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
 .about .post-header h1 {font-size: 60px; margin-top: 5px;}
 .about .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px auto;}
@@ -91,24 +92,29 @@ body.iOS .salon3 {background-attachment: scroll;}
 .salon .circle p {text-align: right; margin: 0 auto; display: block; width: 230px; position: relative; right: 10px;}
 .salon .post-header {padding: 70px 0 0;}
 .salon .post-content {font-size: 18px; line-height: 1.9em;}
-.salon .post-content p {opacity: 0.7;}
+.salon .post-content p {color: #666;}
 
 .salon2 {height: 502px; background: url('../img/kapper-amsterdam-salon2.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
-.page-template .salon2 {height: 300px; background-attachment: scroll;}
+.page-template .salon2 {height: 240px; background-attachment: scroll;}
 
 .salon3 {height: 502px; background: url('../img/kapper-amsterdam-salon3.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
-.page-template .salon3 {height: 300px; background-attachment: scroll;}
+.page-template .salon3 {height: 240px; background-attachment: scroll;}
 
 .twocols {padding: 0 0 90px; background: white; color: $accentkleur;}
-.twocols .post-content p {opacity: 0.7;}
-.twocols h1 {padding-top: 90px;}
+.twocols .post-content p {color: #666;}
+.twocols .post-header {padding-top: 90px;}
+.post .twocols .post-header h1 {font-size: 60px; margin-top: 5px;}
+.post .twocols .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
+.post .twocols .meta {margin-bottom: 45px;}
+.post .twocols .meta > div {position: relative; top: 9px; border-bottom: 1px solid $accentkleur;}
+.post .twocols .meta > div:first-child {border-top: 1px solid $accentkleur;}
 
 .behandelingen {padding: 90px 0; background: white; color: $accentkleur;}
-.behandelingen .post-content p {opacity: 0.7; margin-bottom: 0;}
+.behandelingen .post-content p {color: #666; margin-bottom: 0;}
 .behandelingen .post-content p.smaller {font-size: 12px; line-height: 1.7em;}
 .behandelingen .expand1 {display: none;}
 .behandelingen #expand1 {position: relative; bottom: 7px;}
-.behandelingen table {width: 100%; opacity: 0.7;}
+.behandelingen table {width: 100%; color: #666;}
 .behandelingen td.text-center {font-size: 15px; line-height: 1.7em; padding-left: 15px; padding-right: 15px;}
 
 
@@ -165,7 +171,7 @@ footer a, footer a:hover {color: white;}
 h1 {text-transform: uppercase; font-weight: 700; font-size: 50px; margin-bottom: 0.5em; margin-top: 0px;}
 h3 {font-weight: 700; font-size: 21px; text-transform: uppercase;}
 p {margin-bottom: 2em;}
-.post-content p a {color: $accentkleur;}
+.post-content p a {color: #666;}
 a {text-decoration: underline;}
 a:hover {text-decoration: none;}
 .post-content {font-family: 'PT Serif', serif; font-weight: 400; font-size: 15px; line-height: 2em;}
@@ -332,6 +338,8 @@ a:hover {text-decoration: none;}
   .salon2 {background-image: url('../img/kapper-amsterdam-salon2-s.jpg');}
 }
 @media all and (max-width: 500px) {
-	.salon {background-image: url('../img/kapper-amsterdam-salon-xs.jpg');}
+  p, .post-content{font-family: Georgia, 'PT Serif'!important;}
+  .salon .circle p {width: 235px};
+  .salon {background-image: url('../img/kapper-amsterdam-salon-xs.jpg');}
   .salon2 {background-image: url('../img/kapper-amsterdam-salon2-xs.jpg');}
 }
