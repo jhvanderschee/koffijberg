@@ -105,10 +105,8 @@
     <div class="twocols">
       <div class="container">
         <div class="row">
-            <div class="col-lg-1"></div>
-            <div class="col-sm-6 col-lg-5">
+            <div class="col-sm-6 col-lg-6">
                 <article class="">
-                     
                         <header class="post-header">
                           <h1 class="post-title">Blow Dry Area</h1>
                         </header>
@@ -117,12 +115,10 @@
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris. Donec sagittis pharetra est, elementum volutpat velit congue tristique. Proin commodo vestibulum lobortis. Duis hendrerit interdum est sit amet dignissim. Duis ultricies porttitor sagittis. Suspendisse ultrices hendrerit facilisis.</p>
                               <a href="#" class="btn btn-primary">Spoelen en wassen</a>
                         </div>
-                      
                 </article>
             </div>
-            <div class="col-sm-6 col-lg-5">
+            <div class="col-sm-6 col-lg-6">
                 <article class="">
-                     
                         <header class="post-header">
                           <h1 class="post-title">Blow Dry Area</h1>
                         </header>
@@ -131,10 +127,9 @@
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris. Donec sagittis pharetra est, elementum volutpat velit congue tristique. Proin commodo vestibulum lobortis. Duis hendrerit interdum est sit amet dignissim. Duis ultricies porttitor sagittis. Suspendisse ultrices hendrerit facilisis.</p>
                               <a href="#" class="btn btn-primary">Spoelen en wassen</a>
                         </div>
+                </article>
+            </div>
 
-                </article>
-            </div>
-            <div class="col-lg-1"></div>
           </div>
       </div>
     </div>
@@ -146,15 +141,12 @@
     <div class="behandelingen" id="behandelingen">
       <div class="container">
         <div class="row">
-            <div class="col-lg-1"></div>
-            <div class="col-lg-10">
+            <div class="col-lg-12">
                 <h1 class="post-title">Behandelingen</h1>
             </div>
-            <div class="col-lg-1"></div>
         </div>
         <div class="row post-content">
-            <div class="col-lg-1"></div>
-            <div class="col-lg-10">
+            <div class="col-lg-9">
                               <table cellpadding="0" cellspacing="0">
                               <tr><td><b>Dames</b></td><td class="text-center"><b>Stylist</b></td><td class="text-center"><b>Top-Stylist</b></td><td class="text-center"><b>Master-Stylist<sup>1</sup></td></tr>
                               {% for d in site.dames %}
@@ -210,21 +202,26 @@
                                   <tr class="expand1"><td>{{ d.item }}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
-                              </table>
+                              </table><br />
 
 
-<p class="smaller">
-<br /><br />
-<sup>1</sup> Voor Kimm Koffijberg geldt een extra toeslag.<br />
-<sup>2</sup> Korting geldt niet in combinatie met andere kortingsacties en niet geldig bij Master-Stylisten en Kleurspecialisten.</p>
-<div class="expand1"><p class="smaller"><sup>3</sup> Alle kleurbehandelingen zijn inclusief wassen en een complete verzorging (verzorgende crème, hoofdmassage en warme handdoek).<br />
-<sup>4</sup> Alle Extention behandelingen worden pas ingepland na een persoonlijk advies van een van onze specialisten. U kunt hiervoor een gratis afspraak maken.<br /></p></div>
-<p class="smaller">
-Alle prijzen op deze lijst zijn vanaf prijzen. De definitieve prijzen kunnen afwijken van de hierboven genoemde prijzen. De definitieve knip- en kleurprijzen zijn mede afhankelijk van de benodigde tijd. De kleurprijzen kunnen afwijken wanneer meer dan de gebruikelijke hoeveelheid product gebruikt moet worden. De kapp(st)er kan u voorafgaand aan de behandeling een prijsopgave doen.<br /><br />&nbsp;</p>
 
-<div id="expand1" class="text-center"><a href="javascript: $('.expand1').show(); $('#expand1').hide();" class="btn btn-primary">Bekijk al onze behandelingen</a></div>
+<div id="expand1" style="padding-bottom: 30px; position: relative; top: 5px;"><a href="javascript: $('.expand1').show(); $('#expand1').hide();" class="btn btn-primary">Bekijk al onze behandelingen</a></div>
             </div>
-            <div class="col-lg-1"></div>
+            <div class="col-lg-3">
+              <div style="border-left: 1px dotted silver; padding-left: 25px; padding-bottom: 2spx; margin-top: 7px;">
+                <p class="smaller"><sup>1</sup> Voor Kimm Koffijberg geldt een extra toeslag.<br />
+                  <sup>2</sup> Korting geldt niet in combinatie met andere kortingsacties en niet geldig bij Master-Stylisten en Kleurspecialisten.
+                </p>
+                <div class="expand1">
+                  <p class="smaller"><sup>3</sup> Alle kleurbehandelingen zijn inclusief wassen en een complete verzorging (verzorgende crème, hoofdmassage en warme handdoek).<br />
+                  <sup>4</sup> Alle Extention behandelingen worden pas ingepland na een persoonlijk advies van een van onze specialisten. U kunt hiervoor een gratis afspraak maken.<br />
+                  </p>
+                </div>
+                <p class="smaller">
+                  Alle prijzen op deze lijst zijn vanaf prijzen. De definitieve prijzen kunnen afwijken van de hierboven genoemde prijzen. De definitieve knip- en kleurprijzen zijn mede afhankelijk van de benodigde tijd. De kleurprijzen kunnen afwijken wanneer meer dan de gebruikelijke hoeveelheid product gebruikt moet worden. De kapp(st)er kan u voorafgaand aan de behandeling een prijsopgave doen.</p>
+              </div>
+            </div>
           </div>
       </div>
     </div>
@@ -234,13 +231,13 @@ Alle prijzen op deze lijst zijn vanaf prijzen. De definitieve prijzen kunnen afw
 
 
 
- <div class="team" id="team">
-       <div class="container">
-       <div class="row">
-            <div class="col-lg-1"></div>
-            <div class="col-lg-10">
-                <article class="">
-                     
+    <div class="team" id="team">
+      <div class="container">
+        <article class="">
+        <div class="row">
+            <div class="col-md-1 col-lg-2"></div>
+            <div class="col-md-10 col-lg-8">
+
                         <header class="post-header">
                           <h1 class="post-title">Team</h1>
                         </header>
@@ -248,6 +245,14 @@ Alle prijzen op deze lijst zijn vanaf prijzen. De definitieve prijzen kunnen afw
                         <div class="post-content">
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus.</p>
                         </div>
+            </div>
+            <div class="col-md-1 col-lg-2"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-1"></div>
+            <div class="col-lg-10" style="padding-bottom: 10px;">                  
+
                         <span onclick="prevmember();" class="prev teamcontrol"><i class="fa icon-angle-left"></i></span><span onclick="nextmember();" class="next teamcontrol"><i class="fa icon-angle-right"></i></span>
                         <ul class="ch-grid">{% for d in site.teamleden %}<li>
                             <div class="ch-item ch-img-1" style="background-image: url({{ d.thumbnail }});">
@@ -257,21 +262,19 @@ Alle prijzen op deze lijst zijn vanaf prijzen. De definitieve prijzen kunnen afw
                               </div>
                             </div>
                           </li>{% endfor %}</ul>
-                      
-                        
-              </article>
+                       
               </div>
               <div class="col-lg-1"></div>
-      </div></div>
+        </div>
+        </article>
+      </div>
     </div>
 
     <div class="twocols">
       <div class="container">
         <div class="row">
-            <div class="col-lg-1"></div>
-            <div class="col-sm-6 col-lg-5">
+            <div class="col-sm-6 col-lg-6">
                 <article class="">
-                     
                         <header class="post-header">
                           <h1 class="post-title">Blow Dry Area</h1>
                         </header>
@@ -280,12 +283,10 @@ Alle prijzen op deze lijst zijn vanaf prijzen. De definitieve prijzen kunnen afw
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris. Donec sagittis pharetra est, elementum volutpat velit congue tristique. Proin commodo vestibulum lobortis. Duis hendrerit interdum est sit amet dignissim. Duis ultricies porttitor sagittis. Suspendisse ultrices hendrerit facilisis.</p>
                               <a href="#" class="btn btn-primary">Spoelen en wassen</a>
                         </div>
-                      
                 </article>
             </div>
-            <div class="col-sm-6 col-lg-5">
+            <div class="col-sm-6 col-lg-6">
                 <article class="">
-                     
                         <header class="post-header">
                           <h1 class="post-title">Blow Dry Area</h1>
                         </header>
@@ -294,10 +295,8 @@ Alle prijzen op deze lijst zijn vanaf prijzen. De definitieve prijzen kunnen afw
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum risus eget elit maximus, sit amet hendrerit eros venenatis. Ut in felis arcu. Curabitur nec sapien feugiat, hendrerit ipsum et, imperdiet lacus. Quisque mauris lorem, elementum pellentesque hendrerit non, porta quis lacus. Praesent id tincidunt mauris. Donec sagittis pharetra est, elementum volutpat velit congue tristique. Proin commodo vestibulum lobortis. Duis hendrerit interdum est sit amet dignissim. Duis ultricies porttitor sagittis. Suspendisse ultrices hendrerit facilisis.</p>
                               <a href="#" class="btn btn-primary">Spoelen en wassen</a>
                         </div>
-                      
                 </article>
             </div>
-            <div class="col-lg-1"></div>
           </div>
       </div>
     </div>

@@ -556,14 +556,14 @@ a:hover {
   position: absolute;
   right: 15px;
   display: block;
-  margin-bottom: 61px;
+  margin-bottom: 71px;
   z-index: 30; }
 
 .teamcontrol.prev {
   position: absolute;
   left: 15px;
   display: block;
-  margin-bottom: 61px;
+  margin-bottom: 71px;
   z-index: 30; }
 
 .teamcontrol .fa {
