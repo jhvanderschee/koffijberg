@@ -207,7 +207,8 @@ body.iOS .salon3 {
   color: #241a1f; }
 
 .twocols .post-content p {
-  color: #666; }
+  color: #666;
+  padding-right: 30px; }
 
 .twocols .post-header {
   padding-top: 90px; }
@@ -691,10 +692,16 @@ a:hover {
 .desktop {
   display: inline; }
 
+form {
+  padding-right: 30px; }
+
 @media all and (max-width: 991px) {
   .intro > div > div {
     background: rgba(86, 76, 73, 0.8);
-    height: 800px; } }
+    height: 800px; }
+
+  form, .twocols .post-content p {
+    padding-right: 0px; } }
 @media all and (max-width: 767px) {
   .navbar-default .navbar-collapse {
     background: #241a1f;
