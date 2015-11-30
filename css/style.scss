@@ -85,8 +85,8 @@ body.iOS .salon3 {background-attachment: scroll;}
 .about .post-content {font-size: 18px; line-height: 1.9em;}
 .about .post-content p {color: #666;}
 .about .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
-.about .post-header h1 {font-size: 60px; margin-top: 10px;}
-.about .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 40px auto;}
+.about .post-header h1 {font-size: 60px; margin-top: 5px;}
+.about .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px auto;}
 
 .salon {height: 502px; background: url('../img/kapper-amsterdam-salon.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
 .salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px 0 0 -225px; border-radius: 250px; position: absolute; left: 50%;}
@@ -105,9 +105,9 @@ body.iOS .salon3 {background-attachment: scroll;}
 .twocols .post-content p {color: #666;}
 .twocols .post-header {padding-top: 90px;}
 
-.post .twocols .post-header h1 {font-size: 60px; margin-top: 10px;}
+.post .twocols .post-header h1 {font-size: 60px; margin-top: 5px;}
 .post .twocols .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
-.post .twocols .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 40px 0;}
+.post .twocols .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px 0;}
 .post .twocols .post-content p:first-child {
     font-size: 22px;
     line-height: 1.7em;

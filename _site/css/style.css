@@ -136,7 +136,7 @@ body.iOS .salon3 {
 
 .about .post-header h1 {
   font-size: 60px;
-  margin-top: 10px; }
+  margin-top: 5px; }
 
 .about .post-header h1::after {
   display: block;
@@ -144,7 +144,7 @@ body.iOS .salon3 {
   width: 80px;
   height: 5px;
   background: #241a1f;
-  margin: 40px auto; }
+  margin: 30px auto; }
 
 .salon {
   height: 502px;
@@ -214,7 +214,7 @@ body.iOS .salon3 {
 
 .post .twocols .post-header h1 {
   font-size: 60px;
-  margin-top: 10px; }
+  margin-top: 5px; }
 
 .post .twocols .post-header span {
   font-size: 22px;
@@ -227,7 +227,7 @@ body.iOS .salon3 {
   width: 80px;
   height: 5px;
   background: #241a1f;
-  margin: 40px 0; }
+  margin: 30px 0; }
 
 .post .twocols .post-content p:first-child {
   font-size: 22px;
