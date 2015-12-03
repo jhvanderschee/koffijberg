@@ -90,7 +90,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 .salon {height: 502px; background: url('../img/kapper-amsterdam-salon.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
 .salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px 0 0 -225px; border-radius: 250px; position: absolute; left: 50%;}
-.salon .circle p {text-align: right; margin: 0 auto; display: block; width: 300px; position: relative; right: 15px;}
+.salon .circle p {text-align: right; margin: 0 auto; display: block; width: 300px; position: relative; right: 40px;}
 .salon .post-header {padding: 70px 0 0;}
 .salon .post-content {font-size: 18px; line-height: 1.9em;}
 .salon .post-content p {color: #666;}
@@ -356,7 +356,7 @@ form {padding-right: 30px;}
 }
 @media all and (max-width: 450px) {
   p, .post-content{font-family: Georgia, 'PT Serif'!important;}
-  .salon .circle p {width: 300px;};
+  .salon .circle p {width: 300px; right: 45px;};
   .salon {background-image: url('../img/kapper-amsterdam-salon-xs.jpg');}
   .salon2 {background-image: url('../img/kapper-amsterdam-salon2-xs.jpg');}
 }

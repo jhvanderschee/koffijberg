@@ -167,9 +167,9 @@ body.iOS .salon3 {
   text-align: right;
   margin: 0 auto;
   display: block;
-  width: 230px;
+  width: 300px;
   position: relative;
-  right: 10px; }
+  right: 40px; }
 
 .salon .post-header {
   padding: 70px 0 0; }
@@ -558,14 +558,14 @@ a:hover {
   right: 15px;
   display: block;
   margin-bottom: 71px;
-  z-index: 30; }
+  z-index: 1; }
 
 .teamcontrol.prev {
   position: absolute;
   left: 15px;
   display: block;
   margin-bottom: 71px;
-  z-index: 30; }
+  z-index: 1; }
 
 .teamcontrol .fa {
   font-size: 250%; }
@@ -731,7 +731,8 @@ form {
     font-family: Georgia, "PT Serif" !important; }
 
   .salon .circle p {
-    width: 235px; }
+    width: 300px;
+    right: 45px; }
 
   .salon {
     background-image: url("../img/kapper-amsterdam-salon-xs.jpg"); }
