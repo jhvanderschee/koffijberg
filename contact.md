@@ -1,5 +1,5 @@
 ---
-title: Stel een vraag
+title: Contact
 layout: contact
 ---
 

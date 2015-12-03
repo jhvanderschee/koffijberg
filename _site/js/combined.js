@@ -167,4 +167,5 @@ $( document ).ready(function() {
 	if(rand==1) $('.intro').addClass('dames');
 	if(rand==2) $('.intro').addClass('heren');
 	if(rand==3) $('.intro').addClass('koffijberg');
+
 });

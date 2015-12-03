@@ -172,7 +172,10 @@ body.iOS .salon3 {
   right: 40px; }
 
 .salon .post-header {
-  padding: 70px 0 0; }
+  padding: 87px 0 0; }
+
+.salon .post-header h1 {
+  margin-bottom: 5px; }
 
 .salon .post-content {
   font-size: 18px;
@@ -212,6 +215,11 @@ body.iOS .salon3 {
 
 .twocols .post-header {
   padding-top: 90px; }
+
+.twocols .sidebar, .behandelingen .sidebar {
+  border-left: 1px dotted silver;
+  padding-left: 25px;
+  padding-bottom: 2px; }
 
 .post .twocols .post-header h1 {
   font-size: 60px;
@@ -693,8 +701,35 @@ a:hover {
   display: inline; }
 
 form {
-  padding-right: 30px; }
+  padding-right: 30px;
+  clear: both; }
 
+.border {
+  border: 6px solid white;
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.25); }
+
+.rotate {
+  -ms-transform: rotate(3deg);
+  /* IE 9 */
+  -webkit-transform: rotate(3deg);
+  /* Chrome, Safari, Opera */
+  transform: rotate(3deg); }
+
+#front {
+  clear: both;
+  position: absolute;
+  margin-top: 380px;
+  width: 100%;
+  max-width: 300px; }
+
+#front img {
+  display: block;
+  width: 100%; }
+
+@media all and (max-width: 1199px) {
+  .behandelingen .sidebar {
+    padding-left: 0 !important;
+    border-left: 0 !important; } }
 @media all and (max-width: 991px) {
   .intro > div > div {
     background: rgba(86, 76, 73, 0.8);
