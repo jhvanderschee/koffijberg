@@ -9,7 +9,7 @@
             {% for d in site.opening-hours %}
                       <span class="day">{{ d.dag }}</span>{{ d.vanaf }} - {{ d.tot }}<br />
             {% endfor %}
-            <span class="day">zondag</span>gesloten&nbsp;&nbsp;&nbsp;&nbsp;
+            <span class="day editable">zondag</span>gesloten&nbsp;&nbsp;&nbsp;&nbsp;
             </p></div>
             <div class="col-lg-7 col-sm-6 text-center hidden-xs"><h3>Nieuws</h3><p>{% for post in site.posts %}{{ post.date | date: "%-d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p></div>
           </div>
