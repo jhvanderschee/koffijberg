@@ -19,4 +19,5 @@ opening-hours:
   - dag: 'zaterdag'
     vanaf: '9.30'
     tot: '19.00'
+
 ---
