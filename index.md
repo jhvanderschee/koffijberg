@@ -9,3 +9,4 @@ highlights:
     text: 'Wij bevelen "So Pure Recover" van Keune aan. Beschadigd haar heeft zijn vochtbalans verloren en heeft een verzwakte innerlijke structuur. So Pure Natural Balance Recover is verrijkt met proteïnen die de haarstructuur van binnenuit herstellen en het haar nieuwe kracht en nieuw volume geven.'
 ---
 
+Nothing to see here... move along...
