@@ -69,7 +69,7 @@ treatments:
           - stylist: 'n.v.t.'
             topstylist: 'n.v.t.'
             masterstylist: 'n.v.t.'
-    blowdryarea:
+    blowd-dry:
       - item: 'Normaal (30 min)'
         prijs:
           - stylist: 'n.v.t.'
