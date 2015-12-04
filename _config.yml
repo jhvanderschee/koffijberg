@@ -25,7 +25,7 @@ openingstijden:
     tot: '19.00'
 
 treatments:
-    dames:
+    ladies:
       - item: 'Wassen knippen'
         prijs:
           - stylist: 'n.v.t.'
@@ -41,13 +41,13 @@ treatments:
           - stylist: 'n.v.t.'
             topstylist: 'n.v.t.'
             masterstylist: 'n.v.t.'
-    heren:
+    gents:
       - item: 'Wassen knippen'
         prijs:
           - stylist: 'n.v.t.'
             topstylist: 'n.v.t.'
             masterstylist: 'n.v.t.'
-    korting:
+    discounts:
       - item: 't/m 12 jaar'
         prijs:
           - stylist: 'n.v.t.'
@@ -58,7 +58,7 @@ treatments:
           - stylist: '20% korting'
             topstylist: '20% korting'
             masterstylist: 'n.v.t.'
-    kleur:
+    colorings:
       - item: 'Relights'
         prijs:
           - stylist: 'n.v.t.'
@@ -80,7 +80,7 @@ treatments:
           - stylist: 'n.v.t.'
             topstylist: 'n.v.t.'
             masterstylist: 'n.v.t.'
-    wassenfohnen:
+    wash-and-dry:
       - item: 'Kort haar'
         prijs:
           - stylist: 'n.v.t.'
