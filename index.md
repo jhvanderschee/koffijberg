@@ -6,6 +6,5 @@ highlights:
   - title: 'Award-winning kapsalon'
     text: 'In 2004 hebben we de Global Salon Business Award gewonnen en in 2014 waren we de trotse winnaar van de Coiffure Award. Het team van Koffijberg Hairdressers Amsterdam bestaat uit getalenteerde kappers en kapsters. Binnen het team werken alle kappers volgens één filosofie: persoonlijke aandacht, vakmanschap en een op maat gesneden advies.'
   - title: 'Repareer beschadigd haar'
-    text: 'Wij bevelen 'So Pure Recover' van Keune aan. Beschadigd haar heeft zijn vochtbalans verloren en heeft een verzwakte innerlijke structuur. So Pure Natural Balance Recover is verrijkt met proteïnen die de haarstructuur van binnenuit herstellen en het haar nieuwe kracht en nieuw volume geven.'
-
+    text: 'Wij bevelen "So Pure Recover" van Keune aan. Beschadigd haar heeft zijn vochtbalans verloren en heeft een verzwakte innerlijke structuur. So Pure Natural Balance Recover is verrijkt met proteïnen die de haarstructuur van binnenuit herstellen en het haar nieuwe kracht en nieuw volume geven.'
 ---
