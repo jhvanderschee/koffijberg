@@ -125,6 +125,7 @@ extensions:
 
 teamleden:
   - naam: Kimm
+    static_image: /img/kapperamsterdamkimm00_srcset-large.jpg
     thumbnail: /img/kapperamsterdamkimm00_srcset-large.jpg
     functie: "Master-Stylist, Kleurspecialist en Eigenaar"
     beschrijving: ""
