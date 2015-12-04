@@ -124,74 +124,89 @@ team-members:
     beschrijving: ""
     beschikbaarheid: di / do / vr / za
   - naam: Ingmar
+    image: /img/kapperamsterdamingmarstylist0_srcset-large.jpg
     thumbnail: /img/kapperamsterdamingmarstylist0_srcset-large.jpg
     functie: "Master-Stylist, Kleurspecialist en Ass.-Manager"
     beschrijving: "Ik ben Ingmar en sinds 2005 werkzaam bij Koffijberg Hairdressers. Naast Master-Stylist ben ik ook kleurspecialist en assistent-manager. Werken bij Koffijberg is voor mij iedere dag weer inspirerend en uitdagend. Dit vanwege de trainingen en vernieuwingen waar we altijd mee bezig zijn. En ook de vele activiteiten buiten de salon, zoals collecties maken, fotoshoots en wedstrijden."
     beschikbaarheid: di / wo / vr / za
   - naam: Wendy
+    image: /img/kapperamsterdamwendystylist0_srcset-large.jpg
     thumbnail: /img/kapperamsterdamwendystylist0_srcset-large.jpg
     functie: "Master-Stylist, Kleurspecialist en Ass.-Manager"
     beschrijving: "Wendy, 32 jaar, werkzaam @ Koffijberg sinds zes jaar en met nog steeds veel plezier. Creativiteit is een must in ons vak en bij Koffijberg kan ik mij daar nog steeds in ontwikkelen."
     beschikbaarheid: di / wo / do / vr
   - naam: Stéphanie
+    image: /img/kapperamsterdamstefaniestylist0_srcset-large.jpg
     thumbnail: /img/kapperamsterdamstefaniestylist0_srcset-large.jpg
     functie: "Master-Stylist en Kleurspecialist"
     beschrijving: "Hi, ik ben Stéphanie Beets en ben 23 jaar. Heb mijn opleiding gedaan bij de Nederlandse Kappersacademie. Meteen hierna startte ik bij Koffijberg en werk hier nu inmiddels vijf jaar. Daarnaast doe ik visagie en een cursus Master of Color. Ik doe graag mee met wedstrijden. Zo blijf ik geïnspireerd.\nLiefs Stéphanie"
     beschikbaarheid: wo / do / vr / za
   - naam: Laura
+    image: /img/kapperamsterdamlaurastylist0_srcset-large.jpg
     thumbnail: /img/kapperamsterdamlaurastylist0_srcset-large.jpg
     functie: "Master-Stylist en Kleurspecialist"
     beschrijving: "Hola, mijn naam is Laura. In 2007 ben ik bij Koffijberg komen werken als leerling en hierna doorgegroeid tot de functie Top-Stylist/kleurspecialist. Ik heb het hier erg naar mijn zin, onder andere door de hele leuke collega's. Hier blijft je vak een uitdaging met goede trainingen, shows en fotoshoots. Hope to see you soon. x"
     beschikbaarheid: di / wo / vr / za
   - naam: Linda
+    image: /img/kapperlindaamsterdam0_srcset-large.jpg
     thumbnail: /img/kapperlindaamsterdam0_srcset-large.jpg
     functie: Top-Stylist
     beschrijving: ""
     beschikbaarheid: do / vr / za
   - naam: Elaine
+    image: /img/kapperelaineamsterdam10_srcset-large.jpg
     thumbnail: /img/kapperelaineamsterdam10_srcset-large.jpg
     functie: Stylist
     beschrijving: "Hoi, ik ben Elaine en kom uit Amsterdam. Ik heb als junior twee jaar bij Koffijberg gewerkt en ben sinds kort styliste. Ik heb het erg naar mijn zin bij Koffijberg en ben blij dat ik de kans heb gekregen om door te groeien van junior naar stylist en om veel nieuwe dingen te leren bij Koffijberg."
     beschikbaarheid: di / wo / vr / za
   - naam: Daniek
+    image: /img/kapperamsterdamdaniekkerastase0_srcset-large.jpg
     thumbnail: /img/kapperamsterdamdaniekkerastase0_srcset-large.jpg
     functie: Stylist
     beschrijving: "Mijn Naam is Daniek en ik ben 19 jaar. Ik werk nu ruim 3 jaar bij Koffijberg, begonnen als junior-stylist en sinds september 2013 doorgegroeid naar stylist. Ik heb het erg naar mijn zin en vind het leuk om inspiratie te halen uit vakbladen of van het internet. Ook help ik Kimm regelmatig met shoots en shows, wat ik echt te gek vind."
     beschikbaarheid: ma / do / vr / za
   - naam: Jamie-Lee
+    image: /img/kapperjamieamsterdam0_srcset-large.jpg
     thumbnail: /img/kapperjamieamsterdam0_srcset-large.jpg
     functie: Junior-Stylist
     beschrijving: ""
     beschikbaarheid: ""
   - naam: Samantha
+    image: /img/kapperamsterdamsamanthakerastase0_srcset-large.jpg
     thumbnail: /img/kapperamsterdamsamanthakerastase0_srcset-large.jpg
     functie: Junior-Stylist
     beschrijving: ""
     beschikbaarheid: ""
   - naam: Lindy
+    image: /img/kapperlindyamsterdam0_srcset-large.jpg
     thumbnail: /img/kapperlindyamsterdam0_srcset-large.jpg
     functie: Junior-Stylist
     beschrijving: ""
     beschikbaarheid: ""
   - naam: Laura
+    image: /img/laurap080_srcset-large.jpg
     thumbnail: /img/laurap080_srcset-large.jpg
     functie: Receptioniste
     beschrijving: "Hallo, ik ben Laura Posthuma, 31 jaar, en sinds 2000 werkzaam bij Koffijberg Hairdressers. Als receptioniste ben ik 2,5 dag per week werkzaam in de salon, met veel plezier. Naast het receptiewerk doe ik visagie en extensions."
   - naam: Michelle
+    image: /img/kappermichelleamsterdamjunior00_srcset-large.jpg
     thumbnail: /img/kappermichelleamsterdamjunior00_srcset-large.jpg
     functie: Receptioniste
     beschrijving: ""
     beschikbaarheid: ""
   - naam: Lirika
+    image: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
     thumbnail: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
     functie: Receptioniste
     beschrijving: "Hey! Mijn naam is Lirika. Ik studeer media- en entertainmentmanagement en werk daarnaast met veel plezier al drie jaar achter de receptie bij Koffijberg. Hoewel studie en bijbaan niet erg op elkaar aansluiten, heb ik ondertussen heel veel ‘haarkennis’ opgedaan. Straks als het tijd is om verder te gaan in verband met mijn studie weet ik waar het leukste team werkt: Scheldestraat 8!!"
   - naam: Sarina
+    image: /img/kapperamsterdamsarinakerastase0_srcset-large.jpg
     thumbnail: /img/kapperamsterdamsarinakerastase0_srcset-large.jpg
     functie: Receptioniste
     beschrijving: ""
     beschikbaarheid: ""
   - naam: Robert
+    image: /img/robert_srcset-large.jpg
     thumbnail: /img/robert_srcset-large.jpg
     functie: Eigenaar en Manager
     beschrijving: ""
