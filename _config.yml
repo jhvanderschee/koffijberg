@@ -102,7 +102,7 @@ treatments:
           - stylist: 'n.v.t.'
             topstylist: 'n.v.t.'
             masterstylist: 'n.v.t.'
-    wasmassages:
+    wash-massages:
       - item: 'Wasmassage deluxe'
         prijs:
           - stylist: 'n.v.t.'
