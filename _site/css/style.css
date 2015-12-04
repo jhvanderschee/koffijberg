@@ -109,6 +109,10 @@ body.iOS .salon3 {
 .intro .highlight article {
   display: none; }
 
+.intro .highlight article .btn-primary {
+  display: inline-block;
+  margin-bottom: 10px; }
+
 .intro .btn.desktop {
   cursor: text;
   padding: 0;
@@ -164,12 +168,19 @@ body.iOS .salon3 {
   left: 50%; }
 
 .salon .circle p {
-  text-align: right;
   margin: 0 auto;
   display: block;
-  width: 300px;
+  width: 260px;
   position: relative;
   right: 40px; }
+
+.salon .circle p .day {
+  display: inline-block;
+  width: 130px; }
+
+.salon .circle p .time {
+  display: inline-block;
+  width: 130px; }
 
 .salon .post-header {
   padding: 87px 0 0; }
@@ -766,7 +777,13 @@ form {
     font-family: Georgia, "PT Serif" !important; }
 
   .salon .circle p {
-    width: 300px; }
+    width: 280px; }
+
+  .salon .circle p .time {
+    width: 140px; }
+
+  .salon .circle p .day {
+    width: 140px; }
 
   .salon {
     background-image: url("../img/kapper-amsterdam-salon-xs.jpg"); }

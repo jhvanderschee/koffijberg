@@ -79,6 +79,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 .intro .highlight {text-align: center; padding: 80px 15px 0;}
 .intro .highlight table {height: 720px;}
 .intro .highlight article {display: none;}
+.intro .highlight article .btn-primary {display: inline-block; margin-bottom: 10px;}
 .intro .btn.desktop {cursor: text; padding: 0; -webkit-user-select: text; -moz-user-select: text; -ms-user-select: text;}
 
 .about {text-align: center; padding: 90px 0; background: white; color: $accentkleur;}
@@ -90,7 +91,9 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 .salon {height: 502px; background: url('../img/kapper-amsterdam-salon.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
 .salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px 0 0 -225px; border-radius: 250px; position: absolute; left: 50%;}
-.salon .circle p {text-align: right; margin: 0 auto; display: block; width: 300px; position: relative; right: 40px;}
+.salon .circle p {margin: 0 auto; display: block; width: 260px; position: relative; right: 40px;}
+.salon .circle p .day {display: inline-block; width: 130px;}
+.salon .circle p .time {display: inline-block; width: 130px;}
 .salon .post-header {padding: 87px 0 0;}
 .salon .post-header h1 {margin-bottom: 5px;}
 .salon .post-content {font-size: 18px; line-height: 1.9em;}
@@ -371,7 +374,9 @@ form {padding-right: 30px; clear: both;}
 }
 @media all and (max-width: 450px) {
   p, .post-content{font-family: Georgia, 'PT Serif'!important;}
-  .salon .circle p {width: 300px;};
+  .salon .circle p {width: 280px;}
+  .salon .circle p .time {width: 140px;}
+  .salon .circle p .day {width: 140px;}
   .salon {background-image: url('../img/kapper-amsterdam-salon-xs.jpg');}
   .salon2 {background-image: url('../img/kapper-amsterdam-salon2-xs.jpg');}
 }
