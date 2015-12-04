@@ -151,37 +151,37 @@ Wij bevelen 'So Pure Recover' van Keune aan. Beschadigd haar heeft zijn vochtbal
             <div class="col-lg-9">
                               <table cellpadding="0" cellspacing="0">
                               <tr><td><b>Dames</b></td><td class="text-center"><b>Stylist</b></td><td class="text-center"><b>Top-Stylist</b></td><td class="text-center"><b>Master-Stylist<sup>1</sup></td></tr>
-                              {% for d in site.treatments.dames %}
+                              {% for d in site.treatments.ladies %}
                                   {% for p in d.prijs %}
                                   <tr><td>{{ d.item }}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr><td colspan="4"><br /><b>Heren</b></td></tr>
-                              {% for d in site.treatments.heren %}
+                              {% for d in site.treatments.gents %}
                                   {% for p in d.prijs %}
                                   <tr><td>{{ d.item }}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr><td colspan="4"><br /><b>Kinderen / jongeren / studenten<sup>2</sup></b></td></tr>
-                              {% for d in site.treatments.korting %}
+                              {% for d in site.treatments.discounts %}
                                   {% for p in d.prijs %}
                                   <tr><td>{{ d.item }}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Kleur<sup>3</sup></b></td></tr>
-                              {% for d in site.treatments.kleur %}
+                              {% for d in site.treatments.colorings %}
                                   {% for p in d.prijs %}
                                   <tr class="expand1"><td>{{ d.item }}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Blow-dry-area</b></td></tr>
-                              {% for d in site.treatments.blowdryarea %}
+                              {% for d in site.treatments.blow-dry %}
                                   {% for p in d.prijs %}
                                   <tr class="expand1"><td>{{ d.item }}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Wassen föhnen</b></td></tr>
-                              {% for d in site.treatments.wassenfohnen %}
+                              {% for d in site.treatments.wash-dry %}
                                   {% for p in d.prijs %}
                                   <tr class="expand1"><td>{{ d.item }}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
@@ -193,7 +193,7 @@ Wij bevelen 'So Pure Recover' van Keune aan. Beschadigd haar heeft zijn vochtbal
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Wasmassages</b></td></tr>
-                              {% for d in site.treatments.wasmassages %}
+                              {% for d in site.treatments.wash-massages %}
                                   {% for p in d.prijs %}
                                   <tr class="expand1"><td>{{ d.item }}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
