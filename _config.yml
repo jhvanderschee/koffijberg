@@ -4,7 +4,7 @@ defaults:
     values:
       layout: default
 
-openingstijden:
+opening-hours:
   - dag: 'maandag'
     vanaf: '9.30'
     tot: '19.00'
@@ -116,7 +116,7 @@ treatments:
             masterstylist: 'n.v.t.'
 
 
-teamleden:
+team-members:
   - naam: Kimm
     image: /img/kapperamsterdamkimm00_srcset-large.jpg
     thumbnail: /img/kapperamsterdamkimm00_srcset-large.jpg
