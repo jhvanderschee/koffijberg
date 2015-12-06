@@ -126,7 +126,7 @@ haarkleur. Wilt u een haarkleur die vooral mooi past bij de kleur van uw huid en
             <div class="col-lg-9">
                               <table cellpadding="0" cellspacing="0">
                               <tr><td><b>Dames</b></td><td class="text-center"><b>Stylist</b></td><td class="text-center"><b>Top-Stylist</b></td><td class="text-center"><b>Master-Stylist<sup>1</sup></td></tr>
-                              {% for d in data.treatments.ladies %}
+                              {% for d in site.treatments.ladies %}
                                   {% for p in d.prijs %}
                                   <tr><td>{{ d.item }}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
