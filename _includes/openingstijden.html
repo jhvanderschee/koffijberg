@@ -3,21 +3,3 @@
             <span class="day editable">{{ d.dag }}</span><span class="time editable">{{ d.vanaf }}{% if d.vanaf != 'gesloten' %} - {{ d.tot }}{% endif %}</span><br />
             {% endfor %}
             </p>
-            
-            
-            
-            
-<div>
- {% for d in site.data.opening-hours %}
-   {% assign current_index = forloop.index0 %}
-   {% assign next_index = forloop.index0 | plus: 1 %}
-   {% assign prev_index = forloop.index0 | minus: 1 %}
-   {% if d.dag == 'zaterdag' %}
-     <p>
-      {{ d.dag }} - {{ d.vanaf }}
-     </p>
-     {% if site.data.opening-hours[prev_index] %}<a href="{{ site.data.opening-hours[prev_index].dag }}">prev</a>{% endif %}
-     {% if site.data.opening-hours[next_index] %}<a href="{{ site.data.opening-hours[next_index].dag }}">next</a>{% endif %}
-   {% endif %}
- {% endfor %}
-</div>
