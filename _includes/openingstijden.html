@@ -16,8 +16,8 @@
      <p>
       {{ d.dag }} - {{ d.vanaf }}
      </p>
-     {% if site.data.opening-hours[prev_index] %}<a href="{{ site.data.opening-hours[prev_index].vanaf }}"></a>{% endif %}
-     {% if site.data.opening-hours[next_index] %}<a href="{{ site.data.opening-hours[next_index].vanaf }}"></a>{% endif %}
+     {% if site.data.opening-hours[prev_index] %}<a href="{{ site.data.opening-hours[prev_index].dag }}">prev</a>{% endif %}
+     {% if site.data.opening-hours[next_index] %}<a href="{{ site.data.opening-hours[next_index].dag }}">next</a>{% endif %}
    {% endif %}
  {% endfor %}
 </div>
