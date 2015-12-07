@@ -9,9 +9,9 @@
             
 <div>
  {% for d in site.data.opening-hours %}
-   {{ assign current_index = forloop.index }}
-   {{ assign next_index = forloop.index | plus: 1 }}
-   {{ assign prev_index = forloop.index | minus: 1 }}
+   {% assign current_index = forloop.index %}
+   {% assign next_index = forloop.index | plus: 1 %}
+   {% assign prev_index = forloop.index | minus: 1 %}
    {% if d.dag == 'zaterdag' %}
      <p>
       {{ d.dag }} - {{ d.vanaf }}
