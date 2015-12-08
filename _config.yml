@@ -2,7 +2,9 @@ defaults:
   - scope:
       path: ''
     values:
-      layout: default
+      layout: page
+
+permalink: /nieuws/:year/:month/:day/:title/
 
 team-members:
   - naam: Kimm

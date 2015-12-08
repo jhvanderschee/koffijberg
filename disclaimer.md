@@ -10,4 +10,4 @@ Koffijberg spant zich in om de inhoud van de Website zo vaak mogelijk te actuali
 Alle rechten van intellectuele eigendom betreffende deze materialen liggen bij Koffijberg.
 Kopiëren, verspreiden en elk ander gebruik van deze materialen is niet toegestaan zonder schriftelijke toestemming van Koffijberg, behoudens en slechts voor zover anders bepaald in regelingen van dwingend recht (zoals citaatrecht), tenzij bij specifieke materialen anders aangegeven is. 
 
-Deze disclaimer kan van tijd tot tijd wijzigen.
+*Deze disclaimer kan van tijd tot tijd wijzigen.*
