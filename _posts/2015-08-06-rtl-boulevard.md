@@ -5,4 +5,4 @@ Vorige week zagen we Kimm Koffijberg bij RTL Boulevard om de nieuwste haartrend 
 
 <iframe src="http://www.rtl.nl/system/videoplayer/derden/embed.html#!/uuid=e06df34d-4076-6fd0-7dd7-1b32ec34ff32" allowfullscreen seamless frameborder="0" width="720" height="405"></iframe>
 
-Bekijk het colledige artikel op https://www.wiewathaar.nl/we-love-rainbow-hair-colombre.
+Bekijk het volledige artikel op https://www.wiewathaar.nl/we-love-rainbow-hair-colombre.
