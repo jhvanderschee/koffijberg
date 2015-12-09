@@ -1,5 +1,5 @@
 ---
-title:~Kimm is terug!
+title: Kimm is terug!
 ---
 Lieve klanten,
 Het gaat heel erg goed met mij, maar voordat ik hier verder over vertel wil ik allereerst zeggen hoe bijzonder wij het vinden hoe jullie met ons mee hebben geleefd. 
