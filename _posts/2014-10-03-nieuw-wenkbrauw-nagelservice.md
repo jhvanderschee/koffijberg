@@ -1,5 +1,5 @@
 ---
-title: Nieuw: Wenkbrauw- & Nagelservice
+title: "Nieuw: Wenkbrauw- & Nagelservice"
 ---
 
 Nieuw bij Koffijberg: Brow, Make-up & Nail Area 
