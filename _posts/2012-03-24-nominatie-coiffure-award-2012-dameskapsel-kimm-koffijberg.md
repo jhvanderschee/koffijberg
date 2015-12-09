@@ -1,5 +1,5 @@
 ---
-title: Nominatie Coiffure Award 2012 Dameskapsel-Kimm Koffijberg
+title: Nominatie Coiffure Award 2012 Dameskapsel - Kimm Koffijberg
 ---
 Amsterdam, 23 maart 2012 – Jimi Hendrix’s ‘Foxy Lady’ is de inspiratiebron voor de nieuwe voorjaar-zomercollectie van Kimm Koffijberg: “Ow Foxy Lady, You look so good, Yeah, Foxy, Yeah, give us some Foxy...”
 
