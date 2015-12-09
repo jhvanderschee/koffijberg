@@ -1,5 +1,6 @@
-
-
+---
+title: Föhn Service
+---
 Nieuw: Blow Dry Area bij Koffijberg!
 
 D&egrave; trend in Amerika nu ook bij ons in de salon: de Blow Dry Area.&nbsp;
