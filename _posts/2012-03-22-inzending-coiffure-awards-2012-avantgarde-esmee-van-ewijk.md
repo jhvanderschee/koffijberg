@@ -1,5 +1,5 @@
 ---
-title: Inzending Coiffure Awards 2012 - Avantgarde Esmee van Ewijk
+title: Inzending Coiffure Awards 2012 Avantgarde - Esmee van Ewijk
 ---
 Ik werk nu ruim zeven jaar als masterstylist en kleurenspecialist bij Koffijberg Hairdressers. 
 
