@@ -1,0 +1,5 @@
+
+
+KEUNE’S NIEUWE TINTA COLOR ULTIMATE COVER ULTIEME GRIJSDEKKING
+
+Ceramide-rijke formule helpt hardnekkig grijs haar te verzachten, terwijl de extra pigmenten voor een intensieve dekking zorgen. Het haar krijgt weer een jeugdige uitstraling. Tinta Color Ultimate Cover biedt de laatste technologie voor het dekken van grijs haar. Vanaf nu is het mogelijk om mooie, glanzende fashionable nuances te cre&euml;ren. Tinta Color Ultimate Cover is ontwikkeld voor 50% of meer grijze haren en geeft excellente dekking, zonder tinten te mengen. De voedende ceramiden helpen bovendien stug grijs haar zacht te maken. Het assortiment bestaat uit 13 prachtige tinten; van licht tot donker. De extra kleurpigmenten dringen diep in het haar om ervoor te zorgen dat er een intensiever kleurresultaat en grijsdekking ontstaat. Daarnaast herstellen zijdeprote&iuml;ne het beschadigd haar, terwijl solamer het haar beschermt tegen UV-schade en kleurvervaging.
