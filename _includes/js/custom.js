@@ -42,7 +42,7 @@ function set_cookie(what){
 }
 function nextmember() {
 		//append the first one
-		$('.ch-grid').append($('.ch-grid li:first');
+		$('.ch-grid').append($('.ch-grid li:first'));
 		if($(window).width()>991) { 
     		//load all images
     		$('.ch-grid li').css('display','inline-block');
@@ -55,7 +55,7 @@ function nextmember() {
 }
 function prevmember() {
 		//prepend the last one and fade in
-		$('.ch-grid').prepend($('.ch-grid li:last');
+		$('.ch-grid').prepend($('.ch-grid li:last'));
 		if($(window).width()>991) { 
     		//load all images
     		$('.ch-grid li').css('display','inline-block');
