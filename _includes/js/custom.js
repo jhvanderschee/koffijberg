@@ -50,7 +50,10 @@ function nextmember() {
 }
 function prevmember() {
 		//$('.ch-grid li').css('left','195px');
-		$('.ch-grid').prepend($('.ch-grid li:last').hide().fadeIn(2000));
+		$('.ch-grid').prepend($('.ch-grid li:last').css({
+        opacity: 0,
+        display: 'inline-block'     
+    }).animate({opacity:1},600));
 		//$('ul.ch-grid li').css('left','0');
 }
 function iOSversion(useragent) {
