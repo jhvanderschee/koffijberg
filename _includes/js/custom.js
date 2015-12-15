@@ -41,18 +41,23 @@ function set_cookie(what){
     document.cookie="splashshown="+what
 }
 function nextmember() {
+		//append the first one
 		$('.ch-grid').append($('.ch-grid li:first'));
+		//load all images
 		$('.ch-grid li').css('display','inline-block');
+		//fade the last (fourth) image in on desktop
 		$('.ch-grid li:nth-child(4)').css({
         opacity: 0,
         display: 'inline-block'     
     }).animate({opacity:1},600);
 }
 function prevmember() {
+		//prepend the last one and fade in
 		$('.ch-grid').prepend($('.ch-grid li:last').css({
         opacity: 0,
         display: 'inline-block'     
     }).animate({opacity:1},600));
+		//load all images
 		$('.ch-grid li').css('display','inline-block');
 }
 function iOSversion(useragent) {
