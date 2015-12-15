@@ -55,7 +55,7 @@ function nextmember() {
 }
 function prevmember() {
 		//prepend the last one and fade in
-		$('.ch-grid').prepend($('.ch-grid li:last'));
+		$('.ch-grid').prepend($('.ch-grid li:last')); 
 		if($(window).width()>991) { 
     		//load all images
     		$('.ch-grid li').css('display','inline-block');
