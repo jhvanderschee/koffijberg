@@ -43,10 +43,10 @@ function set_cookie(what){
 function nextmember() {
 		//$('.ch-grid li').css('left','-195px');
 		$('.ch-grid').append($('.ch-grid li:first'));
-		$('.ch-grid li:nth-child(4)')).css({
+		$('.ch-grid li:nth-child(4)').css({
         opacity: 0,
         display: 'inline-block'     
-    }).animate({opacity:1},600));
+    }).animate({opacity:1},600);
 		//$('ul.ch-grid li').css('left','0');
 }
 function prevmember() {
