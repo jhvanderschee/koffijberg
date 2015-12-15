@@ -41,21 +41,19 @@ function set_cookie(what){
     document.cookie="splashshown="+what
 }
 function nextmember() {
-		//$('.ch-grid li').css('left','-195px');
 		$('.ch-grid').append($('.ch-grid li:first'));
+		$('.ch-grid li').css('display','inline-block');
 		$('.ch-grid li:nth-child(4)').css({
         opacity: 0,
         display: 'inline-block'     
     }).animate({opacity:1},600);
-		//$('ul.ch-grid li').css('left','0');
 }
 function prevmember() {
-		//$('.ch-grid li').css('left','195px');
 		$('.ch-grid').prepend($('.ch-grid li:last').css({
         opacity: 0,
         display: 'inline-block'     
     }).animate({opacity:1},600));
-		//$('ul.ch-grid li').css('left','0');
+		$('.ch-grid li').css('display','inline-block');
 }
 function iOSversion(useragent) {
   if (/iP(hone|od|ad|od Touch)/.test(useragent)) {
