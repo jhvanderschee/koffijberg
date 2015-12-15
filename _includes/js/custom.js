@@ -42,12 +42,12 @@ function set_cookie(what){
 }
 function nextmember() {
 		//$('.ch-grid li').css('left','-195px');
-		$('.ch-grid').append($('.ch-grid li:first'));
+		$('.ch-grid').append($('.ch-grid li:first').hide().fadeIn(2000));
 		//$('ul.ch-grid li').css('left','0');
 }
 function prevmember() {
 		//$('.ch-grid li').css('left','195px');
-		$('.ch-grid').prepend($('.ch-grid li:last'));
+		$('.ch-grid').prepend($('.ch-grid li:last').hide().fadeIn(2000));
 		//$('ul.ch-grid li').css('left','0');
 }
 function iOSversion(useragent) {
