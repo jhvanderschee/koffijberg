@@ -42,7 +42,10 @@ function set_cookie(what){
 }
 function nextmember() {
 		//$('.ch-grid li').css('left','-195px');
-		$('.ch-grid').append($('.ch-grid li:first').hide().fadeIn(2000));
+		$('.ch-grid').append($('.ch-grid li:first').css({
+        opacity: 0,
+        display: 'inline-block'     
+    }).animate({opacity:1},600));
 		//$('ul.ch-grid li').css('left','0');
 }
 function prevmember() {
