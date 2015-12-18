@@ -6,9 +6,9 @@ ladies:
         masterstylist: € 63.85
   - item: Wassen knippen drogen
     prijs:
-      - stylist: n.v.t.
-        topstylist: n.v.t.
-        masterstylist: n.v.t.
+      - stylist: € 49.15
+        topstylist: € 68.00
+        masterstylist: € 75.20
   - item: Wassen knippen föhnen
     prijs:
       - stylist: n.v.t.
