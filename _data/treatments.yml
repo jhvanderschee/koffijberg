@@ -1,89 +1,99 @@
-    ladies:
-      - item: 'Wassen knippen'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-      - item: 'Wassen knippen drogen'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-      - item: 'Wassen knippen föhnen'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-    gents:
-      - item: 'Wassen knippen'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-    discounts:
-      - item: 't/m 12 jaar'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-      - item: 'tot 20 jaar + studenten'
-        prijs:
-          - stylist: '20% korting'
-            topstylist: '20% korting'
-            masterstylist: 'n.v.t.'
-    colorings:
-      - item: 'Relights'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-      - item: 'Kleuring'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-    blow-dry:
-      - item: 'Normaal (30 min)'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-      - item: 'Toeslag lang haar (per 15 min)'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-    wash-and-dry:
-      - item: 'Kort haar'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-      - item: 'Middellang haar'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-    specials:
-      - item: 'Metamorfose compleet'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-      - item: 'Complete gezichts make-up'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
-    wash-massages:
-      - item: 'Wasmassage deluxe'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: '€ 55,00'
-            masterstylist: 'n.v.t.'
-    extensions:
-      - item: 'Hairdress'
-        prijs:
-          - stylist: 'n.v.t.'
-            topstylist: 'n.v.t.'
-            masterstylist: 'n.v.t.'
+ladies:
+  - item: Wassen knippen
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+  - item: Wassen knippen drogen
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+  - item: Wassen knippen föhnen
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+  - item: Wassen knippen föhnen middellang
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+  - item: Wassen knippen föhnen lang
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+gents:
+  - item: Wassen knippen
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+discounts:
+  - item: t/m 12 jaar
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+  - item: tot 20 jaar + studenten
+    prijs:
+      - stylist: '20% korting'
+        topstylist: '20% korting'
+        masterstylist: n.v.t.
+colorings:
+  - item: Relights
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+  - item: Kleuring
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+blow-dry:
+  - item: Normaal (30 min)
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+  - item: Toeslag lang haar (per 15 min)
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+wash-and-dry:
+  - item: Kort haar
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+  - item: Middellang haar
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+specials:
+  - item: Metamorfose compleet
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+  - item: Complete gezichts make-up
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
+wash-massages:
+  - item: Wasmassage deluxe
+    prijs:
+      - stylist: n.v.t.
+        topstylist: '€ 55,00'
+        masterstylist: n.v.t.
+extensions:
+  - item: Hairdress
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: n.v.t.
