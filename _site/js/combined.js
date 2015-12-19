@@ -52,14 +52,30 @@ function set_cookie(what){
     document.cookie="splashshown="+what
 }
 function nextmember() {
-		//$('.ch-grid li').css('left','-195px');
+		//append the first one
 		$('.ch-grid').append($('.ch-grid li:first'));
-		//$('ul.ch-grid li').css('left','0');
+		if($(window).width()>991) { 
+    		//load all images
+    		$('.ch-grid li').css('display','inline-block');
+    		//fade the last visible (fourth) image in on desktop
+    		$('.ch-grid li:nth-child(4)').css({
+            opacity: 0,
+            display: 'inline-block'     
+            }).animate({opacity:1},600);
+		}
 }
 function prevmember() {
-		//$('.ch-grid li').css('left','195px');
-		$('.ch-grid').prepend($('.ch-grid li:last'));
-		//$('ul.ch-grid li').css('left','0');
+		//prepend the last one and fade in
+		$('.ch-grid').prepend($('.ch-grid li:last')); 
+		if($(window).width()>991) { 
+    		//load all images
+    		$('.ch-grid li').css('display','inline-block');
+    		//fade the first image in on desktop
+    		$('.ch-grid li:nth-child(1)').css({
+            opacity: 0,
+            display: 'inline-block'     
+            }).animate({opacity:1},600);
+		}
 }
 function iOSversion(useragent) {
   if (/iP(hone|od|ad|od Touch)/.test(useragent)) {
