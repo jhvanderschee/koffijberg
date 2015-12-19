@@ -183,5 +183,25 @@ $( document ).ready(function() {
 	if(rand==1) $('.intro').addClass('dames');
 	if(rand==2) $('.intro').addClass('heren');
 	if(rand==3) $('.intro').addClass('koffijberg');
+	
+	$('input[name=contact-type]:radio').change(function () {
+		if($('input[name=contact-type]:checked').val() == 'vraag') {
+			$('#vraagdiv').show();
+			$('#afspraakdiv').hide();
+		}
+		if($('input[name=contact-type]:checked').val() == 'afspraak') {
+			$('#vraagdiv').hide();
+			$('#afspraakdiv').show();
+		}
+	});
+	$('input[name=customer-number]').change(function () {
+		if($('input[name=customer-number]').val()) {
+			$('#adresrow').hide();
+			$('input[name=date]').focus();
+		} else {
+			$('#adresrow').show();
+			$('input[name=address]').focus();
+		}
+	});
 
 });

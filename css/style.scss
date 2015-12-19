@@ -339,6 +339,7 @@ a:hover {text-decoration: none;}
   .mobile {display: none;}
   .desktop {display: inline;}
 form {padding-right: 30px; clear: both;}
+label {font-weight: normal;}
 .border {border: 6px solid white; box-shadow: 0px 0px 6px rgba(0,0,0,0.25);}
 .rotate {
     -ms-transform: rotate(3deg); /* IE 9 */
@@ -347,7 +348,7 @@ form {padding-right: 30px; clear: both;}
 }
 #front {clear: both; position: absolute; margin-top: 380px; width: 100%; max-width: 300px;}
 #front img {display: block; width: 100%;}
-
+.post-content iframe {max-width: 100%;}
 
 @media all and (max-width: 1199px) {
 .behandelingen .sidebar {padding-left: 0!important; border-left: 0!important;}
