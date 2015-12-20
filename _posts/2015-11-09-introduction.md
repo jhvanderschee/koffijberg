@@ -2,6 +2,7 @@
 layout: page
 title:  "Jekyll against the rest of the world"
 date:   2015-11-09 21:09:57 +0100
+image: 
 ---
 Heavy with confidence, I would deposit my lumbering frame in the middle of the room. My choice to go all static had been a good one. It was quite a serene scenery—nothing could touch me.
 
