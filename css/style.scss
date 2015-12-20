@@ -348,7 +348,7 @@ label {font-weight: normal;}
 }
 #front {clear: both; position: absolute; margin-top: 380px; width: 100%; max-width: 300px;}
 #front img {display: block; width: 100%;}
-.post-content iframe {max-width: 100%;}
+.post-content img, .post-content iframe {max-width: 100%;}
 
 @media all and (max-width: 1199px) {
 .behandelingen .sidebar {padding-left: 0!important; border-left: 0!important;}
