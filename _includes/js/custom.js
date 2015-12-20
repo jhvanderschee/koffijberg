@@ -156,7 +156,9 @@ $( document ).ready(function() {
 		}
 	});
 	
-
+	$('#splash').click(function() {
+		$(this).hide();
+	})
 	if($('body').hasClass('Android') || $('body').hasClass('iOS')) {
 		//no animation
 		$('#splash').delay(1500).hide();
