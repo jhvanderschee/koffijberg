@@ -52,6 +52,11 @@ colorings:
       - stylist: € 65.45
         topstylist: € 65.45
         masterstylist: € 73.30
+  - item: Highlights heel
+    prijs:
+      - stylist: € 99.65
+        topstylist: € 99.65
+        masterstylist: € 109.80
 blow-dry:
   - item: Normaal (30 min)
     prijs:
