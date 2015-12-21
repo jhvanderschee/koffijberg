@@ -77,6 +77,11 @@ colorings:
       - stylist: n.v.t.
         topstylist: n.v.t.
         masterstylist: € 145.50
+  - item: Free hand techniek heel
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: € 200.20
 blow-dry:
   - item: Normaal (30 min)
     prijs:
