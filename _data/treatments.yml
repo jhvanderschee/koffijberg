@@ -114,6 +114,11 @@ wash-and-dry:
       - stylist: € 48.80
         topstylist: € 53.65
         masterstylist: € 59.00
+  - item: 'Wassen & Föhnen lang haar'
+    prijs:
+      - stylist: € 56.10
+        topstylist: € 61.70
+        masterstylist: € 67.90
 specials:
   - item: Metamorfose compleet
     prijs:
