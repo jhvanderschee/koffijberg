@@ -52,6 +52,11 @@ colorings:
       - stylist: € 99.75
         topstylist: € 99.75
         masterstylist: € 109.80
+  - item: Kleuring + Streaks
+    prijs:
+      - stylist: € 132.95
+        topstylist: € 132.95
+        masterstylist: € 144.45
   - item: Highlights deel
     prijs:
       - stylist: € 65.45
