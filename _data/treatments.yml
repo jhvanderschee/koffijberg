@@ -87,6 +87,11 @@ colorings:
       - stylist: n.v.t.
         topstylist: n.v.t.
         masterstylist: € 217.70
+  - item: Ontkleuring / Ultimate blond
+    prijs:
+      - stylist: € 77.65
+        topstylist: € 77.65
+        masterstylist: € 84.35
 blow-dry:
   - item: Normaal (30 min)
     prijs:
