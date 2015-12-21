@@ -27,9 +27,9 @@ ladies:
 gents:
   - item: Wassen knippen
     prijs:
-      - stylist: n.v.t.
-        topstylist: n.v.t.
-        masterstylist: n.v.t.
+      - stylist: € 43.25
+        topstylist: € 50.00
+        masterstylist: € 56.35
 discounts:
   - item: t/m 12 jaar
     prijs:
