@@ -82,6 +82,11 @@ colorings:
       - stylist: n.v.t.
         topstylist: n.v.t.
         masterstylist: € 200.20
+  - item: Free hand techniek lang haar
+    prijs:
+      - stylist: n.v.t.
+        topstylist: n.v.t.
+        masterstylist: € 217.70
 blow-dry:
   - item: Normaal (30 min)
     prijs:
