@@ -104,11 +104,11 @@ blow-dry:
         topstylist: € 15.00
         masterstylist: n.v.t.
 wash-and-dry:
-  - item: Kort haar
+  - item: 'Wassen & Föhnen'
     prijs:
-      - stylist: n.v.t.
-        topstylist: n.v.t.
-        masterstylist: n.v.t.
+      - stylist: € 38.85
+        topstylist: € 39.70
+        masterstylist: € 43.15
   - item: Middellang haar
     prijs:
       - stylist: n.v.t.
