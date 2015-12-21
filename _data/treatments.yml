@@ -21,9 +21,9 @@ ladies:
         masterstylist: € 96.00
   - item: Wassen knippen föhnen lang
     prijs:
-      - stylist: n.v.t.
-        topstylist: n.v.t.
-        masterstylist: n.v.t.
+      - stylist: € 72.85
+        topstylist: € 101.40
+        masterstylist: € 109.50
 gents:
   - item: Wassen knippen
     prijs:
