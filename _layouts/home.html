@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <body class="home" id="top">
-  <div id="splash"><table cellpadding="0" cellspacing="0"><tr><td><img src="/img/koffijberglogo_white.svg" onerror="this.onerror=null; this.src='/img/koffijberglogo_white.png'"></td></tr></table></div>
+  <div id="splash"><table cellpadding="0" cellspacing="0"><tr><td><img src="/img/koffijberglogo_white.svg" onerror="this.onerror=null; this.src='/img/koffijberglogo_white.png'" /></td></tr></table></div>
     <div id="review" class="hidden-xs"><div style="position: absolute; z-index: 99; cursor: pointer; width: 160px; height: 120px;" onclick="window.open('https://www.wiewathaar.nl/salons/koffijberg-hairdressers/');"></div><iframe scroling="no" width="160" height="120" allowtransparency="1" src="https://www.wiewathaar.nl/embed.php?sid=50577&c=0" border="0" frameborder="0" style="background: #acdfe4;"></iframe></div>
     {% include header.html %}
     <a class="arrow bounce" href="#over-ons"></a>
@@ -40,7 +40,7 @@
         <div class="row">
             <div class="col-lg-2 col-md-1"></div>
             <div class="col-lg-8 col-md-10">
-                <article class="">
+                <article>
                      
                         <header class="post-header">
                           <span class="editable">Over Koffijberg</span>
@@ -65,14 +65,14 @@
     <div class="salon" id="openingstijden">
       <div class="container">
         <div class="circle">
-          <article class="">
+          <article>
             <header class="post-header">
               <h1 class="post-title">Openingstijden</h1>
             </header>
             <div class="post-content">
               {% include openingstijden.html %}
             </div>
-        </div>
+        </article></div>
       </div>
     </div>
 
@@ -81,7 +81,7 @@
       <div class="container">
         <div class="row">
             <div class="col-sm-6 col-lg-6">
-                <article class="">
+                <article>
                         <header class="post-header">
                           <h1 class="post-title editable">Blow Dry Area</h1>
                         </header>
@@ -94,7 +94,7 @@ Binnen 30 minuten föhnen wij uw haar of verzorgen een updo. Op basis van de laa
                 </article>
             </div>
             <div class="col-sm-6 col-lg-6">
-                <article class="">
+                <article>
                         <header class="post-header">
                           <h1 class="post-title editable">Kleuradvies</h1>
                         </header>
@@ -125,7 +125,7 @@ haarkleur. Wilt u een haarkleur die vooral mooi past bij de kleur van uw huid en
         <div class="row post-content">
             <div class="col-lg-9">
                               <table cellpadding="0" cellspacing="0">
-                              <tr><td><b>Dames</b></td><td class="text-center"><b>Stylist</b></td><td class="text-center"><b>Top-Stylist</b></td><td class="text-center"><b>Master-Stylist<sup>1</sup></td></tr>
+                              <tr><td><b>Dames</b></td><td class="text-center"><b>Stylist</b></td><td class="text-center"><b>Top-Stylist</b></td><td class="text-center"><b>Master-Stylist<sup>1</sup></b></td></tr>
                               {% for d in site.data.treatments.ladies %}
                                   {% for p in d.prijs %}
                                   <tr><td>{{ d.item }}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
@@ -194,8 +194,7 @@ haarkleur. Wilt u een haarkleur die vooral mooi past bij de kleur van uw huid en
                   <p class="smaller editable"><sup>3</sup> Alle kleurbehandelingen zijn inclusief wassen en een complete verzorging (verzorgende crème, hoofdmassage en warme handdoek).<br />
                   <sup>4</sup> Alle Extention behandelingen worden pas ingepland na een persoonlijk advies van een van onze specialisten. U kunt hiervoor een gratis afspraak maken.</p>
                 </div>
-                <p class="smaller editable"><br />
-                  Alle prijzen op deze lijst zijn vanaf prijzen. De definitieve prijzen kunnen afwijken van de hierboven genoemde prijzen. De definitieve knip- en kleurprijzen zijn mede afhankelijk van de benodigde tijd. De kleurprijzen kunnen afwijken wanneer meer dan de gebruikelijke hoeveelheid product gebruikt moet worden. De kapp(st)er kan u voorafgaand aan de behandeling een prijsopgave doen.</p>
+                <p class="smaller editable"><br />Alle prijzen van de kleurbehandelingen op deze lijst zijn vanaf prijzen. De definitieve prijzen kunnen afwijken van de hierboven genoemde prijzen. De definitieve kleurprijzen zijn mede afhankelijk van de benodigde tijd. De kleurprijzen kunnen afwijken wanneer meer dan de gebruikelijke hoeveelheid product gebruikt moet worden. De kapp(st)er kan u voorafgaand aan de behandeling een prijsopgave doen in onze kapsalon.</p>
               </div>
             </div>
           </div>
@@ -209,7 +208,7 @@ haarkleur. Wilt u een haarkleur die vooral mooi past bij de kleur van uw huid en
 
     <div class="team" id="team">
       <div class="container">
-        <article class="">
+        <article>
         <div class="row">
             <div class="col-md-1 col-lg-2"></div>
             <div class="col-md-10 col-lg-8">
@@ -250,7 +249,7 @@ haarkleur. Wilt u een haarkleur die vooral mooi past bij de kleur van uw huid en
       <div class="container">
         <div class="row">
             <div class="col-sm-6 col-lg-6">
-                <article class="">
+                <article>
                         <header class="post-header">
                           <h1 class="post-title editable">Extentions & Fillers</h1>
                         </header>
@@ -262,7 +261,7 @@ haarkleur. Wilt u een haarkleur die vooral mooi past bij de kleur van uw huid en
                 </article>
             </div>
             <div class="col-sm-6 col-lg-6">
-                <article class="">
+                <article>
                         <header class="post-header">
                           <h1 class="post-title editable">Bruidskapsels</h1>
                         </header>
