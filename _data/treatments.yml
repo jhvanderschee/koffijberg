@@ -42,16 +42,11 @@ discounts:
         topstylist: '20% korting'
         masterstylist: n.v.t.
 colorings:
-  - item: Relights
-    prijs:
-      - stylist: n.v.t.
-        topstylist: n.v.t.
-        masterstylist: n.v.t.
   - item: Kleuring
     prijs:
-      - stylist: n.v.t.
-        topstylist: n.v.t.
-        masterstylist: n.v.t.
+      - stylist: € 62.75
+        topstylist: € 62.75
+        masterstylist: € 68.00
 blow-dry:
   - item: Normaal (30 min)
     prijs:
