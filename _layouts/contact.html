@@ -80,7 +80,12 @@
                                              
                         <div class="post-content">
                         {{ content }}
+
+                        {% if page.url == '/contact/' %}
+
                         <form id="contact_form" action="//formspree.io/jhvanderschee@gmail.com" method="POST">
+                        <input type="hidden" name="_next" value="/contact/bedankt/" />
+
                         <div class="row">
                             <div class="col-md-4">
                             <div class="form-group">Naam*<br><input type="text" class="form-control" required name="name"></div>
@@ -97,7 +102,7 @@
                         <div id="vraagdiv">
                             <div class="row">
                                 <div class="col-md-12">
-                                <div class="form-group">Bericht*<br><textarea name="message" class="form-control" required style="height: 100px;"></textarea></div>
+                                <div class="form-group">Bericht*<br><textarea name="message" class="form-control required" required style="height: 100px;"></textarea></div>
                                 </div>
                             </div>
                         </div>
@@ -111,13 +116,13 @@
 
                             <div class="row" id="adresrow">
                                 <div class="col-md-4">
-                                <div class="form-group">Straatnaam + nummer*<br><input type="text" class="form-control" required name="address"></div>
+                                <div class="form-group">Straatnaam + nummer*<br><input type="text" class="form-control required" name="address"></div>
                                 </div>
                                 <div class="col-md-4">
-                                <div class="form-group">Postcode*<br><input type="text" class="form-control" required name="zipcode"></div>
+                                <div class="form-group">Postcode*<br><input type="text" class="form-control required" name="zipcode"></div>
                                 </div>
                                 <div class="col-md-4">
-                                <div class="form-group">Stad*<br><input type="text" class="form-control" required name="city" value="Amsterdam"></div>
+                                <div class="form-group">Stad*<br><input type="text" class="form-control required" name="city" value="Amsterdam"></div>
                                 </div>
                             </div>
 
@@ -132,13 +137,13 @@
 
                             <div class="row">
                                 <div class="col-md-12">
-                                <div class="form-group">Behandeling*<br><textarea name="treatment" class="form-control" required style="height: 100px;"></textarea></div>
+                                <div class="form-group">Behandeling*<br><textarea name="treatment" class="form-control required" style="height: 100px;"></textarea></div>
                                 </div>
                             </div>
                         </div>
 
 
-                        <input class="btn btn-primary" type="submit" value="Stel uw vraag" /></form>
+                        <input class="btn btn-primary" type="submit" value="Stel uw vraag" /></form>{% endif %}
                         </div>
 
             </div>
@@ -147,7 +152,7 @@
                         <div class="post-content">
                               <p class="sidebar" style="float: right;">{% include contactinfo.html %}</p>
 
-                              <div id="front" class="border rotate"><img class="hidden-xs" src="/img/koffijberg_kapper.jpg" /></div>
+                              {% if page.url == '/contact/' %}<div id="front" class="border rotate"><img class="hidden-xs" src="/img/koffijberg_kapper.jpg" /></div>{% endif %}
                         </div>
             </div>
           </div>

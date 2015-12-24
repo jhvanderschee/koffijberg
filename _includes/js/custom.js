@@ -179,19 +179,25 @@ $( document ).ready(function() {
 	$('input[name=contact-type]:radio').change(function () {
 		if($('input[name=contact-type]:checked').val() == 'vraag') {
 			$('#vraagdiv').show();
+			$('#vraagdiv input.required, #vraagdiv textarea.required').attr("required", true);
 			$('#afspraakdiv').hide();
+			$('#afspraakdiv input, #afspraakdiv textarea').removeAttr('required');
 		}
 		if($('input[name=contact-type]:checked').val() == 'afspraak') {
 			$('#vraagdiv').hide();
+			$('#vraagdiv input, #vraagdiv textarea').removeAttr('required');
 			$('#afspraakdiv').show();
+			$('#afspraakdiv input.required, #afspraakdiv textarea.required').attr("required", true);
 		}
 	});
 	$('input[name=customer-number]').change(function () {
 		if($('input[name=customer-number]').val()) {
 			$('#adresrow').hide();
+			$('#adresrow input').removeAttr('required');
 			$('input[name=date]').focus();
 		} else {
 			$('#adresrow').show();
+			$('#adresrow input.required').attr("required", true);
 			$('input[name=address]').focus();
 		}
 	});
