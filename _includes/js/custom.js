@@ -201,7 +201,9 @@ $( document ).ready(function() {
 			$('input[name=address]').focus();
 		}
 	});
-
+	$('.behandelingen td.text-center').each(function () {
+            $(this).html($(this).html().replace('€ ', '€&nbsp;'));
+    });
 
 
 });
