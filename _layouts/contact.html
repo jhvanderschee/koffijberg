@@ -80,8 +80,8 @@
                                              
                         <div class="post-content">
                         {{ content }}
-
-                        {% if page.url == '/contact/' or page.url = '/contact/index.html' %}
+{{ page.url }}
+                        {% if page.url == '/contact/' OR page.url = '/contact/index.html' %}
 
                         <form id="contact_form" action="//formspree.io/jhvanderschee@gmail.com" method="POST">
                         <input type="hidden" name="_next" value="/contact/bedankt/" />
@@ -152,7 +152,7 @@
                         <div class="post-content">
                               <p class="sidebar" style="float: right;">{% include contactinfo.html %}</p>
 
-                              {% if page.url == '/contact/' or page.url = '/contact/index.html' %}<div id="front" class="border rotate"><img class="hidden-xs" src="/img/koffijberg_kapper.jpg" /></div>{% endif %}
+                              {% if page.url == '/contact/' OR page.url = '/contact/index.html' %}<div id="front" class="border rotate"><img class="hidden-xs" src="/img/koffijberg_kapper.jpg" /></div>{% endif %}
                         </div>
             </div>
           </div>
