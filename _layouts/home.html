@@ -230,7 +230,7 @@ haarkleur. Wilt u een haarkleur die vooral mooi past bij de kleur van uw huid en
 
                         <span onclick="prevmember();" class="prev teamcontrol"><i class="fa icon-angle-left"></i></span><span onclick="nextmember();" class="next teamcontrol"><i class="fa icon-angle-right"></i></span>
                         <ul class="ch-grid">{% for d in site.team-members %}<li>
-                            <div class="ch-item ch-img-1" style="background-image: url(https://images.weserv.nl/?url=forkees.nl{{ d.thumbnail }}&w=100&q=65);">
+                            <div class="ch-item ch-img-1" style="background-image: url({{ d.thumbnail }});">
                               <div class="ch-info">
                                 <h3>{{ d.naam }}</h3>
                                 <p>{{ d.functie }}</p>
