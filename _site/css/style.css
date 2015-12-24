@@ -281,9 +281,12 @@ body.iOS .salon3 {
   width: 100%;
   color: #666; }
 
-.behandelingen td.text-center {
+.behandelingen td {
+  padding: 3px 0;
   font-size: 15px;
-  line-height: 1.7em;
+  line-height: 1.7em; }
+
+.behandelingen td.text-center {
   padding-left: 15px;
   padding-right: 15px; }
 
