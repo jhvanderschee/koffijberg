@@ -6,6 +6,7 @@ layout: page
 Onze kappers en kapsters hebben veel interesse in jou en in je manier van leven. Als je dat wilt, nemen zij graag de tijd om samen met je te onderzoeken welke coupe, haarkleur en styling het beste bij jouw lifestyle past. Wij vinden het belangrijk dat je langere tijd tevreden bent met je kapsel en het ook thuis goed kunt onderhouden.
 
 **Professioneel en trendsettend**
+
 Onze kappers en kapsters nemen iedere week deel aan een praktijkgerichte interne training. Ook worden de allerbeste professionals van buitenaf uitgenodigd om onze kappers en kapsters te trainen. Daarnaast trainen wij onze kappers en kapsters regelmatig op hun communicatie skills. Goede communicatie vinden wij erg belangrijk om een mooi eindresultaat te bereiken.
 
 Om ervoor te zorgen dat echt niets aan onze aandacht ontsnapt, wordt er met enige regelmaat een mystery guest uitgenodigd om ons service- en kwaliteitsniveau te toetsen en doen wij navraag bij onze klanten.
