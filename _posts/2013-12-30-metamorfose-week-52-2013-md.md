@@ -1,6 +1,5 @@
 ---
 title: Metamorfose Week 52 - 2013
-layout: nieuws
 ---
 
 Hier ziet u een voorbeeld van een metamorfose. Deze week: Mevr. Torres Barrera.
