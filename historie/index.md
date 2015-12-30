@@ -3,11 +3,7 @@ title: Historie
 layout: page
 ---
 
-Richard Koffijberg startte in 1976 zijn kapsalon in een klein brugwachtershuisje aan de Amstelkade in Amsterdam-Zuid. In 1997 verhuisde de kapsalon naar het veel grotere pand aan de overkant op Scheldestraat 8. Daar groeit het familiebedrijf uit tot een van de topkapsalons van Nederland.
-
-&nbsp;
-
-Sinds 2009 is de kapsalon eigendom van Kimm, de dochter van Richard, en van haar partner Robert. Kimm heeft dezelfde passie voor het kappersvak als haar vader. Zij behoort tot de topkappers in Nederland. Naast eigenaar van kapsalon Koffijberg is Kimm Global Color Director voor Keune Haircosmetics. Zij is daar verantwoordelijk voor alle educatie op het gebied van haarkleuring, geeft (inter)nationale shows en masterclasses en ontwikkelt de creatieve kleurconcepten voor de nieuwste trendcollecties van Keune. Eigenaren van kapsalons uit heel Nederland laten hun medewerkers trainen door Kimm.
+Richard Koffijberg startte in 1976 zijn kapsalon in een klein brugwachtershuisje aan de Amstelkade in Amsterdam-Zuid. In 1997 verhuisde de kapsalon naar het veel grotere pand aan de overkant op Scheldestraat 8. Daar groeit het familiebedrijf uit tot een van de topkapsalons van Nederland. Sinds 2009 is de kapsalon eigendom van Kimm, de dochter van Richard, en van haar partner Robert. Kimm heeft dezelfde passie voor het kappersvak als haar vader. Zij behoort tot de topkappers in Nederland. Naast eigenaar van kapsalon Koffijberg is Kimm Global Color Director voor Keune Haircosmetics. Zij is daar verantwoordelijk voor alle educatie op het gebied van haarkleuring, geeft (inter)nationale shows en masterclasses en ontwikkelt de creatieve kleurconcepten voor de nieuwste trendcollecties van Keune. Eigenaren van kapsalons uit heel Nederland laten hun medewerkers trainen door Kimm.
 
 &nbsp;
 
