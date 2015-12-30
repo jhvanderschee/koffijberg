@@ -10,12 +10,10 @@ Onze kappers en kapsters nemen iedere week deel aan een praktijkgerichte interne
 
 Om ervoor te zorgen dat echt niets aan onze aandacht ontsnapt, wordt er met enige regelmaat een mystery guest uitgenodigd om ons service- en kwaliteitsniveau te toetsen en doen wij navraag bij onze klanten.
 
-Kimm geeft veel trainingen in binnen- en buitenland. Zij ontwikkelt ieder halfjaar ook een eigen collectie voor Kapsalon Koffijberg waarin zij de door haar zelf ontwikkelde nieuwste kleur- en kniptechnieken toepast. Dit alles zorgt ervoor dat onze kappers en kapsters altijd uitstekend op de hoogte zijn van de allernieuwste vaktechnieken, trends en producten.
-
+Kimm geeft veel trainingen in binnen- en buitenland. Zij ontwikkelt ieder halfjaar ook een eigen collectie voor Kapsalon Koffijberg waarin zij de door haar zelf ontwikkelde nieuwste kleur- en kniptechnieken toepast. Dit alles zorgt ervoor dat onze kappers en kapsters altijd uitstekend op de hoogte zijn van de allernieuwste vaktechnieken, trends en producten.****
 &nbsp;
 
 **Prijsdifferentiatie**
-
 Kapsalon Koffijberg werkt met prijsdifferentiatie. Dit betekent dat wij verschillende prijzen berekenen voor dezelfde behandeling.
 
 Wij werken met prijsdifferentiatie omdat de lonen in de kappersbranche gekoppeld zijn aan leeftijd en ervaring. Afhankelijk van de kapper of kapster die je helpt, vind je dit terug in de prijzen.
