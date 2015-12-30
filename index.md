@@ -6,7 +6,7 @@ highlights:
   - title: Color-I-dentity
     text: 'Wil je een haarkleur die mooi past bij de kleur van je huid of ogen? Wil je sterker of zakelijker overkomen? Of je geverfde haar laten uitgroeien naar je natuurlijke grijze haar, maar dan wel sprankelend en eigentijds? Aan de hand van een korte vragenlijst, moodboards en kleurkragen adviseren wij je een passende haarkleur die aansluit bij jouw lifestyle.'
   - title: Style-I-dentity
-    text: "Denk je na over een heel nieuw kapsel? Of wil je het huidige model van je haar een meer eigentijdse look geven die past bij jouw lifestyle? Kom dan bij ons langs. \nWij staan bekend om de kwaliteit van onze knip- en kleurbehandelingen. Onder andere door onze sessies voor de modebladen. En door onze eigen halfjaarlijkse nieuwe collecties die te zien zijn in de nationale en internationale vakbladen. We adviseren en knippen je graag. Je zult zien dat het nieuwe model en de kleur van je haar elkaar gaan versterken en je uitstraling een nieuwe boost geven."
+    text: "Denk je na over een heel nieuw kapsel? Of wil je het huidige model van je haar een meer eigentijdse look geven die past bij jouw lifestyle? Kom dan bij ons langs. \nWij staan bekend om de kwaliteit van onze knip- en kleurbehandelingen, onder andere door onze eigen halfjaarlijkse nieuwe collecties die te zien zijn in nationale en internationale vakbladen. Je zult zien dat het nieuwe model en de kleur van je haar elkaar gaan versterken en je uitstraling een nieuwe boost geven."
 ---
 
 Nothing to see here... move along...
