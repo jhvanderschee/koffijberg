@@ -16,10 +16,6 @@ Kimm geeft veel trainingen in binnen- en buitenland. Zij ontwikkelt ieder halfja
 
 ## **Prijsdifferentiatie**
 
-****Kapsalon Koffijberg werkt met prijsdifferentiatie. Dit betekent dat wij verschillende prijzen berekenen voor dezelfde behandeling.
+****Kapsalon Koffijberg werkt met prijsdifferentiatie. Dit betekent dat wij verschillende prijzen berekenen voor dezelfde behandeling. Wij werken met prijsdifferentiatie omdat de lonen in de kappersbranche gekoppeld zijn aan leeftijd en ervaring. Afhankelijk van de kapper of kapster die je helpt, vind je dit terug in de prijzen.
 
-Wij werken met prijsdifferentiatie omdat de lonen in de kappersbranche gekoppeld zijn aan leeftijd en ervaring. Afhankelijk van de kapper of kapster die je helpt, vind je dit terug in de prijzen.
-
-Alle medewerkers in onze kapsalon zijn goed opgeleid en getalenteerd. Je hebt zelf de vrijheid om te kiezen door wie je geholpen wilt worden en in het verlengde daarvan, hoeveel je wilt besteden.
-
-Bij ons staat kwaliteit altijd voorop. Dat garanderen wij voor iedere kapper en kapster in onze kapsalon.
+Alle medewerkers in onze kapsalon zijn goed opgeleid en getalenteerd. Je hebt zelf de vrijheid om te kiezen door wie je geholpen wilt worden en in het verlengde daarvan, hoeveel je wilt besteden. Bij ons staat kwaliteit altijd voorop. Dat garanderen wij voor iedere kapper en kapster in onze kapsalon.
