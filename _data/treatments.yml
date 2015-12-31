@@ -177,3 +177,8 @@ extensions:
       - stylist: € 59.95
         topstylist: € 59.95
         masterstylist: € 59.95
+  - item: Balmain Double hair 3st. (incl. aanbrengen en uitleg)
+    prijs:
+      - stylist: € 187.00
+        topstylist: € 187.00
+        masterstylist: € 187.00
