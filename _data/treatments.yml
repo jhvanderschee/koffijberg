@@ -162,3 +162,8 @@ extensions:
       - stylist: € 59.95
         topstylist: € 59.95
         masterstylist: € 59.95
+  - item: Balmain Systeme Volume 25cm (per strip)
+    prijs:
+      - stylist: € 19.95
+        topstylist: € 19.95
+        masterstylist: € 19.95
