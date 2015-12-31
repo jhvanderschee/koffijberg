@@ -137,8 +137,8 @@ wash-massages:
         topstylist: '€ 55,00'
         masterstylist: n.v.t.
 extensions:
-  - item: Balmain Hairdress
+  - item: Balmain Hairdress 40cm
     prijs:
-      - stylist: n.v.t.
-        topstylist: n.v.t.
-        masterstylist: n.v.t.
+      - stylist: € 199.00
+        topstylist: € 199.00
+        masterstylist: € 199.00
