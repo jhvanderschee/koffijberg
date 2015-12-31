@@ -147,3 +147,8 @@ extensions:
       - stylist: € 355.00
         topstylist: € 355.00
         masterstylist: € 355.00
+  - item: Balmain Longueur plus
+    prijs:
+      - stylist: € 80.00
+        topstylist: € 80.00
+        masterstylist: € 80.00
