@@ -152,3 +152,8 @@ extensions:
       - stylist: € 80.00
         topstylist: € 80.00
         masterstylist: € 80.00
+  - item: Balmain Ponytail
+    prijs:
+      - stylist: € 49.95
+        topstylist: € 49.95
+        masterstylist: € 49.95
