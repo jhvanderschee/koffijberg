@@ -142,3 +142,8 @@ extensions:
       - stylist: € 199.00
         topstylist: € 199.00
         masterstylist: € 199.00
+  - item: Balmain Hairdress 50cm
+    prijs:
+      - stylist: € 355.00
+        topstylist: € 355.00
+        masterstylist: € 355.00
