@@ -133,7 +133,7 @@ specials:
 wash-massages:
   - item: Wasmassage deluxe
     prijs:
-      - stylist: n.v.t.
+      - stylist: € 55.00
         topstylist: '€ 55,00'
         masterstylist: n.v.t.
 extensions:
