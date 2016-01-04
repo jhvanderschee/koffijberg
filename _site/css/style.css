@@ -458,7 +458,8 @@ p {
 .post-content ol {
   margin-bottom: 2em;
   color: #666;
-  font-size: 15px !important; }
+  font-size: 15px !important;
+  -webkit-text-size-adjust: 100%; }
 
 .post-content img {
   margin-top: 10px; }
