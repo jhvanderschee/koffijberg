@@ -1,8 +1,7 @@
 ---
 title: Laura
 naam: Laura
-image: /img/15.-laura-receptioniste.jpg
-thumbnail: /img/15.-laura-receptioniste.jpg
+image: '/img/3.-elaine-master-stylist,-k.jpg'
 functie: Master-Stylist en Kleurspecialist
 ---
 
