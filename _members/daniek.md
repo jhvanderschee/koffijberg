@@ -2,7 +2,6 @@
 title: Daniek
 naam: Daniek
 image: /img/5.-daniek-top-stylist.jpg
-thumbnail: /img/5.-daniek-top-stylist.jpg
 functie: Stylist
 ---
 
