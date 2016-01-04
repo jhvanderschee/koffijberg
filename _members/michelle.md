@@ -1,8 +1,7 @@
 ---
-title: Linda
-naam: Linda
+title: Michelle
+naam: Michelle
 image: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
 thumbnail: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
-functie: "Top-Stylist"
+functie: "Receptioniste"
 ---
-*beschikbaarheid: do / vr / za*

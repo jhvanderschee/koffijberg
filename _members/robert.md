@@ -1,8 +1,10 @@
 ---
-title: Linda
-naam: Linda
+title: Robert
+naam: Robert
 image: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
 thumbnail: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
-functie: "Top-Stylist"
+functie: "Eigenaar en Hoofd-Manager"
 ---
-*beschikbaarheid: do / vr / za*
+Eigenaar en Hoofd-Manager
+
+*beschikbaarheid: ma / di / wo / do / vr*
