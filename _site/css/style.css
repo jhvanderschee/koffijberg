@@ -457,10 +457,11 @@ p {
 .post-content ul,
 .post-content ol {
   margin-bottom: 2em;
-  color: #666; }
+  color: #666;
+  font-size: 15px !important; }
 
 .post-content img {
-  margin-top: 8px; }
+  margin-top: 10px; }
 
 .post-content p a {
   color: #666; }
