@@ -6,6 +6,9 @@ defaults:
 
 permalink: /nieuws/:year/:month/:day/:title/
 
+collections:
+- members
+
 team-members:
   - naam: Kimm
     image: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
