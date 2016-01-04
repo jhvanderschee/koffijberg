@@ -1,7 +1,6 @@
 ---
 title: Samantha
 naam: Samantha
-image: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
-thumbnail: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
+image: '/img/3.-elaine-master-stylist,-k.jpg'
 functie: "Junior-Stylist"
 ---
