@@ -9,6 +9,7 @@ permalink: /nieuws/:year/:month/:day/:title/
 collections:
   members:
     output: true
+    permalink: /members/:path/
 
 team-members:
   - naam: Kimm
