@@ -185,6 +185,9 @@ footer a, footer a:hover {color: white;}
 h1 {text-transform: uppercase; font-weight: 700; font-size: 50px; margin-bottom: 0.5em; margin-top: 0px;}
 h3 {font-weight: 700; font-size: 21px; text-transform: uppercase;}
 p {margin-bottom: 2em;}
+.post-content ul, 
+.post-content ol {margin-bottom: 2em; color: #666;}
+
 .post-content p a {color: #666;}
 a {text-decoration: underline;}
 a:hover {text-decoration: none;}

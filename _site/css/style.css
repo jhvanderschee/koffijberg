@@ -454,6 +454,11 @@ h3 {
 p {
   margin-bottom: 2em; }
 
+.post-content ul,
+.post-content ol {
+  margin-bottom: 2em;
+  color: #666; }
+
 .post-content p a {
   color: #666; }
 

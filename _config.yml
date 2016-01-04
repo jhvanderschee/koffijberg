@@ -2,7 +2,13 @@ defaults:
   - scope:
       path: ''
     values:
-      layout: page
+      layout: 'page'
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: 'post'
+
 
 permalink: /nieuws/:year/:month/:day/:title/
 
@@ -103,6 +109,6 @@ team-members:
   - naam: Robert
     image: /img/robert_srcset-large.jpg
     thumbnail: /img/robert_srcset-large.jpg
-    functie: Eigenaar en Manager
+    functie: Eigenaar en Hoofd-Manager
     beschrijving: ""
     beschikbaarheid: ma / di / wo / do / vr

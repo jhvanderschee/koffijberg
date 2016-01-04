@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Jekyll against the rest of the world
 date: 2015-11-09T20:09:00.000Z
 image: /img/kapper-amsterdam-dames.jpg
