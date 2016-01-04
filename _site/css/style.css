@@ -459,6 +459,9 @@ p {
   margin-bottom: 2em;
   color: #666; }
 
+.post-content img {
+  margin-top: 8px; }
+
 .post-content p a {
   color: #666; }
 
