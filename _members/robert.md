@@ -2,7 +2,6 @@
 title: Robert
 naam: Robert
 image: /img/21.-robert-office-manager-e.jpg
-thumbnail: /img/21.-robert-office-manager-e.jpg
 functie: Eigenaar en Hoofd-Manager
 ---
 
