@@ -2,7 +2,6 @@
 title: Elaine
 naam: Elaine
 image: '/img/3.-elaine-master-stylist,-k.jpg'
-thumbnail: '/img/3.-elaine-master-stylist,-k.jpg'
 functie: Stylist
 ---
 
