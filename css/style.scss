@@ -54,7 +54,7 @@ $highlightkleur: #5e2d83;
     transform: translateY(-15px);
   }
 }
-
+html * {max-height:1000000px;}
 * {-webkit-text-size-adjust: 100%;}
 .post-content p {max-height: 99999px;}
 
@@ -186,7 +186,7 @@ h1 {text-transform: uppercase; font-weight: 700; font-size: 50px; margin-bottom:
 h3 {font-weight: 700; font-size: 21px; text-transform: uppercase;}
 p {margin-bottom: 2em;}
 .post-content ul, 
-.post-content ol {margin-bottom: 2em; color: #666; font-size: 15px!important; -webkit-text-size-adjust: 100%;}
+.post-content ol {margin-bottom: 2em; color: #666;}
 .post-content img {margin-top: 10px;}
 
 .post-content p a {color: #666;}
