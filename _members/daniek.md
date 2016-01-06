@@ -1,7 +1,10 @@
 ---
-title: Kimm Koffijberg
-image: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
-thumbnail: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
-functie: "Master-Stylist, Kleurspecialist en Eigenaar"
+title: Daniek
+naam: Daniek
+image: /img/5.-daniek-top-stylist.jpg
+functie: Stylist
 ---
-Ik ben Ingmar en sinds 2005 werkzaam bij Koffijberg Hairdressers. Naast Master-Stylist ben ik ook kleurspecialist en assistent-manager. Werken bij Koffijberg is voor mij iedere dag weer inspirerend en uitdagend. Dit vanwege de trainingen en vernieuwingen waar we altijd mee bezig zijn. En ook de vele activiteiten buiten de salon, zoals collecties maken, fotoshoots en wedstrijden.
+
+Mijn Naam is Daniek en ik ben 19 jaar. Ik werk nu ruim 3 jaar bij Koffijberg, begonnen als junior-stylist en sinds september 2013 doorgegroeid naar stylist. Ik heb het erg naar mijn zin en vind het leuk om inspiratie te halen uit vakbladen of van het internet. Ook help ik Kimm regelmatig met shoots en shows, wat ik echt te gek vind.
+
+*beschikbaarheid: ma / do / vr / za*

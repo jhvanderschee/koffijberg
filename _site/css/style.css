@@ -34,6 +34,9 @@
     -ms-transform: translateY(-15px);
     -webkit-transform: translateY(-15px);
     transform: translateY(-15px); } }
+html * {
+  max-height: 1000000px; }
+
 * {
   -webkit-text-size-adjust: 100%; }
 
@@ -460,7 +463,7 @@ p {
   color: #666; }
 
 .post-content img {
-  margin-top: 8px; }
+  margin-top: 10px; }
 
 .post-content p a {
   color: #666; }
@@ -732,6 +735,9 @@ label {
 .border {
   border: 6px solid white;
   box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.25); }
+
+.border img {
+  margin-top: 0px; }
 
 .rotate {
   -ms-transform: rotate(3deg);

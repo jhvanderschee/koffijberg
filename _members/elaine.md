@@ -1,7 +1,10 @@
 ---
-title: Kimm Koffijberg
-image: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
-thumbnail: /img/kapperamsterdamlirikakerastase_srcset-large.jpg
-functie: "Master-Stylist, Kleurspecialist en Eigenaar"
+title: Elaine
+naam: Elaine
+image: '/img/3.-elaine-master-stylist,-k.jpg'
+functie: Stylist
 ---
-Ik ben Ingmar en sinds 2005 werkzaam bij Koffijberg Hairdressers. Naast Master-Stylist ben ik ook kleurspecialist en assistent-manager. Werken bij Koffijberg is voor mij iedere dag weer inspirerend en uitdagend. Dit vanwege de trainingen en vernieuwingen waar we altijd mee bezig zijn. En ook de vele activiteiten buiten de salon, zoals collecties maken, fotoshoots en wedstrijden.
+
+Hoi, ik ben Elaine en kom uit Amsterdam. Ik heb als junior twee jaar bij Koffijberg gewerkt en ben sinds kort styliste. Ik heb het erg naar mijn zin bij Koffijberg en ben blij dat ik de kans heb gekregen om door te groeien van junior naar stylist en om veel nieuwe dingen te leren bij Koffijberg.
+
+*beschikbaarheid: di / wo / vr / za*

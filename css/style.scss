@@ -54,7 +54,7 @@ $highlightkleur: #5e2d83;
     transform: translateY(-15px);
   }
 }
-
+html * {max-height:1000000px;}
 * {-webkit-text-size-adjust: 100%;}
 .post-content p {max-height: 99999px;}
 
@@ -187,7 +187,7 @@ h3 {font-weight: 700; font-size: 21px; text-transform: uppercase;}
 p {margin-bottom: 2em;}
 .post-content ul, 
 .post-content ol {margin-bottom: 2em; color: #666;}
-.post-content img {margin-top: 8px;}
+.post-content img {margin-top: 10px;}
 
 .post-content p a {color: #666;}
 a {text-decoration: underline;}
@@ -346,6 +346,7 @@ a:hover {text-decoration: none;}
 form {padding-right: 30px; clear: both;}
 label {font-weight: normal;}
 .border {border: 6px solid white; box-shadow: 0px 0px 6px rgba(0,0,0,0.25);}
+.border img {margin-top: 0px;}
 .rotate {
     -ms-transform: rotate(3deg); /* IE 9 */
     -webkit-transform: rotate(3deg); /* Chrome, Safari, Opera */

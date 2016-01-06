@@ -214,6 +214,8 @@ $( document ).ready(function() {
 	});
 	$('.behandelingen td.text-center').each(function () {
             $(this).html($(this).html().replace('€ ', '€&nbsp;'));
+            $(this).html($(this).html().replace('.', ','));
+			$(this).html($(this).html().replace('n,v.t.', 'n.v.t.'));
     });
 
 
