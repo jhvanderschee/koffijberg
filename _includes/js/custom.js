@@ -150,7 +150,7 @@ $( document ).ready(function() {
 			    $('html, body').animate({
 			        scrollTop: $( el ).offset().top-$( ".navbar-default" ).height()
 			    }, 500);
-			    if($('.navmenu.offcanvas').hasClass('in')) $('.navmenu.offcanvas').offcanvas('hide');
+			    if($('.navmenu.offcanvas').hasClass('in')) $('.navbar-toggle').click();
 			    return false;
 			}
 		}
