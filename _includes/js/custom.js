@@ -190,17 +190,7 @@ $( document ).ready(function() {
 			$('#afspraakdiv input.required, #afspraakdiv textarea.required').attr("required", true);
 		}
 	});
-	$('input[name=customer-number]').change(function () {
-		if($('input[name=customer-number]').val()) {
-			$('#adresrow').hide();
-			$('#adresrow input').removeAttr('required');
-			$('input[name=date]').focus();
-		} else {
-			$('#adresrow').show();
-			$('#adresrow input.required').attr("required", true);
-			$('input[name=address]').focus();
-		}
-	});
+
 	$('.behandelingen td.text-center').each(function () {
             $(this).html($(this).html().replace('€ ', '€&nbsp;'));
             $(this).html($(this).html().replace('.', ','));

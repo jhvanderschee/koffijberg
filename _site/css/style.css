@@ -462,8 +462,9 @@ p {
   margin-bottom: 2em;
   color: #666; }
 
-.post-content img {
-  margin-top: 10px; }
+.featured-image img {
+  margin-top: 10px;
+  max-width: 100%; }
 
 .post-content p a {
   color: #666; }
