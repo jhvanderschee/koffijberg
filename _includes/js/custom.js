@@ -144,7 +144,7 @@ $( document ).ready(function() {
 	showslide($('.highlight article').first(),true);
 	
 	$('a').click(function(){
-		if($('body').hasClass('home')) {
+		if($('body').hasClass('home') && $(this).attr('href')) {
 			el = $.attr(this, 'href').replace('/','');
 			if(el!='#') {
 			    $('html, body').animate({
@@ -197,5 +197,8 @@ $( document ).ready(function() {
 			$(this).html($(this).html().replace('n,v.t.', 'n.v.t.'));
     });
 
-
+	$('#expandbutton').click(function() {
+		$('.expand1').show(); 
+		$('#expand1').hide();
+	})
 });
