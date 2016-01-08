@@ -1,7 +1,7 @@
 ---
 title: Sabine
 naam: Sabine
-image: /img/16.-sarina-receptioniste.jpg
+image: /img/17.-sabine-receptioniste.jpg
 functie: Receptie
 ---
 
