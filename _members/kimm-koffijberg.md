@@ -3,6 +3,7 @@ title: Kimm Koffijberg
 naam: Kimm
 image: '/img/1.-kimm-master-stylist,-kle.jpg'
 functie: 'Master-Stylist, Kleurspecialist en Eigenaar'
+order: -1
 ---
 
 Voor mij is het knippen en het kleuren van jouw haar net zo belangrijk als het adviesgesprek. Ik vind het belangrijk om het mooiste bij jou naar boven te halen door goed naar jou te luisteren en jouw haar te analyseren. 
