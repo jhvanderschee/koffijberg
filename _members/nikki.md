@@ -3,6 +3,7 @@ title: Nikki
 naam: Nikki
 image: /img/4.-nikki-master-stylist.jpg
 functie: Master-Stylist
+order: 1
 ---
 
 Ik houd ervan om mensen goed en passend advies te geven. Als iemand een tijdje niet naar de kapper is geweest bijvoorbeeld, dan kunnen we samen uitzoeken wat voor coupe op dat moment bij je past.

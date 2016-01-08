@@ -3,6 +3,7 @@ title: Daniek
 naam: Daniek
 image: /img/5.-daniek-top-stylist.jpg
 functie: Stylist
+order: 1
 ---
 
 Mijn werk is zo leuk omdat het enorm afwisselend is. Mijn klanten variëren van jonge studenten tot  gevestigde zakenvrouwen. 

@@ -3,6 +3,7 @@ title: Elaine
 naam: Elaine
 image: '/img/3.-elaine-master-stylist,-k.jpg'
 functie: Master-stylist & Kleurspecialist
+order: 1
 ---
 
 Ik ben een echt stadsmeisje en dat het bruisende Amsterdam is mijn belangrijkste muze. Ik volg graag de laatste trends op het gebied van kleuringen op de voet, innovatie in het vak inspireert me. 

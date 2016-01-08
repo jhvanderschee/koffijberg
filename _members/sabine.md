@@ -3,6 +3,7 @@ title: Sabine
 naam: Sabine
 image: /img/17.-sabine-receptioniste.jpg
 functie: Receptie
+order: 1
 ---
 
 Als receptioniste ben ik het eerste en laatste aanspreekpunt van onze klanten.&nbsp;
