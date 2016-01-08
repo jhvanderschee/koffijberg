@@ -457,6 +457,15 @@ h3 {
 p {
   margin-bottom: 2em; }
 
+.post-content h2 {
+  margin-bottom: 0;
+  margin-top: 25px;
+  color: #666;
+  font-family: 'PT Serif', serif;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 2em; }
+
 .post-content ul,
 .post-content ol {
   margin-bottom: 2em;
