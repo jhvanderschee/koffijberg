@@ -1,7 +1,7 @@
 ---
 title: Cheyenne
 naam: Cheyenne
-image: /img/5.-daniek-top-stylist.jpg
+image: /img/11.-cheyenne-junior-stylist.jpg
 functie: Junior-Stylist
 ---
 
