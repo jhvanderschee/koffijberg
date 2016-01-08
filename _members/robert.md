@@ -2,9 +2,9 @@
 title: Robert
 naam: Robert
 image: /img/21.-robert-office-manager-e.jpg
-functie: Eigenaar en Hoofd-Manager
+functie: Eigenaar & Office manager
 ---
 
-Eigenaar en Hoofd-Manager
+Het is aan mij om te zorgen dat de dagelijkse gang van zaken soepel verloopt. Dit doe ik met veel plezier. Voor alle vragen/opmerkingen over de salon kun je bij mij terecht. 
 
-*beschikbaarheid: ma / di / wo / do / vr*
+*Beschikbaarheid: ma / di / wo / do / vr*

@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12">
                         <header class="post-header">
-                          <span>Koffijberg</span>
+                          <span>{{ page.functie }}</span>
                           <h1 class="post-title">{{ page.title }}</h1>
                         </header>
             </div>
@@ -22,6 +22,8 @@
                         {% if page.image %}<p><img src="{{ page.image }}" /></p>{% endif %}
                         <div class="post-content">
                         {{ content }}
+
+                        <p><a href="/#team">&larr; Terug naar het team</a></p>
                         </div>
 
             </div>

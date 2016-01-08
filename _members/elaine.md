@@ -2,9 +2,11 @@
 title: Elaine
 naam: Elaine
 image: '/img/3.-elaine-master-stylist,-k.jpg'
-functie: Stylist
+functie: Master-stylist & Kleurspecialist
 ---
 
-Hoi, ik ben Elaine en kom uit Amsterdam. Ik heb als junior twee jaar bij Koffijberg gewerkt en ben sinds kort styliste. Ik heb het erg naar mijn zin bij Koffijberg en ben blij dat ik de kans heb gekregen om door te groeien van junior naar stylist en om veel nieuwe dingen te leren bij Koffijberg.
+Ik ben een echt stadsmeisje en dat het bruisende Amsterdam is mijn belangrijkste muze. Ik volg graag de laatste trends op het gebied van kleuringen op de voet, innovatie in het vak inspireert me. 
 
-*beschikbaarheid: di / wo / vr / za*
+Als Master Styliste ben ik voor alle behandelingen te boeken, maar ik ben vooral gespecialiseerd in kleuren, knippen, föhnen en extensions plaatsen. 
+
+*Beschikbaarheid: ma / di / wo / za*

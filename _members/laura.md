@@ -2,9 +2,7 @@
 title: Laura
 naam: Laura
 image: '/img/3.-elaine-master-stylist,-k.jpg'
-functie: Master-Stylist en Kleurspecialist
+functie: Receptie & Quality Manager
 ---
 
-Hola, mijn naam is Laura. In 2007 ben ik bij Koffijberg komen werken als leerling en hierna doorgegroeid tot de functie Top-Stylist/kleurspecialist. Ik heb het hier erg naar mijn zin, onder andere door de hele leuke collega's. Hier blijft je vak een uitdaging met goede trainingen, shows en fotoshoots. Hope to see you soon. x
-
-*beschikbaarheid: di / wo / vr / za*
+Als Quality manager ben ik het aanspreekpunt voor onze klanten en personeel. Daarnaast draag ik zorg voor de uitstraling van de salon. Mijn creativiteit kan ik kwijt in de aankleding van onze salon, hier haal ik veel plezier uit en onze klanten vinden het erg leuk om iedere keer verrast te worden met nieuwe salon-look! Daarnaast ben ik gespecialiseerd in Balmain Hairextensions en Visagie.

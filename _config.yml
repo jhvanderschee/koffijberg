@@ -8,7 +8,11 @@ defaults:
       type: 'posts'
     values:
       layout: 'post'
-
+  - scope:
+      path: ''
+      type: 'members'
+    values:
+      layout: 'member'
 
 permalink: /nieuws/:year/:month/:day/:title/
 
