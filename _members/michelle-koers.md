@@ -3,7 +3,7 @@ title: Michelle Koers
 naam: Michelle
 image: /img/14.-michelle-receptioniste.jpg
 functie: Receptie
-order: 1
+order: 6
 ---
 
 Ons bedrijf heeft een superfijn team. Vaak merken klanten dan ook op hoe gemoedelijk en gezellig het is in de salon.
