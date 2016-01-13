@@ -3,7 +3,7 @@ title: Cheyenne
 naam: Cheyenne
 image: /img/11.-cheyenne-junior-stylist.jpg
 functie: Junior-Stylist
-order: 1
+order: 5
 ---
 
 Ik ben heel dankbaar dat ik in zo’n professionele omgeving mijn vak kan leren. De passie die ik heb voor knippen en kleuren wordt bij Koffijberg in de juiste banen geleid.
