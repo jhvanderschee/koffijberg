@@ -3,7 +3,7 @@ title: Bo
 naam: Bo
 image: /img/8.-bo-junior-stylist.jpg
 functie: Junior-Stylist
-order: 1
+order: 5
 ---
 
 Onze klanten zien een bezoekje aan Koffijberg als uitje. Het is een fijn idee dat ik kan bijdragen aan dat feel-good moment.
