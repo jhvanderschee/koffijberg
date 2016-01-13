@@ -1,5 +1,5 @@
 ---
-title: Historie
+title: Over ons
 layout: page
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Aanpak
+title: Onze aanpak
 layout: page
 ---
 
