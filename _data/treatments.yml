@@ -128,8 +128,8 @@ specials:
   - item: Complete gezichts make-up
     prijs:
       - stylist: n.v.t.
-        topstylist: n.v.t.
-        masterstylist: n.v.t.
+        topstylist: € 56.90
+        masterstylist: € 56.90
 wash-massages:
   - item: Wasmassage deluxe
     prijs:
