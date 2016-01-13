@@ -3,7 +3,7 @@ title: Martha
 naam: Martha
 image: /img/18.-martha-receptioniste.jpg
 functie: Receptie
-order: 1
+order: 6
 ---
 
 Het contact met onze klanten is een van de leukste aspecten van mijn werk. Alle waardering die wij krijgen voor de service die wij bieden maakt mijn werk extra leuk.
