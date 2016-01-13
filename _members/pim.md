@@ -3,7 +3,7 @@ title: Pim
 naam: Pim
 image: /img/7.-pim-top-stylist.jpg
 functie: Top-Stylist
-order: 1
+order: 2
 ---
 
 Wat mij betreft zou iedereen de salon verlaten met een fantastische up-do. Dit is ook mijn specialiteit.
