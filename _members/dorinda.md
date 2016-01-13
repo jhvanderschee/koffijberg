@@ -3,7 +3,7 @@ title: Dorinda
 naam: Dorinda
 image: /img/12.-dorina-junior-stylist.jpg
 functie: Junior-Stylist
-order: 1
+order: 5
 ---
 
 Ik houd me vooral bezig met het assisteren van de kappers en de nabehandeling van de kleuringen; uitspoelen verzorgen aan de wasbak en nadrogen.
