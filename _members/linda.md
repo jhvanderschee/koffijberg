@@ -3,7 +3,7 @@ title: Linda
 naam: Linda
 image: /img/6.-linda-top-stylist.jpg
 functie: Top-Stylist
-order: 1
+order: 2
 ---
 
 Ik houd ervan mijn creativiteit te vertalen naar mooie coupes.
