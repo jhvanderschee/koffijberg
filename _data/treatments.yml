@@ -120,11 +120,11 @@ wash-and-dry:
         topstylist: € 61.70
         masterstylist: € 67.90
 specials:
-  - item: Metamorfose compleet
+  - item: I-dentity (Metamorfose)
     prijs:
       - stylist: n.v.t.
-        topstylist: n.v.t.
-        masterstylist: n.v.t.
+        topstylist: € 210.00
+        masterstylist: € 223.00
   - item: Complete gezichts make-up
     prijs:
       - stylist: n.v.t.
