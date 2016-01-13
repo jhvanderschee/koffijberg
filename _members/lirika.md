@@ -3,7 +3,7 @@ title: Lirika
 naam: Lirika
 image: /img/20.-lirika-marketing-manage.jpg
 functie: Marketing Manager
-order: 1
+order: 10
 ---
 
 De talenten van mijn fantastische collega’s etaleren is mijn favoriete bezigheid.
