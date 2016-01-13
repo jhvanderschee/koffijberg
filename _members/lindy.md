@@ -3,7 +3,7 @@ title: Lindy
 naam: Lindy
 image: /img/9.-lindy-junior-stylist.jpg
 functie: Junior-Stylist
-order: 1
+order: 5
 ---
 
 Het geven van passend productadvies is mijn specialisatie, dit vind ik ook erg leuk om te doen.
