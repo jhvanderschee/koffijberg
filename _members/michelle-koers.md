@@ -6,6 +6,4 @@ functie: Receptie
 order: 6
 ---
 
-Ons bedrijf heeft een superfijn team. Vaak merken klanten dan ook op hoe gemoedelijk en gezellig het is in de salon.
-
-Hier ben ik trots op en doe graag extra mijn best om dit in stand te houden. Toevallig is het zo dat Koffijberg de allerbeste én meest gezellige klanten heeft dus dat gaat heel goed samen!
+Ons bedrijf heeft een superfijn team. Vaak merken klanten op hoe gemoedelijk en gezellig het is in de salon. Hier ben ik trots op en ik doe graag extra mijn best om dit in stand te houden. Koffijberg heeft het allerbeste team &eacute;n de meest gezellige klanten. Dat gaat heel goed samen.

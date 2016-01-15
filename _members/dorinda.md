@@ -6,6 +6,4 @@ functie: Junior-Stylist
 order: 5
 ---
 
-Ik houd me vooral bezig met het assisteren van de kappers en de nabehandeling van de kleuringen; uitspoelen verzorgen aan de wasbak en nadrogen.
-
-Het contact dat je dan hebt met de klanten vind ik heel gezellig! De gedrevenheid van mijn collega’s is enorm leerzaam en inspirerend.
+Ik houd me vooral bezig met het assisteren van de kappers en de nabehandeling van de kleuringen: uitspoelen, verzorging aan de wasbak en nadrogen. Het contact dat je dan hebt met de klanten vind ik heel gezellig! Daarnaast is de gedrevenheid van mijn collega’s enorm leerzaam en inspirerend voor mij.
