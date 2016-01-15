@@ -2,15 +2,7 @@
 title: I-dentity
 ---
 
-Koffijberg heeft een nieuwe metamorfose: I-dentity.&nbsp;
-
-<u></u>
-
-<u></u>
-
-<u></u>
-
-<u></u>Volume, vorm, kleur en conditie van je haar zeggen veel over wie je bent of over wat je wilt uitstralen. Door je kapsel geef je een stukje van je identiteit prijs.&nbsp;
+Koffijberg heeft een nieuwe metamorfose: I-dentity. Volume, vorm, kleur en conditie van je haar zeggen veel over wie je bent of over wat je wilt uitstralen. Door je kapsel geef je een stukje van je identiteit prijs.&nbsp;
 
 <u></u>
 
@@ -36,9 +28,7 @@ Met I-dentity kijken we verder dan je gezichtsvorm of huidskleur. Ook verder dan
 
 <u></u>
 
-<u></u>
-
-Gun jezelf deze unieke kans om samen met een van onze stylisten jouw eigen persoonlijke statement af te geven.
+<u></u>Gun jezelf deze unieke kans om samen met een van onze stylisten jouw eigen persoonlijke statement af te geven.
 
 <u></u>
 
