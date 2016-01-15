@@ -1,7 +1,7 @@
 ---
 title: Philine
 naam: Philine
-image: /img/2.-stephanie-master-stylist.jpg
+image: /img/13.-philine-junior-stylist.jpg
 functie: Junior Stylist
 order: 1
 ---
