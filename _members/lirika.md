@@ -6,8 +6,6 @@ functie: Marketing Manager
 order: 10
 ---
 
-De talenten van mijn fantastische collega’s etaleren is mijn favoriete bezigheid.
+De talenten etaleren van mijn fantastische collega’s is mijn favoriete bezigheid. Ik houd onze klanten op de hoogte van alle nieuwe ontwikkelingen in de salon en ook over de nieuwste trends op het gebied van haar en uiterlijk.
 
-Ik houd onze klanten op de hoogte van alle nieuwe ontwikkelingen in de salon, maar ook over de nieuwste trends op het gebied van haar en uiterlijk.
-
-*Beschikbaarheid: ma / di / wo / do*
+&nbsp;
