@@ -8,25 +8,23 @@ Koffijberg heeft een nieuwe metamorfose: I-dentity.&nbsp;
 
 <u></u>
 
-<u></u>&nbsp;
-
 <u></u>
 
-Volume, vorm, kleur en conditie van je haar zeggen veel over wie je bent of over wat je wilt uitstralen. Door je kapsel geef je een stukje van je identiteit prijs.&nbsp;
-
-<u></u>
-
-<u></u>Mooi haar versterkt ook je innerlijk. Het is bewezen dat er een direct verband is tussen je gevoel van eigenwaarde en (de reacties van anderen op) je haar.
+<u></u>Volume, vorm, kleur en conditie van je haar zeggen veel over wie je bent of over wat je wilt uitstralen. Door je kapsel geef je een stukje van je identiteit prijs.&nbsp;
 
 <u></u>
 
 <u></u>
 
-<u></u>**I-dentity
+Mooi haar versterkt ook je innerlijk. Het is bewezen dat er een direct verband is tussen je gevoel van eigenwaarde en (de reacties van anderen op) je haar.
 
 <u></u>
 
-<u></u>**
+<u></u>
+
+<u></u>
+
+## I-dentity
 
 Daarom heeft Kimm Koffijberg I-dentity ontwikkeld. De nieuwe metamorfose om je te adviseren over een nieuwe haarkleur, een nieuw kapsel en bijpassende visagie.
 
