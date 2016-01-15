@@ -3,6 +3,8 @@ title: Onze aanpak
 layout: page
 ---
 
+Onze aanpak staat al 40 jaar voor vakmanschap, creativiteit en vernieuwing op het gebied van kapsels, haarkleuringen en styling en is absoluut trendsettend.&nbsp;
+
 ## Interesse en aandacht
 
 Onze kappers en kapsters hebben veel interesse in jou en in je manier van leven. Als je dat wilt, nemen zij graag de tijd om samen met je te onderzoeken welke coupe, haarkleur en styling het beste bij jouw lifestyle past. Wij vinden het belangrijk dat je langere tijd tevreden bent met je kapsel en het ook thuis goed kunt onderhouden.
