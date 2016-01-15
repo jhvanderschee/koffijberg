@@ -94,9 +94,9 @@ colorings:
         masterstylist: € 84.35
   - item: Bovenstaande behandelingen is slechts een selectie van ons aanbod in kleurbehandelingen
     prijs:
-      - stylist: n.v.t.
-        topstylist: n.v.t.
-        masterstylist: n.v.t.
+      - stylist: ''
+        topstylist: ''
+        masterstylist: ''
 blow-dry:
   - item: Normaal (30 min)
     prijs:
