@@ -19,4 +19,7 @@ permalink: /nieuws/:year/:month/:day/:title/
 collections:
   members:
     output: true
-    permalink: /members/:path/
+    permalink: /team/:path/
+  treatments:
+    output: true
+    permalink: /behandelingen/:path/
