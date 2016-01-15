@@ -1,21 +1,21 @@
-  - dag: 'maandag'
-    vanaf: '9.30'
-    tot: '19.00'
-  - dag: 'dinsdag'
-    vanaf: '9.30'
-    tot: '19.00'
-  - dag: 'woensdag'
-    vanaf: '9.30'
-    tot: '19.00'
-  - dag: 'donderdag'
-    vanaf: '9.30'
-    tot: '19.00'
-  - dag: 'vrijdag'
-    vanaf: '9.30'
-    tot: '19.00'
-  - dag: 'zaterdag'
-    vanaf: '9.30'
-    tot: '19.00'
-  - dag: 'zondag'
-    vanaf: 'gesloten'
-    tot: 'gesloten'
+- dag: maandag
+  vanaf: '9.15'
+  tot: '19.00'
+- dag: dinsdag
+  vanaf: '9.15'
+  tot: '21.00'
+- dag: woensdag
+  vanaf: '9.15'
+  tot: '19.30'
+- dag: donderdag
+  vanaf: '9.15'
+  tot: '21.00'
+- dag: vrijdag
+  vanaf: '9.15'
+  tot: '19.00'
+- dag: zaterdag
+  vanaf: '8.15'
+  tot: '17.00'
+- dag: zondag
+  vanaf: gesloten
+  tot: gesloten
