@@ -1,25 +1,25 @@
 ladies:
-  - item: Wassen knippen
+  - item: Wassen-knippen
     prijs:
       - stylist: € 39.00
         topstylist: € 57.55
         masterstylist: € 63.85
-  - item: Wassen knippen drogen
+  - item: Wassen-knippen-drogen
     prijs:
       - stylist: € 49.15
         topstylist: € 68.00
         masterstylist: € 75.20
-  - item: Wassen knippen föhnen
+  - item: Wassen-knippen-föhnen
     prijs:
       - stylist: € 56.05
         topstylist: € 74.60
         masterstylist: € 82.50
-  - item: Wassen knippen föhnen middellang
+  - item: Wassen-knippen-föhnen-middellang
     prijs:
       - stylist: € 66.75
         topstylist: € 87.90
         masterstylist: € 96.00
-  - item: Wassen knippen föhnen lang
+  - item: Wassen-knippen-föhnen-lang
     prijs:
       - stylist: € 72.85
         topstylist: € 101.40
