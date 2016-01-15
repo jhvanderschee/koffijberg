@@ -6,8 +6,6 @@ functie: Stylist
 order: 4
 ---
 
-Mijn werk is zo leuk omdat het enorm afwisselend is. Mijn klanten variëren van jonge studenten tot  gevestigde zakenvrouwen. 
-
-Een van mijn favoriete behandelingen om te doen is highlights zetten. Ik houd ervan om verschillende technieken te gebruiken bij het zetten van highlights, daardoor heb je altijd prachtig resultaat, passend bij de klant. 
+Mijn werk is zo leuk omdat het enorm afwisselend is. Mijn klanten vari&euml;ren van jonge studenten tot&nbsp; gevestigde zakenvrouwen. Een van mijn favoriete behandelingen is het aanbrengen van highlights. Ik houd ervan daarbij verschillende technieken te gebruiken. Daardoor heb je altijd een prachtig resultaat, passend bij de klant.
 
 *Beschikbaarheid: ma / do / vr / za*
