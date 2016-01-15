@@ -24,11 +24,7 @@ Daarom heeft Kimm Koffijberg I-dentity ontwikkeld. De nieuwe metamorfose om je t
 
 <u></u>
 
-Met I-dentity kijken we verder dan je gezichtsvorm of huidskleur. Ook verder dan de laatste trends. Wij vinden dat jouw kapsel en visagie jouw identiteit en lifestyle helemaal moeten onderstrepen. Wat wil jij laten zien? Wat wil jij uitstralen? Wat heb jij nodig?
-
-<u></u>
-
-<u></u>Gun jezelf deze unieke kans om samen met een van onze stylisten jouw eigen persoonlijke statement af te geven.
+Met I-dentity kijken we verder dan je gezichtsvorm of huidskleur. Ook verder dan de laatste trends. Wij vinden dat jouw kapsel en visagie jouw identiteit en lifestyle helemaal moeten onderstrepen. Wat wil jij laten zien? Wat wil jij uitstralen? Wat heb jij nodig? Gun jezelf deze unieke kans om samen met een van onze stylisten jouw eigen persoonlijke statement af te geven.
 
 <u></u>
 
