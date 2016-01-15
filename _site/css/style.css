@@ -293,6 +293,10 @@ body.iOS .salon3 {
   padding-left: 15px;
   padding-right: 15px; }
 
+.behandelingen td a {
+  text-decoration: none;
+  color: #666; }
+
 footer p {
   margin: 0;
   font-family: 'PT Serif', serif;
