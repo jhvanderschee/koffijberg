@@ -1,9 +1,8 @@
-/nieuws /nieuws/
 /team /#team
 /kerastase /
 /modelijn /
 /bruidskapsels /
-/info /
+/info /#over-ons
 /langhaar /
 /metamorfoses /
 /mailinglist /
