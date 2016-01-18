@@ -1,0 +1,15 @@
+
+
+ILLUMINA COLOR van Wella Professionals is een nieuwe permanente haarkleuring waarmee het beeld dat we van haarkleuringen hebben voorgoed gaat veranderen. Net als met make-up, kunnen vrouwen die hun haar kleuren worden verdeeld in twee groepen. De ene groep gaat voor een verzadigd, opvallend kleureffect – rode lippen, krachtige foundation, duidelijk zichtbare haarkleur en een gestyled resultaat. Terwijl de andere groep de voorkeur geeft aan een meer natuurlijk, transparant resultaat: getinte dagcr&egrave;me, gekleurde lipgloss en een transparante, subtiele haarlook. Met andere woorden, denk aan Dita von Teese versus Gisele B&uuml;ndchen. Als die glossy, heldere gloed hetgeen is waarnaar jij verlangt dan is ILLUMINA COLOR het helemaal voor jou. Het resultaat ervan is een glinsterende transparantie die een bovennatuurlijke look geeft.
+
+**Technologische doorbraak&nbsp;**
+Wist je dat de buitenste laag van je haar, de schubbenlaag, transparant is, net als je nagels? De conditie van je haarschubben is extreem belangrijk omdat deze het licht doorlaten en de werkelijke kleuren van het haar van binnenuit laten doorschijnen. Echter onzuiverheden als minuscule metalen uit het water waarmee je je haar wast blijven achter en kunnen aan de haarschubben vast blijven zitten. Dit kan tijdens het kleurproces zorgen voor de vorming van vrije radicalen die op hun beurt schade kunnen veroorzaken aan de schubbenlaag.&nbsp;
+Dit betekent dat de schubbenlaag dan niet meer transparant is. Dus wanneer het licht er op schijnt, wordt het gebroken en kan het niet in het haar doorschijnen of de kleur met dezelfde intensiteit reflecteren. Wat zich uit in minder schittering, kleuring na kleuring.&nbsp;
+
+**ILLUMINA COLOR**, de nieuwe permanente haarkleuring van Wella Professionals, bevat geavanceerde Microlight™ technologie, met miljoenen microdeeltjes die de minuscule metalen die op het haar zijn achtergebleven inkapselen. Zo wordt beschadiging van de schubbenlaag voorkomen en blijft het haaroppervlak gezonder en transparanter, kleuring na kleuring: in feite geeft ILLUMINA COLOR 20% minder beschadiging aan de schubbenlaag\* en 70% meer lichtreflectie\* evenals tot 100% grijsdekking.&nbsp;
+
+**Haarstylisten met een passie voor haar**
+Wella Professionals Global Creative Director Color, Josh Wood zegt erover: “ILLUMINA COLOR cre&euml;ert een glans zoals je die nog nooit hebt gezien. We moeten er nog ons best voor doen om een nieuw woord te vinden dat het resultaat van dit product goed omschrijft. Het is zo lumineus… het heeft een zo echte lichtheid waarvan ik denk dat dit is hoe haar er zou moeten uitzien.” Kimm Koffijberg, Creative Director Color Wella Professionals Nederland: “ILLUMINA COLOR heeft iets magisch: de helderheid van de kleuren waardoor je heel veel natuurlijk reli&euml;f in het haar behoudt”.&nbsp;
+
+**ILLUMINA COLOR** is uiteraard verkrijgbaar bij Koffijberg Hairdressers. De kapper in Amsterdam waar de klant centraal staat.&nbsp;
+\*Kleuring na kleuring versus de grootste concurrent

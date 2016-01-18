@@ -1,0 +1,27 @@
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: 'page'
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'members'
+    values:
+      layout: 'member'
+
+permalink: /nieuws/:year/:month/:day/:title/
+
+collections:
+  members:
+    output: true
+    permalink: /team/:path/
+  treatments:
+    output: true
+    permalink: /behandelingen/:path/
+
+title: 'Kapper Koffijberg Hairdressers in Amsterdam'

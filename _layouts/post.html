@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="page-template post">
+	  {% include header.html %}
+    <div class="salon2"></div>
+
+    <div class="twocols">
+      <div class="container">
+      <article class="">
+        <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-12">
+                        <header class="post-header">
+                          <span><!-- Whitespace added for readability -->
+                          {{ page.date | date: "%-d" }}
+                          {% assign m = page.date | date: "%-m" %}
+                          {% case m %}
+                            {% when '1' %}januari
+                            {% when '2' %}februari
+                            {% when '3' %}maart
+                            {% when '4' %}april
+                            {% when '5' %}mei
+                            {% when '6' %}juni
+                            {% when '7' %}juli
+                            {% when '8' %}augustus
+                            {% when '9' %}september
+                            {% when '10' %}oktober
+                            {% when '11' %}november
+                            {% when '12' %}december
+                          {% endcase %}
+                          {{ page.date | date: "%Y" }}
+                          </span>
+                          <h1 class="post-title">{{ page.title }}</h1>
+                        </header>
+            </div>
+            <div class="col-sm-12 col-md-9 col-lg-8">
+                                             
+                        {% if page.image %}<p class="featured-image"><img src="{{ page.image }}" /></p>{% endif %}
+                        <div class="post-content">
+                          {{ content }}
+                        </div>
+
+            </div>
+            <div class="col-lg-1"></div>
+            <div class="hidden-xs hidden-sm col-md-3 col-lg-3">                         
+                        <div class="post-content">
+                              <div></div><p class="sidebar" style="float: right; margin-top: 7px;">{% include contactinfo.html %}</p>
+                        </div>
+            </div>
+          </div>
+                </article>
+      </div>
+    </div>
+
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="page-template post">
+	  {% include header.html %}
+    <div class="salon2"></div>
+
+    <div class="twocols">
+      <div class="container">
+      <article class="">
+        <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-12">
+                        <header class="post-header">
+                          <span>Koffijberg
+                          </span>
+                          <h1 class="post-title">{{ page.title }}</h1>
+                        </header>
+            </div>
+            <div class="col-sm-12 col-md-9 col-lg-8">
+                                             
+                        <div class="post-content">
+                        {{ content }}
+<p>{% for post in site.posts %}{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p>
+                        </div>
+
+            </div>
+            <div class="col-lg-1"></div>
+            <div class="hidden-xs hidden-sm col-md-3 col-lg-3">                         
+                        <div class="post-content">
+                              <div></div><p class="sidebar" style="float: right; margin-top: 7px;">{% include contactinfo.html %}</p>
+                        </div>
+            </div>
+          </div>
+                </article>
+      </div>
+    </div>
+
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

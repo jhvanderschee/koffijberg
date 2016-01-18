@@ -3,29 +3,22 @@
 <div class="site-footer">
       <div class="container">
         <div class="row">
-            <div class="col-lg-2"></div>
-            <div class="col-lg-2 col-sm-3 col-xs-6"><h3>Koffijberg</h3><p>Scheldestraat 8<br />1078 GK Amsterdam<br />020-6732374<br /><a href="mailto:receptie@koffijberg.nl">receptie@koffijberg.nl</a><br />KVK 1121429<br />BTW 23423902340</p></div>
-            <div class="col-lg-2 col-sm-3 col-xs-6"><h3>Openingstijden</h3><p class="text-right">
-            	<span class="day">Maandag</span>9.30-19.00<br />
-            	<span class="day">Dinsdag</span>9.30-21.00<br />
-            	<span class="day">Woensdag</span>9.30-17.30<br />
-            	<span class="day">Donderdag</span>9.30-21.00<br />
-            	<span class="day">Vrijdag</span>9.30-19.00<br />
-            	<span class="day">Zaterdag</span>8.30-17.00
-            </p></div>
-            <div class="col-lg-4 col-sm-6 text-center"><h3>Nieuws</h3><p>{% for post in site.posts %}<a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p></div>
-            <div class="col-lg-2"></div>
+            <div class="col-lg-7 col-sm-6 text-center visible-xs"><h3 style="cursor: pointer;" onclick="document.location.href='/nieuws';">Nieuws</h3><p>{% for post in site.posts limit:7  %}{{ post.date | date: "%-d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p></div>
+            <div class="col-lg-3 col-sm-3 col-xs-6"><h3 id="contact">Contact</h3><p>{% include contactinfo.html %}</p></div>
+            <div class="col-lg-2 col-sm-3 col-xs-6"><h3>Openingstijden</h3>{% include openingstijden.html %}</div>
+            <div class="col-lg-7 col-sm-6 text-center hidden-xs"><h3 style="cursor: pointer;" onclick="document.location.href='/nieuws';">Nieuws</h3><p>{% for post in site.posts limit:7 %}{{ post.date | date: "%-d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p></div>
           </div>
       </div>
 </div>
 <div class="site-footer2">
       <div class="container">
         <div class="row">
-        	<div class="col-sm-6"><p>Koffijberg is een topkapper, gevestigd in Amsterdam aan de Scheldestraat.</p></div>
-        	<div class="col-sm-6 text-right"><p>Disclaimer&nbsp;&nbsp;&nbsp;
-        	<i class="fa fa-facebook-square"></i> 
-        	<i class="fa fa-pinterest-square"></i> 
-        	<i class="fa fa-instagram"></i></p></div>
+        	<div class="col-lg-8 col-sm-7"><p>Koffijberg Hairdressers - voor persoonlijk advies, prachtige haarkleuringen, service, kwaliteit en vakmanschap</p></div>
+        	<div class="col-lg-4 col-sm-5 text-right"><p><a href="/privacy">Privacy</a>&nbsp;&nbsp;&nbsp;<a href="/disclaimer">Disclaimer</a>&nbsp;&nbsp;&nbsp;
+        	<i class="fa icon-facebook-squared" onclick="window.open('https://www.facebook.com/Koffijberg-Hairdressers-143537182417933/');"></i> 
+        	<i class="fa icon-twitter-squared" onclick="window.open('https://twitter.com/KoffijbergHair');"></i> 
+        	<i class="fa icon-pinterest-squared" onclick="window.open('https://nl.pinterest.com/koffijberghair/');"></i> 
+        	<i class="fa icon-instagram" onclick="window.open('https://instagram.com/koffijberghairdressers/');"></i></p></div>
         </div>
       </div>
 </div>
@@ -34,6 +27,4 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="{{ "/js/jquery-1.11.2.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/jasny-bootstrap.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/custom.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/combined.js" | prepend: site.baseurl }}"></script>

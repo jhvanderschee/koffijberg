@@ -1,0 +1,5 @@
+			<p class="text-right">
+            {% for d in site.data.opening-hours %}
+            <span class="day">{{ d.dag }}</span><span class="time">{{ d.vanaf }}{% if d.vanaf != 'gesloten' %}-{{ d.tot }}{% endif %}</span><br />
+            {% endfor %}
+            </p>
