@@ -8,5 +8,3 @@ highlights:
   - title: Style I-dentity
     text: "Denk je na over een nieuw kapsel? Of wil je je haar een meer eigentijdse look geven die past bij jouw lifestyle? Kom dan bij ons langs. \nWij staan bekend om de kwaliteit van onze knip- en kleurbehandelingen. Onze halfjaarlijkse nieuwe collecties zijn te zien in nationale en internationale vakbladen. Wij zorgen ervoor dat het nieuwe model en de kleur van je haar elkaar versterken en je uitstraling een nieuwe boost geven."
 ---
-
-Nothing to see here... move along...
