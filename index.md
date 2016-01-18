@@ -8,3 +8,5 @@ highlights:
   - title: Style I-dentity
     text: "Denk je na over een nieuw kapsel? Of wil je je haar een meer eigentijdse look geven die past bij jouw lifestyle? Kom dan bij ons langs. \nWij staan bekend om de kwaliteit van onze knip- en kleurbehandelingen. Onze halfjaarlijkse nieuwe collecties zijn te zien in nationale en internationale vakbladen. Wij zorgen ervoor dat het nieuwe model en de kleur van je haar elkaar versterken en je uitstraling een nieuwe boost geven."
 ---
+
+Topkapper in Amsterdam die garant staat voor persoonlijk advies, prachtige haarkleuringen, service, kwaliteit en vakmanschap. Kapsalon Koffijberg heeft in het verleden onder andere de Global Salon Business Award gewonnen en was in 2013 winnaar van de Coiffure Award. Onze kappers en kapsters krijgen ook veel erkenning uit de branche in de vorm van andere prijzen.
