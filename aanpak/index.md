@@ -1,6 +1,7 @@
 ---
 title: Onze aanpak
 layout: page
+excerpt: 'Onze aanpak staat al 40 jaar voor vakmanschap, creativiteit en vernieuwing op het gebied van kapsels, haarkleuringen en styling en is absoluut trendsettend.'
 ---
 
 Onze aanpak staat al 40 jaar voor vakmanschap, creativiteit en vernieuwing op het gebied van kapsels, haarkleuringen en styling en is absoluut trendsettend.&nbsp;
