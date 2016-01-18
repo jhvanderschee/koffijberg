@@ -23,5 +23,6 @@ collections:
   treatments:
     output: true
     permalink: /behandelingen/:path/
-    
-description: 'Koffijberg Hairdressers - voor persoonlijk advies, prachtige haarkleuringen, service, kwaliteit en vakmanschap'
+
+title: Koffijberg Hairdressers
+description: 'Topkapper in Amsterdam die garant staat voor persoonlijk advies, prachtige haarkleuringen, service, kwaliteit en vakmanschap.'
