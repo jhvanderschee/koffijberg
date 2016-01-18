@@ -26,8 +26,8 @@
 /mijn/login.php /contact
 /modelijn/roughglam/ /
 /modelijn/illuminatedbeauty /
-/mijn/voorwaarden.php /disclaimer.html
-/mijn/voorwaarden_privacy.php /disclaimer.html
+/mijn/voorwaarden.php /disclaimer
+/mijn/voorwaarden_privacy.php /disclaimer
 /?p=shop/basket/basket.php /contact
 /?p=shop/basket/add.php /contact
 /?n=244 /
