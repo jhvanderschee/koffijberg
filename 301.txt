@@ -1,4 +1,4 @@
-/nieuws /
+/nieuws /nieuws/
 /team /#team
 /kerastase /
 /modelijn /
