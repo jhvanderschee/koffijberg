@@ -24,4 +24,5 @@ collections:
     output: true
     permalink: /behandelingen/:path/
 
+baseurl: http://www.koffijberg.nl
 title: 'Kapper Koffijberg Hairdressers in Amsterdam'
