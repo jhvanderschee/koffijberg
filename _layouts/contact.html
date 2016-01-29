@@ -80,7 +80,9 @@
                                              
                         <div class="post-content">
                         {{ content }}
-                        
+                        {% if page.url == '/contact/nieuwsbrief/' %}
+                            mailchimp
+                        {% endif %}
                         {% if page.url == '/contact/' %}
 
                         <form id="contact_form" action="//formspree.io/receptie@koffijberg.nl" method="POST">
