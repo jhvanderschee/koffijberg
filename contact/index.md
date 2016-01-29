@@ -4,6 +4,6 @@ layout: contact
 excerpt: 'Wij helpen u graag met een professioneel en persoonlijk advies. Vul onderstaand formulier in en wij zullen zo snel mogelijk contact met u opnemen. U kunt ons natuurlijk ook bellen op 020-6732374.'
 ---
 
-Wij helpen u graag met een professioneel en persoonlijk advies. Vul onderstaand formulier in en wij zullen zo snel mogelijk contact met u opnemen. U kunt ons natuurlijk ook bellen op 020-6732374. Wilt u niets missen? Schrijf u dan in voor onze nieuwsbrief.
+Wij helpen u graag met een professioneel en persoonlijk advies. Vul onderstaand formulier in en wij zullen zo snel mogelijk contact met u opnemen. U kunt ons natuurlijk ook bellen op 020-6732374. Wilt u niets missen? Schrijf u dan in voor onze [nieuwsbrief](/contact/nieuwsbrief/index.html).
 
-<i class="fa icon-whatsapp" style="cursor: default;"></i> Whats-App ons op 06-47882233
+**{: .fa.icon-whatsapp} Whats-App ons op 06-47882233
