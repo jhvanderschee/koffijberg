@@ -15,14 +15,14 @@ layout: null
     <url>
       <loc>http://www.koffijberg.nl{{ post.url }}</loc>
       <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
+      <priority>0.7</priority>
     </url>
   {% endfor %}
   {% for post in site.treatments %}
     <url>
       <loc>http://www.koffijberg.nl{{ post.url }}</loc>
       <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
+      <priority>0.7</priority>
     </url>
   {% endfor %}
   {% for page in site.pages %}
