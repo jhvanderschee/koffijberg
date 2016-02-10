@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="page-template post">
+  <body class="page-template post" onload="if(getParameterByName('url')) setimage('url'); {% assign num_images = page.images | size %}{% if num_images <= 1 %}document.getElementById('controls').style.display='none';{% endif %}">
 	  {% include header.html %}
     <div class="salon2"></div>
 
