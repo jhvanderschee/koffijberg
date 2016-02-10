@@ -7,11 +7,8 @@ Amsterdam, maart 2015 – Gedurfd en stijlvol is ‘Classy Progressive’, de ni
 ## Kniptechniek
 
 De kniptechniek gaat uit van de natuurlijke valling van het haar en is aangepast aan de haarstructuur en vooral aan de persoonlijkheid van de vrouw.
-
 Er is heel goed gekeken waar elementen kunnen worden versterkt of juist moeten worden verborgen voor een krachtige uitstraling. Mogen bijvoorbeeld scherpe lijnen van het gezicht worden geaccentueerd? Of moeten ze juist naar de achtergrond worden gebracht?
-
 Kimm versterkt een vierkante kaaklijn door het knippen van een rechthoekige pony en door het overige haar recht te laten vallen.
-
 Of ze knipt zijkanten kort, of brengt een undercut aan, en houdt bovenpartijen lang. Hierdoor kan ze heel goed met de structuur van het haar werken en kan ze verschillende (zachte) vormen cre&euml;ren of geeft ze de natuurlijke valling van het haar alle aandacht.
 
 ## Kleur
