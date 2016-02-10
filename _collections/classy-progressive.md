@@ -1,5 +1,7 @@
 ---
 title: Classy Progressive
+images:
+  image: 
 ---
 
 Amsterdam, maart 2015 – Gedurfd en stijlvol is ‘Classy Progressive’, de nieuwe voorjaar-zomercollectie 2015 van Kimm Koffijberg. Sophisticated en playful. Persoonlijkheid en de natuurlijke valling van het haar zijn uitgangspunt voor de vorm van de kapsels. Door de kniptechnieken komen elementen naar voren of gaan juist naar de achtergrond. Wat dan volgt, is een heftig kleurenspel van verschillende pastels: rose, groen en violet. De progressive pastels spelen met de classy basis. Classy Progressive is spelen met kleur - heel veel spelen met kleur - als antwoord op de vraag: “Wie durf ik te zijn?”
