@@ -32,7 +32,7 @@ function getParameterByName(name) {
 function setimage() {
     var url = getParameterByName('url');
     document.getElementById('lightbox').style.display = 'table';
-    document.getElementById('image').src = 'http:// koffijberg.imgix.net'+url+'?w=1000&h=1000&fit=max';
+    document.getElementById('image').src = 'http://koffijberg.imgix.net'+url+'?w=1000&h=1000&fit=max';
 }
 function closeimage() {
     document.location.href = '{{ page.url }}';
