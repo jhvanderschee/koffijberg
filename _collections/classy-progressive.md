@@ -22,20 +22,10 @@ De kleding van de modellen is gedurfd en vrouwelijk. Van glad en glanzend tot aa
 
 ## Producten
 
-Producten: Keune Haircosmetics
-Kleur: Ultimate Blond serie
-Infinite Colors by Tinta Colors
-So Pure Color Balance
-Verzorging: So Pure Balance, Care Line
-Styling: So Pure styling range, Blend, Design
+Producten: Keune Haircosmetics | Kleur: Ultimate Blond serie, Infinite Colors by Tinta Colors, So Pure Color Balance | Verzorging: So Pure Balance, Care Line | Styling: So Pure styling range, Blend, Design
 
 ## Credits
 
-Kapsels /kleurtechnieken: Kimm Koffijberg and Creative team\*
-\*Creative team: Kimm Koffijberg, Wendy van den Hoek, Elaine van Sermond en Daniek Vermeij
-Fotografie: Hans Mooijer
-Visagie: Dominika Swietlink
-Styling: Gerline Hornsveld
-Met dank aan: Keune Haircosmetics
+Kapsels /kleurtechnieken: Kimm Koffijberg and Creative team (Kimm Koffijberg, Wendy van den Hoek, Elaine van Sermond en Daniek Vermeij) | Fotografie: Hans Mooijer | Visagie: Dominika Swietlink | Styling: Gerline Hornsveld | Met dank aan: Keune Haircosmetics
 
 &nbsp;
