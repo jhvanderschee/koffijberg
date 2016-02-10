@@ -38,7 +38,8 @@ Styling: | So Pure styling range, Blend, Design |
 
 ## Credits
 
-Kapsels/kleurtechnieken: | Kimm Koffijberg and Creative team (Kimm Koffijberg, Wendy van den Hoek, Elaine van Sermond en Daniek Vermeij) | 
+Kapsels/kleurtechnieken: | Kimm Koffijberg and Creative team |
+Creative team: | Wendy van den Hoek, Elaine van Sermond en Daniek Vermeij | 
 Fotografie: | Hans Mooijer | 
 Visagie: | Dominika Swietlink | 
 Styling: | Gerline Hornsveld | 
