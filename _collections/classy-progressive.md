@@ -1,14 +1,14 @@
 ---
 title: Classy Progressive
 images:
-  image: 
+  image: /uploads/classy1.jpg
 ---
 
 Amsterdam, maart 2015 – Gedurfd en stijlvol is ‘Classy Progressive’, de nieuwe voorjaar-zomercollectie 2015 van Kimm Koffijberg. Sophisticated en playful. Persoonlijkheid en de natuurlijke valling van het haar zijn uitgangspunt voor de vorm van de kapsels. Door de kniptechnieken komen elementen naar voren of gaan juist naar de achtergrond. Wat dan volgt, is een heftig kleurenspel van verschillende pastels: rose, groen en violet. De progressive pastels spelen met de classy basis. Classy Progressive is spelen met kleur - heel veel spelen met kleur - als antwoord op de vraag: “Wie durf ik te zijn?”
 
 ## Kniptechniek
 
-De kniptechniek gaat uit van de natuurlijke valling van het haar en is aangepast aan de haarstructuur en vooral aan de persoonlijkheid van de vrouw. Er is heel goed gekeken waar elementen kunnen worden versterkt of juist moeten worden verborgen voor een krachtige uitstraling. Mogen bijvoorbeeld scherpe lijnen van het gezicht worden geaccentueerd? Of moeten ze juist naar de achtergrond worden gebracht? Kimm versterkt een vierkante kaaklijn door het knippen van een rechthoekige pony en door het overige haar recht te laten vallen. Of ze knipt zijkanten kort, of brengt een undercut aan, en houdt bovenpartijen lang. Hierdoor kan ze heel goed met de structuur van het haar werken en kan ze verschillende (zachte) vormen cre&euml;ren of geeft ze de natuurlijke valling van het haar alle aandacht.
+De kniptechniek gaat uit van de natuurlijke valling van het haar en is aangepast aan de haarstructuur en vooral aan de persoonlijkheid van de vrouw. Er is heel goed gekeken waar elementen kunnen worden versterkt of juist moeten worden verborgen voor een krachtige uitstraling. Mogen bijvoorbeeld scherpe lijnen van het gezicht worden geaccentueerd? Of moeten ze juist naar de achtergrond worden gebracht? Kimm versterkt een vierkante kaaklijn door het knippen van een rechthoekige pony en door het overige haar recht te laten vallen. Of ze knipt zijkanten kort, of brengt een undercut aan, en houdt bovenpartijen lang. Hierdoor kan ze heel goed met de structuur van het haar werken en kan ze verschillende (zachte) vormen creëren of geeft ze de natuurlijke valling van het haar alle aandacht.
 
 ## Kleur
 
@@ -20,14 +20,12 @@ Bij de totstandkoming van de coupes is uitgegaan van wat de vrouw zelf wil en ka
 
 ## Kleding en make-up
 
-De kleding van de modellen is gedurfd en vrouwelijk. Van glad en glanzend tot aaibaar. Er is veel aandacht voor structuur en vorm. Zwart en wit, metallic en pastels onderstrepen de persoonlijkheid van de modellen. Voor de make-up is gekozen voor een naturelle look met zachte pasteltinten. Balsems, highlighters en cr&egrave;meblush geven glans.
+De kleding van de modellen is gedurfd en vrouwelijk. Van glad en glanzend tot aaibaar. Er is veel aandacht voor structuur en vorm. Zwart en wit, metallic en pastels onderstrepen de persoonlijkheid van de modellen. Voor de make-up is gekozen voor een naturelle look met zachte pasteltinten. Balsems, highlighters en crèmeblush geven glans.
 
 ## Producten
 
-Producten: Keune Haircosmetics \| Kleur: Ultimate Blond serie, Infinite Colors by Tinta Colors, So Pure Color Balance \| Verzorging: So Pure Balance, Care Line \| Styling: So Pure styling range, Blend, Design
+Producten: Keune Haircosmetics | Kleur: Ultimate Blond serie, Infinite Colors by Tinta Colors, So Pure Color Balance | Verzorging: So Pure Balance, Care Line | Styling: So Pure styling range, Blend, Design
 
 ## Credits
 
-Kapsels/kleurtechnieken: Kimm Koffijberg and Creative team (Kimm Koffijberg, Wendy van den Hoek, Elaine van Sermond en Daniek Vermeij) \| Fotografie: Hans Mooijer \| Visagie: Dominika Swietlink \| Styling: Gerline Hornsveld \| Met dank aan: Keune Haircosmetics
-
-&nbsp;
+Kapsels/kleurtechnieken: Kimm Koffijberg and Creative team (Kimm Koffijberg, Wendy van den Hoek, Elaine van Sermond en Daniek Vermeij) | Fotografie: Hans Mooijer | Visagie: Dominika Swietlink | Styling: Gerline Hornsveld | Met dank aan: Keune Haircosmetics
