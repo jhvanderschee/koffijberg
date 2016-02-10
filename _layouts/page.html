@@ -19,7 +19,18 @@
             </div>
             <div class="col-sm-12 col-md-9 col-lg-8">
                                              
-                        {% if page.image %}<p><img src="{{ page.image }}" /></p>{% endif %}
+            {% if page.image %}<p><img src="{{ page.image }}" /></p>{% endif %}
+            {% for item in page.images %}
+                {% capture itemimagesize %}{{ item.image | size | minus:2 }}{% endcapture %}
+                {% if forloop.first %}<div class="row" id="gallery">{% endif %}
+                {% if itemimagesize contains '-' %}{% else %}
+                <div class="col-xs-3">
+                    <a href="{{ page.url }}?url={{ item.image }}" class="img"><img src="http://images.koffijberg.nl{{ item.image }}?w=200&h=200&fit=crop" /></a>
+                </div>
+                {% endif %}
+                {% if forloop.last %}</div>{% endif %}
+            {% endfor %}
+            
                         <div class="post-content">
                         {{ content }}
 
