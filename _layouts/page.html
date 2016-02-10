@@ -25,7 +25,7 @@
                 {% if forloop.first %}<div class="row" id="gallery">{% endif %}
                 {% if itemimagesize contains '-' %}{% else %}
                 <div class="col-xs-3">
-                    <a href="{{ page.url }}?url={{ item.image }}" class="img"><img src="http://images.koffijberg.nl{{ item.image }}?w=200&h=200&fit=crop" /></a>
+                    <a href="{{ page.url }}?url={{ item.image }}" class="img"><img src="http://koffijberg.imgix.net{{ item.image }}?w=200&h=200&fit=crop" /></a>
                 </div>
                 {% endif %}
                 {% if forloop.last %}</div>{% endif %}
