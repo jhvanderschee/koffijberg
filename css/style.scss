@@ -357,6 +357,26 @@ label {font-weight: normal;}
 #front img {display: block; width: 100%;}
 .post-content img, .post-content iframe {max-width: 100%;}
 
+#gallery {padding-top: 20px;}
+.fotos #gallery {padding-top: 0; padding-bottom: 20px;}
+#gallery.row {margin-left: -4px; margin-right: -4px;}
+#gallery.row > div {padding: 4px;}
+#gallery img {}
+
+#lightbox {cursor: pointer; display: none; z-index: 99; position: fixed; top: 0; left: 0; background: #222 url('/img/preloader.gif') center center no-repeat; text-align: center;}
+#lightbox #image {z-index: 0; display: inline; max-height: 95vh; max-width: 95vw;}
+#nextbutton {color: white; float: right; width: 50px; height: 50px; line-height: 45px; margin-right: 2.5vw; font-size: 50px;}
+#prevbutton {color: white; float: left; width: 50px; height: 50px; line-height: 45px; margin-left: 2.5vw; font-size: 50px;}
+#closebutton {color: white; position: absolute; top: 2vh; right: 2.5vw; width: 50px; height: 50px; line-height: 50px; margin-left: 2.5vw; font-size: 25px; font-weight: 400;}
+#controls {height: 50px; top: 50%; position: fixed; margin-top: -25px; width: 100%;}
+#controls a {color: white; text-decoration: none;}
+#controls a:hover, #controls a:active {color: silver;}
+
+
+
+
+
+
 @media all and (max-width: 1199px) {
 .behandelingen .sidebar {padding-left: 0!important; border-left: 0!important;}
 }
