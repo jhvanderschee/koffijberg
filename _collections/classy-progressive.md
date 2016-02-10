@@ -31,7 +31,10 @@ De kleding van de modellen is gedurfd en vrouwelijk. Van glad en glanzend tot aa
 
 ## Producten
 
-Producten: Keune Haircosmetics | Kleur: Ultimate Blond serie, Infinite Colors by Tinta Colors, So Pure Color Balance | Verzorging: So Pure Balance, Care Line | Styling: So Pure styling range, Blend, Design
+Producten: | Keune Haircosmetics | 
+Kleur: | Ultimate Blond serie, Infinite Colors by Tinta Colors, So Pure Color Balance | 
+Verzorging: | So Pure Balance, Care Line |
+Styling: | So Pure styling range, Blend, Design |
 
 ## Credits
 
