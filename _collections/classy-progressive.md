@@ -26,6 +26,6 @@ Producten: Keune Haircosmetics \| Kleur: Ultimate Blond serie, Infinite Colors b
 
 ## Credits
 
-Kapsels /kleurtechnieken: Kimm Koffijberg and Creative team (Kimm Koffijberg, Wendy van den Hoek, Elaine van Sermond en Daniek Vermeij) | Fotografie: Hans Mooijer | Visagie: Dominika Swietlink | Styling: Gerline Hornsveld | Met dank aan: Keune Haircosmetics
+Kapsels/kleurtechnieken: Kimm Koffijberg and Creative team (Kimm Koffijberg, Wendy van den Hoek, Elaine van Sermond en Daniek Vermeij) \| Fotografie: Hans Mooijer \| Visagie: Dominika Swietlink \| Styling: Gerline Hornsveld \| Met dank aan: Keune Haircosmetics
 
 &nbsp;
