@@ -2,7 +2,7 @@
 title: Facebook winactie
 ---
 
-We hebben een prijzenpakket t.w.v. &euro;150 klaarstaan voor de winnaar van onze eerste facebookquiz, namelijk de adventskalender van K&eacute;rastase. Verzamel de letters en vorm het juiste woord. Succes! \***LET OP**: De titels van de teksten tellen niet mee.
+We hebben een prijzenpakket t.w.v. 150 klaarstaan voor de winnaar van onze eerste facebookquiz, namelijk de adventskalender van K&eacute;rastase. Verzamel de letters en vorm het juiste woord. Succes! \***LET OP**: De titels van de teksten tellen niet mee.
 
 **Ga naar:**
 
@@ -14,4 +14,4 @@ We hebben een prijzenpakket t.w.v. &euro;150 klaarstaan voor de winnaar van onze
 6. Onder ‘Openingstijden’ de 6<sup>de</sup> letter van de vierde dag
 
 
-Gefeliciteerd! Je hebt nu 6 letters verzameld. Zet de letters in de goede volgorde om het juiste woord te vormen en stuur de juiste oplossing in een priv&eacute; facebookbericht naar ons toe!
+Gefeliciteerd! Je hebt nu 6 letters verzameld. Zet de letters in de goede volgorde om het juiste woord te vormen en stuur de juiste oplossing in een priv&eacute; facebookbericht naar ons toe! Onder de juiste inzendingen verloten wij het pakket eenmalig.
