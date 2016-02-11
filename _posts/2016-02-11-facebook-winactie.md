@@ -1,7 +1,7 @@
 ---
 ---
 
-We hebben een prijzenpakket t.w.v.  150 klaarstaan voor de winnaar van onze eerste facebookquiz, namelijk de adventskalender van K&eacute;rastase. Verzamel de letters en vorm het juiste woord. Succes! \***LET OP**: De titels van de teksten tellen niet mee.
+We hebben een prijzenpakket t.w.v. 150 klaarstaan voor de winnaar van onze eerste facebookquiz, namelijk de adventskalender van K&eacute;rastase. Verzamel de letters en vorm het juiste woord. Succes! \***LET OP**: De titels van de teksten tellen niet mee.
 
 **Ga naar:**
 
