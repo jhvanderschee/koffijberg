@@ -201,4 +201,14 @@ $( document ).ready(function() {
 		$('.expand1').show(); 
 		$('#expand1').hide();
 	})
+
+	$("#contact_form input[type='submit']").click(function(event) {
+        $('#contact_form [required]').each(function() {
+        	if(!$(this).val()) {
+        		$(this).addClass('error');
+        		event.preventDefault();
+        	}
+        }); 
+    });
+
 });
