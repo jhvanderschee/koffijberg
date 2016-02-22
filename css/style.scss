@@ -215,6 +215,8 @@ a:hover {text-decoration: none;}
 .fa {font-size: 180%; display: inline-block; cursor: pointer; margin: 0; position: relative; top: 3px;} 
 .form-group {color: #666;}
 .btn:active {-webkit-box-shadow: none; box-shadow: none;}
+.form-control.error {border-color: red;}
+
 
 .arrow {
   position: absolute;
