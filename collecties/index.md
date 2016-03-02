@@ -1,5 +1,5 @@
 ---
-title: Collecties
+title: Onze collecties
 layout: collecties
 ---
 
