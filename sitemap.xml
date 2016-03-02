@@ -34,4 +34,13 @@ layout: null
        </url>
     {% endif %}
   {% endfor %}
+  {% for page in site.collecties %}
+    {% if page.url contains '.html' %}
+      <url>
+        <loc>http://www.koffijberg.nl{{ page.url | replace: 'index.html', '' }}</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+       </url>
+    {% endif %}
+  {% endfor %}
 </urlset>
