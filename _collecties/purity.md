@@ -2,14 +2,15 @@
 title: Purity
 date: 2013-08-25T00:00:00.000Z
 images:
-  - image: /uploads/classy1.jpg
-  - image: /uploads/classy2.jpg
-  - image: /uploads/classy3.jpg
-  - image: /uploads/classy4.jpg
-  - image: /uploads/classy5.jpg
-  - image: /uploads/classy6.jpg
-  - image: /uploads/classy7.jpg
-  - image: /uploads/classy8.jpg
+  - image: /uploads/Kimm-njw13-01.jpg
+  - image: /uploads/Kimm-njw13-02.jpg
+  - image: /uploads/Kimm-njw13-03.jpg
+  - image: /uploads/Kimm-njw13-04.jpg
+  - image: /uploads/Kimm-njw13-05.jpg
+  - image: /uploads/Kimm-njw13-06.jpg
+  - image: /uploads/Kimm-njw13-07.jpg
+  - image: /uploads/Kimm-njw13-08.jpg
+  - image: /uploads/Kimm-njw13-09.jpg
 ---
 
 
