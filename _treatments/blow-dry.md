@@ -1,12 +1,12 @@
 ---
 title: Blow dry area
 images: 
-  - '/img/blowdryarea_los-1.jpg'
-  - '/img/blowdryarea_los-2.jpg'
-  - '/img/blowdryarea_los-3.jpg'
-  - '/img/blowdryarea_los-4.jpg'
-  - '/img/blowdryarea_los-5.jpg'
-  - '/img/blowdryarea_los-6.jpg'
+  - image: '/img/blowdryarea_los-1.jpg'
+  - image: '/img/blowdryarea_los-2.jpg'
+  - image: '/img/blowdryarea_los-3.jpg'
+  - image: '/img/blowdryarea_los-4.jpg'
+  - image: '/img/blowdryarea_los-5.jpg'
+  - image: '/img/blowdryarea_los-6.jpg'
 ---
 
 D&egrave; trend in Amerika nu ook bij ons in de kapsalon: de Blow Dry Area. Binnen 30 minuten f&ouml;hnen wij je haar of verzorgen een updo. Jij geniet ondertussen van een hapje en een drankje.
