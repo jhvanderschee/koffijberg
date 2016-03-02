@@ -9,6 +9,7 @@ images:
   - image: '/uploads/glossom4.jpg'
   - image: '/uploads/glossom5.jpg'
   - image: '/uploads/glossom6.jpg'
+  - image: '/uploads/glossom7.jpg'
 ---
 
 
