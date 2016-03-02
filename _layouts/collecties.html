@@ -36,7 +36,7 @@
                                     {% if forloop.last %}</div>{% endif %}
                                 {% endfor %}
                             
-                            <div>{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</div>
+                            <p>{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p>
                         </div>
 
             </div>
