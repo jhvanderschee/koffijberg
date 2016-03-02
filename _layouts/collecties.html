@@ -24,7 +24,7 @@
                             {{ content }}
                             {% assign sitecollecties = (site.collecties | sort: 'date') | reverse %}
                             {% for post in sitecollecties %}
-                                <p style='margin:0; padding: 0;'>{% assign m = post.date | date: "%-m" %}
+                                <p style='margin:0; padding: 0;'><a href="{{ post.url }}">{{ post.title }}</a> - {% assign m = post.date | date: "%-m" %}
                                   {% case m %}
                                     {% when '1' %}januari
                                     {% when '2' %}februari
@@ -39,7 +39,7 @@
                                     {% when '11' %}november
                                     {% when '12' %}december
                                   {% endcase %}
-                                  {{ post.date | date: "%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></p>
+                                  {{ post.date | date: "%Y" }}</p>
                                 {% if forloop.index0 < 2 %}
                                 {% for item in post.images %}
                                     {% capture itemimagesize %}{{ item.image | size | minus:2 }}{% endcapture %}
