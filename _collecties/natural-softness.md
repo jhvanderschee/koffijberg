@@ -1,6 +1,6 @@
 ---
 title: Natural Softness
-date: 2015-09-01
+date: 2015-09-01T11:00:00.000Z
 images: 
   - image: '/uploads/ns1-1.jpg'
   - image: '/uploads/ns1-2.jpg'
