@@ -9,7 +9,6 @@ images:
   - image: /uploads/flow5.jpg
   - image: /uploads/flow6.jpg
   - image: /uploads/flow7.jpg
-  - image: /uploads/flow8.jpg
   - image: /uploads/flow9.jpg
 ---
 
