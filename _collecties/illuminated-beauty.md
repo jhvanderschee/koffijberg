@@ -13,29 +13,30 @@ images:
 ---
 
 
-Amsterdam, maart 2015 – Gedurfd en stijlvol is ‘Classy Progressive’, de nieuwe voorjaar-zomercollectie 2015 van Kimm Koffijberg. Sophisticated en playful. Persoonlijkheid en de natuurlijke valling van het haar zijn uitgangspunt voor de vorm van de kapsels. Door de kniptechnieken komen elementen naar voren of gaan juist naar de achtergrond. Wat dan volgt, is een heftig kleurenspel van verschillende pastels: rose, groen en violet. De progressive pastels spelen met de classy basis. Classy Progressive is spelen met kleur - heel veel spelen met kleur - als antwoord op de vraag: “Wie durf ik te zijn?”
+Amsterdam, 1 augustus 2012 -  De nieuwe najaar- en wintercollectie 2012-2013  ‘Illuminated Beauty’ van Kimm Koffijberg draait om licht. “Zonder licht is er geen kleur”. Door het gebruik van Illumina Color, een baanbrekend nieuw kleurproduct van Wella Professionals, krijgt het haar van de modellen een ongelooflijke natuurlijke glans. Het haar baadt in het licht. 
+De kracht van Illumina Color is dat het reliëf dat niet eerder gekleurd haar van nature heeft, wordt behouden.  Hierdoor is het kleurresultaat nooit massief en lijkt het alsof de modellen hun eigen natuurlijke haarkleur hebben.  Door de transparantie in het haar kan het licht ermee spelen en ontstaat er in elk licht een ander kleureffect met een waanzinnige glans.  
+Coupes en styling staan volledig in dienst van de lichtreflectie. Ze zijn zo op elkaar afgestemd dat de kleuren volledig tot hun recht komen. ‘Illuminated Beauty’ is daardoor een collectie die uitblinkt in natuurlijke, heldere en magische kleurresultaten.
 
-## Kniptechniek
-
-De kniptechniek gaat uit van de natuurlijke valling van het haar en is aangepast aan de haarstructuur en vooral aan de persoonlijkheid van de vrouw. Er is heel goed gekeken waar elementen kunnen worden versterkt of juist moeten worden verborgen voor een krachtige uitstraling. Mogen bijvoorbeeld scherpe lijnen van het gezicht worden geaccentueerd? Of moeten ze juist naar de achtergrond worden gebracht? Kimm versterkt een vierkante kaaklijn door het knippen van een rechthoekige pony en door het overige haar recht te laten vallen. Of ze knipt zijkanten kort, of brengt een undercut aan, en houdt bovenpartijen lang. Hierdoor kan ze heel goed met de structuur van het haar werken en kan ze verschillende (zachte) vormen creëren of geeft ze de natuurlijke valling van het haar alle aandacht.
 
 ## Kleur
 
-De toepassing van progressive kleuren en kleurtechnieken versterken de zelfbewuste uitstraling van de vrouwen. Ook de classy vrouw wil spelen met gedurfde kleuren. Kleuren zijn zacht maar duidelijk aanwezig. Ze zijn subtiel en expressief. Er is goed nagedacht over de progressive touch: de progressive kleuren worden bij de ene vrouw door het hele haar aangebracht en bij de andere vrouw juist als details naast een diepe kleur. De gebruikte tinten zijn zachte pastels: Vintage Pink (een nieuwe kleur die Kimm voor de nieuwe Trendcollectie ‘Tactile Rituals’ van Keune Hair Cosmetics heeft ontwikkeld\*), Earl-grey/green en violetten als Deep Purple gecombineerd met Soft Lavender.
+De vraag naar natuurlijke haarkleuren is momenteel echt een trend. De lancering door Wella Professionals van Illumina Color kwam daarom precies op het goede moment voor Kimm Koffijberg. Zij heeft ervoor gekozen om haar najaar- en wintercollectie 2012-2013 volledig in het teken te zetten van dit nieuwe kleurproduct. Illumina Color zorgt voor een transparant kleurreliëf en de kleuringen ogen heel natuurlijk. Door de nieuwe technologie die is toegepast in het product wordt het haar gezonder en is er veel lichtreflectie in het haar, waardoor het prachtig glanst.
+In de collectie ‘Illuminated Beauty’ zijn de kleuringen van Illumina Color op veel verschillende manieren gebruikt en zijn verschillende kleurtechnieken toegepast. Hierdoor is het zowel mogelijk een expressieve uitstraling neer te zetten als een natuurlijker uitstraling. Koele en warme tinten worden gecombineerd en bij sommige modellen is Illumina Color dieper aangebracht op de aanzet en lichter naar de punten toe. Ook is er voor deelkleuringen en streaks gekozen in de collectie, maar altijd op een hele natuurlijke manier.
+
+Het vertrekpunt in de collectie is en blijft het kleurkarakter van de huid van de modellen, dat door de haarkleuringen en de keuze van de coupe wordt versterkt. Er zijn rooibos kopertinten gecreëerd, maar ook mokka, karamel en gember. Er zijn koele kleuren gebruikt zoals zandtinten, koele beige tinten en sparkling roze en ook zijn neutrale natuurtinten toegepast. 
+De collectie is op het strand gefotografeerd,  in natuurlijk daglicht, zodat de kleurresultaten en haarstyling goed tot hun recht komen. De stijlvolle designkleding met zachte stoffen, glans en transparantie sluit helemaal aan op het gevoel dat Illumina Color oproept.
+
+## Coupes
+
+In de coupes zijn rustige zachte lijnen gecombineerd met sterkere lijnen. De kniptechniek is aangepast aan de haarstructuur: daar waar het haar zachter moet vallen is gebruik gemaakt van de inkniptechniek, daar waar het haar voller mag, zijn strakke lijnen geknipt. Alles is erop gericht de aandacht voor de haarkleur te vergroten. Er is goed gekeken naar de gezichtsvorm van de modellen bij het aanbrengen van variaties in lengte. Dit om het haar op verschillende manieren te kunnen stylen, met telkens een ander kleureffect.
 
 ## Styling
 
-Bij de totstandkoming van de coupes is uitgegaan van wat de vrouw zelf wil en kan doen met haar kapsel. De modellen kunnen hun handen gerust door het haar halen. De erin geknipte valling zorgt ervoor dat het haar goed in model blijft. Door daarnaast de juiste tools en stylingproducten te gebruiken kan iedere vrouw haar eigenheid optimaal naar buiten brengen.
-
-## Kleding en make-up
-
-De kleding van de modellen is gedurfd en vrouwelijk. Van glad en glanzend tot aaibaar. Er is veel aandacht voor structuur en vorm. Zwart en wit, metallic en pastels onderstrepen de persoonlijkheid van de modellen. Voor de make-up is gekozen voor een naturelle look met zachte pasteltinten. Balsems, highlighters en crèmeblush geven glans.
+Ook bij de styling ligt het accent op de haarkleur. De collectie toont mooi steil haar of haar met een lichte beweging erin. Bij het halflange haar (waar de diepere haarkleuring op de aanzet is gebruikt en de kleuring lichter is naar de punten) kan de lengte van het haar naar binnen worden gedraaid waardoor een mooie boblengte ontstaat en waardoor het kleureffect neutraal donkerbruin is.
+Voor alle coupes zijn de stylingproducten van Wella Styling gebruikt, voor de verzorging de producten van System Professional, beide van Wella Professionals.
 
 ## Producten
 
-| Producten:       | Keune Haircosmetics |
-| Kleur:       | Ultimate Blond serie, Infinite Colors by Tinta Colors, So Pure Color Balance |
-| Verzorging:       | So Pure Balance, Care Line |
-| Styling:       | So Pure styling range, Blend, Design |
-
-##
+| Kleuringen:       | Illumina Color |
+| Verzorging:       | System Professional |
+| Styling:       | Wella styling |
