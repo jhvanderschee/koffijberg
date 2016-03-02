@@ -12,7 +12,9 @@ images:
 ---
 
 
-Amsterdam, 21 March 2013 – Kimm Koffijberg launches the new spring-summer collection ‘I-dentity’. The powerful and chic collection puts a spotlight on the identity of the individual woman. The models are themselves in their most powerful form. The division of volume that has been cut into the hair, the chic, ‘oily’ and contrasting colorings, and the styling merge together and emphasize the unique identity of each woman. The colorings combine light and dark tones, blondes and blacks, shades of grey and soft pastels. Starting from the structure, the cuts, colorings, and color accents are put in place to emphasize the hairstyle. “I-Dentity is a statement about our craftsmanship as hairdressers”, says Kimm Koffijberg. The collection has been nominated for the Coiffure Award 2013\* – category Female hairstyles Noord-Holland.
+Amsterdam, 21 March 2013 – Kimm Koffijberg launches the new spring-summer collection ‘I-dentity’. The powerful and chic collection puts a spotlight on the identity of the individual woman.
+
+The models are themselves in their most powerful form. The division of volume that has been cut into the hair, the chic, ‘oily’ and contrasting colorings, and the styling merge together and emphasize the unique identity of each woman. The colorings combine light and dark tones, blondes and blacks, shades of grey and soft pastels. Starting from the structure, the cuts, colorings, and color accents are put in place to emphasize the hairstyle. “I-Dentity is a statement about our craftsmanship as hairdressers”, says Kimm Koffijberg. The collection has been nominated for the Coiffure Award 2013\* – category Female hairstyles Noord-Holland.
 
 Kimm Koffijberg dedicates “I-Dentity” to her source of inspiration Vidal Sassoon, founder of our current cutting techniques.
 
