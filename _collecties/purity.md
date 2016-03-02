@@ -10,7 +10,6 @@ images:
   - image: /uploads/Kimm-njw13-06.jpg
   - image: /uploads/Kimm-njw13-08.jpg
   - image: /uploads/Kimm-njw13-07.jpg
-  - image: /uploads/Kimm-njw13-04.jpg
 ---
 
 
