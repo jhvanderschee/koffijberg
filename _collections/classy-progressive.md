@@ -1,5 +1,6 @@
 ---
 title: Classy Progressive
+date: '2015-03-01'
 images:
   - image: /uploads/classy1.jpg
   - image: /uploads/classy2.jpg
