@@ -40,7 +40,7 @@
                                     {% when '12' %}december
                                   {% endcase %}
                                   {{ post.date | date: "%Y" }}</p>
-                                {% if forloop.index0 < 3 %}
+                                {% if forloop.index0 < 2 %}
                                 {% for item in post.images %}
                                     {% capture itemimagesize %}{{ item.image | size | minus:2 }}{% endcapture %}
                                     {% if forloop.first %}<div class="row" id="gallery">{% endif %}
