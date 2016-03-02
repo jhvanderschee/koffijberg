@@ -13,29 +13,28 @@ images:
 ---
 
 
-Amsterdam, maart 2015 – Gedurfd en stijlvol is ‘Classy Progressive’, de nieuwe voorjaar-zomercollectie 2015 van Kimm Koffijberg. Sophisticated en playful. Persoonlijkheid en de natuurlijke valling van het haar zijn uitgangspunt voor de vorm van de kapsels. Door de kniptechnieken komen elementen naar voren of gaan juist naar de achtergrond. Wat dan volgt, is een heftig kleurenspel van verschillende pastels: rose, groen en violet. De progressive pastels spelen met de classy basis. Classy Progressive is spelen met kleur - heel veel spelen met kleur - als antwoord op de vraag: “Wie durf ik te zijn?”
+Amsterdam, 23 maart 2012 –  Jimi Hendrix’s ‘Foxy Lady’ is de inspiratiebron voor de nieuwe voorjaar-zomercollectie van Kimm Koffijberg:  “Ow Foxy Lady, You look so good, Yeah, Foxy, Yeah, give us some Foxy...”  De nieuwe collectie toont punky, edgy kapsels gedragen door unieke, krachtige vrouwen. Er zijn veel variaties in lengtes van het haar en ook disconnectie, asymmetrie en kleurcontrasten. De wearable lingerie versterkt Kimm Koffijberg’s handelsmerk dat je ook terugvindt in haar eerdere collecties: de combinatie van vrouwelijkheid, kracht, en draagbaar haar. Daar bovenop zijn kniptechniek en kleurtechniek in deze collectie totaal verweven. Foxy Lady is genomineerd voor de Coiffure Award 2012 – categorie Dameskapsels Noord-Holland. Nooit eerder waren coupes en kleur zo toegewijd op elkaar afgestemd als in de voorjaar-zomercollectie Foxy Lady. Jimi Hendrix zong het al: “I’m gonna take you home”!
 
-## Kniptechniek
+## Coupes
 
-De kniptechniek gaat uit van de natuurlijke valling van het haar en is aangepast aan de haarstructuur en vooral aan de persoonlijkheid van de vrouw. Er is heel goed gekeken waar elementen kunnen worden versterkt of juist moeten worden verborgen voor een krachtige uitstraling. Mogen bijvoorbeeld scherpe lijnen van het gezicht worden geaccentueerd? Of moeten ze juist naar de achtergrond worden gebracht? Kimm versterkt een vierkante kaaklijn door het knippen van een rechthoekige pony en door het overige haar recht te laten vallen. Of ze knipt zijkanten kort, of brengt een undercut aan, en houdt bovenpartijen lang. Hierdoor kan ze heel goed met de structuur van het haar werken en kan ze verschillende (zachte) vormen creëren of geeft ze de natuurlijke valling van het haar alle aandacht.
+De coupes hebben veel verschillende teksturen. De kapsels tonen een zekere ruigheid in combinatie met veel zachte lijnen. Bij het knippen is extreem rekening gehouden met zowel de natuurlijke valling van het haar alsook de latere kleurplaatsing. De technieken voor de vormgeving van het haar en die van het kleuren zijn in deze collectie dan ook totaal verweven. Hierdoor krijgt ‘Foxy Lady’ een heel mooi uitgebalanceerd eindresultaat.
 
-## Kleur
+## Kleuren
 
-De toepassing van progressive kleuren en kleurtechnieken versterken de zelfbewuste uitstraling van de vrouwen. Ook de classy vrouw wil spelen met gedurfde kleuren. Kleuren zijn zacht maar duidelijk aanwezig. Ze zijn subtiel en expressief. Er is goed nagedacht over de progressive touch: de progressive kleuren worden bij de ene vrouw door het hele haar aangebracht en bij de andere vrouw juist als details naast een diepe kleur. De gebruikte tinten zijn zachte pastels: Vintage Pink (een nieuwe kleur die Kimm voor de nieuwe Trendcollectie ‘Tactile Rituals’ van Keune Hair Cosmetics heeft ontwikkeld\*), Earl-grey/green en violetten als Deep Purple gecombineerd met Soft Lavender.
+Voor de kleuren zijn gewaagde pastels gebruikt in combinatie met natuurlijke basiskleuren. De toegepaste kleuren zijn: pastelgeel in combinatie met lavendel, perzik, framboos, koraal en kersenrood en natuurlijke basiskleuren zoals bruinblond, roseblond, asbruin en zwart. De contrasten van de kleuren zijn groot, maar door de toegepaste techniek overschreeuwen de fellere kleuren de natuurlijke kleuren niet: de gewaagde pastels vloeien naadloos over in de natuurtinten.
+Na het knippen is secuur gekeken waar kleur van toegevoegde waarde is in de coupes. Soms is veel kleurplaatsing gebruikt soms een paar plukjes. De kleur is aangebracht door middel van de zogenaamde painting techniek, waarbij kleuren op gevoel met de vrije hand met het penseel zijn geplaatst, of er zijn fijne slices gebruikt (zowel horizontaal, verticaal als diagnonaal) afhankelijk van het gewenste effect.
 
 ## Styling
 
-Bij de totstandkoming van de coupes is uitgegaan van wat de vrouw zelf wil en kan doen met haar kapsel. De modellen kunnen hun handen gerust door het haar halen. De erin geknipte valling zorgt ervoor dat het haar goed in model blijft. Door daarnaast de juiste tools en stylingproducten te gebruiken kan iedere vrouw haar eigenheid optimaal naar buiten brengen.
+Voor alle coupes zijn de stylingproducten van Wella Styling gebruikt. In het vochtige haar zijn Stay Brilliant, Natural Volume of Velvet Amplifier toegepast. Het natte haar wordt hierbij met de hand gestyled (zonder ronde borstels of krultangen). Met een goed stylingproduct als Create Caracter, Ocean Spritz of Texture Touch wordt de ruige en nonchalante textuur vervolgens naar voren gebracht. Wanneer er nog meer glans gewenst is, wordt de Mirror Polish aangebracht. 
+Alle kleuren worden onderhouden met de vernieuwde Color Fresh, om het kleurkarakter te versterken en de ultieme glans te behouden. 
 
-## Kleding en make-up
+## Nominatie Coiffure Award 2012
 
-De kleding van de modellen is gedurfd en vrouwelijk. Van glad en glanzend tot aaibaar. Er is veel aandacht voor structuur en vorm. Zwart en wit, metallic en pastels onderstrepen de persoonlijkheid van de modellen. Voor de make-up is gekozen voor een naturelle look met zachte pasteltinten. Balsems, highlighters en crèmeblush geven glans.
+Met haar voorjaar- zomercollectie Foxy Lady is Kimm Koffijberg genomineerd voor de Coiffure Award 2012. De Coiffure Award wordt elk jaar georganiseerd door het kappersvakblad Coiffure in samenwerking met Schwarzkopf Professional. Aan de Coiffure Award nemen dé topkappers van Nederland deel. Zij zetten elk jaar weer de trend en creëren gezamenlijk de meest toonaangevende modebeelden. 
 
 ## Producten
 
-| Producten:       | Keune Haircosmetics |
-| Kleur:       | Ultimate Blond serie, Infinite Colors by Tinta Colors, So Pure Color Balance |
-| Verzorging:       | So Pure Balance, Care Line |
-| Styling:       | So Pure styling range, Blend, Design |
-
-##
+| Kleuringen:       | Wella Professionals Koleston Perfect, Color Touch, Color Fresh, Blondor, en Magma |
+| Verzorging:       | System Professional Wella Professionals |
+| Styling:       | Wella Styling |
