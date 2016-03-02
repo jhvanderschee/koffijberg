@@ -35,8 +35,7 @@ De kleding van de modellen is zacht en vrouwelijk. Van glad en glanzend tot aaib
 
 ## Producten
 
-Producten:				Keune HaircosmeticsKleur:					Ultimate Blond serie					Infinite Colors by Tinta Colors					So Pure ColorVerzorging:				So Pure, Care Line Styling:					So Pure styling range, Blend, Design
-
-## Credits
-
-Kapsels /kleurtechnieken:	Kimm Koffijberg and Creative team\*\*Creative team: 			Kimm Koffijberg, Wendy van den Hoek,					Demi van Stalle, Stephanie Beets, 					Samantha Valkenburg			Fotografie:				Hans MooijerVisagie:				Dominika Swietlik				Styling:					Tricja styling	Modellen:				De Boekers		Met dank aan:				Keune Haircosmetics
+| Producten:|Keune Haircosmetics| 
+| Kleur:|Ultimate Blond serie, Infinite Colors by Tinta Colors, So Pure Color| 
+| Verzorging:|So Pure, Care Line| 
+| Styling:|So Pure styling range, Blend, Design|
