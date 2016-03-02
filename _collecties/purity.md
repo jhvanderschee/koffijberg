@@ -1,5 +1,5 @@
 ---
-title: Purity najaar-wintercollectie 2013-2014
+title: Purity
 date: 2013-08-25T00:00:00.000Z
 images:
   - image: /uploads/classy1.jpg
