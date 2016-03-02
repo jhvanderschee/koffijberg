@@ -23,7 +23,7 @@
                         <div class="post-content">
                             {{ content }}
                             {% assign sitecollecties = site.collecties %}
-                            {% for post in sitecollecties | sort: 'title' %}
+                            {% for post in sitecollecties %}
                     
                                 {% for item in post.images %}
                                     {% capture itemimagesize %}{{ item.image | size | minus:2 }}{% endcapture %}
