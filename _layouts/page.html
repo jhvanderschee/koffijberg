@@ -34,7 +34,7 @@
                         <div class="post-content">
                         {{ content }}
 
-                        <p><a href="/#{% if page.collection == 'treatments' %}behandelingen{% else %}top{% endif %}">&larr; Terug naar de homepage</a></p>
+                        <p>{% if page.collection == 'collecties' %}<a href="/collecties/">&larr; Terug naar de homepage</a>{% else %}<a href="/#{% if page.collection == 'treatments' %}behandelingen{% else %}top{% endif %}">&larr; Terug naar de homepage</a>{% endif %}</p>
                         </div>
 
             </div>
