@@ -2,13 +2,13 @@
 title: Flow
 date: 2011-04-13T00:00:00.000Z
 images:
-  - image: /uploads/flow1.jpg
   - image: /uploads/flow2.jpg
   - image: /uploads/flow3.jpg
   - image: /uploads/flow4.jpg
   - image: /uploads/flow5.jpg
   - image: /uploads/flow6.jpg
   - image: /uploads/flow7.jpg
+  - image: /uploads/flow8.jpg
   - image: /uploads/flow9.jpg
 ---
 
