@@ -1,6 +1,6 @@
 ---
 title: Flow
-date: 2011-03-02T00:00:00.000Z
+date: 2011-04-13T00:00:00.000Z
 images:
   - image: /uploads/classy1.jpg
   - image: /uploads/classy2.jpg
@@ -38,4 +38,4 @@ De kleding van de modellen is gedurfd en vrouwelijk. Van glad en glanzend tot aa
 | Verzorging:       | So Pure Balance, Care Line |
 | Styling:       | So Pure styling range, Blend, Design |
 
-##
+# #
