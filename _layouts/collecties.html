@@ -22,7 +22,7 @@
                                              
                         <div class="post-content">
                         {{ content }}
-<p>{% for post in site.collections %}{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p>
+<p>{% for post in site.collecties %}{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p>
                         </div>
 
             </div>
