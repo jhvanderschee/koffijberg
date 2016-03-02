@@ -2,14 +2,15 @@
 title: Foxy Lady
 date: 2012-03-23T00:00:00.000Z
 images:
-  - image: /uploads/classy1.jpg
-  - image: /uploads/classy2.jpg
-  - image: /uploads/classy3.jpg
-  - image: /uploads/classy4.jpg
-  - image: /uploads/classy5.jpg
-  - image: /uploads/classy6.jpg
-  - image: /uploads/classy7.jpg
-  - image: /uploads/classy8.jpg
+  - image: /uploads/kapsel_1_dekappervanamsterd.jpg
+  - image: /uploads/kapsel_2_dekappervanamsterd.jpg
+  - image: /uploads/kapsel_3_dekappervanamsterd.jpg
+  - image: /uploads/kapsel_4_dekappervanamsterd.jpg
+  - image: /uploads/kapsel_5_dekappervanamsterd.jpg
+  - image: /uploads/kapsel_6_dekappervanamsterd.jpg
+  - image: /uploads/kapsel_7_dekappervanamsterd.jpg
+  - image: /uploads/kapsel_8_dekappervanamsterd.jpg
+  - image: /uploads/kapsel_9_dekappervanamsterd.jpg
 ---
 
 
