@@ -20,20 +20,26 @@ Dit resulteert in de poederachtige, supervrouwelijke en krachtige modelijn Gloss
 
 De collectie is genomineerd voor de Coiffure Award 2014 – categorie Dameskapsels Noord-Holland.
 
-## Kniptechniek , kleur en styling
+## Kniptechniek
 
-Kniptechniek - Door de gebruikte kniptechnieken is asymmetrie in de haarlagen aangebracht en is tegelijk goed gekeken naar de balans in de knippartijen. Vooraf hebben Kimm en haar team bepaald waar luchtigheid en zachtere lagen in de coupes moesten komen. Juist op deze plaatsen wilden zij ook kleur tot uiting brengen.
+Door de gebruikte kniptechnieken is asymmetrie in de haarlagen aangebracht en is tegelijk goed gekeken naar de balans in de knippartijen. Vooraf hebben Kimm en haar team bepaald waar luchtigheid en zachtere lagen in de coupes moesten komen. Juist op deze plaatsen wilden zij ook kleur tot uiting brengen.
 Door met knippen veel gradaties in de haarlengten aan te brengen en de textuur (slag, krul) goed te benutten, zijn ronde vormen gecreëerd en ontstaat een zachte uitstraling. 
 
-Kleur - De toepassing van gedetailleerde kleurtechnieken flatteren de natuurlijke haarstructuur en - kleur. Door dicht bij elkaar liggende tinten te kiezen en deze wisselend toe te passen is diepte aangebracht. Hierdoor straalt het haar de natuurlijke haarkleur uit. Andere technieken zorgen voor een poederachtige uitstraling.
+## Kleur
+
+De toepassing van gedetailleerde kleurtechnieken flatteren de natuurlijke haarstructuur en - kleur. Door dicht bij elkaar liggende tinten te kiezen en deze wisselend toe te passen is diepte aangebracht. Hierdoor straalt het haar de natuurlijke haarkleur uit. Andere technieken zorgen voor een poederachtige uitstraling.
 Het gaat niet om de hoeveelheid kleurcontrast die wordt gebruikt, het gaat om waar je de kleuren plaatst, aldus Kimm: “Waar kan ik de coupe versterken?” “ Waar wil ik elementen naar voren halen?” 
 De kleuren zijn zacht maar aanwezig. Ze zijn subtiel en expressief. 
 De gebruikte tinten zijn onder andere zachte pastels, violetten, zacht grijs, strawberry blond, zand, espresso, zilvergrijs, lavendel en poederroze.
 
-Styling - Bij de totstandkoming van de coupes is uitgegaan van wat de klant zelf wil en kan doen met haar kapsel. De modellen kunnen hun handen gerust door het haar halen. De erin geknipte valling zorgt ervoor dat het haar goed in model blijft.
+## Styling
+
+Bij de totstandkoming van de coupes is uitgegaan van wat de klant zelf wil en kan doen met haar kapsel. De modellen kunnen hun handen gerust door het haar halen. De erin geknipte valling zorgt ervoor dat het haar goed in model blijft.
 Door daarnaast de juiste tools en stylingproducten te gebruiken kan iedere vrouw haar eigenheid optimaal naar buiten brengen.
 
-Kleding en make-up - De kleding van de modellen is zacht en vrouwelijk. Van glad en glanzend tot aaibare wol en tweed met af en toe een bloem als applicatie. Natuurlijke tinten, nude, pastels en poederkleuren onderstrepen op een subtiele manier de persoonlijkheid van de modellen. Voor de make-up is gekozen voor een naturelle look met zachte pasteltinten. Balsems, highlighters en crèmeblush geven glans.
+## Kleding en make-up
+
+De kleding van de modellen is zacht en vrouwelijk. Van glad en glanzend tot aaibare wol en tweed met af en toe een bloem als applicatie. Natuurlijke tinten, nude, pastels en poederkleuren onderstrepen op een subtiele manier de persoonlijkheid van de modellen. Voor de make-up is gekozen voor een naturelle look met zachte pasteltinten. Balsems, highlighters en crèmeblush geven glans.
 
 ## Producten			
 
