@@ -9,9 +9,9 @@ images:
 ---
 
 
-Amsterdam, augustus 2014 – Kimm Koffijberg lanceert Mystic romance haar nieuwe herfst-wintercollectie 2014-2015.
+Amsterdam, augustus 2014 – Kimm Koffijberg lanceert Mystic romance haar nieuwe herfst-wintercollectie 2014-2015. Haar inspiratie haalt ze uit de jaargetijden; de warme gloed van het haardvuur binnen en storm en ijs buiten. 
 
-Haar inspiratie haalt ze uit de jaargetijden; de warme gloed van het haardvuur binnen en storm en ijs buiten. Vlammende kopertinten, en beige-blond gecombineerd met koel parel of violet geven een diep, rijk en intens kleurenpalet. Zowel voor het knippen als voor het kleuren is de natuurlijke valling van het haar uitgangspunt. In de coupes is veel zachtheid gebracht. Verder zijn ze eenvoudig gehouden. Alles is erop gericht de volle aandacht naar de kleur te trekken. Zo komt het karakter van iedere afzonderlijke vrouw volledig tot zijn recht in deze warme, romantische en daardoor heel vrouwelijke collectie.
+Vlammende kopertinten, en beige-blond gecombineerd met koel parel of violet geven een diep, rijk en intens kleurenpalet. Zowel voor het knippen als voor het kleuren is de natuurlijke valling van het haar uitgangspunt. In de coupes is veel zachtheid gebracht. Verder zijn ze eenvoudig gehouden. Alles is erop gericht de volle aandacht naar de kleur te trekken. Zo komt het karakter van iedere afzonderlijke vrouw volledig tot zijn recht in deze warme, romantische en daardoor heel vrouwelijke collectie.
 
 ## Kleur
 
