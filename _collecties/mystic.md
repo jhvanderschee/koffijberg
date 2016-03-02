@@ -2,14 +2,10 @@
 title: Mystic Romance
 date: 2014-08-01T00:00:00.000Z
 images:
-  - image: /uploads/classy1.jpg
-  - image: /uploads/classy2.jpg
-  - image: /uploads/classy3.jpg
-  - image: /uploads/classy4.jpg
-  - image: /uploads/classy5.jpg
-  - image: /uploads/classy6.jpg
-  - image: /uploads/classy7.jpg
-  - image: /uploads/classy8.jpg
+  - image: /uploads/mystic-romance-1.jpg
+  - image: /uploads/mystic-romance-2.jpg
+  - image: /uploads/mystic-romance-3.jpg
+  - image: /uploads/mystic-romance-4.jpg
 ---
 
 
