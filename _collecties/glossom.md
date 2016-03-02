@@ -1,4 +1,4 @@
-----
+---
 title: Glossom
 date: 2014-03-28
 images: 
@@ -9,7 +9,7 @@ images:
   - image: '/uploads/glossom4.jpg'
   - image: '/uploads/glossom5.jpg'
   - image: '/uploads/glossom6.jpg'
-----
+---
 
 
 Amsterdam, 28 maart 2014 – De nieuwe lente- en zomercollectie van Kimm Koffijberg is bewegelijk, zacht en aaibaar. Ronde vormen, wollige texturen en zachte kleuren nodigen uit om je handen door het haar te halen. 
