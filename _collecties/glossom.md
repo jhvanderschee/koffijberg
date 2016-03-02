@@ -48,7 +48,7 @@ Kleur:					Ultimate Blond serie
 Verzorging:				So Pure, Care Line 
 Styling:					So Pure styling range, Blend, Design
 
-Credits
+## Credits
 
 Kapsels /kleurtechnieken:	Kimm Koffijberg and Creative team*
 *Creative team: 			Kimm Koffijberg, Wendy van den Hoek,
