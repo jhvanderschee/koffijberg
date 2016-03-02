@@ -1,5 +1,6 @@
 ----
 title: Glossom
+date: 2014-03-28
 images: 
   - image: '/uploads/glossom0.jpg'
   - image: '/uploads/glossom1.jpg'
