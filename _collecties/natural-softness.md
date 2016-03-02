@@ -44,21 +44,7 @@ In de kleding komt de aandacht voor verschillende texturen terug: fijnbewerkte g
 
 ## Producten			
 
-Producten:				Keune Haircosmetics
-Kleur:					Ultimate Blond serie
-					Infinite Colors by Tinta Colors
-					So Pure Color Balance
-Verzorging:				So Pure Balance, Care Line 
-Styling:				So Pure styling range, Blend, Design
-
-## Credits
-
-Kapsels /kleurtechnieken:	Kimm Koffijberg and Creative team*
-*Creative team: 			Kimm Koffijberg, Nikki Seur,
-					Elaine van Sermond en Daniek Vermeij		
-Fotografie:				Hans Mooijer
-Visagie:				Dominika Swietlink				
-Styling:				Hans Mooijer	
-Modellen:				Elite, Euromodel, New Generation		
-Met dank aan:			Keune Haircosmetics
-					Denman
+|Producten:|Keune Haircosmetics|
+|Kleur:|Ultimate Blond serie, Infinite Colors by Tinta Colors, So Pure Color Balance|
+|Verzorging:|So Pure Balance, Care Line|
+|Styling:|So Pure styling range, Blend, Design|
