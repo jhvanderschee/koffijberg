@@ -21,21 +21,21 @@
             <div class="col-sm-12 col-md-9 col-lg-8">
                                              
                         <div class="post-content">
-                        {{ content }}
-<p>{% for post in site.collecties %}
-
-            {% for item in post.images %}
-                {% capture itemimagesize %}{{ item.image | size | minus:2 }}{% endcapture %}
-                {% if forloop.first %}<div class="row" id="gallery">{% endif %}
-                {% if itemimagesize contains '-' %}{% else %}
-                <div class="col-xs-3">
-                    <a href="{{ post.url }}" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl{{ item.image }}&w=200&h=200&t=square" /></a>
-                </div>
-                {% endif %}
-                {% if forloop.last %}</div>{% endif %}
-            {% endfor %}
-            
-{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p>
+                            {{ content }}
+                            {% for post in site.collecties %}
+                    
+                                {% for item in post.images %}
+                                    {% capture itemimagesize %}{{ item.image | size | minus:2 }}{% endcapture %}
+                                    {% if forloop.first %}<div class="row" id="gallery">{% endif %}
+                                    {% if itemimagesize contains '-' %}{% else %}
+                                    <div class="col-xs-3">
+                                        <a href="{{ post.url }}" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl{{ item.image }}&w=200&h=200&t=square" /></a>
+                                    </div>
+                                    {% endif %}
+                                    {% if forloop.last %}</div>{% endif %}
+                            {% endfor %}
+                            
+                            <p>{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p>
                         </div>
 
             </div>
