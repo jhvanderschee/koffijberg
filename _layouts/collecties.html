@@ -22,7 +22,7 @@
                                              
                         <div class="post-content">
                             {{ content }}
-                            {% assign sitecollecties = site.collecties | sort: 'date' %}
+                            {% assign sitecollecties = site.collecties | sort: 'title' %}
                             {% for post in sitecollecties %}
                     
                                 {% for item in post.images %}
