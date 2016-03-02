@@ -16,7 +16,7 @@ Onze kappers en kapsters nemen iedere week deel aan een praktijkgerichte interne
 
 Om ervoor te zorgen dat echt niets aan onze aandacht ontsnapt, wordt er met enige regelmaat een mystery guest uitgenodigd om ons service- en kwaliteitsniveau te toetsen en doen wij navraag bij onze klanten.
 
-Kimm geeft veel trainingen in binnen- en buitenland. Zij ontwikkelt ieder halfjaar ook een eigen [collectie](/collecties/) voor Kapsalon Koffijberg waarin zij de door haar zelf ontwikkelde nieuwste kleur- en kniptechnieken toepast. Dit alles zorgt ervoor dat onze kappers en kapsters altijd uitstekend op de hoogte zijn van de allernieuwste vaktechnieken, trends en producten.
+Kimm geeft veel trainingen in binnen- en buitenland. Zij ontwikkelt ieder halfjaar ook een [eigen collectie](/collecties/) voor Kapsalon Koffijberg waarin zij de door haar zelf ontwikkelde nieuwste kleur- en kniptechnieken toepast. Dit alles zorgt ervoor dat onze kappers en kapsters altijd uitstekend op de hoogte zijn van de allernieuwste vaktechnieken, trends en producten.
 
 ## Prijsdifferentiatie
 
