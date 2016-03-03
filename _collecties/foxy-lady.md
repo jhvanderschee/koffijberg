@@ -10,7 +10,6 @@ images:
   - image: /uploads/kapsel_6_dekappervanamsterd.jpg
   - image: /uploads/kapsel_7_dekappervanamsterd.jpg
   - image: /uploads/kapsel_8_dekappervanamsterd.jpg
-  - image: /uploads/kapsel_9_dekappervanamsterd.jpg
 ---
 
 
