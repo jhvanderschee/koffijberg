@@ -1,6 +1,6 @@
 ---
 title: Chiq Mystique
-date: 2015-03-02T00:00:00.000Z
+date: 2009-03-02T00:00:00.000Z
 images:
   - image: /uploads/chiqmystique1.jpg
   - image: /uploads/chiqmystique2.jpg
