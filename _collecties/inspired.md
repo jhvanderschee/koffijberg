@@ -1,3 +1,19 @@
+---
+title: Inspired
+date: 2008-07-01T00:00:00.000Z
+images:
+  - image: /uploads/kk-1.jpg
+  - image: /uploads/kk-2.jpg
+  - image: /uploads/kk-3.jpg
+  - image: /uploads/kk-4.jpg
+  - image: /uploads/kk-5.jpg
+  - image: /uploads/kk-6.jpg
+  - image: /uploads/kk-7.jpg
+  - image: /uploads/kk-8.jpg
+  - image: /uploads/kk-9.jpg
+  - image: /uploads/kk-10.jpg
+---
+
 Collectie Najaar/winter 2008/2009, Kimm Koffijberg - OUD en NIEUW, ANTIEK en DESIGN, KORT en LANG: voor haar eerste collectie ‘Inspired’ nam Kimm Koffijberg het bestaande als uitgangspunt, om daar iets heel nieuws mee te creëren. 
 
 Schijnbare contrasterende elementen die samen één bijzonder geheel vormen; daardoor heeft Kimm Koffijberg zich laten inspireren bij het creëren van haar eerste eigen collectie. Een mooi voorbeeld is het oude gebouw met Romeinse pilaren in het centrum van Parijs, waar op het dak een strak vormgegeven hotelkamer is gebouwd: The Everland Hotel. Elk jaar wordt deze hotelkamer verplaatst naar een andere stad in een ander land en op het dak van een museum geplaatst. Een speciaal en uniek concept waarbij design wordt versterkt door oudheid. Het is een principe dat ook in de mode veelvuldig wordt toegepast; pasvormen en motieven van lang geleden worden gecombineerd met strakke elementen en nieuwe materialen. In haar collectie ‘Inspired’ past Kimm dit principe nu toe op de haarmode. 
