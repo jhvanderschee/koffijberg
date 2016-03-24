@@ -1,3 +1,6 @@
 ---
-title: 2 Nominaties Coiffure Awards 2016
+title: Nominaties Coiffure Awards 2016
 ---
+
+
+**
