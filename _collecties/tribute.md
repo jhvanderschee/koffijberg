@@ -2,12 +2,12 @@
 title: Tribute
 date: 2016-04-14T00:00:00.000Z
 images:
-  - image: /uploads/tribute1.jpg
-  - image: /uploads/tribute2.jpg
-  - image: /uploads/tribute3.jpg
-  - image: /uploads/tribute4.jpg
   - image: /uploads/tribute6.jpg
   - image: /uploads/tribute7.jpg
+  - image: /uploads/tribute3.jpg
+  - image: /uploads/tribute4.jpg
+  - image: /uploads/tribute1.jpg
+  - image: /uploads/tribute2.jpg
   - image: /uploads/tribute9.jpg
   - image: /uploads/tribute10.jpg
 ---
