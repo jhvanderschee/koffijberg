@@ -12,13 +12,15 @@ images:
   - image: /uploads/tribute10.jpg
 ---
 
-Amsterdam, april 2016 –  Dit jaar bestaat Koffijberg Hairdressers in Amsterdam veertig jaar. Reden voor Kimm Koffijberg om deze keer niet met twee losse collecties uit te komen, maar met een allesomvattende ‘Tribute Collectie 2016’. Het eerste deel van deze collectie lanceert ze in het voorjaar, het tweede deel in het najaar. 
+Amsterdam, april 2016 – Dit jaar bestaat Koffijberg Hairdressers in Amsterdam veertig jaar. Reden voor Kimm Koffijberg om deze keer niet met twee losse collecties uit te komen, maar met een allesomvattende ‘Tribute Collectie 2016’. Het eerste deel van deze collectie lanceert ze in het voorjaar, het tweede deel in het najaar. 
 
 De Tribute Collectie is een eerbetoon aan ‘Veertig jaar Koffijberg’. De meest iconische looks die Kimm en Richard Koffijberg in de afgelopen decennia hebben gecreëerd, zijn door Kimm in deze collectie vertaald naar mooi en draagbaar haar anno 2016. Richard en Kimm zijn geïnspireerd door, en geschoold volgens de principes van Vidal Sassoon, founder van de huidige kniptechnieken. Overeenkomst tussen alle collecties uit het verleden en de huidige collectie van Kimm, is de permanente focus op het haar (en niet op alle ruis daaromheen), op constante vernieuwing en op draagbaar haar. De vaktechnisch hoge standaard, de ambachtelijkheid en de voortdurende vernieuwing zijn de roots die Kimm meeneemt in deze Tribute Collectie en als trendsetter van nu.
 
 Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept ‘I-dentity’ dat het adviseren over haarkleur, coupe en visagie naar een hoger niveau tilt. I-dentity kijkt verder dan gezichtsvorm of huidskleur, ook verder dan de laatste haartrends. Kapsel en visagie moeten je identiteit en lifestyle in de volle breedte  onderstrepen, vindt Kimm. “Wat heb jìj nodig?” “ Wat wil jìj uitstralen?” “Wat wil jìj laten zien?”
 
 -afbeeldingen serie 1-
+
+<img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square">
 
 ## Toen
 
@@ -32,7 +34,7 @@ Er is goed gekeken naar een kapsel dat goed bij dit model past, qua haarkleur, v
 
 ## Toen
 
-Dit kapsel grijpt terug naar de jaren 70 (Farrah Fawcett),  maar is ook goed  draagbaar. Voor het haar is een en dezelfde basiskleur gebruikt.
+Dit kapsel grijpt terug naar de jaren 70 (Farrah Fawcett), maar is ook goed draagbaar. Voor het haar is een en dezelfde basiskleur gebruikt.
 
 ## Nu
 
@@ -46,7 +48,7 @@ In dit kapsel herken je de ambachtelijkheid. Er is gewerkt met harde en zachte l
 
 ## Nu
 
-Kimm werkt ook nu met harde en zachte lijnen. Bij dit model is het gezicht optisch smaller gemaakt door het volume hoog aan de zijkant aan te brengen. Het accent van het haar komt boven de jukbeenderen te liggen, omdat haar gezicht ter hoogte van de jukbeenderen het breedst is. Door het haar goed uit te slicen komt er luchtigheid aan de bovenkant. Koele donkere tinten staan het mooist bij haar gelaatskleur. Rond haar gezicht is het haar daarom in totaliteit koel gehouden. In de massieve bovenlaag van het haar zijn juist wel zachtere/warmere tinten aangebracht, voor een softere uitstraling. Op de foto waarop het model het haar achter het oor draagt, behoudt ze haar vrouwelijke uitstraling. Door de toegepaste kleur boven in het haar ontstaat geen helm-effect. Op de andere foto is het haar met de handen en een Seasaltproduct  gestyled en ligt het accent op lengte en luchtigheid.
+Kimm werkt ook nu met harde en zachte lijnen. Bij dit model is het gezicht optisch smaller gemaakt door het volume hoog aan de zijkant aan te brengen. Het accent van het haar komt boven de jukbeenderen te liggen, omdat haar gezicht ter hoogte van de jukbeenderen het breedst is. Door het haar goed uit te slicen komt er luchtigheid aan de bovenkant. Koele donkere tinten staan het mooist bij haar gelaatskleur. Rond haar gezicht is het haar daarom in totaliteit koel gehouden. In de massieve bovenlaag van het haar zijn juist wel zachtere/warmere tinten aangebracht, voor een softere uitstraling. Op de foto waarop het model het haar achter het oor draagt, behoudt ze haar vrouwelijke uitstraling. Door de toegepaste kleur boven in het haar ontstaat geen helm-effect. Op de andere foto is het haar met de handen en een Seasaltproduct gestyled en ligt het accent op lengte en luchtigheid.
 
 -afbeeldingen serie 4-
 
@@ -64,7 +66,7 @@ Volume, vorm, kleur en conditie van je haar zeggen veel over wie je bent of over
 
 De kern van I-dentity is het uitvoerige gesprek tussen klant en daarvoor speciaal getrainde stylist. Tools als een vragenlijst, moodboards en kleurenkragen helpen om het gesprek te verdiepen en elkaar goed te begrijpen. Uiterlijk, wensen, sterke en zwakke punten en algehele lifestyle worden uitvoerig besproken. Evenals de aanleiding om een verandering te willen ondergaan.
 
-Op basis van alle informatie en de eigen indrukken komt de professional tot een heel persoonlijk I-dentity advies. Bedoeld als  aanmoediging en ondersteuning voor de klant om een persoonlijke statement af te geven. En met de mogelijkheid voor de klant om zelfverzekerder en mooier door het leven te gaan.
+Op basis van alle informatie en de eigen indrukken komt de professional tot een heel persoonlijk I-dentity advies. Bedoeld als aanmoediging en ondersteuning voor de klant om een persoonlijke statement af te geven. En met de mogelijkheid voor de klant om zelfverzekerder en mooier door het leven te gaan.
 
 ## Producten
 
