@@ -49,7 +49,7 @@ Dit kapsel grijpt terug naar de jaren 70 (Farrah Fawcett), maar is ook goed draa
 Bij de rechthoekige gezichtsvorm van dit model is het volume laag in het haar aangebracht zodat het gezicht niet te breed of te lang wordt. Door de lagen die in het haar zijn geknipt, krijgt het haar meer volume en oogt het zacht. De natuurlijke haarkleur van het model is vrij donker, met het risico dat ze hard over kan komen. Kimm speelt met kleur (painting en balayage technieken) om de sterke punten van het model naar voren te halen. Ze maakt gebruik van de basiskleur en past een blonde kleur toe rond het gezicht. Hierdoor krijg je een zachte uitstraling. Naar achteren toe is het haar vrij donker gehouden omdat het model niet te vaak naar de kapper wil. Zo groeit de kleur natuurlijk uit. Door het haar te krullen word je je veel bewuster van de kleurseparatie in het haar, dit geeft contrast. Wil je een vloeibare beweging, dan borstel je het haar meer uit.
 
 <div class="row" id="gallery">
-<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lianne.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
+<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/laurien.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
 <div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute1.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
 <div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute2.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
 </div>
@@ -63,9 +63,9 @@ In dit kapsel herken je de ambachtelijkheid. Er is gewerkt met harde en zachte l
 Kimm werkt ook nu met harde en zachte lijnen. Bij dit model is het gezicht optisch smaller gemaakt door het volume hoog aan de zijkant aan te brengen. Het accent van het haar komt boven de jukbeenderen te liggen, omdat haar gezicht ter hoogte van de jukbeenderen het breedst is. Door het haar goed uit te slicen komt er luchtigheid aan de bovenkant. Koele donkere tinten staan het mooist bij haar gelaatskleur. Rond haar gezicht is het haar daarom in totaliteit koel gehouden. In de massieve bovenlaag van het haar zijn juist wel zachtere/warmere tinten aangebracht, voor een softere uitstraling. Op de foto waarop het model het haar achter het oor draagt, behoudt ze haar vrouwelijke uitstraling. Door de toegepaste kleur boven in het haar ontstaat geen helm-effect. Op de andere foto is het haar met de handen en een Seasaltproduct gestyled en ligt het accent op lengte en luchtigheid.
 
 <div class="row" id="gallery">
-<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lianne.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
-<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute1.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
-<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute2.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lisa.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute1.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute9.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute2.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute10.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
 </div>
 
 ## Toen
