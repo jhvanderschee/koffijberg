@@ -20,8 +20,8 @@ Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept 
 
 <div class="row" id="gallery">
 <div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lianne.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
-<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
-<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute1.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute2.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
 </div>
 
 ## Toen
