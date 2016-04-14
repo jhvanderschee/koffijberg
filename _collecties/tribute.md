@@ -5,11 +5,11 @@ images:
   - image: /uploads/tribute/kim-54.jpg
   - image: '/kim-138[1].jpg'
   - image: /kim-388.jpg
-  - image: /kim-422.jpg
+  - image:
   - image: /kim-537.jpg
   - image: /kim-617.jpg
   - image: /kim-642.jpg
-  - image: /kim-588.jpg
+  - image:
   - image: /kim-783.jpg
   - image: /kim-664.jpg
 ---
@@ -27,8 +27,6 @@ images:
 
 *Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept ‘I-dentity’ dat het adviseren over haarkleur, coupe en visagie naar een hoger niveau tilt. I-dentity kijkt verder dan gezichtsvorm of huidskleur, ook verder dan de laatste haartrends. Kapsel en visagie moeten je identiteit en lifestyle in de volle breedte  onderstrepen, vindt Kimm. “Wat heb jìj nodig?” “ Wat wil jìj uitstralen?” “Wat wil jìj laten zien*?”
 
-
-
 *Toen*
 
 *In de jaren 70 is veel geïnvesteerd in technieken. In de jaren 80 kwam de punktijd. Punkkapsels waren stijlvol. Bij dit kapsel zie je dit duidelijk terug. Het draait om ambachtelijkheid, aandacht voor structuur, textuur en zachtheid*.
@@ -43,8 +41,6 @@ Omdat dit mooi bij haar gelaatskleur past, zijn verschillende grijstinten gebrui
 
 Voor de styling is een ronde borstel gebruikt voor volume en lichte slag in het haar. Ten slotte brengt Kimm het haar met haar handen in model.
 
-
-
 *Toen*
 
 *Dit kapsel grijpt terug naar de jaren 70 (Farrah Fawcett),  maar is ook goed  draagbaar. Voor het haar is een en dezelfde basiskleur gebruikt.*
@@ -56,10 +52,6 @@ Bij de rechthoekige gezichtsvorm van dit model is het volume laag in het haar aa
 De natuurlijke haarkleur van het model is vrij donker, met het risico dat ze hard over kan komen. Kimm speelt met kleur (painting en balayage technieken) om de sterke punten van het model naar voren te halen. Ze maakt gebruik van de basiskleur en past een blonde kleur toe rond het gezicht. Hierdoor krijg je een zachte uitstraling. Naar achteren toe is het haar vrij donker gehouden omdat het model niet te vaak naar de kapper wil. Zo groeit de kleur natuurlijk uit.
 
 Door het haar te krullen word je je veel bewuster van de kleurseparatie in het haar, dit geeft contrast. Wil je een vloeibare beweging, dan borstel je het haar meer uit.
-
-
-
-
 
 *Toen*
 
@@ -73,10 +65,6 @@ Koele donkere tinten staan het mooist bij haar gelaatskleur. Rond haar gezicht i
 
 Op de foto waarop het model het haar achter het oor draagt, behoudt ze haar vrouwelijke uitstraling. Door de toegepaste kleur boven in het haar ontstaat geen helm-effect. Op de andere foto is het haar met de handen en een Seasaltproduct  gestyled en ligt het accent op lengte en luchtigheid.
 
-
-
-
-
 *Toen*
 
 *Dit zogenaamde ‘Bob-kapsel’ is heel grafisch met ronde vormen in het gezicht. De kleurtechniek is vierkant. In alles is contrast te zien. Destijds vond men: Het model heeft een zacht gezicht dus harde lijnen zijn oké.*
@@ -88,8 +76,6 @@ Het model heeft een sterk en rechthoekig gezicht. Door de pony iets korter te kn
 Vanwege de sterke lijnen in de coupe is er voor een niet te koele kleur gekozen. Als je hier kiest voor een koele tint zou haar uitstraling te hard worden. Het contrast zit hem hier in de combinatie van een zachtere/warmere haarkleur met strakkere lijnen.
 
 Het haar is met een ronde borstel glad geföhnd met de volumes rond naar binnen. De wetlook is een leuke variatie.
-
-
 
 ***Het concept I-dentity***
 
@@ -118,8 +104,6 @@ Styling: So Pure styling range, Blend, Design
 **Credits:**Kapsels /kleurtechnieken: Kimm Koffijberg and Creative team\*
 
 \*Creative team: Kimm Koffijberg, Pim van der Lelij, Linda de Wit
-
-
 
 Fotografie: Hans Mooijer
 
