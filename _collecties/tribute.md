@@ -62,8 +62,8 @@ Kimm werkt ook nu met harde en zachte lijnen. Bij dit model is het gezicht optis
 
 <div class="row" id="gallery">
 <div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lisa.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
-<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute1.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
-<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute2.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute9.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute9.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute10.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute10.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
 </div>
 
 ## Toen
