@@ -8,8 +8,8 @@ images:
   - image: /uploads/tribute4.jpg
   - image: /uploads/tribute1.jpg
   - image: /uploads/tribute2.jpg
-  - image: /uploads/tribute9.jpg
-  - image: /uploads/tribute10.jpg
+  - image: /uploads/tribute9a.jpg
+  - image: /uploads/tribute10a.jpg
 ---
 
 Amsterdam, april 2016 – Dit jaar bestaat Koffijberg Hairdressers in Amsterdam veertig jaar. Reden voor Kimm Koffijberg om deze keer niet met twee losse collecties uit te komen, maar met een allesomvattende ‘Tribute Collectie 2016’. Het eerste deel van deze collectie lanceert ze in het voorjaar, het tweede deel in het najaar. 
@@ -64,8 +64,8 @@ Kimm werkt ook nu met harde en zachte lijnen. Bij dit model is het gezicht optis
 
 <div class="row" id="gallery">
 <div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lisa.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
-<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute9.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute9.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
-<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute10.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute10.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute9a.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute9a.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute10a.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute10a.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
 </div>
 
 ## Toen
