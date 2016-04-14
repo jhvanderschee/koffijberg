@@ -99,6 +99,4 @@ Op basis van alle informatie en de eigen indrukken komt de professional tot een 
 | Visagie: | Dominika Swietlink |
 | Styling: | Patricia Giesbers |
 
-Met dank aan: Keune Haircosmetics en Denman Brushes
-
-Tekst: Karin Jobse, senior communicatieadviseur
+Met dank aan: Keune Haircosmetics en Denman Brushes. Tekst: Karin Jobse, senior communicatieadviseur
