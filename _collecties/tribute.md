@@ -2,16 +2,14 @@
 title: Tribute
 date: 2016-04-14T00:00:00.000Z
 images:
-  - image: /uploads/tribute/kim-54.jpg
-  - image: '/kim-138[1].jpg'
-  - image: /kim-388.jpg
-  - image:
-  - image: /kim-537.jpg
-  - image: /kim-617.jpg
-  - image: /kim-642.jpg
-  - image:
-  - image: /kim-783.jpg
-  - image: /kim-664.jpg
+  - image: /uploads/tribute1.jpg
+  - image: /uploads/tribute2.jpg
+  - image: /uploads/tribute3.jpg
+  - image: /uploads/tribute4.jpg
+  - image: /uploads/tribute6.jpg
+  - image: /uploads/tribute7.jpg
+  - image: /uploads/tribute9.jpg
+  - image: /uploads/tribute10.jpg
 ---
 
 
