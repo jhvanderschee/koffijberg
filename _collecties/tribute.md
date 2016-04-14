@@ -20,8 +20,9 @@ Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept 
 
 <div class="row" id="gallery">
 <div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lianne.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
-<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute1.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
-<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute2.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute6.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute6.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute7.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute7.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute8.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute8.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
 </div>
 
 ## Toen
@@ -33,8 +34,10 @@ In de jaren 70 is veel geïnvesteerd in technieken. In de jaren 80 kwam de punkt
 Er is goed gekeken naar een kapsel dat goed bij dit model past, qua haarkleur, volumeverdeling en uitstraling. Om haar gezichtsvorm meer tot zijn recht te laten komen, zijn de zijkanten van het haar gedekt opgeknipt en zijn de bovenlagen niet te kort. Zou je de zijkanten langer laten, dan maakt dat haar gezicht te breed. Het accent ligt bovenop het haar. Door het uitslicen van het haar ontstaat een zachte textuur. Omdat dit mooi bij haar gelaatskleur past, zijn verschillende grijstinten gebruikt. De diepere donkere kleuren trekt Kimm door in de lengten om low-lights te creëren. Voor de styling is een ronde borstel gebruikt voor volume en lichte slag in het haar. Ten slotte brengt Kimm het haar met haar handen in model.
 
 <div class="row" id="gallery">
-<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
-<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
+<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/emma.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute3.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute3.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute4.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute4.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute5.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute5.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
 </div>
 
 ## Toen
@@ -46,8 +49,9 @@ Dit kapsel grijpt terug naar de jaren 70 (Farrah Fawcett), maar is ook goed draa
 Bij de rechthoekige gezichtsvorm van dit model is het volume laag in het haar aangebracht zodat het gezicht niet te breed of te lang wordt. Door de lagen die in het haar zijn geknipt, krijgt het haar meer volume en oogt het zacht. De natuurlijke haarkleur van het model is vrij donker, met het risico dat ze hard over kan komen. Kimm speelt met kleur (painting en balayage technieken) om de sterke punten van het model naar voren te halen. Ze maakt gebruik van de basiskleur en past een blonde kleur toe rond het gezicht. Hierdoor krijg je een zachte uitstraling. Naar achteren toe is het haar vrij donker gehouden omdat het model niet te vaak naar de kapper wil. Zo groeit de kleur natuurlijk uit. Door het haar te krullen word je je veel bewuster van de kleurseparatie in het haar, dit geeft contrast. Wil je een vloeibare beweging, dan borstel je het haar meer uit.
 
 <div class="row" id="gallery">
-<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
-<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
+<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lianne.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute1.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute2.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
 </div>
 
 ## Toen
@@ -59,8 +63,9 @@ In dit kapsel herken je de ambachtelijkheid. Er is gewerkt met harde en zachte l
 Kimm werkt ook nu met harde en zachte lijnen. Bij dit model is het gezicht optisch smaller gemaakt door het volume hoog aan de zijkant aan te brengen. Het accent van het haar komt boven de jukbeenderen te liggen, omdat haar gezicht ter hoogte van de jukbeenderen het breedst is. Door het haar goed uit te slicen komt er luchtigheid aan de bovenkant. Koele donkere tinten staan het mooist bij haar gelaatskleur. Rond haar gezicht is het haar daarom in totaliteit koel gehouden. In de massieve bovenlaag van het haar zijn juist wel zachtere/warmere tinten aangebracht, voor een softere uitstraling. Op de foto waarop het model het haar achter het oor draagt, behoudt ze haar vrouwelijke uitstraling. Door de toegepaste kleur boven in het haar ontstaat geen helm-effect. Op de andere foto is het haar met de handen en een Seasaltproduct gestyled en ligt het accent op lengte en luchtigheid.
 
 <div class="row" id="gallery">
-<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
-<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
+<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lianne.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute1.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
+<div class="col-xs-3"><a href="/collecties/tribute/?url=/uploads/tribute2.jpg" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></a></div>
 </div>
 
 ## Toen
