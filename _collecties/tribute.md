@@ -8,6 +8,8 @@ images:
   - image: /uploads/tribute4.jpg
   - image: /uploads/tribute1.jpg
   - image: /uploads/tribute2.jpg
+  - image: /uploads/tribute9.jpg
+  - image: /uploads/tribute10.jpg
 ---
 
 Amsterdam, april 2016 – Dit jaar bestaat Koffijberg Hairdressers in Amsterdam veertig jaar. Reden voor Kimm Koffijberg om deze keer niet met twee losse collecties uit te komen, maar met een allesomvattende ‘Tribute Collectie 2016’. Het eerste deel van deze collectie lanceert ze in het voorjaar, het tweede deel in het najaar. 
