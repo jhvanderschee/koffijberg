@@ -2,32 +2,36 @@
 title: Tribute
 date: 2016-04-14T00:00:00.000Z
 images:
-  - image:
-  - image:
-  - image:
-  - image:
-  - image:
-  - image:
+  - image: /uploads/tribute/kim-54.jpg
+  - image: '/kim-138[1].jpg'
+  - image: /kim-388.jpg
+  - image: /kim-422.jpg
+  - image: /kim-537.jpg
+  - image: /kim-617.jpg
+  - image: /kim-642.jpg
+  - image: /kim-588.jpg
+  - image: /kim-783.jpg
+  - image: /kim-664.jpg
 ---
 
 
 **Tribute Collectie 2016 – Voorjaar**
 
-*Amsterdam, april 2016 – &nbsp;Dit jaar bestaat Koffijberg Hairdressers in Amsterdam veertig jaar. Reden voor Kimm Koffijberg om deze keer niet met twee losse collecties uit te komen, maar met een allesomvattende ‘Tribute Collectie 2016’. Het eerste deel van deze collectie lanceert ze in het voorjaar, het tweede deel in het najaar.*
+*Amsterdam, april 2016 –  Dit jaar bestaat Koffijberg Hairdressers in Amsterdam veertig jaar. Reden voor Kimm Koffijberg om deze keer niet met twee losse collecties uit te komen, maar met een allesomvattende ‘Tribute Collectie 2016’. Het eerste deel van deze collectie lanceert ze in het voorjaar, het tweede deel in het najaar.*
 
-*De Tribute Collectie is een eerbetoon aan ‘Veertig jaar Koffijberg’. De meest iconische looks die Kimm en Richard Koffijberg in de afgelopen decennia hebben gecre&euml;erd, zijn door Kimm in deze collectie vertaald naar mooi en draagbaar haar anno 2016.*
+*De Tribute Collectie is een eerbetoon aan ‘Veertig jaar Koffijberg’. De meest iconische looks die Kimm en Richard Koffijberg in de afgelopen decennia hebben gecreëerd, zijn door Kimm in deze collectie vertaald naar mooi en draagbaar haar anno 2016.*
 
-*Richard en Kimm zijn ge&iuml;nspireerd door, en geschoold volgens de principes van Vidal Sassoon, founder van de huidige kniptechnieken. Overeenkomst tussen alle collecties uit het verleden en de huidige collectie van Kimm, is de permanente focus op het haar (en niet op alle ruis daaromheen), op constante vernieuwing en op draagbaar haar.*
+*Richard en Kimm zijn geïnspireerd door, en geschoold volgens de principes van Vidal Sassoon, founder van de huidige kniptechnieken. Overeenkomst tussen alle collecties uit het verleden en de huidige collectie van Kimm, is de permanente focus op het haar (en niet op alle ruis daaromheen), op constante vernieuwing en op draagbaar haar.*
 
 *De vaktechnisch hoge standaard, de ambachtelijkheid en de voortdurende vernieuwing zijn de roots die Kimm meeneemt in deze Tribute Collectie en als trendsetter van nu.*
 
-*Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept ‘I-dentity’ dat het adviseren over haarkleur, coupe en visagie naar een hoger niveau tilt. I-dentity kijkt verder dan gezichtsvorm of huidskleur, ook verder dan de laatste haartrends. Kapsel en visagie moeten je identiteit en lifestyle in de volle breedte &nbsp;onderstrepen, vindt Kimm. “Wat heb j&igrave;j nodig?” “ Wat wil j&igrave;j uitstralen?” “Wat wil j&igrave;j laten zien*?”
+*Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept ‘I-dentity’ dat het adviseren over haarkleur, coupe en visagie naar een hoger niveau tilt. I-dentity kijkt verder dan gezichtsvorm of huidskleur, ook verder dan de laatste haartrends. Kapsel en visagie moeten je identiteit en lifestyle in de volle breedte  onderstrepen, vindt Kimm. “Wat heb jìj nodig?” “ Wat wil jìj uitstralen?” “Wat wil jìj laten zien*?”
 
-&nbsp;
+
 
 *Toen*
 
-*In de jaren 70 is veel ge&iuml;nvesteerd in technieken. In de jaren 80 kwam de punktijd. Punkkapsels waren stijlvol. Bij dit kapsel zie je dit duidelijk terug. Het draait om ambachtelijkheid, aandacht voor structuur, textuur en zachtheid*.
+*In de jaren 70 is veel geïnvesteerd in technieken. In de jaren 80 kwam de punktijd. Punkkapsels waren stijlvol. Bij dit kapsel zie je dit duidelijk terug. Het draait om ambachtelijkheid, aandacht voor structuur, textuur en zachtheid*.
 
 Nu
 
@@ -35,15 +39,15 @@ Er is goed gekeken naar een kapsel dat goed bij dit model past, qua haarkleur, v
 
 Om haar gezichtsvorm meer tot zijn recht te laten komen, zijn de zijkanten van het haar gedekt opgeknipt en zijn de bovenlagen niet te kort. Zou je de zijkanten langer laten, dan maakt dat haar gezicht te breed. Het accent ligt bovenop het haar. Door het uitslicen van het haar ontstaat een zachte textuur.
 
-Omdat dit mooi bij haar gelaatskleur past, zijn verschillende grijstinten gebruikt. De diepere donkere kleuren trekt Kimm door in de lengten om low-lights te cre&euml;ren.
+Omdat dit mooi bij haar gelaatskleur past, zijn verschillende grijstinten gebruikt. De diepere donkere kleuren trekt Kimm door in de lengten om low-lights te creëren.
 
 Voor de styling is een ronde borstel gebruikt voor volume en lichte slag in het haar. Ten slotte brengt Kimm het haar met haar handen in model.
 
-&nbsp;
+
 
 *Toen*
 
-*Dit kapsel grijpt terug naar de jaren 70 (Farrah Fawcett), &nbsp;maar is ook goed &nbsp;draagbaar. Voor het haar is een en dezelfde basiskleur gebruikt.*
+*Dit kapsel grijpt terug naar de jaren 70 (Farrah Fawcett),  maar is ook goed  draagbaar. Voor het haar is een en dezelfde basiskleur gebruikt.*
 
 Nu
 
@@ -53,9 +57,9 @@ De natuurlijke haarkleur van het model is vrij donker, met het risico dat ze har
 
 Door het haar te krullen word je je veel bewuster van de kleurseparatie in het haar, dit geeft contrast. Wil je een vloeibare beweging, dan borstel je het haar meer uit.
 
-&nbsp;
 
-&nbsp;
+
+
 
 *Toen*
 
@@ -67,15 +71,15 @@ Kimm werkt ook nu met harde en zachte lijnen. Bij dit model is het gezicht optis
 
 Koele donkere tinten staan het mooist bij haar gelaatskleur. Rond haar gezicht is het haar daarom in totaliteit koel gehouden. In de massieve bovenlaag van het haar zijn juist wel zachtere/warmere tinten aangebracht, voor een softere uitstraling.
 
-Op de foto waarop het model het haar achter het oor draagt, behoudt ze haar vrouwelijke uitstraling. Door de toegepaste kleur boven in het haar ontstaat geen helm-effect. Op de andere foto is het haar met de handen en een Seasaltproduct &nbsp;gestyled en ligt het accent op lengte en luchtigheid.
+Op de foto waarop het model het haar achter het oor draagt, behoudt ze haar vrouwelijke uitstraling. Door de toegepaste kleur boven in het haar ontstaat geen helm-effect. Op de andere foto is het haar met de handen en een Seasaltproduct  gestyled en ligt het accent op lengte en luchtigheid.
 
-&nbsp;
 
-&nbsp;
+
+
 
 *Toen*
 
-*Dit zogenaamde ‘Bob-kapsel’ is heel grafisch met ronde vormen in het gezicht. De kleurtechniek is vierkant. In alles is contrast te zien. Destijds vond men: Het model heeft een zacht gezicht dus harde lijnen zijn ok&eacute;.*
+*Dit zogenaamde ‘Bob-kapsel’ is heel grafisch met ronde vormen in het gezicht. De kleurtechniek is vierkant. In alles is contrast te zien. Destijds vond men: Het model heeft een zacht gezicht dus harde lijnen zijn oké.*
 
 Nu
 
@@ -83,9 +87,9 @@ Het model heeft een sterk en rechthoekig gezicht. Door de pony iets korter te kn
 
 Vanwege de sterke lijnen in de coupe is er voor een niet te koele kleur gekozen. Als je hier kiest voor een koele tint zou haar uitstraling te hard worden. Het contrast zit hem hier in de combinatie van een zachtere/warmere haarkleur met strakkere lijnen.
 
-Het haar is met een ronde borstel glad gef&ouml;hnd met de volumes rond naar binnen. De wetlook is een leuke variatie.
+Het haar is met een ronde borstel glad geföhnd met de volumes rond naar binnen. De wetlook is een leuke variatie.
 
-&nbsp;
+
 
 ***Het concept I-dentity***
 
@@ -99,9 +103,9 @@ Het haar is met een ronde borstel glad gef&ouml;hnd met de volumes rond naar bin
 
 *De kern van I-dentity is het uitvoerige gesprek tussen klant en daarvoor speciaal getrainde stylist. Tools als een vragenlijst, moodboards en kleurenkragen helpen om het gesprek te verdiepen en elkaar goed te begrijpen. Uiterlijk, wensen, sterke en zwakke punten en algehele lifestyle worden uitvoerig besproken. Evenals de aanleiding om een verandering te willen ondergaan.*
 
-*Op basis van alle informatie en de eigen indrukken komt de professional tot een heel persoonlijk I-dentity advies. Bedoeld als &nbsp;aanmoediging en ondersteuning voor de klant om een persoonlijke statement af te geven. En met de mogelijkheid voor de klant om zelfverzekerder en mooier door het leven te gaan.*
+*Op basis van alle informatie en de eigen indrukken komt de professional tot een heel persoonlijk I-dentity advies. Bedoeld als  aanmoediging en ondersteuning voor de klant om een persoonlijke statement af te geven. En met de mogelijkheid voor de klant om zelfverzekerder en mooier door het leven te gaan.*
 
-**Producten &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**
+**Producten**
 
 Producten: Keune Haircosmetics
 
@@ -115,13 +119,13 @@ Styling: So Pure styling range, Blend, Design
 
 \*Creative team: Kimm Koffijberg, Pim van der Lelij, Linda de Wit
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
 
 Fotografie: Hans Mooijer
 
-Visagie: Dominika Swietlink &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+Visagie: Dominika Swietlink
 
-Styling: Patricia Giesbers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+Styling: Patricia Giesbers
 
 Met dank aan: Keune Haircosmetics en Denman Brushes
 
