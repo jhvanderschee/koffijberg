@@ -20,7 +20,10 @@ Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept 
 
 -afbeeldingen serie 1-
 
-<img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square">
+<div class="row" id="gallery">
+<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute1.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
+<div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/tribute2.jpg&amp;w=200&amp;h=200&amp;t=square"></div>
+</div>
 
 ## Toen
 
