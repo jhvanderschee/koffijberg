@@ -118,6 +118,7 @@ $( document ).ready(function() {
 	if(!$('body').hasClass('old_Android') && !$('body').hasClass('old_iOS')) {
 		if (get_cookie("splashshown")=="") $('#splash').show();
 	}
+	$('#nonsplash').show();
 	set_cookie('true');
 
     if(window.location.hash) {
