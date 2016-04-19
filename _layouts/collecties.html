@@ -30,7 +30,7 @@
                                     {% if forloop.first %}<div class="row" id="gallery">{% endif %}
                                     {% if itemimagesize contains '-' %}{% else %}
                                     <div class="col-xs-3">
-                                        <a href="{{ post.url }}" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl{{ item.image }}&w=200&h=200&t=square" /></a>
+                                        <a href="{{ post.url }}" class="img"><img src="//images.weserv.nl/?url=www.koffijberg.nl{{ item.image }}&w=200&h=200&t=square&a=top" /></a>
                                     </div>
                                     {% endif %}
                                     {% if forloop.last %}</div>{% endif %}
