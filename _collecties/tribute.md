@@ -21,8 +21,8 @@ Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept 
 
 <div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lianne.jpg&amp;w=200&amp;h=200&amp;t=square" /></div>
 <div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj7.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj7.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div>
-<div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj6.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj6.jpg&amp;w=200&amp;h=200&amp;t=squaree&amp;a=top" /></a></div>
-<div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj8.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj8.jpg&amp;w=200&amp;h=200&amp;t=squaree&amp;a=top" /></a></div></div>
+<div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj6.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj6.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div>
+<div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj8.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj8.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
 
 ## Toen
 
