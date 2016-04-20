@@ -2,14 +2,14 @@
 title: Tribute
 date: 2016-04-14T00:00:00.000Z
 images:
-  - image: /uploads/jv/vj7.jpg
-  - image: /uploads/jv/vj6.jpg
-  - image: /uploads/jv/vj5.jpg
-  - image: /uploads/jv/vj4.jpg
-  - image: /uploads/jv/vj1.jpg
-  - image: /uploads/jv/vj2.jpg
-  - image: /uploads/jv/vj10.jpg
-  - image: /uploads/jv/vj9.jpg
+  - image: /uploads/vj/vj7.jpg
+  - image: /uploads/vj/vj6.jpg
+  - image: /uploads/vj/vj5.jpg
+  - image: /uploads/vj/vj4.jpg
+  - image: /uploads/vj/vj1.jpg
+  - image: /uploads/vj/vj2.jpg
+  - image: /uploads/vj/vj10.jpg
+  - image: /uploads/vj/vj9.jpg
 ---
 
 
