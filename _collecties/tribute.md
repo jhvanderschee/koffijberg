@@ -19,10 +19,7 @@ De Tribute Collectie is een eerbetoon aan ‘Veertig jaar Koffijberg’. De mees
 
 Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept ‘I-dentity’ dat het adviseren over haarkleur, coupe en visagie naar een hoger niveau tilt. I-dentity kijkt verder dan gezichtsvorm of huidskleur, ook verder dan de laatste haartrends. Kapsel en visagie moeten je identiteit en lifestyle in de volle breedte &nbsp;onderstrepen, vindt Kimm. “Wat heb j&igrave;j nodig?” “ Wat wil j&igrave;j uitstralen?” “Wat wil j&igrave;j laten zien?”
 
-<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lianne.jpg&amp;w=200&amp;h=200&amp;t=square" /></div>
-<div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj7.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj7.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div>
-<div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj6.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj6.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div>
-<div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj8.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj8.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
+<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lianne.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj7.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj7.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj6.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj6.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj8.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj8.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
 
 ## Toen
 
