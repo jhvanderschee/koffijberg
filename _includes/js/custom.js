@@ -102,7 +102,7 @@ $( document ).ready(function() {
 	//to remove position fixed
 	var iOS_version = iOSversion(useragent);
 	if(iOS_version[0]<5) $('body').addClass('old_iOS');
-	if(iOS_version[0]>=5) $('body').addClass('new_iOS');
+	if(iOS_version[0]>4) $('body').addClass('new_iOS');
 
 	//check for iOS 
 	//to remove background attachment fixed and animation
