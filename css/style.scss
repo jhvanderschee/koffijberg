@@ -74,7 +74,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 .intro {height: 800px; color: #444;}
 .btn:active:hover, .btn:focus, .btn:hover,
-.intro .btn, .intro h1 {color: #241a1f;}
+.intro .btn, .intro h1 {color: #241a1f!important;}
 .intro .btn-primary {color: white;}
 .intro.dames > div {background: #c3c3c3 url('../img/kapper-amsterdam-dames1.jpg') center top no-repeat; height: 800px; }
 .intro.heren > div {background: #c3c3c3 url('../img/kapper-amsterdam-heren1.jpg') center top no-repeat; height: 800px; }
