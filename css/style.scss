@@ -213,7 +213,7 @@ a:hover {text-decoration: none;}
 .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {background: $highlightkleur; border-color: $highlightkleur!important;}
 .btn-default:active:hover, .btn-default:hover, .btn-primary:active:hover, .btn-primary:hover {opacity: 1;}
 .btn:active:hover, .btn:focus, .btn:hover {color: white;}
-.intro .btn-primary:hover, .intro .btn-default {color: $highlightkleur !important; border: 1px solid $highlightkleur !important; background: transparent!important;}
+.intro .btn-primary:hover, .intro .btn-default {color: white !important; border: 1px solid $accentkleur !important; background: $highlightkleur!important;}
 .intro .btn-primary, .intro .btn-default:hover {border: 1px solid $accentkleur!important; background: $accentkleur!important;}
 .fa {font-size: 180%; display: inline-block; cursor: pointer; margin: 0; position: relative; top: 3px;} 
 .form-group {color: #666;}
