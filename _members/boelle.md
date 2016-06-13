@@ -1,7 +1,7 @@
 ---
 title: Boëlle
 naam: Boëlle
-image: /uploads/boelle.md
+image:
 functie: Junior-Stylist
 order: 10
 ---
