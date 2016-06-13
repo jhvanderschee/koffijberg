@@ -1,7 +1,9 @@
 ---
 title: Boëlle
-naam: Bo
-image: /img/8.-bo-junior-stylist.jpg
+naam: Boëlle
+image: /uploads/boelle.md
 functie: Junior-Stylist
-order: 8
+order: 10
 ---
+
+
