@@ -1,7 +1,7 @@
 ---
 title: Boëlle
 naam: Boëlle
-image: /uploads/boelle-kapster-amsterdam.jpg
+image: /uploads/boelle-kapper-amsterdam.jpg
 functie: Junior-Stylist
 order: 10
 ---
