@@ -91,7 +91,6 @@ $( document ).ready(function() {
 		(useragent.indexOf("Chrome") == -1)
 	) {
 		$('body').addClass('old_Android');
-		alert('old_Android');
 	}
 
 	//check for Android
