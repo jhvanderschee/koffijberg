@@ -5,7 +5,7 @@ title: Divaderme Brow Extender II
 
 Met Divaderme Brow Extender II cre&euml;er je direct volle en natuurlijk ogende wenkbrauwen. De Divaderme Brow Extender II bevat een hoge pigmentatie en natuurlijke vezels waardoor de kleur lang behouden blijft.
 
-Cre&euml;r een natuurlijke wenbrauw aan de hand van Divaderme Brow Extender II
+Cre&euml;er een natuurlijke wenbrauw aan de hand van Divaderme Brow Extender II
 
 PRODUCT INFO
 
