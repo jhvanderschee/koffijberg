@@ -22,4 +22,4 @@ PRODUCT INFO
 
 Geen of weinig wenkbrauwen is geen probleem. Met de browextender krijgt u terug een volle wenkbrauw. Slechts om de 2 &agrave; 3 dagen eens bijwerken.
 
-Brow Extender is gemaakt van natuurlijke ingredi&euml;nten en is nu te koop min onze salon.
+Brow Extender is gemaakt van natuurlijke ingredi&euml;nten en is nu te koop in onze salon.
