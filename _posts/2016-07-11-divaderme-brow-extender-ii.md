@@ -11,8 +11,8 @@ PRODUCT INFO
 
 * Semi-Permanent.
 * Volledig waterproof
-* Behoud hoge pigments natural Italian Sea Mineral Clay en natural fibers voor een langdurige kleur.
-* Covored grijze & lichte haren volledig
+* Bevat hoge pigments natural Italian Sea Mineral Clay en natural fibers voor een langdurige kleur.
+* Bedekt grijze & lichte haren volledig
 * Gemaakt met natuurlijke moisturizers en herbal extracts dat stimuleert, sterk maakt en verzorgd uw wenkbrauwen in 4 - 6 weken
 * Vult precies en heel nauw in, kleur en vorm je wenkbrauwen in enkele seconden
 
