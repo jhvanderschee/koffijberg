@@ -5,7 +5,7 @@ title: Divaderme Brow Extender II
 
 Met Divaderme Brow Extender II cre&euml;er je direct volle en natuurlijk ogende wenkbrauwen. De Divaderme Brow Extender II bevat een hoge pigmentatie en natuurlijke vezels waardoor de kleur lang behouden blijft.
 
-Cre&euml;er een natuurlijke wenbrauw aan de hand van Divaderme Brow Extender II
+Cre&euml;er een natuurlijke wenkbrauw aan de hand van Divaderme Brow Extender II
 
 PRODUCT INFO
 
@@ -13,7 +13,7 @@ PRODUCT INFO
 * Volledig waterproof
 * Behoud hoge pigments natural Italian Sea Mineral Clay en natural fibers voor een langdurige kleur.
 * Covored grijze & lichte haren volledig
-* Gemaakt met natuurlijke moisturizers en herbal extracts dat stimuleert, sterk maakt en verzrgd uw wenkbrauwen in 4 - 6 weken
+* Gemaakt met natuurlijke moisturizers en herbal extracts dat stimuleert, sterk maakt en verzorgd uw wenkbrauwen in 4 - 6 weken
 * Vult precies en heel nauw in, kleur en vorm je wenkbrauwen in enkele seconden
 
 
