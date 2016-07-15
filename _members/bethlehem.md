@@ -1,7 +1,9 @@
 ---
 title: Bethlehem
-naam: Bo
-image: /img/8.-bo-junior-stylist.jpg
-functie: Junior-Stylist
+naam: Bethlehem
+image: /uploads/bethlehem-kapper-amsterdam-1.jpg
+functie: Top-Stylist
 order: 8
 ---
+
+
