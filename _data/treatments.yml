@@ -173,6 +173,12 @@ specials:
         topstylist: € 28.00
         masterstylist: € 28.00
     url:
+  - item: 'Wenkbrauwen Epileren / Harsen & Verven + Winmpers Verven'
+    prijs:
+      - stylist: € 36.00
+        topstylist: € 36.00
+        masterstylist: € 36.00
+    url:
 wash-massages:
   - item: Wasmassage deluxe
     prijs:
