@@ -163,9 +163,9 @@ specials:
     url:
   - item: Wenkbrauwen Epileren / Harsen
     prijs:
-      - stylist: €18.00
-        topstylist: €18.00
-        masterstylist: €18.00
+      - stylist: € 18.00
+        topstylist: € 18.00
+        masterstylist: € 18.00
     url:
 wash-massages:
   - item: Wasmassage deluxe
