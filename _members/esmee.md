@@ -1,7 +1,9 @@
 ---
 title: Esmee
-naam: Bethlehem
-image: /uploads/bethlehem-kapper-amsterdam-1.jpg
-functie: Top-Stylist
+naam: Esmee
+image: /uploads/esmee.jpg
+functie: Master en Kleurspecialist
 order: 8
 ---
+
+
