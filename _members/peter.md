@@ -1,7 +1,9 @@
 ---
 title: Peter
-naam: Bethlehem
-image: /uploads/bethlehem-kapper-amsterdam-1.jpg
-functie: Top-Stylist
+naam: Peter
+image: /uploads/peter.jpg
+functie: Master en Kleurspecialist
 order: 8
 ---
+
+
