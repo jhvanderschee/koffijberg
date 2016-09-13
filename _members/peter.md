@@ -3,7 +3,7 @@ title: Peter
 naam: Peter
 image: /uploads/peter.jpg
 functie: Master-stylist en Kleurspecialist
-order: 5
+order: 2
 ---
 
 
