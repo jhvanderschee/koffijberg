@@ -3,7 +3,7 @@ title: Esmee
 naam: Esmee
 image: /uploads/esmee.jpg
 functie: Master Stylist en Kleurspecialist
-order: 1
+order: 2
 ---
 
 
