@@ -22,7 +22,7 @@ De vaktechnisch hoge standaard, de ambachtelijkheid en de voortdurende vernieuwi
 
 Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept ‘I-dentity’ dat het adviseren over haarkleur, coupe en visagie naar een hoger niveau tilt. I-dentity kijkt verder dan gezichtsvorm of huidskleur, ook verder dan de laatste haartrends. Kapsel en visagie moeten je identiteit en lifestyle in de volle breedte onderstrepen, vindt Kimm. “Wat heb j&igrave;j nodig?” “ Wat wil j&igrave;j uitstralen?” “Wat wil j&igrave;j laten zien?”
 
-<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/afbeelding2.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj4.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj4.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj5.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj5.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div>
+<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/afbeelding2.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj4.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj4.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj5.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj5.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
 
 ## Toen
 
