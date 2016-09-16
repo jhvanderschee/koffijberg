@@ -38,31 +38,25 @@ De kleuren zijn rustig gehouden. Zou je dat niet doen dan gebeurt er teveel tege
 
 ## Toen
 
-Dit kapsel grijpt terug naar de jaren 70 (Farrah Fawcett), maar is ook goed draagbaar. Voor het haar is een en dezelfde basiskleur gebruikt.
+Terwijl de nadruk in de jaren ‘80 lag op het materialisme, en het uiten van rijkdom, leken de begin jaren ‘90 juist te gaan om het tonen van nonchalance. In de jaren ’90 brak Leonardo DiCaprio door in de filmwereld.
+De dresscode voor mannen was over het algemeen vrij minimalistisch en hoofdzakelijk gericht op comfort (jeans). Dat gold ook voor het haar. 
 
 ## Nu
 
-Bij de rechthoekige gezichtsvorm van dit model is het volume laag in het haar aangebracht zodat het gezicht niet te breed of te lang wordt. Door de lagen die in het haar zijn geknipt, krijgt het haar meer volume en oogt het zacht. De natuurlijke haarkleur van het model is vrij donker, met het risico dat ze hard over kan komen. Kimm speelt met kleur (painting en balayage technieken) om de sterke punten van het model naar voren te halen. Ze maakt gebruik van de basiskleur en past een blonde kleur toe rond het gezicht. Hierdoor krijg je een zachte uitstraling. Naar achteren toe is het haar vrij donker gehouden omdat het model niet te vaak naar de kapper wil. Zo groeit de kleur natuurlijk uit. Door het haar te krullen word je je veel bewuster van de kleurseparatie in het haar, dit geeft contrast. Wil je een vloeibare beweging, dan borstel je het haar meer uit.
+Geïnspireerd door de jaren ‘90 is het haar bovenop lang en kort in de nek. Maar de huid schijnt aan de onderkant niet door het haar heen. De lengten zijn vanaf onderin opgebouwd naar voller haar aan de bovenkant. De bovenlaag is apart afgedeeld van de rest van het haar en zo lang mogelijk gehouden. Het haar is niet gekleurd. Door de langere bovenlaag kan op een nonchalante manier gevarieerd worden met verschillende looks, zoals zijscheiding, haar naar achteren, wetlook. Veel mannen hebben tot voor kort hun haar superkort gedragen of helemaal afgeschoren. Dit betekent dat ze hun haar weer moeten laten groeien: Er mag weer meer haar gezien worden!
 
-<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/laurien.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj2.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj2.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj1.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj1.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
+<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/afbeelding4.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj6.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj6.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj7.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj7.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
 
 ## Toen
 
-In dit kapsel herken je de ambachtelijkheid. Er is gewerkt met harde en zachte lijnen en het haar is op verschillende manieren te stylen: kort/lang.
+Aan het begin van de nieuwe eeuw waren veel jongvolwassenen opstandig en onzeker. Er is veel glitter en glamour en drama (Paris Hilton). De mode is gebaseerd op technologie en is futuristisch (metallic, goud, zilver en brons). Door de introductie van de iPod in 2001 zijn gadgets belangrijke accessoires. 
 
 ## Nu
 
-Kimm werkt ook nu met harde en zachte lijnen. Bij dit model is het gezicht optisch smaller gemaakt door het volume hoog aan de zijkant aan te brengen. Het accent van het haar komt boven de jukbeenderen te liggen, omdat haar gezicht ter hoogte van de jukbeenderen het breedst is. Door het haar goed uit te slicen komt er luchtigheid aan de bovenkant. Koele donkere tinten staan het mooist bij haar gelaatskleur. Rond haar gezicht is het haar daarom in totaliteit koel gehouden. In de massieve bovenlaag van het haar zijn juist wel zachtere/warmere tinten aangebracht, voor een softere uitstraling. Op de foto waarop het model het haar achter het oor draagt, behoudt ze haar vrouwelijke uitstraling. Door de toegepaste kleur boven in het haar ontstaat geen helm-effect. Op de andere foto is het haar met de handen en een Seasaltproduct gestyled en ligt het accent op lengte en luchtigheid.
-
-<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lisa.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj10.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj10.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj9.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj9.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
-
-## Toen
-
-Dit zogenaamde ‘Bob-kapsel’ is heel grafisch met ronde vormen in het gezicht. De kleurtechniek is vierkant. In alles is contrast te zien. Destijds vond men: Het model heeft een zacht gezicht dus harde lijnen zijn ok&eacute;.
-
-## Nu
-
-Het model heeft een sterk en rechthoekig gezicht. Door de pony iets korter te knippen en door de ronde kniplijnen verkort je het voorhoofd en maak je het gezicht meer ovaal. Bij de wetlook zijn de ronde vormen weg, maar door de aangebrachte structuur blijft de zachte uitstraling behouden. Vanwege de sterke lijnen in de coupe is er voor een niet te koele kleur gekozen. Als je hier kiest voor een koele tint zou haar uitstraling te hard worden. Het contrast zit hem hier in de combinatie van een zachtere/warmere haarkleur met strakkere lijnen. Het haar is met een ronde borstel glad gef&ouml;hnd met de volumes rond naar binnen. De wetlook is een leuke variatie.
+In het haar zijn veel verschillende afdelingen aangebracht. Daarna is het haar gesneden. De lagen verschillen onderling en er is veel tegenstrijdigheid gecreëerd. Hierdoor komt er luchtigheid en ‘rebellie’ in het haar. 
+Kimm kiest ook bij het kleuren voor veel contrast: De achterkant is donkerbruin terwijl aan de voorkant met de vissengraat techniek rood-mahonietinten zijn aangebracht. Het model is een ‘koel type’ met een erg blanke huid. Door voor een donkere koele haarkleur te kiezen versterkt Kimm haar blanke huid nog meer. 
+Door daarnaast te spelen met warme mahonietinten versterkt Kimm de expressiviteit en het contrast in het haar. De mahonietinten zijn zo aangebracht dat ze niet bij de (koele) huidtint van het gezicht terugkomen.
+Het haar is met de hand gestyled en krijgt daardoor een losse uitstraling.
 
 ## Het concept I-dentity
 
@@ -84,7 +78,6 @@ Op basis van alle informatie en de eigen indrukken komt de professional tot een 
 ## Credits
 
 | Kapsels/kleurtechnieken: | Kimm Koffijberg and Creative team |
-| Creative team: | Kimm Koffijberg, Pim van der Lelij, Linda de Wit |
 | Fotografie: | Hans Mooijer |
 | Visagie: | Dominika Swietlink |
 | Styling: | Patricia Giesbers |
