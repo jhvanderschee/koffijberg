@@ -1,33 +1,32 @@
 ---
-title: Tribute
+title: Tribute 2
 date: 2016-04-14T00:00:00.000Z
 images:
-  - image: /uploads/vj/vj7.jpg
-  - image: /uploads/vj/vj6.jpg
-  - image: /uploads/vj/vj5.jpg
-  - image: /uploads/vj/vj4.jpg
-  - image: /uploads/vj/vj1.jpg
-  - image: /uploads/vj/vj2.jpg
-  - image: /uploads/vj/vj10.jpg
-  - image: /uploads/vj/vj9.jpg
+  - image: /uploads/nj/nj1.jpg
+  - image: /uploads/nj/nj2.jpg
+  - image: /uploads/nj/nj3.jpg
+  - image: /uploads/nj/nj4.jpg
+  - image: /uploads/nj/nj5.jpg
+  - image: /uploads/nj/nj6.jpg
+  - image: /uploads/nj/nj7.jpg
 ---
 
 
 Amsterdam, april 2016 – Dit jaar bestaat Koffijberg Hairdressers in Amsterdam veertig jaar. Reden voor Kimm Koffijberg om deze keer niet met twee losse collecties uit te komen, maar met een allesomvattende ‘Tribute Collectie 2016’. Het eerste deel van deze collectie lanceert ze in het voorjaar, het tweede deel in het najaar. [BEKIJK FILM "VEERTIG JAAR KOFFIJBERG"](https://www.youtube.com/watch?v=oRKbYh74pRY)
 
-De Tribute Collectie is een eerbetoon aan ‘Veertig jaar Koffijberg’. De meest iconische looks die Kimm en Richard Koffijberg in de afgelopen decennia hebben gecre&euml;erd, zijn door Kimm in deze collectie vertaald naar mooi en draagbaar haar anno 2016. Richard en Kimm zijn ge&iuml;nspireerd door, en geschoold volgens de principes van Vidal Sassoon, founder van de huidige kniptechnieken. Overeenkomst tussen alle collecties uit het verleden en de huidige collectie van Kimm, is de permanente focus op het haar (en niet op alle ruis daaromheen), op constante vernieuwing en op draagbaar haar. De vaktechnisch hoge standaard, de ambachtelijkheid en de voortdurende vernieuwing zijn de roots die Kimm meeneemt in deze Tribute Collectie en als trendsetter van nu.
+De Tribute Collectie is een eerbetoon aan ‘Veertig jaar Koffijberg’. De meest iconische looks die Kimm en Richard Koffijberg in de afgelopen decennia hebben gecreëerd, zijn door Kimm in deze collectie vertaald naar mooi en draagbaar haar anno 2016. Richard en Kimm zijn geïnspireerd door, en geschoold volgens de principes van Vidal Sassoon, founder van de huidige kniptechnieken. Overeenkomst tussen alle collecties uit het verleden en de huidige collectie van Kimm, is de permanente focus op het haar (en niet op alle ruis daaromheen), op constante vernieuwing en op draagbaar haar. De vaktechnisch hoge standaard, de ambachtelijkheid en de voortdurende vernieuwing zijn de roots die Kimm meeneemt in deze Tribute Collectie en als trendsetter van nu.
 
-Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept ‘I-dentity’ dat het adviseren over haarkleur, coupe en visagie naar een hoger niveau tilt. I-dentity kijkt verder dan gezichtsvorm of huidskleur, ook verder dan de laatste haartrends. Kapsel en visagie moeten je identiteit en lifestyle in de volle breedte &nbsp;onderstrepen, vindt Kimm. “Wat heb j&igrave;j nodig?” “ Wat wil j&igrave;j uitstralen?” “Wat wil j&igrave;j laten zien?”
+Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept ‘I-dentity’ dat het adviseren over haarkleur, coupe en visagie naar een hoger niveau tilt. I-dentity kijkt verder dan gezichtsvorm of huidskleur, ook verder dan de laatste haartrends. Kapsel en visagie moeten je identiteit en lifestyle in de volle breedte  onderstrepen, vindt Kimm. “Wat heb jìj nodig?” “ Wat wil jìj uitstralen?” “Wat wil jìj laten zien?”
 
 <div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/lianne.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj7.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj7.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj6.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj6.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj8.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj8.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
 
 ## Toen
 
-In de jaren 70 is veel ge&iuml;nvesteerd in technieken. In de jaren 80 kwam de punktijd. Punkkapsels waren stijlvol. Bij dit kapsel zie je dit duidelijk terug. Het draait om ambachtelijkheid, aandacht voor structuur, textuur en zachtheid.
+In de jaren 70 is veel geïnvesteerd in technieken. In de jaren 80 kwam de punktijd. Punkkapsels waren stijlvol. Bij dit kapsel zie je dit duidelijk terug. Het draait om ambachtelijkheid, aandacht voor structuur, textuur en zachtheid.
 
 ## Nu
 
-Er is goed gekeken naar een kapsel dat goed bij dit model past, qua haarkleur, volumeverdeling en uitstraling. Om haar gezichtsvorm meer tot zijn recht te laten komen, zijn de zijkanten van het haar gedekt opgeknipt en zijn de bovenlagen niet te kort. Zou je de zijkanten langer laten, dan maakt dat haar gezicht te breed. Het accent ligt bovenop het haar. Door het uitslicen van het haar ontstaat een zachte textuur. Omdat dit mooi bij haar gelaatskleur past, zijn verschillende grijstinten gebruikt. De diepere donkere kleuren trekt Kimm door in de lengten om low-lights te cre&euml;ren. Voor de styling is een ronde borstel gebruikt voor volume en lichte slag in het haar. Ten slotte brengt Kimm het haar met haar handen in model.
+Er is goed gekeken naar een kapsel dat goed bij dit model past, qua haarkleur, volumeverdeling en uitstraling. Om haar gezichtsvorm meer tot zijn recht te laten komen, zijn de zijkanten van het haar gedekt opgeknipt en zijn de bovenlagen niet te kort. Zou je de zijkanten langer laten, dan maakt dat haar gezicht te breed. Het accent ligt bovenop het haar. Door het uitslicen van het haar ontstaat een zachte textuur. Omdat dit mooi bij haar gelaatskleur past, zijn verschillende grijstinten gebruikt. De diepere donkere kleuren trekt Kimm door in de lengten om low-lights te creëren. Voor de styling is een ronde borstel gebruikt voor volume en lichte slag in het haar. Ten slotte brengt Kimm het haar met haar handen in model.
 
 <div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/emma.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj5.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj5.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj4.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj4.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/vj/vj3.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/vj/vj3.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
 
@@ -53,11 +52,11 @@ Kimm werkt ook nu met harde en zachte lijnen. Bij dit model is het gezicht optis
 
 ## Toen
 
-Dit zogenaamde ‘Bob-kapsel’ is heel grafisch met ronde vormen in het gezicht. De kleurtechniek is vierkant. In alles is contrast te zien. Destijds vond men: Het model heeft een zacht gezicht dus harde lijnen zijn ok&eacute;.
+Dit zogenaamde ‘Bob-kapsel’ is heel grafisch met ronde vormen in het gezicht. De kleurtechniek is vierkant. In alles is contrast te zien. Destijds vond men: Het model heeft een zacht gezicht dus harde lijnen zijn oké.
 
 ## Nu
 
-Het model heeft een sterk en rechthoekig gezicht. Door de pony iets korter te knippen en door de ronde kniplijnen verkort je het voorhoofd en maak je het gezicht meer ovaal. Bij de wetlook zijn de ronde vormen weg, maar door de aangebrachte structuur blijft de zachte uitstraling behouden. Vanwege de sterke lijnen in de coupe is er voor een niet te koele kleur gekozen. Als je hier kiest voor een koele tint zou haar uitstraling te hard worden. Het contrast zit hem hier in de combinatie van een zachtere/warmere haarkleur met strakkere lijnen. Het haar is met een ronde borstel glad gef&ouml;hnd met de volumes rond naar binnen. De wetlook is een leuke variatie.
+Het model heeft een sterk en rechthoekig gezicht. Door de pony iets korter te knippen en door de ronde kniplijnen verkort je het voorhoofd en maak je het gezicht meer ovaal. Bij de wetlook zijn de ronde vormen weg, maar door de aangebrachte structuur blijft de zachte uitstraling behouden. Vanwege de sterke lijnen in de coupe is er voor een niet te koele kleur gekozen. Als je hier kiest voor een koele tint zou haar uitstraling te hard worden. Het contrast zit hem hier in de combinatie van een zachtere/warmere haarkleur met strakkere lijnen. Het haar is met een ronde borstel glad geföhnd met de volumes rond naar binnen. De wetlook is een leuke variatie.
 
 ## Het concept I-dentity
 
@@ -71,17 +70,17 @@ Op basis van alle informatie en de eigen indrukken komt de professional tot een 
 
 ## Producten
 
-| Producten: | Keune Haircosmetics |
-| Kleur: | Ultimate Blond serie / Infinite Colors by Tinta Colors / So Pure Color Balance |
-| Verzorging: | So Pure Balance, Care Line |
-| Styling: | So Pure styling range, Blend, Design |
+| Producten:       | Keune Haircosmetics |
+| Kleur:       | Ultimate Blond serie / Infinite Colors by Tinta Colors / So Pure Color Balance |
+| Verzorging:       | So Pure Balance, Care Line |
+| Styling:       | So Pure styling range, Blend, Design |
 
 ## Credits
 
-| Kapsels/kleurtechnieken: | Kimm Koffijberg and Creative team |
-| Creative team: | Kimm Koffijberg, Pim van der Lelij, Linda de Wit |
-| Fotografie: | Hans Mooijer |
-| Visagie: | Dominika Swietlink |
-| Styling: | Patricia Giesbers |
+| Kapsels/kleurtechnieken:       | Kimm Koffijberg and Creative team |
+| Creative team:       | Kimm Koffijberg, Pim van der Lelij, Linda de Wit |
+| Fotografie:       | Hans Mooijer |
+| Visagie:       | Dominika Swietlink |
+| Styling:       | Patricia Giesbers |
 
 Met dank aan: Keune Haircosmetics en Denman Brushes. Tekst: Karin Jobse, senior communicatieadviseur
