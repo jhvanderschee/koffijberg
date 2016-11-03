@@ -1,5 +1,5 @@
 ---
-title: Kleuring
+title: Kleuring (1 kleur)
 images:
   - image: /img/blowdryarea-1.jpg
   - image: /img/blowdryarea-2.jpg
