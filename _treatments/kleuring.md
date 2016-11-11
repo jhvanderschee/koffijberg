@@ -10,6 +10,10 @@ images:
 ---
 
 
-Voordat de kapper of kapster je haar in onze kapsalon gaat kleuren, maken we eerst tijd voor het uitvoeren van een kleuranalyse. Jij vult een vragenlijst in bij binnenkomst zodat de kapper of kapster een idee heeft wie u in het dagelijks leven bent en welke uitstraling daarbij hoort. In de color studio ondergaat uit de kleuranalyse waarin wij samen met jou de juiste kleur kunnen bepalen die goed bij uw huidskleur en uitstraling past.
+Voordat de kapper of kapster je haar in onze kapsalon gaat kleuren, maken we eerst tijd voor een kleuranalyse. Na binnenkomst in onze kapsalon vul je een vragenlijst in. De kapper of kapster krijgt op basis hiervan al een idee over wie je bent, wat je in het dagelijks leven doet en wat je wilt. In onze Color Studio bespreken we al je wensen en adviseren wij je over de mogelijkheden. De professionele vaktechnieken van onze kappers zorgen ervoor dat je onze salon met een prachtige nieuwe haarkleur verlaat. Met een kleur die past bij de tint van je huid en die je een prachtige persoonlijke uitstraling geeft.
 
-Wij kijken uiteraard ook naar de gesteldheid van je haar en hoofdhuid en je krijgt hier ook een persoonlijk advies over. Na de kleuranalyse zal de kapper of kapster je haar verven op basis van jouw wensen en zijn of haar vaktechnische kennis. Alle kleurbehandelingen zijn inclusief een heerlijke hoofdmassage, haarmasker en warme handdoek. Na het kleuren kunnen we uiteraard ook een mooi kapsel knippen, het alleen drogen of super mooi helemaal f&ouml;hnen waarmee je ervoor zorgt dat je kapsel langer mooi gestyled blijft. We maken altijd gebruik van de allerbeste producten. In onze kapsalon werken we met de merken Keune en K&eacute;rastase. Onze kappers en kapsters nemen de tijd om goed naar je wensen te luisteren.
+Natuurlijk kijken we tijdens het kleuren ook naar de gesteldheid van je haar en hoofdhuid en krijg je hier persoonlijk advies over. Alle kleurbehandelingen zijn inclusief een heerlijke hoofdmassage en haarmasker met warme handdoek.
+
+Na het kleuren kan je ervoor kiezen je haar door een van onze topkappers in model te laten knippen. Of je kunt het helemaal laten f&ouml;hnen waardoor je kapsel mooi gestyled blijft. Natuurlijk mag je het ook alleen even door ons laten drogen.
+
+Koffijberg maakt alleen gebruik van de allerbeste producten. In onze kapsalon werken we met de merken Keune en K&eacute;rastase.
