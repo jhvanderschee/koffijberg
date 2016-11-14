@@ -67,13 +67,13 @@ colorings:
       - stylist: € 99.75
         topstylist: € 99.75
         masterstylist: € 109.80
-    url:
+    url: /behandelingen/kleuring--steaks-effect/
   - item: Kleuring + Streaks Lang haar
     prijs:
       - stylist: € 148.80
         topstylist: € 148.80
         masterstylist: € 162.80
-    url: /behandelingen/kleuring--steaks-effect/
+    url:
   - item: Highlights deel
     prijs:
       - stylist: € 65.45
