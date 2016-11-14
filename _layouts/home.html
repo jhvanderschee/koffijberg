@@ -103,7 +103,7 @@
                               <tr><td colspan="4"><br /><b>Kinderen / jongeren / studenten<sup>2</sup></b></td></tr>
                               {% for d in site.data.treatments.discounts %}
                                   {% for p in d.prijs %}
-                                  <tr><td>{% if d.url != '' or !d.url %}<a href="{{ d.url }}">{{ d.item }}</a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr><td>{% if d.url != '' or d.url==nil %}<a href="{{ d.url }}">{{ d.item }}</a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Kleur<sup>3</sup></b></td></tr>
