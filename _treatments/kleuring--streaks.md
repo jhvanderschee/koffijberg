@@ -1,12 +1,7 @@
 ---
 title: 'Kleuring & Streaks'
 images:
-  - image: /img/blowdryarea-1.jpg
-  - image: /img/blowdryarea-2.jpg
-  - image: /img/blowdryarea-3.jpg
-  - image: /img/blowdryarea-4.jpg
-  - image: /img/blowdryarea-5.jpg
-  - image: /img/blowdryarea-6.jpg
+  - image:
 ---
 
 
@@ -14,6 +9,6 @@ Voordat de kapper of kapster je haar in onze kapsalon gaat kleuren, maken we eer
 
 Natuurlijk kijken we tijdens het kleuren ook naar de gesteldheid van je haar en hoofdhuid en krijg je hier persoonlijk advies over. Alle kleurbehandelingen zijn inclusief een heerlijke hoofdmassage en haarmasker met warme handdoek.
 
-Na het kleuren kan je ervoor kiezen je haar door een van onze topkappers in model te laten knippen. Of je kunt het helemaal laten f&ouml;hnen waardoor je kapsel mooi gestyled blijft. Natuurlijk mag je het ook alleen even door ons laten drogen.
+Na het kleuren kan je ervoor kiezen je haar door een van onze topkappers in model te laten knippen. Of je kunt het helemaal laten föhnen waardoor je kapsel mooi gestyled blijft. Natuurlijk mag je het ook alleen even door ons laten drogen.
 
-Koffijberg maakt alleen gebruik van de allerbeste producten. In onze kapsalon werken we met de merken Keune en K&eacute;rastase.
+Koffijberg maakt alleen gebruik van de allerbeste producten. In onze kapsalon werken we met de merken Keune en Kérastase.
