@@ -1,5 +1,5 @@
 ---
-title: 'Wassen & Föhnen'
+title: 'Wassen & Fohnen'
 images:
   - image: /img/blowdryarea-1.jpg
   - image: /img/blowdryarea-2.jpg
