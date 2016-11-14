@@ -91,7 +91,7 @@
                               <tr><td><b>Dames</b></td><td class="text-center"><b>Stylist</b></td><td class="text-center"><b>Top-Stylist</b></td><td class="text-center"><b>Master-Stylist<sup>1</sup></b></td></tr>
                               {% for d in site.data.treatments.ladies %}
                                   {% for p in d.prijs %}
-                                  <tr><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <i class="fa fa-info-circle" aria-hidden="true"></i></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 20px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr><td colspan="4"><br /><b>Heren</b></td></tr>
