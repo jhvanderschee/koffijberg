@@ -1,5 +1,5 @@
 ---
-title: 'Wassen & Föhen middellang haar'
+title: 'Wassen & Föhnen middellang haar'
 images:
   - image: /img/blowdryarea-1.jpg
   - image: /img/blowdryarea-2.jpg
@@ -8,3 +8,5 @@ images:
   - image: /img/blowdryarea-5.jpg
   - image: /img/blowdryarea-6.jpg
 ---
+
+
