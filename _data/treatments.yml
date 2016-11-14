@@ -73,43 +73,43 @@ colorings:
       - stylist: € 148.80
         topstylist: € 148.80
         masterstylist: € 162.80
-    url:
+    url: /behandelingen/kleuring--streaks-lang-haar/
   - item: Highlights deel
     prijs:
       - stylist: € 65.45
         topstylist: € 65.45
         masterstylist: € 73.30
-    url:
+    url: /behandelingen/highlights-deel/
   - item: Highlights heel
     prijs:
       - stylist: € 99.65
         topstylist: € 99.65
         masterstylist: € 109.80
-    url:
+    url: /behandelingen/highlights-heel/
   - item: Free hand techniek deel
     prijs:
       - stylist: € 132.40
         topstylist: € 132.40
         masterstylist: € 145.50
-    url:
+    url: /behandelingen/free-hand-techniek/
   - item: Free hand techniek heel
     prijs:
       - stylist: € 184.20
         topstylist: € 184.20
         masterstylist: € 200.20
-    url:
+    url: /behandelingen/free-hand-techniek-heel/
   - item: Free hand techniek lang haar
     prijs:
       - stylist: € 198.75
         topstylist: € 198.75
         masterstylist: € 217.70
-    url:
+    url: /free-hand-techniek-lang-haar/
   - item: Ontkleuring / Ultimate blond
     prijs:
       - stylist: € 77.65
         topstylist: € 77.65
         masterstylist: € 84.35
-    url:
+    url: /behandelingen/ontklering--ultimate-blond/
   - item: Overige behandelingen op aanvraag
     prijs:
       - stylist:
