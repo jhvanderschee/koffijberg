@@ -11,4 +11,4 @@ Ik ben een echt stadsmeisje. Het bruisende Amsterdam is mijn belangrijkste muze.
 
 Elaine is per 23 november met zwangerschapsverlof. Half maart 2017 verwachten wij Elaine weer terug in onze salon.
 
-*Beschikbaarheid: ma / di / wo / za*
+*Beschikbaarheid: met verlof*
