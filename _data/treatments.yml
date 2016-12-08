@@ -198,6 +198,12 @@ wash-massages:
         topstylist: € 37.50
         masterstylist: n.v.t.
     url:
+  - item: Kerastase Hoofdhuid Ritueel
+    prijs:
+      - stylist: € 32.50
+        topstylist: € 32.50
+        masterstylist:
+    url:
 extensions:
   - item: Balmain Longueur plus
     prijs:
