@@ -61,7 +61,7 @@ Alles en iedereen. Ik kan ge&iuml;nspireerd raken door grote en kleine dingen, a
 
 **Je mag met 4 mensen dineren, wie neem je mee?**
 
-Mijn gezin even lekker quality time.
+Mijn gezin. Even lekker quality time.
 
 **Heb je nog een leuke tips & tricks de lezers?**
 
