@@ -210,6 +210,12 @@ wash-massages:
         topstylist: € 32.50
         masterstylist: n.v.t.
     url:
+  - item: Kerastase Fusio-Dose
+    prijs:
+      - stylist: € 37.50
+        topstylist: € 37.50
+        masterstylist: n.v.t.
+    url:
 extensions:
   - item: Balmain Longueur plus
     prijs:
