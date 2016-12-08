@@ -13,6 +13,8 @@ Functies: Koffijberg Hairdressers en Global Color Director Keune Haircosmetics
 
 Quote/ lijfspreuk: Het mooiste wat je kunt worden is jezelf. Beauty begint op het moment dat je besluit jezelf te zijn.
 
+![](/uploads/versions/portretten-keune-14-mei-evert-doorn-fotografie-05-mini---x----500-497x---.jpg)
+
 **Wat is de missie van je bedrijf/merk?**
 
 Wij willen het mooiste in onze klanten naar boven halen. Hun identiteit versterken met de juiste coupe en haarkleur of de bijpassende identiteit zorgvuldig onderhouden. Wij helpen klanten in de verschillende levensfases door ze te voorzien van die uitstraling die zij op dat moment nodig hebben. Wij denken vanuit concepten.
@@ -24,6 +26,8 @@ Dit zijn mensen die dicht bij zichzelf willen blijven. Wanneer dat betekent dat 
 **Wat maakt Koffijberg Hairdressers zo bijzonder?**
 
 Een kappersbezoek moet naar mijn mening altijd een fijne ervaring zijn en ook zo makkelijk mogelijk ervaren. We serveren heerlijke broodjes tijdens lunchtijd, ’s avonds eventueel een heerlijk wijntje en nootje om lekker even te ontspannen. Daarnaast kan je tijdens werktijd doorwerken door onze perfecte WIFI. &nbsp;Of nu het hele gezin gezellig langs komt voor een perfecte nieuwe look of dat je alleen langs komt voor me-time middels een heerlijke ontspannende hoofdmassage en intensieve haarverzorging in onze treatmentroom. We geven je met veel plezier een geweldige welness ervaring! Kortom; het gaat er om wie de klant is en wat zij wil ervaren en wij zorgen dat die beleving waar gemaakt wordt!
+
+![](/uploads/versions/kimm-richard-koffijberg-kapper-amsterdam---x----500-333x---.jpg)
 
 **Wat maakt jouw rol binnen het bedrijf zo bijzonder?**
 
