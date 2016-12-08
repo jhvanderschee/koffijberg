@@ -192,6 +192,12 @@ wash-massages:
         topstylist: € 37.50
         masterstylist: n.v.t.
     url:
+  - item: Keune Care Ritueel
+    prijs:
+      - stylist: € 37.50
+        topstylist: € 37.50
+        masterstylist: n.v.t.
+    url:
 extensions:
   - item: Balmain Longueur plus
     prijs:
