@@ -204,6 +204,12 @@ wash-massages:
         topstylist: € 32.50
         masterstylist:
     url:
+  - item: Kerastase Beschadigd haar Ritueel
+    prijs:
+      - stylist: € 32.50
+        topstylist: € 32.50
+        masterstylist: n.v.t.
+    url:
 extensions:
   - item: Balmain Longueur plus
     prijs:
