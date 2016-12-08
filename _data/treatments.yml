@@ -216,6 +216,12 @@ wash-massages:
         topstylist: € 37.50
         masterstylist: n.v.t.
     url:
+  - item: Kerastase Fluidealiste Ritueel
+    prijs:
+      - stylist: € 50.00
+        topstylist: € 50.00
+        masterstylist: n.v.t.
+    url:
 extensions:
   - item: Balmain Longueur plus
     prijs:
