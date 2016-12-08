@@ -186,10 +186,10 @@ specials:
         masterstylist: € 28.00
     url:
 wash-massages:
-  - item: Treatment Room
+  - item: Keune SoPure Ritueel
     prijs:
-      - stylist: € 53.00
-        topstylist: '€ 53,00'
+      - stylist: € 37.50
+        topstylist: € 37.50
         masterstylist: n.v.t.
     url:
 extensions:
