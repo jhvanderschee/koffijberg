@@ -21,6 +21,7 @@
                                              
             {% if page.image %}<p><img src="{{ page.image }}" /></p>{% endif %}
             {% for item in page.images %}
+              {% if item.image %}
                 {% capture itemimagesize %}{{ item.image | size | minus:2 }}{% endcapture %}
                 {% if forloop.first %}<div class="row" id="gallery">{% endif %}
                 {% if itemimagesize contains '-' %}{% else %}
@@ -29,8 +30,8 @@
                 </div>
                 {% endif %}
                 {% if forloop.last %}</div>{% endif %}
+              {% endif %}
             {% endfor %}
-            
                         <div class="post-content">
                         {{ content }}
 
