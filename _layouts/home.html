@@ -130,8 +130,8 @@
                                   <tr class="expand1"><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
-                              <tr class="expand1"><td colspan="4"><br /><b>Wasmassages</b></td></tr>
-                              {% for d in site.data.treatments.wash-massages %}
+                              <tr class="expand1"><td colspan="4"><br /><b>Treatment room</b></td></tr>
+                              {% for d in site.data.treatments.treatment-room %}
                                   {% for p in d.prijs %}
                                   <tr class="expand1"><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}

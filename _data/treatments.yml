@@ -185,43 +185,43 @@ specials:
         topstylist: € 28.00
         masterstylist: € 28.00
     url:
-wash-massages:
+treatment-room:
   - item: Keune SoPure Ritueel
     prijs:
       - stylist: € 37.50
         topstylist: € 37.50
         masterstylist: n.v.t.
-    url:
+    url: /behandelingen/keune-sopure-ritueel/
   - item: Keune Care Ritueel
     prijs:
       - stylist: € 37.50
         topstylist: € 37.50
         masterstylist: n.v.t.
-    url:
+    url: /behandelingen/keune-care-ritueel/
   - item: Kerastase Hoofdhuid Ritueel
     prijs:
       - stylist: € 32.50
         topstylist: € 32.50
         masterstylist: n.v.t.
-    url:
+    url: /behandelingen/kerastase/
   - item: Kerastase Beschadigd haar Ritueel
     prijs:
       - stylist: € 32.50
         topstylist: € 32.50
         masterstylist: n.v.t.
-    url:
+    url: /behandelingen/kerastase-beschadigd-haar-ritueel/
   - item: Kerastase Fusio-Dose Ritueel
     prijs:
       - stylist: € 37.50
         topstylist: € 37.50
         masterstylist: n.v.t.
-    url:
+    url: /behandelingen/kerastase-fusio-dose-ritueel/
   - item: Kerastase Fluidealiste Ritueel
     prijs:
       - stylist: € 50.00
         topstylist: € 50.00
         masterstylist: n.v.t.
-    url:
+    url: /behandelingen/kerastase-fluideliaste-ritueel/
 extensions:
   - item: Balmain Longueur plus
     prijs:
