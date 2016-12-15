@@ -132,9 +132,9 @@ blow-dry:
 wash-and-dry:
   - item: 'Wassen & Föhnen'
     prijs:
-      - stylist: € 30
-        topstylist: € 33.50
-        masterstylist: € 37.65
+      - stylist: € 30.40
+        topstylist: € 34.00
+        masterstylist: € 38.20
     url: /behandelingen/wassen--fohnen/
   - item: 'Wassen & Föhnen middellang haar'
     prijs:
