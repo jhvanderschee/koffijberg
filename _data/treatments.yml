@@ -58,9 +58,9 @@ colorings:
     url: /behandelingen/kleuring
   - item: Kleuring + Streaks
     prijs:
-      - stylist: € 132.95
-        topstylist: € 132.95
-        masterstylist: € 144.45
+      - stylist: € 134.90
+        topstylist: € 134.90
+        masterstylist: € 146.60
     url: /behandelingen/kleuring--streaks/
   - item: Kleuring + Streaks effect
     prijs:
