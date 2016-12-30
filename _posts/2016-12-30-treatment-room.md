@@ -15,7 +15,9 @@ Wist je dat ongeveer 60% van de vrouwen en 40% van de mannen een gevoelige hoofd
 
 **Treatment room**
 
-In onze salon bevindt zich een speciale afgesloten treatment room waarbij wij met een geavanceerde camera de conditie van je haar en hoofdhuid in beeld brengen. Op basis hiervan adviseert een van onze kappers je over een custom made behandeling en welke producten wij voor jouw behandeling gaan gebruiken.**![](/uploads/versions/duo-treatment-room-1---x----400-302x---.jpg)**
+In onze salon bevindt zich een speciale afgesloten treatment room waarbij wij met een geavanceerde camera de conditie van je haar en hoofdhuid in beeld brengen. Op basis hiervan adviseert een van onze kappers je over een custom made behandeling en welke producten wij voor jouw behandeling gaan gebruiken.
+
+**![](/uploads/versions/duo-treatment-room-1---x----400-302x---.jpg)**
 
 **Hoe ziet een treatment room behandeling eruit?****&nbsp;**
 
