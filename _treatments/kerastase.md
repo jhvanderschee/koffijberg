@@ -13,7 +13,7 @@ Dit ritueel zuivert de hoofdhuid en haar in drie stappen. De shampoo, het masker
 
 **Clarisonic**
 
-Met de Clarisonic brush en een bad dat past bij de behoeften van de gast, wordt het haar gereinigd. Deze innovatieve brush zorgt voor een effectieve reiniging; hij verwijdert 6 keer meer onzuiverheden versus een handmatige reiniging. De Clarisonic brush reinigt porie na porie en zorgt teven voor activering van de microcirculatie, door een beweging van 300 micro-rotaties per seconde.
+Met de Clarisonic brush en een bad dat past bij de behoeften van de gast, wordt het haar gereinigd. Deze innovatieve borstel zorgt voor een effectieve reiniging; hij verwijdert 6 keer meer onzuiverheden versus een handmatige reiniging. De Clarisonic brush reinigt porie na porie en zorgt teven voor activering van de microcirculatie, door een beweging van 300 micro-rotaties per seconde.
 
 **De Treatment room**
 
