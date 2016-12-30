@@ -15,14 +15,14 @@ Wist je dat ongeveer 60% van de vrouwen en 40% van de mannen een gevoelige hoofd
 
 **Treatment room**
 
-In onze salon bevindt zich een speciale afgesloten treatment room waarbij wij met een geavanceerde camera de conditie van je haar en hoofdhuid in beeld brengen. Op basis hiervan adviseert een van onze kappers je over een custom made behandeling en welke producten wij voor jouw behandeling gaan gebruiken.
-
-**Hoe ziet een treatmentroom behandeling eruit?****&nbsp;**
+In onze salon bevindt zich een speciale afgesloten treatment room waarbij wij met een geavanceerde camera de conditie van je haar en hoofdhuid in beeld brengen. Op basis hiervan adviseert een van onze kappers je over een custom made behandeling en welke producten wij voor jouw behandeling gaan gebruiken.**![](/uploads/versions/duo-treatment-room-1---x----400-302x---.jpg)****Hoe ziet een treatmentroom behandeling eruit?****&nbsp;**
 
 Samen met &eacute;&eacute;n van onze kappers, selecteren wij een behandeling en kan je fijn gaan relaxen in een van onze massagestoelen. Wij verbeteren ondertussen de conditie van je haar en hoofdhuid met de speciaal op jou afgestemde verzorging en onze hightech tools (clarisonic brush en micronizer). Met deze tools komt de verzorging nog dieper in je haar en hoofdhuid terecht. Uiteraard ontvang je een heerlijke uitgebreide hoofdhuidmassage en drogen wij je haar. Na de behandeling adviseren wij welke producten je het beste thuis kunt gebruiken, zodat je jouw hoofdhuid en je haar optimaal ook thuis kunt verzorgen! Deze producten kun je na de treatment met 25% korting aanschaffen in de salon.
+
+![](/uploads/versions/treatment-1---x----250-351x---.jpg)
 
 **Welke zes verschillende behandelingen zijn er?&nbsp;**
 
 In totaal hebben we zes verschillende behandelingen waarbij we werken met de merken Keune en K&eacute;rastase. Je kunt een behandeling boeken van 30 minuten, maar ook van 60 minuten, uiteraard is dit geheel afhankelijk van jouw wensen. De zes behandelingen kunnen bestaan uit een ultieme **Keune So Pure welness experience** tot een **K&eacute;rastase hoofdhuid behandeling** waarbij de hoofdhuid wordt gezuiverd in drie stappen met o.a. een shampoo, klei scrub, masker en Clarisonic brush. Ook voor **beschadigd haar met gespleten punten** is een speciale behandeling ontwikkeld waardoor het haar van binnenuit weer wordt opgebouwd.
 
-Wil jij geen last meer hebben van pluizig, onhandelbaar haar of wil jij nu eindelijk ook eens af van die vervelende roos in je haar? Verwen jezelf dan eens met een van onze Treatmentroom behandelingen. [Bekijk hier](http://www.koffijberg.nl/#behandelingen)&nbsp;al onze behandelingen of neem direct contact op voor het maken van een afspraak via telefoonnummer 020-673 23 74, Whatsapp 06-47882233, per mail [receptie@koffijberg.nl](mailto:receptie@koffijberg.nl) &nbsp;of [klik hier](/contact/).
+Wil jij geen last meer hebben van pluizig, onhandelbaar haar of wil jij nu eindelijk ook eens af van die vervelende roos in je haar? Verwen jezelf dan eens met een van onze Treatment room behandelingen. [Bekijk hier](http://www.koffijberg.nl/#behandelingen)&nbsp;al onze behandelingen of neem direct contact op voor het maken van een afspraak via telefoonnummer 020-673 23 74, Whatsapp 06-47882233, per mail receptie@koffijberg.nl &nbsp;of [klik hier](/contact/).
