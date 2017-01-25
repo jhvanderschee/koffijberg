@@ -63,6 +63,6 @@ Ik krijg alleen maar positieve reacties van vrouwen, die het eigenlijk stiekem o
 
 Het eindresultaat is prachtig. Het is even een stap om ermee te beginnen, het eerste half jaar was best moeilijk maar daarna zag je het steeds mooier worden, kortom een absolute aanrader voor elke vrouw die nu wellicht op hetzelfde punt staat waar ik ooit begon. Dank je wel kappers van Koffijberg!
 
-Ben jij ook ge&iuml;nteresseerd in het ondergaan van een 'Shining Grey' behandeling, spreek vooral onze kappers hier eens op aan, zodat wij ook voor jou een mooi plan kunnen maken voor de ‘perfect grey look’!
+Ben jij ook ge&iuml;nteresseerd in het ondergaan van een 'Shining Grey' behandeling, spreek vooral onze kappers hier eens op aan of [maak een afspraak voor een adviesgesprek](http://www.koffijberg.nl/contact/), zodat wij ook voor jou een mooi plan kunnen maken voor de ‘perfect grey look’!
 
 ![](/uploads/versions/shining-grey-3---x----5760-3240x---.jpg)*Brigit shines grey!*
