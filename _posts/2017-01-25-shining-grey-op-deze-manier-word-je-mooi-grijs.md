@@ -5,11 +5,7 @@ title: 'Shining Grey: op deze manier word je mooi grijs!'
 
 **De eerste grijze haren. De een schrikt zich rot, de ander heet ze van harte welkom. Doe net als de prachtige Brigit (60): laat de haarverf staan en durf de kleur grijs te bekennen!**
 
-**Grijs haar is tegenwoordig een ware trend. Toch blijven veel vrouwen hun haren kleuren, zodra de eerste grijze exemplaren tevoorschijn komen. Soms is dat echt zonde want mooi grijs haar is vaak binnen handbereik en staat enorm charmant en zelfs trendy.**
-
-**Wij interviewden onze klant Brigit die onlangs een ware 'Shining Grey' metamorfose onderging, met als eindresultaat een waanzinnige grijze look.**
-
-**Lees je mee?**
+**Grijs haar is tegenwoordig een ware trend. Toch blijven veel vrouwen hun haren kleuren, zodra de eerste grijze exemplaren tevoorschijn komen. Soms is dat echt zonde want mooi grijs haar is vaak binnen handbereik en staat enorm charmant en zelfs trendy.&nbsp;****Wij interviewden onze klant Brigit die onlangs een ware 'Shining Grey' metamorfose onderging, met als eindresultaat een waanzinnige grijze look.&nbsp;****Lees je mee?**
 
 **Wat is een 'Shining Grey' behandeling?**
 
