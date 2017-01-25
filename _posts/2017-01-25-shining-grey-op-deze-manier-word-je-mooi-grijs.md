@@ -9,8 +9,6 @@ title: 'Shining Grey: op deze manier word je mooi grijs!'
 
 ## **Wat is een 'Shining Grey' behandeling?**
 
-&nbsp;
-
 Kimm Koffijberg ontwikkelde een uniek concept: **‘Shining Grey’.&nbsp;**Een persoonlijk stappenplan dat gemiddeld een jaar duurt. Elke twee tot drie maanden (afhankelijk of je lang haar of kort haar hebt) bezoek je onze kapsalon, waarbij wij op een uitgekiende manier bij ieder bezoek low- en highlights plaatsen om zo het grijze en het gekleurde haar steeds meer met elkaar te verweven, dit wordt ook wel blenden genoemd.
 
 In de loop van het 'shining grey' proces wennen zowel jij en je omgeving aan je nieuwe grijze haarkleur en dat terwijl onze kappers de kwaliteit van de kleur en het haar goed bewaken. Na een jaar komt een vrouw tevoorschijn met een sprankelende grijze en eigentijdse look. Brigit onderging afgelopen jaar dit proces en vertelt in het onderstaande interview haar ervaring.
