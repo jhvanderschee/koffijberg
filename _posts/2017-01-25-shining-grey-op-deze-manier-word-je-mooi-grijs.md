@@ -7,7 +7,7 @@ title: 'Shining Grey: op deze manier word je mooi grijs!'
 
 **Grijs haar is tegenwoordig een ware trend. Toch blijven veel vrouwen hun haren kleuren, zodra de eerste grijze exemplaren tevoorschijn komen. Soms is dat echt zonde want mooi grijs haar is vaak binnen handbereik en staat enorm charmant en zelfs trendy.&nbsp;****Wij interviewden onze klant Brigit die onlangs een ware 'Shining Grey' metamorfose onderging, met als eindresultaat een waanzinnige grijze look.&nbsp;****Lees je mee?**
 
-**Wat is een 'Shining Grey' behandeling?**
+## **Wat is een 'Shining Grey' behandeling?**
 
 Kimm Koffijberg ontwikkelde een uniek concept: **‘Shining Grey’.&nbsp;**Een persoonlijk stappenplan dat gemiddeld een jaar duurt. Elke twee tot drie maanden (afhankelijk of je lang haar of kort haar hebt) bezoek je onze kapsalon, waarbij wij op een uitgekiende manier bij ieder bezoek low- en highlights plaatsen om zo het grijze en het gekleurde haar steeds meer met elkaar te verweven, dit wordt ook wel blenden genoemd.
 
@@ -21,11 +21,11 @@ Naam &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; : Brigit van Niele
 
 Leeftijd &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 60 jaar
 
-**Op welk moment heb je besloten om de ‘Shining Grey behandeling’ te gaan doen?**
+## **Op welk moment heb je besloten om de ‘Shining Grey behandeling’ te gaan doen?**
 
 Steeds vaker bracht ik een bezoek aan de kapper, soms wel om de twee weken. Dit alleen maar om mijn uitgroei bij te werken. Uiteraard is het altijd gezellig om bij de kapper langs te gaan, maar elke twee weken, vond ik toch iets te veel worden.
 
-**Waarom heb jij je laten adviseren door Koffijberg Hairdressers?**
+## **Waarom heb jij je laten adviseren door Koffijberg Hairdressers?**
 
 Zij zijn al jaren mijn kapper, waar ik met veel plezier kom en waar ik altijd naar volle tevredenheid gekleurd wordt. Daarnaast vertelde Kimm mij enthousiast over deze ‘shining grey' behandeling en dacht waarom niet?
 
