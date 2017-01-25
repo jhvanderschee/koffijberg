@@ -21,7 +21,7 @@ Naam: Brigit van Niele
 
 Leeftijd: 60 jaar
 
-**Op welk moment heb je besloten om de ‘Shining Grey behandeling’ te gaan doen?**
+**Op welk moment heb je besloten om de ‘Shining Grey' behandeling te gaan doen?**
 
 Steeds vaker bracht ik een bezoek aan de kapper, soms wel om de twee weken. Dit alleen maar om mijn uitgroei bij te werken. Uiteraard is het altijd gezellig om bij de kapper langs te gaan, maar elke twee weken, vond ik toch iets te veel worden.
 
