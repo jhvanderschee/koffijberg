@@ -82,6 +82,11 @@ $( document ).ready(function() {
 	if($(window).height()<500) {
 		$('body').addClass('low_height');
 	}
+	$('.page-template .post-content p img').each( function() {
+		if($(this).attr('data-cms-original-src')) var src = $(this).attr('data-cms-original-src');
+		else var src = $(this).attr('src');
+		$(this).attr('src', '//images.weserv.nl/?url=koffijberg.nl'+src+'&w=750');
+	});
 
 	var useragent = navigator.userAgent;
 	//check for old stock Android browser
