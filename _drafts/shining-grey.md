@@ -7,13 +7,13 @@ title: 'Shining Grey: op deze manier word je mooi grijs!'
 
 **Grijs haar is tegenwoordig een ware trend. Toch blijven veel vrouwen hun haren kleuren, zodra de eerste grijze exemplaren tevoorschijn komen. Soms is dat echt zonde want mooi grijs haar is vaak binnen handbereik en staat enorm charmant en zelfs trendy.**
 
-**Wij interviewden onze klant Brigit die onlangs een ware Shining Grey metamorfose onderging, met als eindresultaat een waanzinnige grijze look.**
+**Wij interviewden onze klant Brigit die onlangs een ware 'Shining Grey' metamorfose onderging, met als eindresultaat een waanzinnige grijze look.**
 
 **Lees je mee?**
 
-**Wat is een Shining Grey behandeling?**
+**Wat is een 'Shining Grey' behandeling?**
 
-Kimm Koffijberg ontwikkelde een uniek concept: **‘Shining Grey’.**Een persoonlijk stappenplan dat gemiddeld een jaar duurt. Elke twee tot drie maanden (afhankelijk of je lang haar of kort haar hebt) bezoek je onze kapsalon, waarbij wij op een uitgekiende manier bij ieder bezoek low- en highlights plaatsen om zo het grijze en het gekleurde haar steeds meer met elkaar te verweven, dit wordt ook wel blenden genoemd.
+Kimm Koffijberg ontwikkelde een uniek concept: **‘Shining Grey’.&nbsp;**Een persoonlijk stappenplan dat gemiddeld een jaar duurt. Elke twee tot drie maanden (afhankelijk of je lang haar of kort haar hebt) bezoek je onze kapsalon, waarbij wij op een uitgekiende manier bij ieder bezoek low- en highlights plaatsen om zo het grijze en het gekleurde haar steeds meer met elkaar te verweven, dit wordt ook wel blenden genoemd.
 
 In de loop van het shining grey ***(deeplink behandeling)*** proces wennen zowel jij en je omgeving aan je nieuwe grijze haarkleur en dat terwijl onze kappers de kwaliteit van de kleur en het haar goed bewaken. Na een jaar komt een vrouw tevoorschijn met een sprankelende grijze en eigentijdse look. Brigit onderging afgelopen jaar dit proces en vertelt in het onderstaande interview haar ervaring.
 
@@ -31,7 +31,7 @@ Steeds vaker bracht ik een bezoek aan de kapper, soms wel om de twee weken. Dit 
 
 **Waarom heb jij je laten adviseren door Koffijberg Hairdressers?**
 
-Zij zijn al jaren mijn kapper, waar ik met veel plezier kom en waar ik altijd naar volle tevredenheid gekleurd wordt. Daarnaast vertelde Kimm mij enthousiast over deze ‘shining grey behandeling’ en dacht waarom niet?
+Zij zijn al jaren mijn kapper, waar ik met veel plezier kom en waar ik altijd naar volle tevredenheid gekleurd wordt. Daarnaast vertelde Kimm mij enthousiast over deze ‘shining grey' behandeling en dacht waarom niet?
 
 **Wat sprak je het meeste aan in deze behandeling?**
 
@@ -47,7 +47,7 @@ In de eerste zes maanden was de verandering eigenlijk het meest confronterend ma
 
 **Wat kost de ‘Shining Grey’ behandeling?**
 
-Elke ‘Shining Grey’ behandeling is anders en sterk afhankelijk van je haar. In mijn geval, bij langer haar, zullen de kosten uiteraard iets hoger liggen dan bij kort haar. Uiteraard kan je vrijblijvend navragen wat ongeveer jouw investering zal zijn. Elk ‘Shining Grey’ stappenplan wordt te allen tijde op maat gemaakt.&nbsp;
+Elke ‘Shining Grey’ behandeling is anders en sterk afhankelijk van je haar. In mijn geval, bij langer haar, zullen de kosten schat ik iets hoger liggen dan bij kort haar. Uiteraard kan je vrijblijvend navragen wat ongeveer jouw investering zal zijn. Elk ‘Shining Grey’ stappenplan wordt te allen tijde op maat gemaakt.&nbsp;
 
 ![](/uploads/versions/shining-grey-2---x----5760-3240x---.jpg)*Brigit midden in het proces*
 
@@ -61,7 +61,7 @@ Ik krijg alleen maar positieve reacties van vrouwen, die het eigenlijk stiekem o
 
 **Hoe bevalt het grijze haar?**
 
-Het eindresultaat is prachtig. Het is even een stap om ermee te beginnen, het eerste half jaar was best moeilijk maar daarna zag je het steeds mooier worden, kortom een absolute aanrader voor elke vrouw die nu wellicht op hetzelfde punt staat waar ik ooit begon. Dank je wel kappers van Koffijberg J!
+Het eindresultaat is prachtig. Het is even een stap om ermee te beginnen, het eerste half jaar was best moeilijk maar daarna zag je het steeds mooier worden, kortom een absolute aanrader voor elke vrouw die nu wellicht op hetzelfde punt staat waar ik ooit begon. Dank je wel kappers van Koffijberg!
 
 Ben jij ook ge&iuml;nteresseerd in het ondergaan van een 'Shining Grey' behandeling, spreek vooral onze kappers hier eens op aan, zodat wij ook voor jou een mooi plan kunnen maken voor de ‘perfect grey look’!
 
