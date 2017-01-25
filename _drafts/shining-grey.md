@@ -1,0 +1,3 @@
+---
+title: Shining Grey
+---
