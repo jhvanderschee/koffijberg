@@ -3,11 +3,9 @@ title: 'Shining Grey: op deze manier word je mooi grijs!'
 ---
 
 
-**De eerste grijze haren. De een schrikt zich rot, de ander heet ze van harte welkom. Doe net als de prachtige Brigit (60): laat de haarverf staan en durf de kleur grijs te bekennen!**
+De eerste grijze haren. De een schrikt zich rot, de ander heet ze van harte welkom. Doe net als de prachtige Brigit (60): laat de haarverf staan en durf de kleur grijs te bekennen!<br /><br />Grijs haar is tegenwoordig een ware trend. Toch blijven veel vrouwen hun haren kleuren, zodra de eerste grijze exemplaren tevoorschijn komen. Soms is dat echt zonde want mooi grijs haar is vaak binnen handbereik en staat enorm charmant en zelfs trendy. Wij interviewden onze klant Brigit die onlangs een ware 'Shining Grey' metamorfose onderging, met als eindresultaat een waanzinnige grijze look. Lees je mee?
 
-**Grijs haar is tegenwoordig een ware trend. Toch blijven veel vrouwen hun haren kleuren, zodra de eerste grijze exemplaren tevoorschijn komen. Soms is dat echt zonde want mooi grijs haar is vaak binnen handbereik en staat enorm charmant en zelfs trendy.&nbsp;****Wij interviewden onze klant Brigit die onlangs een ware 'Shining Grey' metamorfose onderging, met als eindresultaat een waanzinnige grijze look.&nbsp;****Lees je mee?**
-
-## **Wat is een 'Shining Grey' behandeling?**
+## Wat is een 'Shining Grey' behandeling?
 
 Kimm Koffijberg ontwikkelde een uniek concept: **‘Shining Grey’.&nbsp;**Een persoonlijk stappenplan dat gemiddeld een jaar duurt. Elke twee tot drie maanden (afhankelijk of je lang haar of kort haar hebt) bezoek je onze kapsalon, waarbij wij op een uitgekiende manier bij ieder bezoek low- en highlights plaatsen om zo het grijze en het gekleurde haar steeds meer met elkaar te verweven, dit wordt ook wel blenden genoemd.
 
