@@ -15,9 +15,7 @@ In de loop van het 'shining grey' proces wennen zowel jij en je omgeving aan je 
 
 ## Interview
 
-Naam: Brigit van Niele
-
-Leeftijd: 60 jaar
+Naam: Brigit van Niele<br />Leeftijd: 60 jaar
 
 ## Op welk moment heb je besloten om de ‘Shining Grey' behandeling te gaan doen?
 
