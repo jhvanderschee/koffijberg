@@ -42,7 +42,7 @@ In de eerste zes maanden was de verandering eigenlijk het meest confronterend ma
 
 Elke ‘Shining Grey’ behandeling is anders en sterk afhankelijk van je haar. In mijn geval, bij langer haar, zullen de kosten schat ik iets hoger liggen dan bij kort haar. Uiteraard kan je vrijblijvend navragen wat ongeveer jouw investering zal zijn. Elk ‘Shining Grey’ stappenplan wordt te allen tijde op maat gemaakt.&nbsp;
 
-![](/uploads/versions/shining-grey---x----844-474x---.png)*Brigit midden in het proces*
+[![](/uploads/versions/shining-grey---x----844-474x---.png)](https://youtu.be/f8JpVi4UMEM)*Brigit midden in het proces*
 
 ## *Wat heeft de verandering met jou als mens gedaan?*
 
@@ -57,5 +57,7 @@ Ik krijg alleen maar positieve reacties van vrouwen, die het eigenlijk stiekem o
 Het eindresultaat is prachtig. Het is even een stap om ermee te beginnen, het eerste half jaar was best moeilijk maar daarna zag je het steeds mooier worden, kortom een absolute aanrader voor elke vrouw die nu wellicht op hetzelfde punt staat waar ik ooit begon. Dank je wel kappers van Koffijberg!
 
 Ben jij ook ge&iuml;nteresseerd in het ondergaan van een 'Shining Grey' behandeling, spreek vooral onze kappers hier eens op aan of [maak een afspraak voor een adviesgesprek](http://www.koffijberg.nl/contact/), zodat wij ook voor jou een mooi plan kunnen maken voor de ‘perfect grey look’!
+
+[Shining Grey The Movie bekijk je hier!](https://youtu.be/f8JpVi4UMEM)
 
 ![](/uploads/versions/shining-grey-3---x-5760-3240x---.jpg)*Brigit shines grey!*
