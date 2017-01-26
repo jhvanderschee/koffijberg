@@ -15,7 +15,8 @@ In de loop van het 'shining grey' proces wennen zowel jij en je omgeving aan je 
 
 ## *Interview*
 
-Naam: Brigit van Niele<br />Leeftijd: 60 jaar
+Naam: Brigit van Niele
+<br>Leeftijd: 60 jaar
 
 ## *Op welk moment heb je besloten om de ‘Shining Grey' behandeling te gaan doen?*
 
@@ -41,7 +42,7 @@ In de eerste zes maanden was de verandering eigenlijk het meest confronterend ma
 
 Elke ‘Shining Grey’ behandeling is anders en sterk afhankelijk van je haar. In mijn geval, bij langer haar, zullen de kosten schat ik iets hoger liggen dan bij kort haar. Uiteraard kan je vrijblijvend navragen wat ongeveer jouw investering zal zijn. Elk ‘Shining Grey’ stappenplan wordt te allen tijde op maat gemaakt.&nbsp;
 
-![](/uploads/versions/shining-grey-2---x----5760-3240x---.jpg)*Brigit midden in het proces*
+![](/uploads/versions/shining-grey---x----844-474x---.png)*Brigit midden in het proces*
 
 ## *Wat heeft de verandering met jou als mens gedaan?*
 
