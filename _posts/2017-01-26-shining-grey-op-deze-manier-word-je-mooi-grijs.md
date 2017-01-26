@@ -60,4 +60,4 @@ Ben jij ook ge&iuml;nteresseerd in het ondergaan van een 'Shining Grey' behandel
 
 https://www.youtube.com/watch?v=f8JpVi4UMEM
 
-![](/uploads/versions/shining-grey-3---x-5760-3240x---.jpg)*Brigit shines grey!*
+*Brigit shines grey!*
