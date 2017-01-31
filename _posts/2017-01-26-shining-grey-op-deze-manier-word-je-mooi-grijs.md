@@ -58,6 +58,6 @@ Het eindresultaat is prachtig. Het is even een stap om ermee te beginnen, het ee
 
 Ben jij ook ge&iuml;nteresseerd in het ondergaan van een 'Shining Grey' behandeling, spreek vooral onze kappers hier eens op aan of [maak een afspraak voor een adviesgesprek](http://www.koffijberg.nl/contact/), zodat wij ook voor jou een mooi plan kunnen maken voor de ‘perfect grey look’!
 
-https://www.youtube.com/watch?v=f8JpVi4UMEM
+https://www.youtube.com/watch?v=J4UoU1TSk8U&nbsp;
 
 *Brigit shines grey!*
