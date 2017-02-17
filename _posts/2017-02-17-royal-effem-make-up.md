@@ -9,8 +9,8 @@ Royal Effem staat voor huidverzorgende make-up. De natuurlijke schoonheid van de
 
 ![](/uploads/versions/kapper-amsterdam-make-up-royal-effem---x----300-200x---.jpg)
 
-Laboratori Royal, opgericht in 1950 is de fabrikant van het Italiaanse Royal Effem en Organic Elements. Deze merken zijn wereldwijd verkrijgbaar in meer dan 30 landen in luxe kapsalons, parfumeries, spa, medische instituten, beauty studio’s, make-up en beauty academies.
+Laboratori Royal, opgericht in 1950 is de fabrikant van het Italiaanse Royal Effem en Organic Elements. Deze merken zijn wereldwijd verkrijgbaar in meer dan 30 landen in luxe kapsalons, parfumeries, spa's, medische instituten, beauty studio’s, make-up en beauty academies.
 
-Royal Effem brengt een zeer complete lijn make-up producten. Producten zijn vrij van paraffine, lanoline en parfum vrij. Royal Effem wordt dermatologisch getest.
+Royal Effem brengt een zeer complete lijn make-up producten. Producten zijn vrij van paraffine, lanoline en parfumvrij. Royal Effem wordt dermatologisch getest.
 
 &nbsp;
