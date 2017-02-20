@@ -74,7 +74,11 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 .visualnews a {text-decoration: none;}
 .visualnews h3 a {color: #241a1f;}
-.visualnews a.btn-primary {color: white;}
+.visualnews .btn-primary {color: white !important; border: 1px solid $highlightkleur !important; background: $highlightkleur!important;}
+.visualnews .btn-primary:hover {border: 1px solid $accentkleur!important; background: $accentkleur!important;}
+.visualnews a.btn-default {color: #241a1f;}
+.visualnews a.btn-default:hover, .visualnews a.btn-default:focus {color: white;}
+.visualnews p {margin-bottom: 1.1em;}
 .visualnews img {min-width: 100%;}
 .visualnews h3 {
   font-family: 'PT Sans Narrow', sans-serif;
