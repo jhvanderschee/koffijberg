@@ -4,7 +4,11 @@ image: /uploads/versions/shining-grey-3---x-5760-3240x---.jpg
 ---
 
 
-De eerste grijze haren. De een schrikt zich rot, de ander heet ze van harte welkom. Doe net als de prachtige Brigit (60): laat de haarverf staan en durf de kleur grijs te bekennen! Grijs haar is tegenwoordig een ware trend. Toch blijven veel vrouwen hun haren kleuren, zodra de eerste grijze exemplaren tevoorschijn komen. Soms is dat echt zonde want mooi grijs haar is vaak binnen handbereik en staat enorm charmant en zelfs trendy. Wij interviewden onze klant Brigit die onlangs een ware 'Shining Grey' metamorfose onderging, met als eindresultaat een waanzinnige grijze look. Lees je mee?
+De eerste grijze haren. De een schrikt zich rot, de ander heet ze van harte welkom. Doe net als de prachtige Brigit (60): laat de haarverf staan en durf de kleur grijs te bekennen! Grijs haar is tegenwoordig een ware trend. 
+
+https://www.youtube.com/watch?v=J4UoU1TSk8U
+
+Toch blijven veel vrouwen hun haren kleuren, zodra de eerste grijze exemplaren tevoorschijn komen. Soms is dat echt zonde want mooi grijs haar is vaak binnen handbereik en staat enorm charmant en zelfs trendy. Wij interviewden onze klant Brigit die onlangs een ware 'Shining Grey' metamorfose onderging, met als eindresultaat een waanzinnige grijze look. Lees je mee?
 
 ## *Wat is een 'Shining Grey' behandeling?*
 
@@ -12,7 +16,7 @@ Kimm Koffijberg ontwikkelde een uniek concept: **‘Shining Grey’.&nbsp;**Een 
 
 In de loop van het 'shining grey' proces wennen zowel jij en je omgeving aan je nieuwe grijze haarkleur en dat terwijl onze kappers de kwaliteit van de kleur en het haar goed bewaken. Na een jaar komt een vrouw tevoorschijn met een sprankelende grijze en eigentijdse look. Brigit onderging afgelopen jaar dit proces en vertelt in het onderstaande interview haar ervaring.
 
-![](/uploads/versions/shining-grey-voor---x----2048-1152x---.jpg)*Brigit bij aanvang proces*
+[![](/uploads/versions/shining-grey-voor---x----2048-1152x---.jpg)](https://youtu.be/f8JpVi4UMEM)*Brigit bij aanvang proces*
 
 ## *Interview*
 
@@ -59,6 +63,4 @@ Het eindresultaat is prachtig. Het is even een stap om ermee te beginnen, het ee
 
 Ben jij ook ge&iuml;nteresseerd in het ondergaan van een 'Shining Grey' behandeling, spreek vooral onze kappers hier eens op aan of [maak een afspraak voor een adviesgesprek](http://www.koffijberg.nl/contact/), zodat wij ook voor jou een mooi plan kunnen maken voor de ‘perfect grey look’!
 
-https://www.youtube.com/watch?v=J4UoU1TSk8U&nbsp;
-
-*Brigit shines grey!*
+[![](/uploads/shining-grey-3.jpg)](https://youtu.be/f8JpVi4UMEM)*Brigit shines grey!*

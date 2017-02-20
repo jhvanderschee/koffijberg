@@ -15,14 +15,14 @@ WARE KWALITEIT, met bewezen werkzame bestanddelen die 48 uur duurzame voeding bi
 
 WARE LUXE in een complete zintuiglijke beleving; innemende texturen en een unieke geur, gehuld in een elegante verpakking. De beleving wordt versterkt door een op-maat-gemaakt in-salon ritueel en thuis herbeleefd, als momenten van puur welzijn. Het genot is nog mooier gemaakt door de uitstekende kwaliteit van verantwoordelijk gewonnen kokosnoot- en arganoli&euml;n.
 
-BAIN MICELLAIRE
+## BAIN MICELLAIRE
 
 Een zachte aromatische shampoo, handgeperste kokosnoot- & arganoli&euml;n, met een subtiel maar effectieve reiniging. Bereidt de vezel voor op een optimale penetratie van de soin fondamental. Gebruik deze altijd in combinatie met de Soin Fondamental voor een optimaal resultaat.
 
-SOIN FONDAMENTAL
+## SOIN FONDAMENTAL
 
 Een natuurlijke hydraterende conditioner met een 48 uur durende intense voedende werking, vergemakkelijkt het ontwarren, frizz control, nude toch & een gezonde glow.
 
-ESSENCE D'ECLAT
+## ESSENCE D'ECLAT
 
 Hydraterende bi-phase oliemist, frizz control en een gezonde glans. Samengesteld uit essentiele oli&euml;n; en damsk rose bloemen water.
