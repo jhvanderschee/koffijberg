@@ -1,0 +1,124 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4743b088aa95d6f3b6b990e770d3b647",
+      "css": "facebook-squared",
+      "code": 62216,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5211af474d3a9848f67f945e2ccaf143",
+      "css": "cancel",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d870630ff8f81e6de3958ecaeac532f2",
+      "css": "left-open",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "399ef63b1e23ab1b761dfbb5591fa4da",
+      "css": "right-open",
+      "code": 59394,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "79689c4c425b7cdaa2746f510e81e27a",
+      "css": "pinterest-squared",
+      "code": 61651,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c709da589c923ba3c2ad48d9fc563e93",
+      "css": "cancel-1",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "906348dc798a0d42715cc97c875e3ac6",
+      "css": "twitter-squared",
+      "code": 62212,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9d3e9faf68fd4e12def853f0d4e1173b",
+      "css": "whatsapp",
+      "code": 62002,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0fbfb1cd7a847c88ea4c141d0e1bbdb5",
+      "css": "instagram-1",
+      "code": 62253,
+      "src": "entypo"
+    },
+    {
+      "uid": "f3f90c8c89795da30f7444634476ea4f",
+      "css": "angle-left",
+      "code": 61700,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7bf14281af5633a597f85b061ef1cfb9",
+      "css": "angle-right",
+      "code": 61701,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8da3ac534210aae9c0f0e13804c1df97",
+      "css": "cancel-2",
+      "code": 59396,
+      "src": "websymbols"
+    },
+    {
+      "uid": "4bac92bc2e0be5b6d7e61f0fc19957a1",
+      "css": "phone",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M786 692Q786 707 780 731T768 769Q757 797 700 829 648 857 597 857 581 857 567 855T535 848 509 840 478 829 450 819Q396 799 353 772 281 728 205 652T85 504Q58 461 39 407 37 402 29 379T17 348 9 322 2 290 0 261Q0 209 29 157 60 101 88 89 102 83 126 77T165 71Q173 71 177 73 187 76 207 116 213 126 223 146T243 181 260 211Q262 213 270 225T282 245 286 261Q286 272 270 289T235 319 201 349 185 374Q185 379 188 387T192 398 200 412 207 422Q249 499 304 554T435 651Q436 651 445 657T459 665 470 670 483 672Q493 672 508 657T538 622 569 587 597 571Q604 571 612 575T632 587 646 597Q660 605 676 614T711 634 742 651Q781 670 784 680 786 684 786 692Z",
+        "width": 785.7
+      },
+      "search": [
+        "phone"
+      ]
+    },
+    {
+      "uid": "7b2d8e278f2dbec580c167803831ec3a",
+      "css": "menu",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M857 750V821Q857 836 847 846T821 857H36Q21 857 11 846T0 821V750Q0 735 11 725T36 714H821Q836 714 847 725T857 750ZM857 464V536Q857 550 847 561T821 571H36Q21 571 11 561T0 536V464Q0 450 11 439T36 429H821Q836 429 847 439T857 464ZM857 179V250Q857 265 847 275T821 286H36Q21 286 11 275T0 250V179Q0 164 11 153T36 143H821Q836 143 847 153T857 179Z",
+        "width": 857.1
+      },
+      "search": [
+        "menu"
+      ]
+    },
+    {
+      "uid": "e224c80ec9c91ee44669e4214634de7f",
+      "css": "mail-alt",
+      "code": 59401,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M1000 396V839Q1000 876 974 902T911 929H89Q53 929 26 902T0 839V396Q25 424 56 445 258 582 334 637 366 661 385 674T438 701 499 714H501Q529 714 562 701T615 674 666 637Q761 569 944 445 976 423 1000 396ZM1000 232Q1000 276 973 316T905 385Q695 531 643 566 638 570 620 583T590 605 561 623 528 638 501 643H499Q487 643 472 638T439 623 410 605 380 583 357 566Q306 531 210 465T96 385Q61 362 31 321T0 244Q0 201 23 172T89 143H911Q947 143 973 169T1000 232Z",
+        "width": 1000
+      },
+      "search": [
+        "mail-alt"
+      ]
+    }
+  ]
+}

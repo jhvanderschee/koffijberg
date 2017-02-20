@@ -26,5 +26,7 @@ collections:
   collecties:
     output: true
     permalink: /collecties/:path/
+  popups:
+    output: false
 
 title: 'Kapper Koffijberg Hairdressers in Amsterdam'

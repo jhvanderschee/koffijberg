@@ -38,7 +38,7 @@ function get_cookie(Name) {
     return returnvalue;
 }
 function set_cookie(what){
-    document.cookie="splashshown="+what
+    document.cookie="splashshown="+what;
 }
 function nextmember() {
 		//append the first one
@@ -79,6 +79,10 @@ $(window).on('orientationchange', function(e) {
 });
 
 $( document ).ready(function() {
+	$('#popup').click( function(event){
+	    if($( event.target ).is( "td" )) $( '#popup' ).hide();
+  	});
+
 	if($(window).height()<500) {
 		$('body').addClass('low_height');
 	}
@@ -121,9 +125,11 @@ $( document ).ready(function() {
 	//show splash if modern device/browser
 	if(!$('body').hasClass('old_Android') && !$('body').hasClass('old_iOS')) {
 		if (get_cookie("splashshown")=="") $('#splash').show();
+		if (!sessionStorage['popupshown']) $('#popup').show();
 	}
 	$('#nonsplash').show();
 	set_cookie('true');
+	sessionStorage['popupshown'] = true;
 
     if(window.location.hash) {
     	var hash = window.location.hash.substring(1);
