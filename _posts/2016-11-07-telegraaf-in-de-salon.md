@@ -1,5 +1,6 @@
 ---
 title: Telegraaf in de salon
+image: 
 ---
 
 

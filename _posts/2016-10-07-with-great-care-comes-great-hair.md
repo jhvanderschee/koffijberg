@@ -1,5 +1,6 @@
 ---
 title: WITH GREAT CARE COMES GREAT HAIR
+image: 
 ---
 
 

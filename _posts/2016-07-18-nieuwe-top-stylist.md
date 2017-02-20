@@ -1,5 +1,6 @@
 ---
 title: Nieuwe Top Stylist
+image: 
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Fashionlab @ Koffijberg
+image: 
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Teaminformatie November
+image: 
 ---
 
 

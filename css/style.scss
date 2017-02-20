@@ -72,6 +72,25 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 #review {visibility: hidden; position: absolute; left: 0; top: 660px; z-index: 1;}
 
+.visualnews a {text-decoration: none;}
+.visualnews h3 a {color: #241a1f;}
+.visualnews a.btn-primary {color: white;}
+.visualnews img {min-width: 100%;}
+.visualnews h3 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: 700;
+  font-size: 35px;
+}
+#newsarchive h2 {
+  padding-top: 50px;
+  color: #241a1f;
+  text-transform: uppercase;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: 700;
+  font-size: 35px;
+}
+#newsarchive,#newsarchive a {color: #666;}
+
 .intro {height: 800px; color: #444;}
 .intro .btn:hover {color: #241a1f;}
 .intro .btn, .intro h1 {color: #241a1f;}

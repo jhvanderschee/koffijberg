@@ -5,32 +5,61 @@
 
   <body class="page-template post">
 	  {% include header.html %}
-    <div class="salon2"></div>
+    <div class="salon2" style="height: 76px;"></div>
 
     <div class="twocols">
       <div class="container">
       <article class="">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12">
-                        <header class="post-header">
-                          <span>Koffijberg
-                          </span>
-                          <h1 class="post-title">{{ page.title }}</h1>
-                        </header>
-            </div>
-            <div class="col-sm-12 col-md-9 col-lg-8">
-                                             
-                        <div class="post-content">
-                        {{ content }}
-<p>{% for post in site.posts %}{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p>
+
+                        {% for post in site.posts limit:1 %}
+                        <div class="visualnews" style="padding-top: 65px;">
+                          
+                          <div class="row post-content">
+                              <div class="col-md-4">
+                                <h1 style="margin: 0; padding: 0; font-size: 22px; text-transform: uppercase; font-weight: 400; font-family: 'PT Sans Narrow', sans-serif;">{{ page.title }}</h1>
+                                <h3 class="post-title" style="font-size: 60px; margin-top: 5px; text-transform: uppercase; font-weight: 700; margin-bottom: 20px;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                                <p>{{ post.date | date: "%d/%m/%Y" }} - {{ post.content | strip_html | truncate: 150, '...' }}</p>
+
+                                <p><a href="{{ post.url }}" class="btn btn-primary">Lees verder</a></p>
+                              </div>
+                              <div class="col-md-8">
+                                <a href="{{ post.url }}"><img src="//images.weserv.nl/?url=www.koffijberg.nl{% if post.image %}{{ post.image }}{% else %}/uploads/priorities6.jpg{% endif %}&w=900&h=600&t=square&a=top" /></a>
+                              </div>
+                          </div>
+                          <br /><br /><br />
+                          
+                        </div>
+                        {% endfor %}
+
+                        <div class="visualnews post-content">
+                          <div class="row">
+                          {% for post in site.posts offset: 1 limit:15 %}
+                            <div class="col-sm-6 col-lg-4">
+                              <a href="{{ post.url }}"><img src="//images.weserv.nl/?url=www.koffijberg.nl{% if post.image %}{{ post.image }}{% else %}/uploads/priorities{% cycle '1', '2', '3', '4', '5', '6', '7', '8', '9', '10' %}.jpg{% endif %}&w=600&h=400&t=square&a=top" /></a>
+                              <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                              <p>{{ post.date | date: "%d/%m/%Y" }} - {{ post.content | strip_html | truncate: 150, '...' }}</p>
+                              <p><a href="{{ post.url }}" class="btn btn-primary">Lees verder</a></p>
+                              <br />
+                            </div>
+                            
+                          {% cycle '', '<div class="col-sm-12 visible-sm"></div>' %}
+                          {% cycle '', '', '<div class="col-lg-12 visible-lg"></div>' %}
+
+                          {% endfor %}
+                          </div>
+
                         </div>
 
+
             </div>
-            <div class="col-lg-1"></div>
-            <div class="hidden-xs hidden-sm col-md-3 col-lg-3">                         
-                        <div class="post-content">
-                              <div></div><p class="sidebar" style="float: right; margin-top: 7px;">{% include contactinfo.html %}</p>
-                        </div>
+            <div class="col-sm-12" id="newsarchive">
+                          <h2>Nieuwsarchief</h2>
+                      <div class="post-content" style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
+                          <div>{% for post in site.posts offset:15 %}{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</div>
+                      </div>
+
             </div>
           </div>
                 </article>
