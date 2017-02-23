@@ -1,16 +1,11 @@
 ---
 title: Royal Effem Make-up
-image: 
+image: /uploads/R0011.jpg
 ---
 
+Koffijberg werkt met de make-up van Royal Effem uit Parma, Itali&euml;. Royal Effem staat voor huidverzorgende make-up. 
 
-Koffijberg werkt met de make-up van Royal Effem uit Parma, Itali&euml;.
-
-![](/uploads/versions/make-up-kapper-amsterdam-mini---x----250-357x---.jpg)
-
-Royal Effem staat voor huidverzorgende make-up. De natuurlijke schoonheid van de vrouw wordt benadrukt door harmonieuze make-up kleuren en uitgebalanceerde natuurlijke &nbsp;ingredi&euml;nten. Royal Effem (R.E.) onderscheidt zich naast de hoge kwaliteit van de actieve ingredi&euml;nten, tevens door geavanceerde technologie en luxe strak vormgegeven verpakkingen.
-
-&nbsp;
+De natuurlijke schoonheid van de vrouw wordt benadrukt door harmonieuze make-up kleuren en uitgebalanceerde natuurlijke &nbsp;ingredi&euml;nten. Royal Effem (R.E.) onderscheidt zich naast de hoge kwaliteit van de actieve ingredi&euml;nten, tevens door geavanceerde technologie en luxe strak vormgegeven verpakkingen.
 
 ![](/uploads/versions/bethlehem-kapper-amsterdam-mini---x----500-752x---.jpg)
 

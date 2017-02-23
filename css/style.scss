@@ -72,7 +72,8 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 #review {visibility: hidden; position: absolute; left: 0; top: 660px; z-index: 1;}
 
-.visualnews a {text-decoration: none;}
+.visualnews a, .visualnews p a:hover {text-decoration: none;}
+.visualnews p a {text-decoration: underline;}
 .visualnews h3 a {color: #241a1f;}
 .visualnews .btn-primary {color: white !important; border: 1px solid $highlightkleur !important; background: $highlightkleur!important;}
 .visualnews .btn-primary:hover {border: 1px solid $accentkleur!important; background: $accentkleur!important;}
@@ -143,6 +144,11 @@ body.iOS .salon3 {background-attachment: scroll;}
 #not_sharethis div:nth-of-type(5):hover {background: #dd4b39;}
 #not_sharethis div:nth-of-type(6):hover {background: #7D7D7D;}
 
+#not_sharethis.follow div:nth-of-type(4) {line-height: 32px;}
+#not_sharethis.follow div:nth-of-type(1):hover {background: #3B5998;}
+#not_sharethis.follow div:nth-of-type(2):hover {background: #55ACEE;}
+#not_sharethis.follow div:nth-of-type(3):hover {background: #CB2027;}
+#not_sharethis.follow div:nth-of-type(4):hover {background: #C73B92;}
 
 #likeournews {padding: 20px; background: $highlightkleur; color: white; margin-bottom: 30px;}
 #likeournews form {float: right; padding-right: 0; margin-top: -4px;}
@@ -171,7 +177,8 @@ box-shadow: none;
 .about .post-content p {color: #666;}
 .about .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
 .about .post-header h1 {font-size: 60px; margin-top: 5px;}
-.about .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px auto;}
+.about .post-header h1::after, .nieuws .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px auto!important;}
+
 
 .salon {height: 502px; background: url('../img/kapper-amsterdam-salon.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
 .salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px 0 0 -225px; border-radius: 250px; position: absolute; left: 50%;}
@@ -225,7 +232,8 @@ footer a, footer a:hover, footer a:focus {color: white;}
 .site-footer h3 {padding: 90px 0 0; clear: both;}
 .site-footer .day {float: left;}
 .site-footer2 {padding: 15px 0; max-height: 99999px;}
-.site-footer2 .fa {margin-left: 5px; top: -2px; vertical-align: middle;}
+.site-footer2 .fa {margin-left: 5px; top: -2px; vertical-align: middle; font-size: 145%;}
+.site-footer2 a {text-decoration: none;}
 
 .navbar {border-radius: 0px!important;}
 .navbar-default {z-index: 2; position: absolute; width: 100%; background: transparent; border: 0; text-transform: uppercase;}
@@ -484,10 +492,11 @@ background: linear-gradient(to bottom,  rgba(0,0,0,0) 52%,rgba(0,0,0,0.32) 100%)
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#52000000',GradientType=0 ); /* IE6-9 */
 }
 .gradientdown img {opacity: 0;}
-.gradientdown h3 {position: absolute; left: 38px; bottom: 33px; border-bottom: 1px dotted white; width: calc(100% - 76px); color: white!important; line-height: 1.5em;}
-.gradientdown div {color: white; position: absolute; left: 38px; bottom: 13px; }
-.nieuws_date {border-top: 1px dotted #666; color: #666; line-height: 2.5em; padding-bottom: 50px;}
+.gradientdown h3 {position: absolute; left: 38px; bottom: 33px; border-bottom: 1px dotted rgba(255,255,255,0.5); width: calc(100% - 76px); color: white!important; line-height: 1.5em;}
+.gradientdown div {color: rgba(255,255,255,0.6); position: absolute; left: 38px; bottom: 15px; }
+.nieuws_date {border-top: 1px dotted silver; color: silver; line-height: 2.2em; padding-bottom: 50px;}
 .visualnieuws_date .fa, .nieuws_date .fa {font-size: 15px; position: relative; bottom: 6px; top: -1px; margin-right: 3px;}
+
 
 @media all and (max-width: 1199px) {
 .behandelingen .sidebar {padding-left: 0!important; border-left: 0!important;}
