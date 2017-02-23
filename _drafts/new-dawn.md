@@ -1,10 +1,10 @@
 ---
-title: Nieuwe KEUNE kleuren
+title: New Dawn
 image: /uploads/combi alle beelden met tekst.png
 ---
 
 
-**HAARTREND KLEUREN VAN 2017**
+#### **HAARTREND KLEUREN VAN 2017**
 
 In de maand maart gaan we officieel de lente in en dat betekent voor veel mensen: ready for new hair! Een nieuw seizoen, nieuw kapsel: daar zijn we soms allemaal wel eens aan toe. Maar welke kleur past bij mij? En wat zijn eigenlijk de haartrend kleuren van dit moment?
 
