@@ -61,7 +61,7 @@
                             {% when '12' %}december
                           {% endcase %}
                           {{ post.date | date: "%Y" }}</div>
-                                    <img src="//images.weserv.nl/?url=www.koffijberg.nl{% if post.image %}{{ post.image }}{% else %}/uploads/priorities{% cycle '1', '2', '3', '4', '5', '6', '7', '8', '9', '10' %}.jpg{% endif %}&w=900&h=600&t=square&a=top" style="opacity: 0;" />
+                                    <img src="//images.weserv.nl/?url=www.koffijberg.nl{% if post.image %}{{ post.image }}{% else %}/img/kapper-amsterdam-salon{% cycle '', '2', '3' %}.jpg{% endif %}&w=900&h=600&t=square&a=top" style="opacity: 0;" />
                                   </div>
                                 </a>
                               </div>
@@ -75,7 +75,7 @@
                           <div class="row">
                           {% for post in site.posts offset:2 limit:15 %}
                             <div class="col-sm-6 col-lg-4">
-                              <a href="{{ post.url }}"><img src="//images.weserv.nl/?url=www.koffijberg.nl{% if post.image %}{{ post.image }}{% else %}/uploads/priorities{% cycle '1', '2', '3', '4', '5', '6', '7', '8', '9', '10' %}.jpg{% endif %}&w=600&h=400&t=square&a=top" /></a>
+                              <a href="{{ post.url }}"><img src="//images.weserv.nl/?url=www.koffijberg.nl{% if post.image %}{{ post.image }}{% else %}/img/kapper-amsterdam-salon{% cycle '', '2', '3', '2', '3', '', '3' %}.jpg{% endif %}&w=600&h=400&t=square&a=top" /></a>
                               <h3 style="margin-top: 18px;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
                               <p style="padding-bottom: 5px;">{{ post.content | strip_html | truncate: 155, '...' }} <a href="{{ post.url }}" class="">lees verder</a></p>
                               <!--<p><a href="{{ post.url }}" class="btn btn-default">Lees verder</a></p>-->
