@@ -1,6 +1,6 @@
 ---
 title: 'Shining Grey: zo word je mooi grijs!'
-image: /uploads/versions/shining-grey-3---x-5760-3240x---.jpg
+image: /uploads/shining-grey-mini.jpg
 ---
 
 

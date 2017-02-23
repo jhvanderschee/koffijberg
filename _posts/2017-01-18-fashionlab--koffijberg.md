@@ -1,7 +1,8 @@
 ---
 title: Fashionlab @ Koffijberg
-image: 
+image: /uploads/identitybehandeling.jpg
 ---
 
+De hoofdredactrice van Fashionlab onderging een identity behandeling bij Koffijberg Hairdressers en had een heerlijk momentje voor zichzelf.
 
-De hoofdredactrice van Fashionlab onderging een identity behandeling bij Koffijberg Hairdressers en had een heerlijk momentje voor zichzelf. [Bekijk hier de beelden](https://www.youtube.com/watch?v=epn1S0LuBz8)
+https://www.youtube.com/watch?v=epn1S0LuBz8
