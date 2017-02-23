@@ -10,6 +10,8 @@ In de maand maart gaan we officieel de lente in en dat betekent voor veel mensen
 
 We vroegen het onze kleurspecialist, **Kimm Koffijberg**, die begin februari als Global Color Director van Keune Haircosmetics, gezamenlijk met het nationale en internationale team de nieuwe **kleurcollectie New Dawn**presenteerde. Vandaag presenteren wij de nieuwste kleuren aan jou, kortom laat je inspireren.
 
+![](/uploads/versions/kapper-koffijberg-amsterdam-kleuringen---x----640-640x---.JPG)
+
 **Kimm Koffijberg: *“De diversiteit aan kleur binnen deze collectie spreekt enorm veel mensen aan. Ik merk persoonlijk dat klanten steeds meer willen laten zien van wie ze zijn en waar ze voor staan. En dat vertaalt zich regelmatig naar een nieuwe haarkleur. Als Global Creative Color Director is het daarom fantastisch om een on-trend kleurportfolio aan te kunnen bieden die de eigen identiteit van de klant versterkt.”***
 
 **Wat is de reden dat je hebt gekozen voor deze prachtige range van kleuren?**
