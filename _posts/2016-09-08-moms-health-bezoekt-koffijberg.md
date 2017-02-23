@@ -1,6 +1,6 @@
 ---
 title: Moms Health bezoekt Koffijberg
-image: 
+image: /uploads/karin-profiel.jpg
 ---
 
 
