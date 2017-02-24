@@ -1,6 +1,6 @@
 ---
 title: Blogger Marlieke in de salon.
-image: /uploads/Koffijberg-Amsterdam-kleuranalyse1.jpg
+image:
 ---
 
 
