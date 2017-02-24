@@ -1,6 +1,6 @@
 ---
 title: Tools Treatment Room
-image: /uploads/bb-treatment-room-kerastase-brush-kapper.jpg
+image:
 ---
 
 
