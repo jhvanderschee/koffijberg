@@ -1,6 +1,6 @@
 ---
 title: Treatment Room
-image: /uploads/duo-treatment-room-1.jpg
+image: /uploads/Treatment room  - kapper - amsterdam.jpg
 ---
 
 
