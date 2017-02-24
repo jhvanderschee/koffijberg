@@ -1,6 +1,6 @@
 ---
 title: Treatment Room
-image: /uploads/treatment-3.jpg
+image: /uploads/duo-treatment-room-1.jpg
 ---
 
 
