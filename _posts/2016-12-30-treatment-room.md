@@ -8,7 +8,7 @@ image: /uploads/Treatment room  - kapper - amsterdam.jpg
 
 **De oplossing voor al jouw haar- en hoofdhuidproblemen!**
 
-**Bij Koffijberg Hairdressers we’re all about hair.****Dat is natuurlijk vanzelfsprekend, wij zijn tenslotte haar professionals en geloven dat je met de nieuwste en juiste technieken je conditie van je haar en hoofdhuid kunt verbeteren. In dit artikel vertellen we jou welke [behandelingen](http://www.koffijberg.nl/#behandelingen)&nbsp;****wij je kunnen aanbieden om van die vervelende haar- en hoofdhuidproblemen af te komen. Lees je mee?**
+**Bij Koffijberg Hairdressers we’re all about hair.&nbsp;****Dat is natuurlijk vanzelfsprekend, wij zijn tenslotte haar professionals en geloven dat je met de nieuwste en juiste technieken je conditie van je haar en hoofdhuid kunt verbeteren. In dit artikel vertellen we jou welke [behandelingen](http://www.koffijberg.nl/#behandelingen)&nbsp;****wij je kunnen aanbieden om van die vervelende haar- en hoofdhuidproblemen af te komen. Lees je mee?**
 
 **Haar- en hoofdhuidproblemen**
 
