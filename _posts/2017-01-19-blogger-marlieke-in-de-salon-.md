@@ -1,6 +1,7 @@
 ---
 title: Blogger Marlieke in de salon.
 image:
+alignment: top
 ---
 
 

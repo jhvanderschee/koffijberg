@@ -1,6 +1,7 @@
 ---
 title: Filmsterrenrood Haar
 image: 
+alignment: top
 ---
 
 

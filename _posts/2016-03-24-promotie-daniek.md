@@ -1,5 +1,7 @@
 ---
 title: Promotie Daniek
+image:
+alignment: top
 ---
 
 

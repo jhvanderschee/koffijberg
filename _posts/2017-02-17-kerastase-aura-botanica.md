@@ -1,6 +1,7 @@
 ---
 title: Kerastase Aura Botanica
 image: /uploads/aura_botanica__kerastase.jpg
+alignment: top
 ---
 
 Het nieuwe Aura Botanica gamma. De pure kracht van de natuur in een verfijnde ervaring.

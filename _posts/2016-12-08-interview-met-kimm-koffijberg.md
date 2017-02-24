@@ -1,6 +1,7 @@
 ---
 title: Interview met Kimm Koffijberg
 image: 
+alignment: top
 ---
 
 

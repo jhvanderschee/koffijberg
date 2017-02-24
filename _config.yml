@@ -30,3 +30,8 @@ collections:
     output: false
 
 title: 'Kapper Koffijberg Hairdressers in Amsterdam'
+
+alignments:
+  - top
+  - middle 
+  - bottom

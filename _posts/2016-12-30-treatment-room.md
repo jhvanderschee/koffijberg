@@ -1,6 +1,7 @@
 ---
 title: Treatment Room
 image: /uploads/a--treatment-room---kapper---amsterdam.jpg
+alignment: top
 ---
 
 

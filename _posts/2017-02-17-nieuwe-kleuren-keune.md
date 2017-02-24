@@ -1,6 +1,7 @@
 ---
 title: Nieuwe kleuren Keune
 image: /uploads/newdawn.jpg
+alignment: top
 ---
 
 THE COLOR OF CHANGE - Maak kennis met de nieuwe Color Collection van Keune, New Dawn. De kleuren zijn ge&iuml;nspireerd door echte vrouwen en echte verhalen.

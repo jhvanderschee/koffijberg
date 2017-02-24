@@ -1,5 +1,7 @@
 ---
 title: 'Film "Veertig jaar Koffijberg"'
+image:
+alignment: top
 ---
 
 

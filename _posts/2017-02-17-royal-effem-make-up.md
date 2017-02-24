@@ -1,6 +1,7 @@
 ---
 title: Royal Effem Make-up
 image: /uploads/R0011.jpg
+alignment: top
 ---
 
 Koffijberg werkt met de make-up van Royal Effem uit Parma, Itali&euml;. Royal Effem staat voor huidverzorgende make-up. 

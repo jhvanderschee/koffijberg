@@ -1,5 +1,7 @@
 ---
 title: Film Tribute Collectie
+image: 
+alignment: top
 ---
 
 

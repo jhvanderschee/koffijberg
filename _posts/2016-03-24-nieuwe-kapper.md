@@ -1,5 +1,7 @@
 ---
 title: Nieuwe kapster
+image: 
+alignment: top
 ---
 
 

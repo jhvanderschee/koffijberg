@@ -1,6 +1,7 @@
 ---
 title: Tools Treatment Room
 image: /uploads/aaa-treatment-room-kerastase-brush-kapper.jpg
+alignment: top
 ---
 
 
