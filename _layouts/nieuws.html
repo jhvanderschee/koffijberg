@@ -41,7 +41,7 @@
                           <div class="row post-content">
                         {% for post in site.posts limit:2 %}
                               <div class="col-md-6">
-                                <a href="{{ post.url }}" style="display: block; background: url(//images.weserv.nl/?url=www.koffijberg.nl{% if post.image %}{{ post.image }}{% else %}/uploads/priorities{% cycle '1', '2', '3', '4', '5', '6', '7', '8', '9', '10' %}.jpg{% endif %}&w=900&h=600&t=square{% if post.alignment != 'middle' %}&a={{ post.alignment }}{% endif %}) center center no-repeat; background-size: cover;">
+                                <a href="{{ post.url }}" style="display: block; background: url(//images.weserv.nl/?url=www.koffijberg.nl{% if post.image %}{{ post.image }}{% else %}/uploads/priorities{% cycle '1', '2', '3', '4', '5', '6', '8', '9', '10' %}.jpg{% endif %}&w=900&h=600&t=square{% if post.alignment != 'middle' %}&a={{ post.alignment }}{% endif %}) center center no-repeat; background-size: cover;">
                                   <div class="gradientdown">
                                     <h3>{{ post.title }}</h3>
                                     <div class="visualnieuws_date"><i class="fa icon-calendar-empty"></i> {{ post.date | date: "%-d" }}
