@@ -85,7 +85,15 @@ function goPrev(e) {
     else prev = (imgArray.length-1);
     window.location = '{{ page.url }}?url='+imgArray[prev];
 }
+
 	</script>
+		<script>
+			var script = document.createElement('script');
+			script.setAttribute('type','text/javascript');
+			script.setAttribute('defer','defer');
+			script.setAttribute('src','//widget.salonhub.nl/a/i.js');
+			document.getElementsByTagName('head')[0].appendChild(script);
+		</script>
 	{% include ga.html %}
 
 </head>
