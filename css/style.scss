@@ -105,7 +105,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 #popup {display: none; position: fixed; top: 0; left: 0; background: rgba(0,0,0,0.5); z-index: 99; cursor: pointer;}
 #popup, #popup td {height: 100%; width: 100%; text-align: center; vertical-align: middle; padding: 20px;}
 #popup td > div {max-width: 500px; background: white; margin: 0 auto; box-shadow: 0px 0px 0px 7px rgba(0,0,0,0.3); cursor: default; background: white;}
-#popup div .close {position: absolute; right: 15px; background: transparent;}
+#popup div .close {position: absolute; right: 15px; background: transparent; z-index: 99;}
 @media (min-width: 550px) {
   #popup div .close {right: auto; margin-left: 465px;}
 }
@@ -128,6 +128,8 @@ body.iOS .salon3 {background-attachment: scroll;}
     -ms-transition: all 0.2s ease;          
     transition: all 0.2s ease;
 }
+#popup .videoWrapper {padding-bottom: 51.2%; /*custom */}
+
 #not_sharethis > div {
     position: relative;
     right: 0;

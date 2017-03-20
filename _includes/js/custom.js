@@ -80,7 +80,9 @@ $(window).on('orientationchange', function(e) {
 
 $( document ).ready(function() {
 	$('#popup').click( function(event){
-	    if($( event.target ).is( "td" )) $( '#popup' ).hide();
+	    if($( event.target ).is( "td" )) {
+			$( '#popup .close a' ).click();
+		}
   	});
 
 	if($(window).height()<500) {
