@@ -11,4 +11,3 @@ text_shadow_color: '#ffffff'
 ---
 
 
-https://www.youtube.com/watch?v=twATHEx2heU
