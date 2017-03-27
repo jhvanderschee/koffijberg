@@ -1,11 +1,13 @@
 ---
-title: Youtube
+title: 'Wij zijn er voor jou!'
 active: false
-image: 
+image:
 youtube_id: twATHEx2heU
 text_color: '#241a1f'
 button_color: '#241a1f'
 button_hover_color: '#5e2d83'
 text_shadow: true
-text_shadow_color: white
+text_shadow_color: '#ffffff'
 ---
+
+
