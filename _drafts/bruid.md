@@ -27,7 +27,7 @@ De mooiste dag van je leven moet perfect zijn. Bereid je trouwkapsel en make-up 
 
 Als Koffijberg Hairdressers werken wij met mooie oplossingen van **Balmain hair**. Wij nodigen jou altijd eerst uit voor een vrijblijvend adviesgesprek, waarbij we alle mogelijkheden met jou doornemen. Verras ons met jouw inspiratie afbeeldingen en neem eventueel een foto van de jurk en/of sluier en andere accessoires mee naar het gesprek. Vervolgens plannen wij samen met jou een afspraak voor jouw proefkapsel en make-up.
 
-We cre&euml;ren dan de bruidslook waarbij we goed kijken naar jou als persoon en wat het beste bij jou past. Op die manier weten wij hoeveel tijd jouw look in beslag neemt op de dag zelf. Uiteraard kunnen wij ook altijd naar de locatie toekomen. Ben jij ook ge&iuml;nteresseerd in een vrijblijvende afspraak? **[Vraag dan](__notset__)[hier een afspraak aan voor een adviesgesprek](http://www.koffijberg.nl/contact/)** en/of bel ons direct 020-6732374.
+We cre&euml;ren dan de bruidslook waarbij we goed kijken naar jou als persoon en wat het beste bij jou past. Op die manier weten wij hoeveel tijd jouw look in beslag neemt op de dag zelf. Uiteraard kunnen wij ook altijd naar de locatie toekomen. Ben jij ook ge&iuml;nteresseerd in een vrijblijvende afspraak? **[Vraag dan](__notset__)[hier een afspraak aan voor een adviesgesprek](http://www.koffijberg.nl/contact/)** en/of bel ons direct op nummer 020-6732374.
 
 Wil je nog meer leuke artikelen lezen? Klik dan hier! (deeplink nieuwspagina)
 
