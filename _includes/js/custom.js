@@ -127,7 +127,10 @@ $( document ).ready(function() {
 	//show splash if modern device/browser
 	if(!$('body').hasClass('old_Android') && !$('body').hasClass('old_iOS')) {
 		if (get_cookie("splashshown")=="") $('#splash').show();
-		if (!sessionStorage['popupshown']) $('#popup').show();
+		if (!sessionStorage['popupshown']) {
+			$('#popup').show();
+			$('#popup').find('iframe').attr('src',$('#popup').find('iframe').attr('data-src'));
+		}
 	}
 	$('#nonsplash').show();
 	set_cookie('true');
