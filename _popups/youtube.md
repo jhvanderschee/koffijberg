@@ -2,7 +2,7 @@
 title: 'Wij zijn er voor jou!'
 active: true
 image:
-youtube_id: twATHEx2heU
+youtube_id: VpMwRYszvGE
 text_color: '#241a1f'
 button_color: '#241a1f'
 button_hover_color: '#5e2d83'
