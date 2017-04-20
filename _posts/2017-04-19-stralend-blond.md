@@ -1,6 +1,6 @@
 ---
 title: STRALEND BLOND
-image: /uploads/ULTIMATE-BLONDE-KAPPER-AMSTERDAM.jpg
+image: /uploads/ULTIMATE-BLONDE-KAPPER-AMSTERDAM-2.jpg
 alignment: top
 ---
 
