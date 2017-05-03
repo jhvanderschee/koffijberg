@@ -17,7 +17,7 @@ Ik hou van koele tinten, en zoals jullie weten heb ik mezelf een paar maanden te
 
 Mijn haar was de vorige keer flink opgebleekt (anders pakte de blauwe kleur niet) waardoor ik nu in principe een vrij goede ondergrond had voor een nieuwe kleur, maar vanwege het laatste groene waasje wat er met shampoo niet uit wilde gaan moest mijn haar toch weer iets opgebleekt worden voordat we met een nieuwe kleur aan de slag konden.
 
-Ik wilde in eerste instantie graag een koele lavendelblauwe pasteltint in mijn haar, maar omdat ik erg donker haar heb en ik mijn haar niet nóg een keer intens wilde laten bleken (voor een dergelijke kleur heb je namelijk echt een spierwitte ondergrond nodig), hebben we besloten voor een wat donkerdere paars/violet/lavendel tint te gaan. Om een mooi diepte effect te creëren is mijn haar met maar liefst drie verschillende paarstinten ingekleurd: grijs/violet, helder violet en lavendel.
+Ik wilde in eerste instantie graag een koele lavendelblauwe pasteltint in mijn haar, maar omdat ik erg donker haar heb en ik mijn haar niet n&oacute;g een keer intens wilde laten bleken (voor een dergelijke kleur heb je namelijk echt een spierwitte ondergrond nodig), hebben we besloten voor een wat donkerdere paars/violet/lavendel tint te gaan. Om een mooi diepte effect te cre&euml;ren is mijn haar met maar liefst drie verschillende paarstinten ingekleurd: grijs/violet, helder violet en lavendel.
 
 ![](/uploads/versions/kapper-whatiwouldbuy-amsterdam-na-mini---x----300-450x---.jpg)
 
@@ -27,6 +27,6 @@ Ook is er tijdens mijn kleurbehandeling gebruik gemaakt van het product Bond Fus
 
 Als laatste werd ook mijn haar weer van een mooi model voorzien. De onderkant is in laagjes geknipt voor meer volume en ik wilde het graag wat ronder laten lopen (eerst was het kaarsrecht, vanwege de lange bob die ik uit had laten groeien). Het prachtige resultaat, met kleuren die er in elk licht weer anders uitzien, zie je hieronder!
 
-Mocht jij ook toe zijn aan een kleine (of grote) make-over van je haar in de nieuwste kleuren? Wil je door middel van een huidanalyse weten welke haarkleuren perfect bij jouw huidtint passen? Of ben je geïnteresseerd in hoe je je opkomende grijze haar door middel van een persoonlijk stappenplan kunt omarmen (want grijs is immers hot)? Dan zou ik zeker even langsgaan bij Koffijberg Hairdressers in de Scheldestraat te Amsterdam.
+Mocht jij ook toe zijn aan een kleine (of grote) make-over van je haar in de nieuwste kleuren? Wil je door middel van een huidanalyse weten welke haarkleuren perfect bij jouw huidtint passen? Of ben je ge&iuml;nteresseerd in hoe je je opkomende grijze haar door middel van een persoonlijk stappenplan kunt omarmen (want grijs is immers hot)? Dan zou ik zeker even langsgaan bij Koffijberg Hairdressers in de Scheldestraat te Amsterdam.
 
-[Graag contact opnemen!](http://www.koffijberg.nl/contact/)
+[Graag contact opnemen](http://www.koffijberg.nl/contact/)! [Bekijk hier nog meer beelden van de behandeling.](http://whatiwouldbuy.com/VIOLET+LAVENDER+HAIR+WITH+KEUNE+COLOR+CRAVING+AT+KOFFIJBERG+HAIRDRESSERS)
