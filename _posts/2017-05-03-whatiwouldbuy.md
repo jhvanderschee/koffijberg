@@ -25,6 +25,8 @@ Bij Koffijberg wordt er gewerkt met de producten van Keune (waarvan de gehele li
 
 Ook is er tijdens mijn kleurbehandeling gebruik gemaakt van het product Bond Fusion. Tijdens chemische behandelingen van je haar (zoals kleuren) breken de zwavelbruggen in het haar af, maar deze zwavelbruggen zijn essentieel voor sterk en gezond haar. Bond Fusion repareert en reconstrueert de gebroken verbindingen en is dus een absolute must tijdens en na kleurbehandelingen van je haar.
 
+![](/uploads/versions/kapper-whatiwouldbuy-amsterdam-kimm---x----300-450x---.jpg)
+
 Als laatste werd ook mijn haar weer van een mooi model voorzien. De onderkant is in laagjes geknipt voor meer volume en ik wilde het graag wat ronder laten lopen (eerst was het kaarsrecht, vanwege de lange bob die ik uit had laten groeien). Het prachtige resultaat, met kleuren die er in elk licht weer anders uitzien, zie je hieronder!
 
 Mocht jij ook toe zijn aan een kleine (of grote) make-over van je haar in de nieuwste kleuren? Wil je door middel van een huidanalyse weten welke haarkleuren perfect bij jouw huidtint passen? Of ben je ge&iuml;nteresseerd in hoe je je opkomende grijze haar door middel van een persoonlijk stappenplan kunt omarmen (want grijs is immers hot)? Dan zou ik zeker even langsgaan bij Koffijberg Hairdressers in de Scheldestraat te Amsterdam.
