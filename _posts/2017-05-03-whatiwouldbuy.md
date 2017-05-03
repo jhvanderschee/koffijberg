@@ -21,9 +21,9 @@ Ik wilde in eerste instantie graag een koele lavendelblauwe pasteltint in mijn h
 
 ![](/uploads/versions/kapper-whatiwouldbuy-amsterdam-na-mini---x----300-450x---.jpg)
 
-Bij Koffijberg wordt er gewerkt met de producten van Keune (waarvan de gehele lijn onlangs is gerestyled), en Kimm heeft mijn haar o.a. gekleurd met de Keune Color Craving lijn. Dit zijn kleurconditioners die intense pigmenten bevatten en speciaal bedoeld zijn voor de consument om thuis snel en gemakkelijk je haar van een hippe kleur te voorzien of je bestaande kleur een opfrisbeurt te geven. De lijn bestaat uit 6 verschillende kleuren, van pastelblauw tot felrood. Bij mij is er gewerkt met de kleuren Velvet Violet en Lovely Lavender.
+Bij Koffijberg wordt er gewerkt met de producten van Keune (waarvan de gehele lijn onlangs is gerestyled), en Kimm heeft mijn haar o.a. gekleurd met de [Keune Color Craving lijn](http://www.keune.com/nl/Producten/Productinformatie/prodid/4014/rtid/406/tagids/179#.WQnF6tLyiUk). Dit zijn kleurconditioners die intense pigmenten bevatten en speciaal bedoeld zijn voor de consument om thuis snel en gemakkelijk je haar van een hippe kleur te voorzien of je bestaande kleur een opfrisbeurt te geven. De lijn bestaat uit 6 verschillende kleuren, van pastelblauw tot felrood. Bij mij is er gewerkt met de kleuren Velvet Violet en Lovely Lavender.
 
-Ook is er tijdens mijn kleurbehandeling gebruik gemaakt van het product Bond Fusion. Tijdens chemische behandelingen van je haar (zoals kleuren) breken de zwavelbruggen in het haar af, maar deze zwavelbruggen zijn essentieel voor sterk en gezond haar. Bond Fusion repareert en reconstrueert de gebroken verbindingen en is dus een absolute must tijdens en na kleurbehandelingen van je haar.
+Ook is er tijdens mijn kleurbehandeling gebruik gemaakt van het product [Bond Fusion](http://www.keune.nl/BondFusion#.WQnFmdLyiUk). Tijdens chemische behandelingen van je haar (zoals kleuren) breken de zwavelbruggen in het haar af, maar deze zwavelbruggen zijn essentieel voor sterk en gezond haar. Bond Fusion repareert en reconstrueert de gebroken verbindingen en is dus een absolute must tijdens en na kleurbehandelingen van je haar.
 
 ![](/uploads/versions/kapper-whatiwouldbuy-amsterdam-kimm---x----300-450x---.jpg)
 
