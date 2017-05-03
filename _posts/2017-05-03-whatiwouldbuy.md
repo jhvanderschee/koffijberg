@@ -1,7 +1,7 @@
 ---
 title: Whatiwouldbuy
 image: /uploads/kapper-whatiwouldbuy-amsterdam.jpg
-alignment: top
+alignment: middle
 ---
 
 
