@@ -1,9 +1,8 @@
 ---
 title: Promotie Daniek
-image: /uploads/daniek.jpg
+image: /uploads/daniek_1.jpg
 alignment: top
 ---
-
 
 Vanaf 1 december 2016 is Daniek kleurspecialist. Na 6 jaar werkervaring bij Koffijberg Hairdressers en door het volgen van cursussen is Daniek uitgegroeid tot een ware topper op het gebied van kleuren en knippen.
 
