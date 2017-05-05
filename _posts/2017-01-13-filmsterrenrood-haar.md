@@ -1,6 +1,6 @@
 ---
 title: Filmsterrenrood Haar
-image: /uploads/roodhaar1.jpg
+image: /uploads/roodhaar_1.jpg
 alignment: top
 ---
 
