@@ -1,5 +1,5 @@
 ---
-title: 1ste bezoek Tim
+title: Eerste bezoek Tim
 image: /uploads/Tim-kapper-amsterdam-stylist-esmee.jpg
 alignment: top
 ---
