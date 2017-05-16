@@ -18,7 +18,7 @@ Elke maand lichten wij een leuke klant uit van Koffijberg Hairdressers, vandaag 
 
 ![](/uploads/versions/tim-kapper-amsterdam-mini---x----250-376x---.jpg)
 
-4.Hoe heb je de behandeling bij Koffijberg ervaren?&nbsp;
+4.Hoe heb je de behandeling bij Koffijberg ervaren?
 <br>Koffijberg gaat veel verder dan een knipbeurt. De service is ten top en zij geven eerlijke adviezen. Dat stel ik op prijs. Je bent wellicht meer geld kwijt maar zeker een ervaring rijker.
 
 5.Wat vind je van het eindresultaat?
