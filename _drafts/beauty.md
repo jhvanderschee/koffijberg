@@ -1,5 +1,66 @@
 ---
 title: BEAUTY
-image: /uploads/Tim-kapper-amsterdam-stylist-esmee.jpg
+image: /uploads/alle-beelden-verzamel-mini.jpg
 alignment: top
 ---
+
+
+**Een beauty interview met Kimm Koffijberg**
+
+Elke maand publiceren wij inspirerende artikelen over diverse onderwerpen, van bijvoorbeeld [‘Trouwen op je allermooist!’](http://www.koffijberg.nl/nieuws/2017/04/05/trouwen-op-je-allermooist/)&nbsp;tot [‘De Trendkleuren van dit jaar’](http://www.koffijberg.nl/nieuws/2017/02/23/new-dawn/).
+
+In dit bijzondere interview leren wij **Kimm Koffijberg** (eigenaar van Koffijberg Hairdressers) een stukje beter kennen en vertelt ze ons haar beauty geheimen. Lees je mee?
+
+***Quote: “Het mooiste wat je kunt worden is jezelf. Beauty begint op het moment dat je besluit jezelf te zijn”.***
+
+**Wie of wat is jouw grootste inspiratie beauty?**
+
+“Model **Saskia de Brauw** is voor mij de grooste inspiratie op het gebied van beauty. Voor mij is zij de *True Beauty*. Naast haar korte haar, vind ik de androgyne uitstraling erg mooi. Ook het gebruik van haar make-up is voor mij perfect. Belangrijke elementen worden extra aangezet met als doel om mooie gelaatstrekken te versterken. Saskia is zelfs zonder make-up nog steeds prachtig!”
+
+![](/uploads/versions/alle-beelden-verzamel-mini---x----500-476x---.jpg)
+
+**Wat is de beste beauty tip die je ooit hebt gekregen?**
+
+“Verzorg altijd goed je gezicht door het elke ochtend en avond grondig te reinigen. Ook wanneer je een dag geen make-up draagt, is dit een aanrader.&nbsp; Je dag- en nachtcr&egrave;mes &nbsp;worden namelijk hierdoor nog beter opgenomen door je huid. Mijn favoriete reinigingsproduct is de *Oil Cleanser van Dokter Eckstein*. Door een combinatie van olie en water is dit erg fijn in gebruik.”
+
+**Welke cr&egrave;me is onmisbaar voor jou?**
+
+“Absoluut de **Office Booster DSF8 van Royal Effem**. Dit is een heerlijke dagverzorging op basis van groene thee en honingklaver en geeft mijn huid een mooie glow. Daarnaast beschermt het de huid en zorgt het ook voor extra hydratatie. Een heerlijke cr&egrave;me die je onder en boven je make-up kan dragen. Een aanrader als je huid in de wintermaanden net iets meer voeding nodig heeft.”**Office Booster DSF8**
+
+**Welke beauty zonde heb je wel eens begaan?**
+
+“Het gebruik van een t&eacute; donkere zelfbruiner.... ik ben helemaal niet handig met dit soort dingen en zag eruit als een soort worteltje!”
+
+**Zonder welk product ga jij de deur niet uit?**
+
+“Mijn mascara en blusher. Omdat ik een bril draag, vind ik het fijn als mijn ogen iets meer opvallen. De H20 proof mascara van Royal Effem blijft erg goed zitten en is mooi zwart. Daarnaast een prachtige blusher. Ik wil er niet te opgemaakt uitzien, maar wil wel graag wat meer accent leggen op kleur in mijn gezicht. De **Creamy Blusher van Royal Effem** is makkelijk aan te brengen en geeft mijn jukbeenderen het effect wat ik wil. Ideaal voor een lange dag in de salon!”&nbsp;
+
+![](/uploads/versions/blush-royal-effem-mini---x----500-500x---.jpg)
+
+**Wat is je favoriete parfum?**
+
+“Mijn favoriete parfum is *Shiro van Masaki Matsushima*. Het is een bloemige geur die heel zacht is en niet te opvallend. Ik houd van de mix van white musk, katoenbloem, cyclamen, roos en iris.”
+
+**Met welke make-up producten voel jij je op en top vrouw?**
+
+“Ik gebruik graag de *Brow Extender* van Divaderme, daar ik een litteken uit mijn jeugd in mijn wenkbrauw heb, kan ik deze met de fibers goed opvullen. Ook zorgt het product ervoor dat mijn wenkbrauwen een natuurlijke uitstraling krijgen, voller en donkerder wordt, waardoor ik meer expressie krijg in mijn gezicht.”
+
+![](/uploads/versions/brow-extender-divaderme-mini---x----500-496x---.jpg)
+
+**Jouw geheim voor een stralende huid?**
+
+“Ik drink veel water en groene thee van het merk Clipper. Erg lekker!”
+
+**Waarom heb je in de salon gekozen voor het merk Royal Effem?**
+
+“Royal effem is een prachtig merk! Alle produkten zijn vrij van paraffine, lanoline en parfum. De lijn bestaat uit mooie harmonieuze kleuren. Door de luxe en strakke uitstraling van het merk is het echt iets wat bij ons past als Koffijberg Hairdressers.”
+
+**Wat is jouw favoriete Royal Effem product?**
+
+“**Luminous Skin Foundation**, dit product geeft mij de perfecte dekking waar ik naar op zoek ben. Doordat het product een SPF15 heeft, gebruik ik geen extra zonbescherming. Deze foundation geeft mij een frisse en natuurlijke uitstraling.”
+
+![](/uploads/versions/royal-effem-lumious-skin-foundation-mini---x----500-507x---.jpg)
+
+Leuk als je mij volgt op instagram, klik [**<u>hier!</u>**](https://www.instagram.com/koffijberghairdressers/)&nbsp;
+
+Lees ook [**<u>hier</u>**](http://www.koffijberg.nl/nieuws/2016/12/08/interview-met-kimm-koffijberg/) het onlangs verschenen interview met Kimm Koffijberg.&nbsp;
