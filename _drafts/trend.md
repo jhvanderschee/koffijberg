@@ -1,6 +1,6 @@
 ---
 title: Sprankelend grijs haar
-image: /uploads/alle-beelden-verzamel-mini.jpg
+image: /uploads/shining-grey-mini.jpg
 alignment: top
 ---
 
@@ -8,6 +8,8 @@ alignment: top
 -Trend: Shining Grey Haarconcept
 
 -Maar liefst 68% van de 50+ dames kiest bewust voor sprankelend grijs haar
+
+![](/uploads/versions/shining-grey-3---x----5760-3240x---.jpg)
 
 UNIEK IN NEDERLAND: SHINING GREY HAARCONCEPT
 
@@ -18,6 +20,8 @@ OVER SHINING GREY
 Kimm Koffijberg ontwikkelde het Shining Grey concept. Een persoonlijk stappenplan dat gemiddeld een jaar duurt. Elke twee tot drie maanden (afhankelijk van de haarlengte en kleur) wordt de kapsalon bezocht, waarbij op een uitgekiende manier tijdens ieder bezoek low- en highlights geplaatst worden. Dit om zo het grijze en het gekleurde haar steeds meer met elkaar te verweven, ook wel blenden genoemd. In de loop van het Shining Grey proces went zowel de vrouw als de omgeving aan de nieuwe grijze haarkleur. Het team van Koffijberg Hairdressers bewaakt ondertussen de kwaliteit van de kleur en het haar goed. De klant kan ervoor kiezen bij te kleuren met mooie grijsnuances of het grijze haar in totaliteit te omarmen. Na gemiddeld een jaar komt een vrouw tevoorschijn met een sprankelende grijze en eigentijdse look.
 
 Klant Brigit onderging afgelopen jaar dit proces en vertelt haar ervaring. “Het eindresultaat is prachtig. Het is even een stap om ermee te beginnen, het eerste half jaar was best moeilijk maar daarna zag je het steeds mooier worden, kortom een absolute aanrader voor elke vrouw die nu wellicht op hetzelfde punt staat waar ik ooit begon. Ik voel me meer mezelf en heb meer zelfvertrouwen!”
+
+![](/uploads/versions/shining-grey-mini-kapper---x----250-376x---.jpg)
 
 Natuurlijk effect
 
