@@ -1,6 +1,6 @@
 ---
 title: Sprankelend grijs haar
-image: /uploads/shining-grey-mini.jpg
+image:
 alignment: top
 ---
 
