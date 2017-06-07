@@ -1,6 +1,6 @@
 ---
 title: Sprankelend grijs haar
-image:
+image: /uploads/shining-grey-3.jpg
 alignment: top
 ---
 
