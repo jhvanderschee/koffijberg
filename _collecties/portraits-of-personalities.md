@@ -2,17 +2,17 @@
 title: Portraits of Personalities
 date: 2017-06-07 00:00:00
 images:
-  - image: /uploads/kapper-koffijberg-1.jpg
-  - image: /uploads/kapper-koffijberg-2.jpg
-  - image: /uploads/kapper-koffijberg-3.jpg
-  - image: /uploads/foto-6.jpg
-  - image: /uploads/foto-7.jpg
-  - image: /uploads/foto-10.jpg
-  - image: /uploads/foto-11.jpg
-  - image: /uploads/foto-14.jpg
-  - image: /uploads/foto-15.jpg
-  - image: /uploads/foto-19.jpg
-  - image: /uploads/foto-20.jpg
+  - image: /uploads/portraits/kapper-koffijberg-1.jpg
+  - image: /uploads/portraits/kapper-koffijberg-2.jpg
+  - image: /uploads/portraits/kapper-koffijberg-3.jpg
+  - image: /uploads/portraits/foto-6.jpg
+  - image: /uploads/portraits/foto-7.jpg
+  - image: /uploads/portraits/foto-10.jpg
+  - image: /uploads/portraits/foto-11.jpg
+  - image: /uploads/portraits/foto-14.jpg
+  - image: /uploads/portraits/foto-15.jpg
+  - image: /uploads/portraits/foto-19.jpg
+  - image: /uploads/portraits/foto-20.jpg
   - image:
 ---
 
