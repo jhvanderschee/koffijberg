@@ -27,6 +27,8 @@ Portraits of Personalities:
 
 Portrait of Nienke
 
+![](/uploads/versions/kapper-koffijberg-1-nienke---x----300-451x---.jpg)
+
 (21 jaar, nieuwe klant)
 
 Nienke vond haar haarkleur saai “een en dezelfde kleur” en het model “rechttoe rechtaan”. Ze had problemen met stijlen en f&ouml;hnen en ze wilde graag een natuurlijker uitstraling hebben. Daarnaast vindt ze haar gezicht vrij bol. Haar grote wens was dan ook om een model en kleur te krijgen waardoor haar gezicht smaller lijkt.
@@ -48,6 +50,8 @@ Nienke: “Het eindresultaat was prachtig: Een mooie koele blonde kleur met diep
 \*\*\*
 
 Portrait of Ria
+
+![](/uploads/versions/kapper-koffijberg-2--ria---x----300-451x---.jpg)
 
 (67 jaar, meer dan twintig jaar klant bij Koffijberg)
 
@@ -73,6 +77,8 @@ Ria: “Ik was verbaasd dat een korter kapsel zo goed stond, Kimm had het echt g
 
 Portrait of Melanie
 
+![](/uploads/versions/kapper-koffijberg-3-melanie---x----300-451x---.jpg)
+
 (36 jaar, via haar tante voor het eerst bij Koffijberg)
 
 Melanies haar had geen ‘model’. Vroeger had ze een kort kapsel, waar ze blij mee was. Toen ze haar haren langer liet groeien ,verdwenen model en volume. Ze wilde weer een korte coupe, maar vond het een hele stap.
@@ -95,6 +101,8 @@ Melanie over de kleuranalyse: &nbsp;… “- er werd de tijd genomen en samen me
 
 Portrait of Tim
 
+![](/uploads/versions/kapper-koffijberg-5-tim---x----300-451x---.jpg)
+
 (28 jaar, nieuwe klant)
 
 Tim had lang krullend haar dat vaak vettig was omdat hij het met wat vet steil maakte. Differentiatie vindt hij belangrijk. Doordat haar continu groeit, heb je de mogelijkheid om ermee te experimenteren, vindt Tim.
@@ -115,7 +123,9 @@ Tim: “Koffijberg gaat veel verder dan een knipbeurt.” “Ik heb nooit gewete
 
 Portrait of Brigit
 
-(60 jaar, al derig jaar klant)
+![](/uploads/versions/kapper-koffijberg-6-brigit---x----300-451x---.jpg)
+
+(60 jaar, al dertig jaar klant)
 
 Brigit is anderhalf jaar geleden begonnen met ‘Shining grey’. (Een stappenplan van Koffijberg voor vrouwen met gekleurd haar, die op een mooie manier hun grijze haar willen laten uitgroeien.) Brigit is zich gaan realiseren dat ze terug wil naar wie ze daadwerkelijk is. Hierbij past dat ze haar grijze haren laat zien.
 
