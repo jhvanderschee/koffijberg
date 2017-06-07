@@ -13,7 +13,7 @@ alignment: top
 
 UNIEK IN NEDERLAND: SHINING GREY HAARCONCEPT
 
-Het is de frustratie van menig vrouw: de eeuwige uitgroei bijwerken en grijze haren verdoezelen met haarverf. Award winning salon Koffijberg Hairdressers in Amsterdam deed uitgebreid onderzoek naar de haarwensen van vrouwen boven de 50 jaar en ontwikkelde vervolgens een uniek nieuw haarconcept: ‘Shining Grey’. Een stappenplan dat ongeveer half jaar tot een jaar duurt, waarbij het gekleurde haar met het grijze haar verweven wordt. Het uiteindelijke resultaat: sprankelend grijs, trendy haar met verschillende nuances. Het haalt de teint op, maakt vele jaren jonger, vrouwen hoeven niet meer onzeker te zijn over uitgroei en voelen zich meer zichzelf.&nbsp;&nbsp;
+Het is de frustratie van menig vrouw: de eeuwige uitgroei bijwerken en grijze haren verdoezelen met haarverf. Award winning salon Koffijberg Hairdressers in Amsterdam deed uitgebreid onderzoek naar de haarwensen van vrouwen boven de 50 jaar en ontwikkelde vervolgens een uniek nieuw haarconcept: ‘Shining Grey’. Een stappenplan dat ongeveer half jaar tot een jaar duurt, waarbij het gekleurde haar met het grijze haar verweven wordt. Het uiteindelijke resultaat: sprankelend grijs, trendy haar met verschillende nuances. Het haalt de teint op, maakt vele jaren jonger, vrouwen hoeven niet meer onzeker te zijn over uitgroei en voelen zich meer zichzelf.
 
 OVER SHINING GREY
 
@@ -29,10 +29,10 @@ Kimm Koffijberg licht toe: “een Shining Grey behandeling is een behandeling op
 
 Soms zijn de dames bang dat ze ouder ogen met grijs haar, maar niets is minder waar. Sterker nog: rimpeltjes en fijne lijntjes vallen minder op, het gezicht oogt zachter en de prachtige look oogt heel verzorgd, modieus en natuurlijk. We zijn blij dat vrouwen aangeven meer zichzelf te zijn na de Shining Grey behandelingen”.
 
-[Bekijk hier de video](https://www.youtube.com/watch?v=J4UoU1TSk8U) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Bekijk hier de video](https://www.youtube.com/watch?v=J4UoU1TSk8U)
 
 Over Koffijberg Hairdressers
 
 Koffijberg Hairdressers is een begrip in Amsterdam en omstreken. Richard Koffijberg startte in 1976 zijn kapsalon in een klein brugwachtershuisje aan de Amstelkade in Amsterdam-Zuid. In 1997 verhuisde de kapsalon naar het veel grotere pand aan de overkant op Scheldestraat 8. Daar groeit het familiebedrijf uit tot een van de topkapsalons van Nederland. Inmiddels runt dochter Kimm Koffijberg de salon, ze behoort tot de topkappers van Nederland. Kimm is tevens Global Color Director bij Keune Haircosmetics.
 
-Het allerbelangrijkste voor Koffijberg Hairdressers is de brede interesse in de klant. Ze baseren het advies niet alleen op uiterlijke kenmerken zoals gezichtsvorm en huidtype, maar zijn ge&iuml;nteresseerd in de hele lifestyle en geven een advies dat volledig op de persoon is afgestemd.
+Het allerbelangrijkste voor Koffijberg Hairdressers is de brede interesse in de klant. Ze baseren het advies niet alleen op uiterlijke kenmerken zoals gezichtsvorm en huidtype, maar zijn geïnteresseerd in de hele lifestyle en geven een advies dat volledig op de persoon is afgestemd.
