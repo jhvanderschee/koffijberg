@@ -13,7 +13,6 @@ images:
   - image: /uploads/portraits/foto-15.jpg
   - image: /uploads/portraits/foto-19.jpg
   - image: /uploads/portraits/foto-20.jpg
-  - image:
 ---
 
 
