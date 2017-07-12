@@ -10,7 +10,7 @@ Elke maand staat in deze rubriek een leuke klant van Koffijberg Hairdressers in 
 Hoe was jouw ‘haarsituatie’ voordat je bij ons geknipt of gekleurd werd?
 <br>"Tot anderhalf jaar geleden kleurde ik mijn haar met highlights, maar ik werd zo grijs dat ik mij steeds meer ergerde aan mijn uitgroei. Kimm adviseerde mij het stappenplan van Shining Grey. En haar advies heb ik direct opgevolgd!"
 
-Waarom wilde je iets anders?
+![](/uploads/versions/brigit-kapper-highlights---x----898-652x---.png)Waarom wilde je iets anders?
 <br>"Ik ben inmiddels 60 en ik wilde graag terug naar wie ik ben. Ik ben nou eenmaal grijs; laat het dan ook maar zien! Maar dat ik dat &eacute;cht wilde, ben ik me pas gaan realiseren nadat ik er met Kimm een gesprek over had."
 
 Hoe heb je het advies ervaren dat jou gegeven werd?
@@ -19,7 +19,7 @@ Hoe heb je het advies ervaren dat jou gegeven werd?
 Hoe heb je de behandeling bij Koffijberg ervaren?
 <br>"Ik vind het hier altijd heel prettig. De sfeer is goed en ik kom altijd helemaal tot rust. Je wordt goed verzorgd, met een kop lekkere muntthee of een wijntje en nootjes. Ook de heerlijke massagestoelen dragen bij aan deze beleving. De aandacht en communicatie van het gehele team is echt heel fijn. Je voelt je welkom en gehoord. En ook belangrijk: de behandelingen zijn altijd goed. Mijn kleur en coupe zijn perfect en makkelijk te onderhouden."
 
-Wat vind je van het eindresultaat?
+![](/uploads/versions/brigit-kapper-highlights-kimm-actie---x----1110-560x---.png)Wat vind je van het eindresultaat?
 <br>"Ik ben er erg blij mee. Rondom mijn gezicht is het grijs nu heel wit, wat ik heel mooi vind. In de rest van mijn haar wordt met donkergrijze accenten gewerkt. Dit klopt bij mijn gezicht en maakt de grijze coupe bijzonder. "&nbsp;
 
 Versterkt dit kapsel jouw identiteit?
