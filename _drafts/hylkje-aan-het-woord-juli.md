@@ -16,10 +16,14 @@ Waarom wilde je iets anders?
 Hoe heb je het advies ervaren dat jou gegeven werd?
 <br>"Het advies bij Koffijberg is altijd oprecht. Er is mij ook wel eens iets afgeraden wat ik graag wilde. Dit geeft aan dat er &eacute;cht advies wordt gegeven."
 
+![](/uploads/versions/hylkje-kapper-bruidskapsel-actie-daniek---x----1016-772x---.png)
+
 Hoe heb je de behandeling bij Koffijberg ervaren?
 <br>"Ik vind het prettig dat er van A tot Z wordt gekeken naar het klantprofiel. De kleurentest is daar een voorbeeld van, maar ook het oprechte advies, het meedenken en het stukje nazorg. Nadat ik extensions had laten zetten, werd mij via de app gevraagd of ik er blij mee was. Die vriendelijkheid is helemaal top! Om over het eindresultaat nog maar te zwijgen."
 
-![](/uploads/versions/hylkje-kapper-bruidskapsel-actie-daniek---x----1016-772x---.png)Versterkt dit kapsel jouw identiteit?
+![](/uploads/versions/hylkje-kapper-extentions-actie-daniek---x----815-606x---.png)
+
+Versterkt dit kapsel jouw identiteit?
 <br>"Mijn kapsel is een reflectie van mijn persoonlijkheid. Na het plaatsen van mijn extensions vond ik ze iets te lang. Ik kreeg toen de tip om ze te laten knippen. Ik wilde eigenlijk ook altijd lang haar en vond het moeilijk deze stap te zetten. De manier waarop jullie medewerker mij advies gaf, gaf mij een zekerder gevoel en uiteindelijk bleek het de juiste keuze. Wanneer mijn haarkleur niet meer optimaal is, merk ik dat ik in verdere uiterlijke verzorging ook begin te verzaken. Een goed kapsel heeft dus niet alleen een positief effect op de buitenkant maar ook op de binnenkant."
 
 Hoe ervaar je jouw haar een paar weken na de behandeling?
