@@ -3,7 +3,7 @@ title: Philine
 naam: Philine
 image: /img/13.-philine-junior-stylist.jpg
 functie: Stylist
-order: 20
+order: 11
 ---
 
 
