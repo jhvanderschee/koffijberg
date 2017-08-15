@@ -92,6 +92,12 @@ colorings:
         topstylist: € 101.25
         masterstylist: € 111.50
     url: /behandelingen/highlights-heel/
+  - item: Highlights heel Plus
+    prijs:
+      - stylist: € 123.75
+        topstylist: € 123.75
+        masterstylist: € 137.90
+    url:
   - item: Free hand techniek deel
     prijs:
       - stylist: € 135.40
