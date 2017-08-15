@@ -82,9 +82,9 @@ colorings:
     url: /behandelingen/highlights-deel/
   - item: Highlights deel Plus
     prijs:
-      - stylist:
-        topstylist:
-        masterstylist:
+      - stylist: € 84.60
+        topstylist: € 84.60
+        masterstylist: € 92.80
     url: /behandelingen/highlights-deel-Plus/
   - item: Highlights heel
     prijs:
