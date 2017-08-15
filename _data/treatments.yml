@@ -85,7 +85,7 @@ colorings:
       - stylist:
         topstylist:
         masterstylist:
-    url: /behandelingen/highlights-dee-plus/
+    url: /behandelingen/highlights-deel-Plus/
   - item: Highlights heel
     prijs:
       - stylist: € 101.25
@@ -97,7 +97,7 @@ colorings:
       - stylist: € 123.75
         topstylist: € 123.75
         masterstylist: € 137.90
-    url:
+    url: /behandelingen/highlights-heel-Plus/
   - item: Free hand techniek deel
     prijs:
       - stylist: € 135.40
