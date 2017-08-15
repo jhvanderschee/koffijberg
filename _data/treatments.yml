@@ -45,8 +45,8 @@ discounts:
     url:
   - item: tot 20 jaar + studenten
     prijs:
-      - stylist: '20% korting'
-        topstylist: '20% korting'
+      - stylist: 20% korting
+        topstylist: 20% korting
         masterstylist: n.v.t.
     url:
 colorings:
@@ -76,10 +76,16 @@ colorings:
     url: /behandelingen/kleuring--streaks-lang-haar/
   - item: Highlights deel
     prijs:
-      - stylist: € 66.50
-        topstylist: € 66.50
-        masterstylist: € 74.40
+      - stylist: € 84.60
+        topstylist: € 84.60
+        masterstylist: € 92.80
     url: /behandelingen/highlights-deel/
+  - item: Highlights deel Plus
+    prijs:
+      - stylist:
+        topstylist:
+        masterstylist:
+    url:
   - item: Highlights heel
     prijs:
       - stylist: € 101.25
@@ -130,19 +136,19 @@ blow-dry:
         masterstylist: n.v.t.
     url:
 wash-and-dry:
-  - item: 'Wassen & Föhnen'
+  - item: Wassen & Föhnen
     prijs:
       - stylist: € 30.40
         topstylist: € 34.00
         masterstylist: € 38.20
     url: /behandelingen/wassen--fohnen/
-  - item: 'Wassen & Föhnen middellang haar'
+  - item: Wassen & Föhnen middellang haar
     prijs:
       - stylist: € 49.75
         topstylist: € 54.50
         masterstylist: € 59.90
     url: /behandelingen/wassen--fohnen-middellang-haar/
-  - item: 'Wassen & Föhnen lang haar'
+  - item: Wassen & Föhnen lang haar
     prijs:
       - stylist: € 56.90
         topstylist: € 62.75
@@ -167,19 +173,19 @@ specials:
         topstylist: € 18.00
         masterstylist: € 18.00
     url:
-  - item: 'Wenkbrauwen Epileren / Harsen & Verven'
+  - item: Wenkbrauwen Epileren / Harsen & Verven
     prijs:
       - stylist: € 28.00
         topstylist: € 28.00
         masterstylist: € 28.00
     url:
-  - item: 'Wenkbrauwen Epileren / Harsen & Verven + Wimpers Verven'
+  - item: Wenkbrauwen Epileren / Harsen & Verven + Wimpers Verven
     prijs:
       - stylist: € 36.00
         topstylist: € 36.00
         masterstylist: € 36.00
     url:
-  - item: 'Wenkbrauwen Epileren / Harsen & Wimpers Verven'
+  - item: Wenkbrauwen Epileren / Harsen & Wimpers Verven
     prijs:
       - stylist: € 28.00
         topstylist: € 28.00
