@@ -5,7 +5,7 @@ alignment: top
 ---
 
 
-***Elke maand staat in deze rubriek een leuke klant van Koffijberg Hairdressers in de spotlight. Vandaag gaan we in gesprek met Ria Harland (67), een trouwe klant die h&eacute;&eacute;l blij is met haar kortere coupe. Ze deelt graag haar ervaringen met Koffijberg. Lees je mee?***
+***Elke maand staat in deze rubriek een leuke klant van Koffijberg Hairdressers in de spotlight. Vandaag gaan we in gesprek met Ria Harland (67), een trouwe klant die héél blij is met haar kortere coupe. Ze deelt graag haar ervaringen met Koffijberg. Lees je mee?***
 
 **Hoe lang kom jij al bij Koffijberg Hairdressers?**
 <br>"20 jaar. Het kan ook iets langer zijn. Volgens mij niet zo lang nadat ze verhuisden naar dit pand. Samen met mijn man trouwens, die het altijd heel gezellig vindt met de leuke kapsters."
@@ -27,7 +27,7 @@ alignment: top
 <br>"Ik was verbaasd dat een korter kapsel zo goed stond, Kimm had het echt goed begrepen. Ik voel me nu heel comfortabel met mijn uiterlijk. Dit kapsel past beter bij mijn leeftijd en bij mijn gezicht. Hoewel ik eigenlijk vind dat leeftijd er niet toe doet…"
 
 **Hoe ervaar je jouw haar een paar weken na de behandeling?**
-<br>"Het zit nog steeds perfect. Fijn dat ik er weinig onderhoud aan heb. Het is alleen wel een kapsel dat nog moet 'groeien', want sommige gedeeltes moeten wat langer en andere weer korter zijn. Na volgende knipbeurten zal het vast n&oacute;g mooier worden."
+<br>"Het zit nog steeds perfect. Fijn dat ik er weinig onderhoud aan heb. Het is alleen wel een kapsel dat nog moet 'groeien', want sommige gedeeltes moeten wat langer en andere weer korter zijn. Na volgende knipbeurten zal het vast nóg mooier worden."
 
 ![](/uploads/versions/ria-kapper-amsterdam-eindresultaat---x----300-451x---.jpg)
 
