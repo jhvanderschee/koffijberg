@@ -2,7 +2,7 @@
 title: Maud
 naam: Maud
 image: /uploads/kapper-maud-amsterdam-stylist.jpg
-functie: Top-Stylist
+functie: Top-Stylist & Visagiste
 order: 9
 ---
 
@@ -11,4 +11,4 @@ Vol passie en met liefde voor mijn vak cre&euml;er ik graag de mooiste kapsels. 
 
 Koffijberg Hairdressers geeft mij de kans om nieuwe uitdagingen aan te gaan. Daar ben ik trots op!
 
-Beschikbaar: di / wo / vr / za
+*Beschikbaar: di / wo / vr / za*
