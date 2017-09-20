@@ -1,7 +1,7 @@
 ---
 title: Philine
 naam: Philine
-image: /img/13.-philine-junior-stylist.jpg
+image: /uploads/philine-kapper-koffijberg-amsterdam-1.jpg
 functie: Stylist
 order: 11
 ---
