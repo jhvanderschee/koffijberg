@@ -1,6 +1,6 @@
 ---
 title: Naar de kapper? Zó bereid je je voor
-image: /uploads/kapper-amsterdam-kimm-kleuranalyse-2.jpg
+image: /uploads/kapper-amsterdam-kimm-kleuranalyse-3.jpg
 alignment: top
 ---
 
@@ -15,7 +15,7 @@ Wat vind je mooi aan je coupe? En wat niet? Deel zoveel mogelijk ervaringen met 
 
 1. **Beantwoord de open vragen van de kapper zorgvuldig**
 
-Kappers stellen vaak open vragen, waar je natuurlijk best even over na mag denken. Vertel wat je niet mooi vindt, hoeveel tijd je dagelijks besteedt aan het stylen van je haar, hoeveel tijd je eraan w&iacute;l besteden en hoe vaak je een bezoek wil brengen aan de kapper.
+Kappers stellen vaak open vragen, waar je natuurlijk best even over na mag denken. Vertel wat je niet mooi vindt, hoeveel tijd je dagelijks besteedt aan het stylen van je haar, hoeveel tijd je eraan wíl besteden en hoe vaak je een bezoek wil brengen aan de kapper.
 
 1. **Welke stylingproducten gebruik je voor je haar?**
 
@@ -23,19 +23,19 @@ Voor een kapper is het belangrijk om te weten welke stylingproducten je gebruikt
 
 1. **Wat is jouw dagelijkse haarroutine?**
 
-Uiteraard zijn alle kappers binnen onze salon getraind en opgeleid om jou het beste advies te geven. Om je goed te kunnen adviseren, zijn wij nieuwsgierig naar jouw haarroutine. Was je bijvoorbeeld twee keer per week je haar of juist iedere dag? Gebruik je altijd mousse op halfdroog haar voordat je het gaat f&ouml;hnen? Welke stylingtools gebruik je? We voorzien je graag van een persoonlijk en passend advies, zodat jouw haarrituelen optimaal worden ingevuld.
+Uiteraard zijn alle kappers binnen onze salon getraind en opgeleid om jou het beste advies te geven. Om je goed te kunnen adviseren, zijn wij nieuwsgierig naar jouw haarroutine. Was je bijvoorbeeld twee keer per week je haar of juist iedere dag? Gebruik je altijd mousse op halfdroog haar voordat je het gaat föhnen? Welke stylingtools gebruik je? We voorzien je graag van een persoonlijk en passend advies, zodat jouw haarrituelen optimaal worden ingevuld.
 
 ![](/uploads/versions/kapper-amsterdam-kimm-kleuranalyse-2---x----240-361x---.jpg)
 
 1. **Neem beeldmateriaal mee**
 
-Het kan helpen om foto’s mee te nemen naar de kapper. Dit kunnen voorbeelden zijn van jouw ideale kapsel, maar ook foto’s van jezelf waarop je haar geweldig zat, zijn nuttig voor ons. Onderbouw bij het beeldmateriaal waarom je iets wel of niet mooi vindt. Aan de kapper de taak om je gezichtsvorm, haarstructuur, kruinen en haarkwaliteit te analyseren en te kiezen voor het kapsel dat het beste bij jou past &eacute;n jouw persoonlijkheid versterkt.
+Het kan helpen om foto’s mee te nemen naar de kapper. Dit kunnen voorbeelden zijn van jouw ideale kapsel, maar ook foto’s van jezelf waarop je haar geweldig zat, zijn nuttig voor ons. Onderbouw bij het beeldmateriaal waarom je iets wel of niet mooi vindt. Aan de kapper de taak om je gezichtsvorm, haarstructuur, kruinen en haarkwaliteit te analyseren en te kiezen voor het kapsel dat het beste bij jou past én jouw persoonlijkheid versterkt.
 
 1. **Laat je inspireren door onze Pinterest**
 
 Koffijberg Hairdressers is actief op Pinterest. Dit doen we zodat we jou kunnen inspireren en de zoektocht naar je favoriete kapsel makkelijker wordt. Neem vooral een kijkje op [onze Pinterest &gt;](https://nl.pinterest.com/koffijberghair/?etslf=2784&amp;eq=koffijberg%20hair)
 
-Hoe beter de communicatie tussen kapper en klant, hoe mooier het eindresultaat. Een kapper moet jou begrijpen en jouw wensen respecteren met zijn kennis, techniek en ervaringen. Zo voel jij je professioneel behandeld en op je mooist en is de kapper trots op wat hij heeft gecre&euml;erd!
+Hoe beter de communicatie tussen kapper en klant, hoe mooier het eindresultaat. Een kapper moet jou begrijpen en jouw wensen respecteren met zijn kennis, techniek en ervaringen. Zo voel jij je professioneel behandeld en op je mooist en is de kapper trots op wat hij heeft gecreëerd!
 
 Zin om nog meer inspirerende blogs te lezen? Klik dan [hier &gt;](http://www.koffijberg.nl/nieuws/)
 
