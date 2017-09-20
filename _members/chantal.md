@@ -2,7 +2,7 @@
 title: Chantal
 naam: Chantal
 image: /uploads/kapper-chantal-amsterdam-koffijberg-mini.jpg
-functie: Top-Stylist
+functie: Top-Stylist & Visagiste
 order: 8
 ---
 
