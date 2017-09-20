@@ -1,6 +1,6 @@
 ---
 title: Naar de kapper? Zó bereid je je voor
-image: /uploads/kapper-amsterdam-kimm-kleuranalyse-3.jpg
+image: /uploads/kapper-amsterdam-kimm-kleuranalyse-4.jpg
 alignment: top
 ---
 
