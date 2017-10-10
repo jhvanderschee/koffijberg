@@ -1,5 +1,5 @@
 ---
-title: Blogger Danique........
+title: I-Dentity verandering voor blogger danique
 image: /uploads/13.jpg
 alignment: top
 ---
