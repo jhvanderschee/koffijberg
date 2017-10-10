@@ -1,6 +1,6 @@
 ---
 title: Blogger Danique........
-image:
+image: /uploads/13.jpg
 alignment: top
 ---
 
