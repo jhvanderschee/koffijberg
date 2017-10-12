@@ -5,11 +5,17 @@ images:
 ---
 
 
-Keune – Care (45 minuten)
+Keune – Care incl. Miracle Elixir (45 minuten)
 
 *Een heerlijke overall boost voor je haar en hoofdhuid, met daarbij een ontspannende massage. Geschikt voor ieder haar- en hoofdhuidprobleem. Voor gezond en verzorgd haar dat gemakkelijk te stylen is.*
 
-De essenti&euml;le mineralen in de shampoo en het masker van de Care Line van Keune geven je haar wat het nodig heeft. De ‘K-Mist’ (met warme stoom) zorgt ervoor dat het masker heel diep intrekt.
+De essenti&euml;le mineralen in de shampoo en het masker van de Care Line met de toevoeging van het Miracle Elixir van Keune geven je haar wat het nodig heeft. De ‘K-Mist’ (met warme stoom) zorgt ervoor dat het masker heel diep intrekt. Geniet na de behandeling van haar dat gezonder, zachter en glanzender is dan ooit.
+
+Miracle Elixir&nbsp; zorgt ervoor dat intern beschadigd haar tot 80% wordt hersteld\* en dat je haar twee keer zo zacht aanvoelt na slechts &eacute;&eacute;n behandeling.
+
+De Booster bestaat uit een zeer geavanceerde keratinemix (keratine, gehydrolyseerde keratine, geoxideerde keratine, aqua) die, dankzij Zipper-technologie, de natuurlijke keratine in het haar nabootst en beschadigd haar van binnenuit herstelt.
+
+\* Interne bescherming tot 80% na twee behandelingen. Gebaseerd op DSC-tests.
 
 **De Treatment room**
 
