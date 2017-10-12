@@ -27,6 +27,6 @@ Heb jij aandacht voor de conditie van je haar en hoofdhuid? En wil je die verbet
 
 ![](/uploads/versions/aaa-treatment-room-kerastase-brush-kapper-1---x----500-355x---.jpg)
 
-De producten voor thuisgebruik kan je in combinatie met deze behandeling direct met een korting van 25% aanschaffen.
+**De producten voor thuisgebruik kan je in combinatie met deze behandeling direct met een korting van 25% aanschaffen.**
 
 Als je een van onze behandelingen hebt uitgekozen, ga je fijn relaxen in een van onze massagestoelen. Wij verbeteren ondertussen de conditie van je haar en hoofdhuid met de speciaal op jou afgestemde verzorging en onze hightech tools (de Clarisonic brush en de Micronizer). Met deze tools komt de verzorging nog dieper in je haar en hoofdhuid terecht. De behandeling is inclusief het drogen van je haar en een uitgebreide hoofdhuidmassage.
