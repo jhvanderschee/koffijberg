@@ -23,6 +23,8 @@ Wij verkopen diverse heerlijke conditioners van Kerastase tot Keune, we advisere
 
 Als jij je haar gaat f&ouml;hnen, doe dit dan niet in de badkamer waar je net hebt gedoucht. Het vocht in de lucht zorgt er namelijk voor dat het drogen langer duurt en je dus meer hitte op je haar moet gebruiken. De Blowdry spray van Keune versnelt het droogproces van het haar tijdens het f&ouml;hnen. Nog een goede bijkomstigheid het beschermt je haar ook nog eens tegen de hitte van de f&ouml;hn.
 
+![](/uploads/versions/haar-drogen-thuis-kapper-amsterdam-2---x----370-370x---.jpg)
+
 **Wring je haar voorzichtig uit**
 
 Om je haar sneller droog te krijgen, kan je plukje voor je plukje je haar uitwringen. Dit kost net even iets meer tijd, maar met een microvezeldoekje absorbeert het water voor een heel groot deel, waardoor het vocht uit je haar in je handdoek terechtkomt. Handig toch?
