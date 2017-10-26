@@ -1,5 +1,36 @@
 ---
 title: Vet Haar
-image: /uploads/haar-drogen-thuis-kapper-amsterdam-1.jpeg
+image: /uploads/kapper-amsterdam-vet-haar-tips-2.jpg
 alignment: top
 ---
+
+
+<div><p><strong>HOE KAN JE VET HAAR VOORKOMEN? KIMM KOFFIJBERG GEEFT RAAD!</strong></p></div>
+
+**Misschien is dit wel &eacute;&eacute;n van de meest gestelde vragen die wij in onze kappersstoel krijgen: ‘Hoe voorkom ik vet haar?’. Het is misschien ook wel &eacute;&eacute;n van onze allergrootste ergernissen. Gelukkig kan je ook iets doen tegen vet haar. Kimm geeft ons de beste tips en heeft er aantal voor je op een rijtje gezet.**
+
+**Droogshampoo**
+
+De Dry Shampoo van Keune is een product waarmee je het wassen van je haar een dagje uit kunt stellen. Het is een poederspray, die je zonder water kunt gebruiken. De aluminium zetmeel absorbeert het vet, waardoor je haar minder glad, stugger wordt en ook meer volume krijgt.&nbsp; Daarnaast zitten er bamboe-extracten in die het haar versterken.
+
+![](/uploads/versions/kapper-amsterdam-vet-haar-tips---x----300-300x---.jpg)
+
+**Minder wassen**
+
+Ons advies is om je haar 1x in de drie dagen te wassen. Het haar wordt automatisch sneller vet als je je haar dagelijks wast.
+
+**Laat je haar met rust**
+
+Het is soms erg moeilijk om je haar gedurende de dag met rust te laten, maar elke keer als je aan je haar zit, komt er viezigheid (bacteri&euml;n) van je handen mee. Je hoofdhuid bestrijdt eigenlijk de viezigheid door het haar vetter te maken.
+
+**Regelmatig je kussensloop vervangen**
+
+Ons advies is om minimaal &eacute;&eacute;n keer per week je kussensloop te vervangen.&nbsp; Elke nacht dat je ligt te woelen op je kussensloop geeft je huid bacteri&euml;n af die zich verzamelen op je kussen, kortom verschoon het kussensloop daarom regelmatig.
+
+**Kies een passende shampoo en conditioner**
+
+Merk je dat je haar te snel vet wordt, laat je dan adviseren door de kapper welke shampoo en conditioner echt bij je past! De ervaring van onze stylisten kan net even het verschil maken.
+
+Zin om nog meer inspirerende blogs te lezen? Klik dan&nbsp;[hier &gt;](http://www.koffijberg.nl/nieuws/)
+
+**Tekst: Kimm Koffijberg**
