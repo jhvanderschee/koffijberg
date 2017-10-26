@@ -1,3 +1,0 @@
----
-title: Tribute film
----
