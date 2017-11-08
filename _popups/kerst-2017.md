@@ -1,6 +1,6 @@
 ---
 title: Kerst 2017
-active: false
+active: true
 image: /uploads/Kerst-kapper-amsterdam-groet.jpg
 text_color: '#241a1f'
 button_color: '#241a1f'
