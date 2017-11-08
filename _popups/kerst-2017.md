@@ -10,8 +10,8 @@ text_shadow_color: '#ffffff'
 ---
 
 
-De gezellige maar ook hele drukke kerstperiode breekt alweer bijna aan!
+De gezellige, maar ook hele drukke, kerstperiode breekt weer aan!
 
-Zorg dat je op tijd een afspraak maakt op jouw favoriete dag en tijdstip om teleurstelling te voorkomen.
+Wil je verzekerd zijn van een afspraak op jouw favoriete dag en tijdstip?&nbsp;
 
 [Vraag direct een afspraak aan!](http://www.koffijberg.nl/contact/)
