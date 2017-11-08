@@ -1,6 +1,6 @@
 ---
-title: 'Wij zijn er voor jou!'
-active: true
+title: Wij zijn er voor jou!
+active: false
 image:
 youtube_id: 0PtOktg1bPU
 text_color: '#241a1f'
