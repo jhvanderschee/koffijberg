@@ -10,4 +10,8 @@ text_shadow_color: '#ffffff'
 ---
 
 
-De gezellige maar ook hele drukke kerstdagen breken alweer bijna aan! Zorg dat je op tijd een afspraak maakt op jouw favoriete dag en tijdstip om teleurstelling te voorkomen.
+De gezellige maar ook hele drukke kerstdagen breken alweer bijna aan!
+
+Zorg dat je op tijd een afspraak maakt op jouw favoriete dag en tijdstip om teleurstelling te voorkomen.
+
+[Vraag direct een afspraak aan!](http://www.koffijberg.nl/contact/)
