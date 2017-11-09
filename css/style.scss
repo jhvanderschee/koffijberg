@@ -535,6 +535,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 }
 @media all and (max-width: 450px) {
   p, .post-content{font-family: Georgia, 'PT Serif'!important;}
+  #popup div.popupcontent p {font-family: 'PT Sans Narrow', sans-serif!important;}
   .salon .circle p {width: 280px;}
   .salon .circle p .time {width: 140px;}
   .salon .circle p .day {width: 140px;}
