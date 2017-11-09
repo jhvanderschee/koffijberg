@@ -116,6 +116,7 @@ body.iOS .salon3 {background-attachment: scroll;}
     box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
 }
 #popup div.popupcontent {color: #241a1f; padding: 55px 0 20px 5px;}
+#popup div.popupcontent.large_text {line-height: 1.3em; font-size: 150%;}
 #popup div.popupcontent a {
     text-shadow: none;
     background: $highlightkleur;
