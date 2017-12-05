@@ -1,9 +1,9 @@
 ladies:
   - item: Wassen-knippen
     prijs:
-      - stylist: € 45.70
-        topstylist: € 58.40
-        masterstylist: € 64.80
+      - stylist: € 46.40
+        topstylist: € 59.30
+        masterstylist: € 65.75
     url: /behandelingen/wassen-knippen
   - item: Wassen-knippen-drogen
     prijs:
