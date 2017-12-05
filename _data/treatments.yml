@@ -39,8 +39,8 @@ gents:
 discounts:
   - item: t/m 12 jaar
     prijs:
-      - stylist: € 29.25
-        topstylist: € 33.50
+      - stylist: € 30.25
+        topstylist: € 34.50
         masterstylist: n.v.t.
     url:
   - item: tot 20 jaar + studenten
