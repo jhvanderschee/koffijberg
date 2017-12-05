@@ -137,8 +137,8 @@ blow-dry:
     url: /behandelingen/blow-dry/
   - item: Toeslag lang haar (per 15 min)
     prijs:
-      - stylist: € 15.00
-        topstylist: € 15.00
+      - stylist: € 16.00
+        topstylist: € 16.00
         masterstylist: n.v.t.
     url:
 wash-and-dry:
