@@ -27,7 +27,7 @@ ladies:
     prijs:
       - stylist: € 75.00
         topstylist: € 104.50
-        masterstylist: € 111.20
+        masterstylist: € 112.85
     url: /behandelingen/wassen-knippen-fohnen-lang-haar
 gents:
   - item: Wassen-knippen
