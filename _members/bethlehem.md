@@ -1,7 +1,7 @@
 ---
 title: Bethlehem
 naam: Bethlehem
-image: /uploads/bethlehem-kapper-amsterdam-1.jpg
+image: /img/profielfotos/IMG_0360_0000s_0014_Layer 3.jpg
 functie: Top-Stylist & Visagiste
 order: 8
 ---
