@@ -7,4 +7,4 @@ order: 10
 ---
 
 
-Onze klanten zien een bezoekje aan Koffijberg vaak als uitje. Het is een fijn idee dat ik kan bijdragen aan dat feel-good moment. Het is voor mij belangrijk dat iedere klant zich helemaal thuis voelt bij ons en zichzelf durft te zijn. De klanten kunnen bij mij terecht voor productadvies, föhnen en algemene vragen over de salon.
+Onze klanten zien een bezoekje aan onze kapsalon Koffijberg Hairdressers vaak als uitje. Het is een fijn idee dat ik als kapper kan bijdragen aan dat feel-good moment. Het is voor mij belangrijk dat iedere klant zich helemaal thuis voelt bij ons in de kapsalon in de scheldestraat en zichzelf durft te zijn. De klanten kunnen bij mij terecht voor productadvies, f&ouml;hnen en algemene vragen over de salon.
