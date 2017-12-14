@@ -1,7 +1,7 @@
 ---
 title: Daniek
 naam: Daniek
-image: /img/5.-daniek-top-stylist.jpg
+image: /img/profielfotos/kapper-daniek-amsterdam.jpg
 functie: Master-Stylist en Kleurspecialist
 order: 6
 ---
