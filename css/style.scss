@@ -57,7 +57,7 @@ $highlightkleur: #5e2d83;
 html * {max-height:1000000px;}
 * {-webkit-text-size-adjust: 100%;}
 .post-content p {max-height: 99999px;}
-
+img {max-width: 100%;}
 
 html {overflow-y: scroll;}
 body {color: $tekstkleur_op_basis; background: #3b2c33; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.4em;}
