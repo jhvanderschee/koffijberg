@@ -1,6 +1,6 @@
 ---
 title: Kerst 2017
-active: true
+active: false
 image: /uploads/Kerst-kapper-amsterdam-groet.jpg
 text_color: '#ffffff'
 large_text: true
@@ -11,6 +11,6 @@ text_shadow_color: '#000000'
 ---
 
 
-De gezellige, maar ook hele drukke,<br />kerstperiode breekt weer aan!<br />Wil je verzekerd zijn van een afspraak<br />op jouw favoriete dag en tijdstip?
+De gezellige, maar ook hele drukke,<br>kerstperiode breekt weer aan!<br>Wil je verzekerd zijn van een afspraak<br>op jouw favoriete dag en tijdstip?
 
 [Vraag direct een afspraak aan!](http://www.koffijberg.nl/contact/)
