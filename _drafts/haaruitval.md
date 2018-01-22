@@ -13,11 +13,11 @@ alignment: top
 
 Wat kan de oorzaak zijn van incidentele haaruitval? Kimm legt het precies even uit.
 
-* Lichte verstoringen van de hormoonbalans (zwangerschap of overgang){: .MsoNoSpacing}
-* Tekort aan vitaminen, mineralen of andere essenti&euml;le voedingsstoffen{: .MsoNoSpacing}
-* Verstoring van de stofwisseling{: .MsoNoSpacing}
-* Schade door straling of chemische stoffen (medicijn){: .MsoNoSpacing}
-* Stress{: .MsoNoSpacing}
+* Lichte verstoringen van de hormoonbalans (zwangerschap of overgang)
+* Tekort aan vitaminen, mineralen of andere essenti&euml;le voedingsstoffen
+* Verstoring van de stofwisseling
+* Schade door straling of chemische stoffen (medicijn)
+* Stress
 
 Gelukkig zijn deze bovenstaande symptomen zijn te verhelpen. Mijn advies is om dit te bespreken met jouw kapper. Wij als Koffijberg Hairdressers werken met een <u>haarmicrometer</u> die de hoofdhuid en een haar een paar duizend keer vergroot. Hiermee kunnen wij als kapper vaststellen of het chronische of incidentele haaruitval is.
 
