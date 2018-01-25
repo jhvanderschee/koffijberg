@@ -14,7 +14,7 @@ alignment: top
 Wat kan de oorzaak zijn van incidentele haaruitval? Kimm legt het precies even uit.
 
 * Lichte verstoringen van de hormoonbalans (zwangerschap of overgang)
-* Tekort aan vitaminen, mineralen of andere essenti&euml;le voedingsstoffen
+* Tekort aan vitaminen, mineralen of andere essentiële voedingsstoffen
 * Verstoring van de stofwisseling
 * Schade door straling of chemische stoffen (medicijn)
 * Stress
@@ -23,8 +23,8 @@ Gelukkig zijn deze bovenstaande symptomen zijn te verhelpen. Mijn advies is om d
 
 ![](/uploads/versions/kapper-haaruitval-post-1---x----250-375x---.jpg)
 
-In het geval van incidentele haaruitval en dunner wordend haar adviseren wij de **Derma Activating Lotion van Keune**. Zowel voor heren als dames is dit product zeer geschikt. De lotion stimuleert de stofwisseling van de hoofdhuid terwijl andere essenti&euml;le mineralen, lipsomen en haargroei bevorderde takanaal de cellen van de hoofdhuid voeden. De haarzakjes zullen belangrijke voeding krijgen zodat een gezondere en vollere haar hiervoor terugkomt. Want gezond haar groeit uit een gezonde hoofdhuid!!
+In het geval van incidentele haaruitval en dunner wordend haar adviseren wij de **Derma Activating Lotion van Keune**. Zowel voor heren als dames is dit product zeer geschikt. De lotion stimuleert de stofwisseling van de hoofdhuid terwijl andere essentiële mineralen, lipsomen en haargroei bevorderde takanaal de cellen van de hoofdhuid voeden. De haarzakjes zullen belangrijke voeding krijgen zodat een gezondere en vollere haar hiervoor terugkomt. Want gezond haar groeit uit een gezonde hoofdhuid!!
 
 ![](/uploads/versions/kapper-haaruitval-post-keune-lotion-1---x----250-559x---.jpg)
 
-Meer leuke blogs lezen van Kimm? [Klik dan hier](http://www.koffijberg.nl/nieuws/)&nbsp;
+Meer leuke blogs lezen van Kimm? [Klik dan hier](http://www.koffijberg.nl/nieuws/)
