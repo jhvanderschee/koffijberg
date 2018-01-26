@@ -1,5 +1,5 @@
 ---
-title: Herentrend 2018
+title: DE HAARTREND VOOR HEREN
 image:
 alignment: top
 ---
@@ -13,11 +13,11 @@ Als kapper in Amsterdam kiezen wij te allen tijde voor een natuurlijke look. We 
 
 ![](/uploads/versions/kapper-herentrend-2018-amsterdam---x----250-290x---.jpg)
 
-Heb je steil haar? Dan bepalen wij samen of een korte of lange look het beste bij jou past. Wel of niet je baard laten staan? Alle haarvragen kun je met ons bespreken. Misschien heb je wel eens gedacht aan lichte subtiele natuurlijke lokken in je haar, of wil je de eerste grijze haren camoufleren?
+Heb je steil haar? Dan bepalen wij samen in de kapsalon of een korte of lange look het beste bij jou past. Wel of niet je baard laten staan? Alle haarvragen kun je met onze kappers bespreken. Misschien heb je wel eens gedacht aan lichte subtiele natuurlijke lokken in je haar, of wil je de eerste grijze haren camoufleren?
 
 ![](/uploads/versions/kapper-herentrend-2018-amsterdam-2---x----250-244x---.jpg)
 
-Uiteraard adviseren wij jou hoe jij je haar het beste kunt verzorgen en stylen. Wij werken met een speciale herenlijn van Keune waarbij shampoos, conditioners, jouw natuurlijke haar verzorgen en versterken en uiteraard wordt daarbij de baard niet vergeten. &nbsp;
+Uiteraard adviseren wij jou hoe jij je haar het beste kunt verzorgen en stylen. In onze kapsalon werken met een speciale herenlijn van Keune waarbij shampoos, conditioners, jouw natuurlijke haar verzorgen en versterken en uiteraard wordt daarbij de baard niet vergeten. &nbsp;
 
 ![](/uploads/versions/kapper-herentrend-2018-amsterdam-4---x----250-296x---.jpg)
 
