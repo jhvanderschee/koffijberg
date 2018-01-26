@@ -1,6 +1,6 @@
 ---
 title: DE HAARTREND VOOR HEREN 2018
-image:
+image: /uploads/kapper-herentrend-2018-amsterdam-1.jpg
 alignment: top
 ---
 
