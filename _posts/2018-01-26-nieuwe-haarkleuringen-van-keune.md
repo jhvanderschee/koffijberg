@@ -5,7 +5,7 @@ alignment: top
 ---
 
 
-Met je haarkleur kun je uitdragen wie je bent en hoe je je voelt. In onze kapsalon hebben wij nu de nieuwe kleurcollectie van Keune genaamd "coloryourmood".&nbsp;
+Met je haarkleur kun je uitdragen wie je bent en hoe je je voelt. In onze kapsalon hebben wij nu de nieuwe kleurcollectie van Keune genaamd "coloryourmood".
 
 Onze kapsters en kapper willen je graag kennis laten maken met deze vijf fonkelnieuwe kleuren, van natuurlijk tot stoer en expressief. Flirty Pink is iconisch millennial roze, Playful Pearl is een 'nude' sepia, Dreamy Beige is een zachte, lichte blondtint, Proud Brown is een grijsdekkende koffiekleur en Fierce Taupe is een assige middelblondtint.
 
