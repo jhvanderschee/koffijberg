@@ -14,3 +14,5 @@ Onze kapsters en kapper willen je graag kennis laten maken met deze vijf fonkeln
 Deze haarkleuren zijn limited edition en alleen dit jaar verkrijgbaar. Op de foto's zijn alle kleuringen te vinden. Breng een bezoek aan onze kapperszaak in (Rivierenbuurt) Amsterdam en vraag onze kleurspecialisten naar de mogelijkheden voor jouw haar.
 
 ![](/uploads/versions/kapper-amsterdam-haar-kleuring-playful-pearl---x----250-250x---.jpg)![](/uploads/versions/kapper-amsterdam-haar-kleuring-proud-brown---x----250-250x---.jpg)
+
+**[Vraag een afspraak aan!](http://www.koffijberg.nl/contact/)**
