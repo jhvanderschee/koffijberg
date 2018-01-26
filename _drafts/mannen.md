@@ -1,5 +1,5 @@
 ---
-title: DE HAARTREND VOOR HEREN
+title: DE HAARTREND VOOR HEREN 2018
 image:
 alignment: top
 ---
@@ -17,8 +17,8 @@ Heb je steil haar? Dan bepalen wij samen in de kapsalon of een korte of lange lo
 
 ![](/uploads/versions/kapper-herentrend-2018-amsterdam-2---x----250-244x---.jpg)
 
-Uiteraard adviseren wij jou hoe jij je haar het beste kunt verzorgen en stylen. In onze kapsalon werken met een speciale herenlijn van Keune waarbij shampoos, conditioners, jouw natuurlijke haar verzorgen en versterken en uiteraard wordt daarbij de baard niet vergeten. &nbsp;
+Uiteraard adviseren wij jou hoe jij je haar het beste kunt verzorgen en stylen. In onze kapsalon werken met een speciale herenlijn van Keune waarbij shampoos, conditioners, jouw natuurlijke haar verzorgen en versterken en uiteraard wordt daarbij de baard niet vergeten.
 
 ![](/uploads/versions/kapper-herentrend-2018-amsterdam-4---x----250-296x---.jpg)
 
-Meer leuke blogs van ons lezen? [Klik dan hier!&nbsp;](http://www.koffijberg.nl/nieuws/)
+Meer leuke blogs van ons lezen? [Klik dan hier!](http://www.koffijberg.nl/nieuws/)
