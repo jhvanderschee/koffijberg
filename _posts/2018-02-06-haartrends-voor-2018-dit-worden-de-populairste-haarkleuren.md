@@ -11,7 +11,7 @@ Nieuw jaar, nieuw haar! Wil jij dit jaar iets nieuws proberen? Laat je inspirere
 
 **Trend 1: Hygge**<br>Deze trend heeft Scandinavische roots, en draait om warmere tinten. Warm kopergoud gecombineerd met parelkleuren, of warme tinten als mahonie, koper en goud. Bij Hygge staan de donkerdere haarkleuren centraal, maar wil je toch liever een lichtere haarkleur? Onze stylisten weten deze trend ook uitstekend te vertalen naar blondere tinten, om zo jouw perfecte kapsel te cre&euml;ren.
 
-![](/uploads/versions/kapper-amsterdam-haartrends-blondehighlights-2-1---x----2250-2250x---.jpg)
+![](/uploads/versions/kapper-amsterdam-haartrends-blondehighlights-2-1-2250-2250x---.jpg)
 
 **Trend 2: Soda**<br>Bij deze trend worden koelere en warmere blondtinten gecombineerd met high- en lowlights. Door de subtiele kleurverschillen cre&euml;er je een speels effect, en met de juiste coupe straal je moeiteloos op en top elegantie uit.
 
