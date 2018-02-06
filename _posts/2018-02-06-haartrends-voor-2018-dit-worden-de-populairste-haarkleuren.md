@@ -1,5 +1,5 @@
 ---
-title: 'Haartrends: de populairste haarkleuren 2018!'
+title: 'Haartrends voor 2018: dit worden de populairste haarkleuren!'
 image: /uploads/kapper-amsterdam-haar-kleuring-dreamy-beige.jpg
 alignment: top
 ---
