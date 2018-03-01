@@ -42,13 +42,13 @@ discounts:
       - stylist: € 30.25
         topstylist: € 34.50
         masterstylist: n.v.t.
-    url:
+    treatment:
   - item: tot 20 jaar + studenten
     prijs:
       - stylist: 20% korting
         topstylist: 20% korting
         masterstylist: n.v.t.
-    url:
+    treatment:
 colorings:
   - item: Kleuring
     prijs:
@@ -127,7 +127,7 @@ colorings:
       - stylist:
         topstylist:
         masterstylist:
-    url:
+    treatment:
 blow-dry:
   - item: Normaal (30 min)
     prijs:
@@ -140,7 +140,7 @@ blow-dry:
       - stylist: € 16.00
         topstylist: € 16.00
         masterstylist: n.v.t.
-    url:
+    treatment:
 wash-and-dry:
   - item: Wassen & Föhnen
     prijs:
@@ -172,7 +172,7 @@ specials:
       - stylist: n.v.t.
         topstylist: € 56.90
         masterstylist: € 56.90
-    url:
+    treatment:
   - item: Wenkbrauwen Epileren / Harsen
     prijs:
       - stylist: € 18.50
@@ -190,13 +190,13 @@ specials:
       - stylist: € 36.75
         topstylist: € 36.75
         masterstylist: € 36.75
-    url:
+    treatment:
   - item: Wenkbrauwen Epileren / Harsen & Wimpers Verven
     prijs:
       - stylist: € 28.00
         topstylist: € 28.00
         masterstylist: € 28.00
-    url:
+    treatment:
 treatment-room:
   - item: Keune SoPure Ritueel
     prijs:
@@ -240,64 +240,64 @@ extensions:
       - stylist: € 80.00
         topstylist: € 80.00
         masterstylist: € 80.00
-    url:
+    treatment:
   - item: Balmain Ponytail (incl. aanbrengen en uitleg)
     prijs:
       - stylist: € 49.95
         topstylist: € 49.95
         masterstylist: € 49.95
-    url:
+    treatment:
   - item: Balmain Ponytail Ombé  (incl. aanbrengen en uitleg)
     prijs:
       - stylist: € 59.95
         topstylist: € 59.95
         masterstylist: € 59.95
-    url:
+    treatment:
   - item: Balmain Hairdress 40cm (incl. aanbrengen en uitleg)
     prijs:
       - stylist: € 199.00
         topstylist: € 199.00
         masterstylist: € 199.00
-    url:
+    treatment:
   - item: Balmain Hairdress 55cm  (incl. aanbrengen en uitleg)
     prijs:
       - stylist: € 355.00
         topstylist: € 355.00
         masterstylist: € 355.00
-    url:
+    treatment:
   - item: Balmain Systeme Volume 25cm (per strip)
     prijs:
       - stylist: € 19.95
         topstylist: € 19.95
         masterstylist: € 19.95
-    url:
+    treatment:
   - item: Balmain B-loved  (incl. aanbrengen en uitleg)
     prijs:
       - stylist: € 59.95
         topstylist: € 59.95
         masterstylist: € 59.95
-    url:
+    treatment:
   - item: Balmain Volume Supérieur  (incl. aanbrengen en uitleg)
     prijs:
       - stylist: € 59.95
         topstylist: € 59.95
         masterstylist: € 59.95
-    url:
+    treatment:
   - item: Balmain Double hair 3st. (incl. aanbrengen en uitleg)
     prijs:
       - stylist: € 187.00
         topstylist: € 187.00
         masterstylist: € 187.00
-    url:
+    treatment:
   - item: Balmain Systeme Volume 40cm (per strip)
     prijs:
       - stylist: € 29.95
         topstylist: € 29.95
         masterstylist: € 29.95
-    url:
+    treatment:
   - item: Balmain Systeme Volume 60cm (per strip)
     prijs:
       - stylist: € 39.95
         topstylist: € 39.95
         masterstylist: € 39.95
-    url:
+    treatment:
