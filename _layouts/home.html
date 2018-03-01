@@ -91,55 +91,55 @@
                               <tr><td><b>Dames</b></td><td class="text-center"><b>Stylist</b></td><td class="text-center"><b>Top-Stylist</b></td><td class="text-center"><b>Master-Stylist<sup>1</sup></b></td></tr>
                               {% for d in site.data.treatments.ladies %}
                                   {% for p in d.prijs %}
-                                  <tr><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr><td colspan="4"><br /><b>Heren</b></td></tr>
                               {% for d in site.data.treatments.gents %}
                                   {% for p in d.prijs %}
-                                  <tr><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr><td>{% if d.treatmemt != '' and d.treatmemt != nil %}<a href="/behandelingen/{{ d.treatmemt }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr><td colspan="4"><br /><b>Kinderen / jongeren / studenten<sup>2</sup></b></td></tr>
                               {% for d in site.data.treatments.discounts %}
                                   {% for p in d.prijs %}
-                                  <tr><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr><td>{% if d.treatmemt != '' and d.treatmemt != nil %}<a href="/behandelingen/{{ d.treatmemt }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Kleur<sup>3</sup></b></td></tr>
                               {% for d in site.data.treatments.colorings %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatmemt != '' and d.treatmemt != nil %}<a href="/behandelingen/{{ d.treatmemt }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Blow-dry-area</b></td></tr>
                               {% for d in site.data.treatments.blow-dry %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatmemt != '' and d.treatmemt != nil %}<a href="/behandelingen/{{ d.treatmemt }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Wassen föhnen</b></td></tr>
                               {% for d in site.data.treatments.wash-and-dry %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatmemt != '' and d.treatmemt != nil %}<a href="/behandelingen/{{ d.treatmemt }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Specials</b></td></tr>
                               {% for d in site.data.treatments.specials %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatmemt != '' and d.treatmemt != nil %}<a href="/behandelingen/{{ d.treatmemt }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Treatment room</b></td></tr>
                               {% for d in site.data.treatments.treatment-room %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatmemt != '' and d.treatmemt != nil %}<a href="/behandelingen/{{ d.treatmemt }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Extensions<sup>4</sup></b></td></tr>
                               {% for d in site.data.treatments.extensions %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.url != '' and d.url != nil %}<a href="{{ d.url }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatmemt != '' and d.treatmemt != nil %}<a href="/behandelingen/{{ d.treatmemt }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               </table><br />
