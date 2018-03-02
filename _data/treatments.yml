@@ -196,7 +196,7 @@ specials:
       - stylist: € 28.00
         topstylist: € 28.00
         masterstylist: € 28.00
-    treatment:
+    treatment: brow-area
 treatment-room:
   - item: Keune SoPure Ritueel
     prijs:
