@@ -85,7 +85,7 @@ colorings:
       - stylist: € 86.00
         topstylist: € 86.00
         masterstylist: € 94.25
-    treatment: highlights-deel-Plus
+    treatment: highlights-deel-plus
   - item: Highlights heel
     prijs:
       - stylist: € 102.75
@@ -97,7 +97,7 @@ colorings:
       - stylist: € 125.75
         topstylist: € 125.75
         masterstylist: € 139.90
-    treatment: highlights-heel-Plus
+    treatment: highlights-heel-plus
   - item: Free hand techniek deel
     prijs:
       - stylist: € 137.50
@@ -147,7 +147,7 @@ wash-and-dry:
       - stylist: € 30.75
         topstylist: € 34.50
         masterstylist: € 38.75
-    treatment:
+    treatment: wassen--fohnen
   - item: Wassen & Föhnen middellang haar
     prijs:
       - stylist: € 50.50
@@ -184,19 +184,19 @@ specials:
       - stylist: € 28.50
         topstylist: € 28.50
         masterstylist: € 28.50
-    treatment:
+    treatment: brow-area
   - item: Wenkbrauwen Epileren / Harsen & Verven + Wimpers Verven
     prijs:
       - stylist: € 36.75
         topstylist: € 36.75
         masterstylist: € 36.75
-    treatment:
+    treatment: brow-area
   - item: Wenkbrauwen Epileren / Harsen & Wimpers Verven
     prijs:
       - stylist: € 28.00
         topstylist: € 28.00
         masterstylist: € 28.00
-    treatment:
+    treatment: brow-area
 treatment-room:
   - item: Keune SoPure Ritueel
     prijs:
