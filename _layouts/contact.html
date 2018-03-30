@@ -108,7 +108,7 @@
                             
                         {% endif %}
                         {% if page.url == '/contact/' or page.url == '/contact/index.html' %}
-                        <p><i class="fa icon-whatsapp"></i> Whats-App ons op 06-47882233</p>
+                        <p onclick="goog_report_conversion(); window.open('tel:+31647882233');" style="cursor: pointer;"><i class="fa icon-whatsapp"></i> Whats-App ons op 06-47882233</p>
                         <form id="contact_form" action="//formspree.io/receptie@koffijberg.nl" method="POST">
                         <input type="hidden" name="_next" value="/contact/bedankt/" />
 
@@ -244,6 +244,40 @@
 
 
     {% include footer.html %}
+
+    <!-- Google Code for Whatsapp Conversion Page
+    In your html page, add the snippet and call
+    goog_report_conversion when someone clicks on the
+    phone number link or button. -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    goog_snippet_vars = function() {
+      var w = window;
+      w.google_conversion_id = 825871743;
+      w.google_conversion_label = "IRJiCKuAzX8Q_5rniQM";
+      w.google_remarketing_only = false;
+    }
+    // DO NOT CHANGE THE CODE BELOW.
+    goog_report_conversion = function(url) {
+      goog_snippet_vars();
+      window.google_conversion_format = "3";
+      var opt = new Object();
+      opt.onload_callback = function() {
+      if (typeof(url) != 'undefined') {
+        window.location = url;
+      }
+    }
+    var conv_handler = window['google_trackConversion'];
+    if (typeof(conv_handler) == 'function') {
+      conv_handler(opt);
+    }
+   }
+   /* ]]> */
+   </script>
+   <script type="text/javascript"
+    src="//www.googleadservices.com/pagead/conversion_async.js">
+   </script>
+
 
   </body>
 
