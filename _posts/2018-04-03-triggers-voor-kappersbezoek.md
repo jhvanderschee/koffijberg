@@ -1,7 +1,7 @@
 ---
 title: Triggers voor Kappersbezoek
 image: /uploads/kapper-tips-wanneer-naar-kapper-koffijberg.jpg
-alignment: top
+alignment: middle
 ---
 
 Dit zijn de tekenen dat jij deze maand echt naar de kapper moet!
