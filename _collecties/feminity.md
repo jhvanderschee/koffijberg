@@ -2,13 +2,13 @@
 title: Feminity
 date: 2010-10-01T00:00:00.000Z
 images:
-  - image: /uploads/feminity1.jpg
-  - image: /uploads/feminity2.jpg
-  - image: /uploads/feminity3.jpg
-  - image: /uploads/feminity4.jpg
-  - image: /uploads/feminity5.jpg
-  - image: /uploads/feminity6.jpg
-  - image: /uploads/feminity7.jpg 
+  - image: /uploads1/feminity1.jpg
+  - image: /uploads1/feminity2.jpg
+  - image: /uploads1/feminity3.jpg
+  - image: /uploads1/feminity4.jpg
+  - image: /uploads1/feminity5.jpg
+  - image: /uploads1/feminity6.jpg
+  - image: /uploads1/feminity7.jpg 
 ---
 
 

@@ -2,13 +2,13 @@
 title: Tribute 2
 date: 2016-08-01T00:00:00.000Z
 images:
-  - image: /uploads/nj/nj1.jpg
-  - image: /uploads/nj/nj2.jpg
-  - image: /uploads/nj/nj3.jpg
-  - image: /uploads/nj/nj4.jpg
-  - image: /uploads/nj/nj5.jpg
-  - image: /uploads/nj/nj6.jpg
-  - image: /uploads/nj/nj7.jpg
+  - image: /uploads1/nj/nj1.jpg
+  - image: /uploads1/nj/nj2.jpg
+  - image: /uploads1/nj/nj3.jpg
+  - image: /uploads1/nj/nj4.jpg
+  - image: /uploads1/nj/nj5.jpg
+  - image: /uploads1/nj/nj6.jpg
+  - image: /uploads1/nj/nj7.jpg
 ---
 
 
@@ -22,7 +22,7 @@ De vaktechnisch hoge standaard, de ambachtelijkheid en de voortdurende vernieuwi
 
 Daarbovenop verwijst de collectie naar het recent door haar ontwikkelde concept ‘I-dentity’ dat het adviseren over haarkleur, coupe en visagie naar een hoger niveau tilt. I-dentity kijkt verder dan gezichtsvorm of huidskleur, ook verder dan de laatste haartrends. Kapsel en visagie moeten je identiteit en lifestyle in de volle breedte onderstrepen, vindt Kimm. “Wat heb jìj nodig?” “ Wat wil jìj uitstralen?” “Wat wil jìj laten zien?”
 
-<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/afbeelding2.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj4.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj4.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj5.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj5.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
+<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads1/nj/afbeelding2.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads1/nj/nj4.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads1/nj/nj4.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads1/nj/nj5.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads1/nj/nj5.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
 
 ## Toen
 
@@ -32,7 +32,7 @@ In de jaren ‘80 kwam een nieuwe fashion style op: Power dressing. Het hielp vr
 
 Power dressing met veel aandacht voor accessoires. Het model heeft big en gekapt haar. Kimm trekt de aandacht opzettelijk naar de korte pony. Het vrij hoge voorhoofd van het model verdwijnt hierdoor als het ware.De kleuren zijn rustig gehouden. Zou je dat niet doen dan gebeurt er teveel tegelijk. Kimm heeft koele en warme tinten gecombineerd (goud, violet en parel-as) en deze op een subtiele manier met elkaar laten blenden. De basis is donker van kleur. De donkere tint komt op het voorhoofd terug. Hierdoor oogt het gezicht minder lang. Omdat het model ook veel haar heeft, speelt Kimm met lichtere elementen. Om zo meer diepte in het haar aan te brengen.
 
-<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/afbeelding3.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj1.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj1.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj2.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj2.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj3.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj3.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
+<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads1/nj/afbeelding3.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads1/nj/nj1.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads1/nj/nj1.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads1/nj/nj2.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads1/nj/nj2.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads1/nj/nj3.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads1/nj/nj3.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
 
 ## Toen
 
@@ -42,7 +42,7 @@ Terwijl de nadruk in de jaren ‘80 lag op het materialisme, en het uiten van ri
 
 Geïnspireerd door de jaren ‘90 is het haar bovenop lang en kort in de nek. Maar de huid schijnt aan de onderkant niet door het haar heen. De lengten zijn vanaf onderin opgebouwd naar voller haar aan de bovenkant. De bovenlaag is apart afgedeeld van de rest van het haar en zo lang mogelijk gehouden. Het haar is niet gekleurd. Door de langere bovenlaag kan op een nonchalante manier gevarieerd worden met verschillende looks, zoals zijscheiding, haar naar achteren, wetlook. Veel mannen hebben tot voor kort hun haar superkort gedragen of helemaal afgeschoren. Dit betekent dat ze hun haar weer moeten laten groeien: Er mag weer meer haar gezien worden!
 
-<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/afbeelding4.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj6.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj6.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads/nj/nj7.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads/nj/nj7.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
+<div class="row" id="gallery"><div class="col-xs-3"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads1/nj/afbeelding4.jpg&amp;w=200&amp;h=200&amp;t=square" /></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads1/nj/nj6.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads1/nj/nj6.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div><div class="col-xs-3"><a class="img" href="/collecties/tribute/?url=/uploads1/nj/nj7.jpg"><img src="//images.weserv.nl/?url=www.koffijberg.nl/uploads1/nj/nj7.jpg&amp;w=200&amp;h=200&amp;t=square&amp;a=top" /></a></div></div>
 
 ## Toen
 

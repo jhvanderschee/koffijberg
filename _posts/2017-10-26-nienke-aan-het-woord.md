@@ -1,13 +1,13 @@
 ---
 title: Nienke aan het woord
-image: /uploads/nienke-kapper-amsterdam-blond-haar.png
+image: /uploads1/nienke-kapper-amsterdam-blond-haar.png
 alignment: top
 ---
 
 
 Elke maand staat in deze rubriek een leuke klant van Koffijberg Hairdressers in de spotlight. Vandaag gaan we in gesprek met Nienke (21), een nieuwe klant die onze salon onlangs voor het eerst bezocht. Ze deelt graag haar ervaringen over dit eerste bezoek. Lees je mee?
 
-![](/uploads/versions/nienke-kapper-amsterdam-blond-haar---x----1406-697x---.png)
+![](/uploads1/versions/nienke-kapper-amsterdam-blond-haar---x----1406-697x---.png)
 
 Hoe was jouw ‘haarsituatie’ voordat je bij ons geknipt of gekleurd werd?<br>"Mijn haar was zowel qua model als qua kleur saai en rechttoe rechtaan. Ik wist niet meer zo goed hoe ik het moest stylen of föhnen. Zelf liet ik altijd highlights zetten en omdat ik al een tijdje geen zilvershampoo meer gebruikt had, was de kleur vrij gelig geworden. Dat past niet echt bij mij."
 
@@ -17,7 +17,7 @@ Hoe heb je het advies ervaren dat jou gegeven werd?<br>"Nadat ik super werd ontv
 
 Hoe heb je de behandeling bij Koffijberg ervaren?<br>"Ik voelde me als een prinses. Nog nooit heb ik tijdens het wassen zo comfortabel gelegen in een stoel! Ook werd er continu voor me gezorgd: of ik nog goed zat, of ik nog wat wilde drinken, of ik tevreden was. De medewerkers luisterden volledig naar mijn wensen en iedereen was aardig en gastvrij. Het was een onwijs leuke en positieve ervaring."
 
-![](/uploads/versions/nienke-kapper-amsterdam-blond-haar-actie---x----1288-651x---.png)
+![](/uploads1/versions/nienke-kapper-amsterdam-blond-haar-actie---x----1288-651x---.png)
 
  Wat vind je van het eindresultaat?<br>"Ik vond het prachtig! De kleur was koel blond met diepte en mijn haren waren supermooi gekruld. Ik was superblij met het eindresultaat. Precies wat ik in gedachten had! En mijn gezicht lijkt nu smaller, ook niet onbelangrijk."
 

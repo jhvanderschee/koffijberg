@@ -1,6 +1,6 @@
 ---
 title: Voorkom Haaruitval!
-image: /uploads/kapper-haaruitval-post.jpg
+image: /uploads1/kapper-haaruitval-post.jpg
 alignment: top
 ---
 
@@ -21,10 +21,10 @@ Wat kan de oorzaak zijn van incidentele haaruitval? Kimm legt het precies even u
 
 Gelukkig zijn deze bovenstaande symptomen zijn te verhelpen. Mijn advies is om dit te bespreken met jouw kapper. Wij als Koffijberg Hairdressers werken met een <u>haarmicrometer</u> die de hoofdhuid en een haar een paar duizend keer vergroot. Hiermee kunnen wij als kapper vaststellen of het chronische of incidentele haaruitval is.
 
-![](/uploads/versions/kapper-haaruitval-post-1---x----250-375x---.jpg)
+![](/uploads1/versions/kapper-haaruitval-post-1---x----250-375x---.jpg)
 
 In het geval van incidentele haaruitval en dunner wordend haar adviseren wij de **Derma Activating Lotion van Keune**. Zowel voor heren als dames is dit product zeer geschikt. De lotion stimuleert de stofwisseling van de hoofdhuid terwijl andere essentiële mineralen, lipsomen en haargroei bevorderde takanaal de cellen van de hoofdhuid voeden. De haarzakjes zullen belangrijke voeding krijgen zodat een gezondere en vollere haar hiervoor terugkomt. Want gezond haar groeit uit een gezonde hoofdhuid!!
 
-![](/uploads/versions/kapper-haaruitval-post-keune-lotion-1---x----250-559x---.jpg)
+![](/uploads1/versions/kapper-haaruitval-post-keune-lotion-1---x----250-559x---.jpg)
 
 Meer leuke blogs lezen van Kimm? [Klik dan hier](http://www.koffijberg.nl/nieuws/)

@@ -1,6 +1,6 @@
 ---
 title: Naar de kapper? Zó bereid je je voor
-image: /uploads/kapper-amsterdam-kimm-kleuranalyse-4.jpg
+image: /uploads1/kapper-amsterdam-kimm-kleuranalyse-4.jpg
 alignment: top
 ---
 
@@ -11,7 +11,7 @@ alignment: top
 
 Wat vind je mooi aan je coupe? En wat niet? Deel zoveel mogelijk ervaringen met je kapper. Je kapper wil ook graag weten of je de laatste keer goed geknipt bent, of je haar snel verkleurt door de zon en of je huidige kleur bevalt. Al deze informatie kan een kapper goed gebruiken in het advies voor jouw nieuwe coupe.
 
-![](/uploads/versions/kapper-amsterdam-kimm-kleuranalyse---x----240-361x---.jpg)
+![](/uploads1/versions/kapper-amsterdam-kimm-kleuranalyse---x----240-361x---.jpg)
 
 1. **Beantwoord de open vragen van de kapper zorgvuldig**
 
@@ -25,7 +25,7 @@ Voor een kapper is het belangrijk om te weten welke stylingproducten je gebruikt
 
 Uiteraard zijn alle kappers binnen onze salon getraind en opgeleid om jou het beste advies te geven. Om je goed te kunnen adviseren, zijn wij nieuwsgierig naar jouw haarroutine. Was je bijvoorbeeld twee keer per week je haar of juist iedere dag? Gebruik je altijd mousse op halfdroog haar voordat je het gaat föhnen? Welke stylingtools gebruik je? We voorzien je graag van een persoonlijk en passend advies, zodat jouw haarrituelen optimaal worden ingevuld.
 
-![](/uploads/versions/kapper-amsterdam-kimm-kleuranalyse-2---x----240-361x---.jpg)
+![](/uploads1/versions/kapper-amsterdam-kimm-kleuranalyse-2---x----240-361x---.jpg)
 
 1. **Neem beeldmateriaal mee**
 

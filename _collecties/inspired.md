@@ -2,16 +2,16 @@
 title: Inspired
 date: 2008-07-01T00:00:00.000Z
 images:
-  - image: /uploads/kk-1.jpg
-  - image: /uploads/kk-2.jpg
-  - image: /uploads/kk-3.jpg
-  - image: /uploads/kk-4.jpg
-  - image: /uploads/kk-5.jpg
-  - image: /uploads/kk-6.jpg
-  - image: /uploads/kk-7.jpg
-  - image: /uploads/kk-8.jpg
-  - image: /uploads/kk-9.jpg
-  - image: /uploads/kk-10.jpg
+  - image: /uploads1/kk-1.jpg
+  - image: /uploads1/kk-2.jpg
+  - image: /uploads1/kk-3.jpg
+  - image: /uploads1/kk-4.jpg
+  - image: /uploads1/kk-5.jpg
+  - image: /uploads1/kk-6.jpg
+  - image: /uploads1/kk-7.jpg
+  - image: /uploads1/kk-8.jpg
+  - image: /uploads1/kk-9.jpg
+  - image: /uploads1/kk-10.jpg
 ---
 
 Collectie Najaar/winter 2008/2009, Kimm Koffijberg - OUD en NIEUW, ANTIEK en DESIGN, KORT en LANG: voor haar eerste collectie ‘Inspired’ nam Kimm Koffijberg het bestaande als uitgangspunt, om daar iets heel nieuws mee te creëren. 

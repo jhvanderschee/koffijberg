@@ -2,14 +2,14 @@
 title: Foxy Lady
 date: 2012-03-23T00:00:00.000Z
 images:
-  - image: /uploads/kapsel_1_dekappervanamsterd.jpg
-  - image: /uploads/kapsel_2_dekappervanamsterd.jpg
-  - image: /uploads/kapsel_3_dekappervanamsterd.jpg
-  - image: /uploads/kapsel_4_dekappervanamsterd.jpg
-  - image: /uploads/kapsel_5_dekappervanamsterd.jpg
-  - image: /uploads/kapsel_6_dekappervanamsterd.jpg
-  - image: /uploads/kapsel_7_dekappervanamsterd.jpg
-  - image: /uploads/kapsel_8_dekappervanamsterd.jpg
+  - image: /uploads1/kapsel_1_dekappervanamsterd.jpg
+  - image: /uploads1/kapsel_2_dekappervanamsterd.jpg
+  - image: /uploads1/kapsel_3_dekappervanamsterd.jpg
+  - image: /uploads1/kapsel_4_dekappervanamsterd.jpg
+  - image: /uploads1/kapsel_5_dekappervanamsterd.jpg
+  - image: /uploads1/kapsel_6_dekappervanamsterd.jpg
+  - image: /uploads1/kapsel_7_dekappervanamsterd.jpg
+  - image: /uploads1/kapsel_8_dekappervanamsterd.jpg
 ---
 
 

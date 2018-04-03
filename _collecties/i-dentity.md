@@ -2,13 +2,13 @@
 title: I-dentity
 date: 2013-03-21T00:00:00.000Z
 images:
-  - image: /uploads/kimm01-jpeg.jpg
-  - image: /uploads/kimm02-jpeg.jpg
-  - image: /uploads/kimm03-jpeg.jpg
-  - image: /uploads/kimm04-jpeg.jpg
-  - image: /uploads/kimm05-jpeg.jpg
-  - image: /uploads/kimm07-jpeg.jpg
-  - image: /uploads/kimm08-jpeg.jpg
+  - image: /uploads1/kimm01-jpeg.jpg
+  - image: /uploads1/kimm02-jpeg.jpg
+  - image: /uploads1/kimm03-jpeg.jpg
+  - image: /uploads1/kimm04-jpeg.jpg
+  - image: /uploads1/kimm05-jpeg.jpg
+  - image: /uploads1/kimm07-jpeg.jpg
+  - image: /uploads1/kimm08-jpeg.jpg
 ---
 
 

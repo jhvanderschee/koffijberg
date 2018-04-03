@@ -2,14 +2,14 @@
 title: Classy Progressive
 date: 2015-03-02T00:00:00.000Z
 images:
-  - image: /uploads/classy1.jpg
-  - image: /uploads/classy2.jpg
-  - image: /uploads/classy3.jpg
-  - image: /uploads/classy4.jpg
-  - image: /uploads/classy5.jpg
-  - image: /uploads/classy6.jpg
-  - image: /uploads/classy7.jpg
-  - image: /uploads/classy8.jpg
+  - image: /uploads1/classy1.jpg
+  - image: /uploads1/classy2.jpg
+  - image: /uploads1/classy3.jpg
+  - image: /uploads1/classy4.jpg
+  - image: /uploads1/classy5.jpg
+  - image: /uploads1/classy6.jpg
+  - image: /uploads1/classy7.jpg
+  - image: /uploads1/classy8.jpg
 ---
 
 

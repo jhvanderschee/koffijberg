@@ -1,6 +1,6 @@
 ---
 title: Mooi Glanzend & Stijl haar
-image: /uploads/02-02.png
+image: /uploads1/02-02.png
 alignment: top
 ---
 

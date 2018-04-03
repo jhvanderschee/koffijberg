@@ -2,20 +2,20 @@
 title: Female Elements
 date: 2009-03-01T00:00:00.000Z
 images:
-  - image: /uploads/female1.jpg
-  - image: /uploads/female2.jpg
-  - image: /uploads/female3.jpg
-  - image: /uploads/female4.jpg
-  - image: /uploads/female5.jpg
-  - image: /uploads/female6.jpg
-  - image: /uploads/female7.jpg
-  - image: /uploads/female8.jpg
-  - image: /uploads/female9.jpg
-  - image: /uploads/female10.jpg
-  - image: /uploads/female11.jpg
-  - image: /uploads/female12.jpg
-  - image: /uploads/female13.jpg
-  - image: /uploads/female14.jpg
+  - image: /uploads1/female1.jpg
+  - image: /uploads1/female2.jpg
+  - image: /uploads1/female3.jpg
+  - image: /uploads1/female4.jpg
+  - image: /uploads1/female5.jpg
+  - image: /uploads1/female6.jpg
+  - image: /uploads1/female7.jpg
+  - image: /uploads1/female8.jpg
+  - image: /uploads1/female9.jpg
+  - image: /uploads1/female10.jpg
+  - image: /uploads1/female11.jpg
+  - image: /uploads1/female12.jpg
+  - image: /uploads1/female13.jpg
+  - image: /uploads1/female14.jpg
 ---
 
 

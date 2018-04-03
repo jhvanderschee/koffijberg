@@ -2,16 +2,16 @@
 title: Priorities
 date: 2010-03-01T00:00:00.000Z
 images:
-  - image: /uploads/priorities1.jpg
-  - image: /uploads/priorities2.jpg
-  - image: /uploads/priorities3.jpg
-  - image: /uploads/priorities4.jpg
-  - image: /uploads/priorities5.jpg
-  - image: /uploads/priorities6.jpg
-  - image: /uploads/priorities7.jpg
-  - image: /uploads/priorities8.jpg
-  - image: /uploads/priorities9.jpg
-  - image: /uploads/priorities10.jpg
+  - image: /uploads1/priorities1.jpg
+  - image: /uploads1/priorities2.jpg
+  - image: /uploads1/priorities3.jpg
+  - image: /uploads1/priorities4.jpg
+  - image: /uploads1/priorities5.jpg
+  - image: /uploads1/priorities6.jpg
+  - image: /uploads1/priorities7.jpg
+  - image: /uploads1/priorities8.jpg
+  - image: /uploads1/priorities9.jpg
+  - image: /uploads1/priorities10.jpg
 ---
 
 

@@ -2,17 +2,17 @@
 title: Portraits of Personalities
 date: 2017-06-07 00:00:00
 images:
-  - image: /uploads/portraits/kapper-koffijberg-1.jpg
-  - image: /uploads/portraits/kapper-koffijberg-2.jpg
-  - image: /uploads/portraits/kapper-koffijberg-3.jpg
-  - image: /uploads/portraits/foto-6.jpg
-  - image: /uploads/portraits/foto-7.jpg
-  - image: /uploads/portraits/foto-10.jpg
-  - image: /uploads/portraits/foto-11.jpg
-  - image: /uploads/portraits/foto-14.jpg
-  - image: /uploads/portraits/foto-15.jpg
-  - image: /uploads/portraits/foto-19.jpg
-  - image: /uploads/portraits/foto-20.jpg
+  - image: /uploads1/portraits/kapper-koffijberg-1.jpg
+  - image: /uploads1/portraits/kapper-koffijberg-2.jpg
+  - image: /uploads1/portraits/kapper-koffijberg-3.jpg
+  - image: /uploads1/portraits/foto-6.jpg
+  - image: /uploads1/portraits/foto-7.jpg
+  - image: /uploads1/portraits/foto-10.jpg
+  - image: /uploads1/portraits/foto-11.jpg
+  - image: /uploads1/portraits/foto-14.jpg
+  - image: /uploads1/portraits/foto-15.jpg
+  - image: /uploads1/portraits/foto-19.jpg
+  - image: /uploads1/portraits/foto-20.jpg
 ---
 
 
@@ -26,7 +26,7 @@ Portraits of Personalities:
 
 Portrait of Nienke
 
-![](/uploads/versions/kapper-koffijberg-1-nienke---x----300-451x---.jpg)
+![](/uploads1/versions/kapper-koffijberg-1-nienke---x----300-451x---.jpg)
 
 (21 jaar, nieuwe klant)
 
@@ -50,7 +50,7 @@ Nienke: “Het eindresultaat was prachtig: Een mooie koele blonde kleur met diep
 
 Portrait of Ria
 
-![](/uploads/versions/kapper-koffijberg-2--ria---x----300-451x---.jpg)
+![](/uploads1/versions/kapper-koffijberg-2--ria---x----300-451x---.jpg)
 
 (67 jaar, meer dan twintig jaar klant bij Koffijberg)
 
@@ -76,7 +76,7 @@ Ria: “Ik was verbaasd dat een korter kapsel zo goed stond, Kimm had het echt g
 
 Portrait of Melanie
 
-![](/uploads/versions/kapper-koffijberg-3-melanie---x----300-451x---.jpg)
+![](/uploads1/versions/kapper-koffijberg-3-melanie---x----300-451x---.jpg)
 
 (36 jaar, via haar tante voor het eerst bij Koffijberg)
 
@@ -100,7 +100,7 @@ Melanie over de kleuranalyse: &nbsp;… “- er werd de tijd genomen en samen me
 
 Portrait of Tim
 
-![](/uploads/versions/kapper-koffijberg-5-tim---x----300-451x---.jpg)
+![](/uploads1/versions/kapper-koffijberg-5-tim---x----300-451x---.jpg)
 
 (28 jaar, nieuwe klant)
 
@@ -122,7 +122,7 @@ Tim: “Koffijberg gaat veel verder dan een knipbeurt.” “Ik heb nooit gewete
 
 Portrait of Brigit
 
-![](/uploads/versions/kapper-koffijberg-6-brigit---x----300-451x---.jpg)
+![](/uploads1/versions/kapper-koffijberg-6-brigit---x----300-451x---.jpg)
 
 (60 jaar, al dertig jaar klant)
 

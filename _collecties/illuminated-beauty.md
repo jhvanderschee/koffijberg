@@ -2,12 +2,12 @@
 title: Illuminated Beauty
 date: 2012-08-01T00:00:00.000Z
 images:
-  - image: /uploads/foto1_jpeg.jpg
-  - image: /uploads/foto2_jpeg.jpg
-  - image: /uploads/foto3_jpeg.jpg
-  - image: /uploads/foto4_jpeg.jpg
-  - image: /uploads/foto5_jpeg.jpg
-  - image: /uploads/foto6_jpeg.jpg
+  - image: /uploads1/foto1_jpeg.jpg
+  - image: /uploads1/foto2_jpeg.jpg
+  - image: /uploads1/foto3_jpeg.jpg
+  - image: /uploads1/foto4_jpeg.jpg
+  - image: /uploads1/foto5_jpeg.jpg
+  - image: /uploads1/foto6_jpeg.jpg
 ---
 
 

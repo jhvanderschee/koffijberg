@@ -1,25 +1,25 @@
 ---
 title: TROUWEN OP JE ALLERMOOIST
-image: /uploads/bruidskapsel-amsterdam-kapper.jpg
+image: /uploads1/bruidskapsel-amsterdam-kapper.jpg
 alignment: top
 ---
 
 
 Wanneer je trouwt, is het voor ons van groot belang dat jij jezelf kunt zijn. Wij als Koffijberg Hairdressers cre&euml;ren te allen tijde een persoonlijke look. Een look die compleet bij jou past zodat jij trouwt op je allermooist. Want zeg nou zelf, je voelt je pas op je mooist als je haar en make-up de gehele dag fantastisch zitten. In dit artikel een kort interview met klant Hylkje Wissink-van Reijssen die vorig jaar op 30 april in het huwelijksbootje trad en door ons compleet werd verzorgd met een bruidskapsel en make-up.
 
-![](/uploads/versions/bruidskapsel-amsterdam-kapper-3---x----500-333x---.jpg)
+![](/uploads1/versions/bruidskapsel-amsterdam-kapper-3---x----500-333x---.jpg)
 
 **Wie is Hylkje Wissink-van Reijssen?**
 
 Al 3 jaar ben ik klant bij Koffijberg Hairdressers en dat bevalt mij prima. Als je gaat trouwen komt daar heel veel bij kijken, het is dan natuurlijk super fijn als je terecht kunt bij je kapper die zowel je kapsel als make-up kan doen voor deze mooie dag. Je kapsel en make-up maakt of kraakt je gehele bruidsoutfit. Ik heb voor deze gelegenheid een **Balmain hairdress**(*een haarstuk dat van 100% echt haar is gemaakt, golvend, natuurlijk en fantastisch haar*) aangeschaft om die weelderige krullen die ik in mijn hoofd had te verwezenlijken. Tot op de dag vandaag ben ik super blij met het resultaat en de haartip van mijn kapper Daniek, die zowel mijn bruidskapsel als make-up verzorgde voor mijn trouwdag.
 
-![](/uploads/versions/bruidskapsel-amsterdam-kapper-2---x----500-750x---.jpg)
+![](/uploads1/versions/bruidskapsel-amsterdam-kapper-2---x----500-750x---.jpg)
 
 **Wat is jouw idee van een bruidskapsel en make-up?**
 
 Mijn idee van een bruidskapsel is eigenlijk niet een bepaald model of kleur maar juist datgene wat je altijd al in je hoofd hebt zitten. Het idee van dat prinsesje uit jouw kinderdromen. Uiteraard probeer ik zelf thuis ook altijd die mooie krullen te cre&euml;ren, maar helaas lukt me dat nooit zo goed als Daniek heeft gecre&euml;erd met de hairdress. Mijn haar was in eerste instantie prachtig mooi gekleurd en door de combinatie met de hairdress voelde ik me mooier en meer speciaal. De make-up moest vooral heel naturel zijn omdat ik in het dagelijks leven niet veel make-up draag. Ook omdat het bruidskapsel al best aanwezig was, vond ik dit erg belangrijk. Ik wilde dicht bij mezelf blijven, want zo’n dag is al spannend genoeg. Het eindresultaat was prachtig en ik kijk terug op een super mooi moment van mijn leven. Op mijn mooist, maar toch mezelf gebleven!
 
-![](/uploads/versions/bruidskapsel-amsterdam-kapper---x----500-750x---.jpg)
+![](/uploads1/versions/bruidskapsel-amsterdam-kapper---x----500-750x---.jpg)
 
 **Wat zijn de tips van Kimm Koffijberg en van Daniek Vermeij?**
 

@@ -1,6 +1,6 @@
 ---
 title: Brand Movie Koffijberg
-image: /uploads/combi-kapper-amsterdam-mini.jpg
+image: /uploads1/combi-kapper-amsterdam-mini.jpg
 alignment: middle
 ---
 

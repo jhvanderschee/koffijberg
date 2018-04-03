@@ -1,6 +1,6 @@
 ---
 title: 'Haartrends voor 2018: dit worden de populairste haarkleuren!'
-image: /uploads/kapper-amsterdam-haar-kleuring-dreamy-beige.jpg
+image: /uploads1/kapper-amsterdam-haar-kleuring-dreamy-beige.jpg
 alignment: top
 ---
 
@@ -11,7 +11,7 @@ Nieuw jaar, nieuw haar! Wil jij dit jaar iets nieuws proberen? Laat je inspirere
 
 **Trend 1: Hygge**<br>Deze trend heeft Scandinavische roots, en draait om warmere tinten. Warm kopergoud gecombineerd met parelkleuren, of warme tinten als mahonie, koper en goud. Bij Hygge staan de donkerdere haarkleuren centraal, maar wil je toch liever een lichtere haarkleur? Onze stylisten weten deze trend ook uitstekend te vertalen naar blondere tinten, om zo jouw perfecte kapsel te cre&euml;ren.
 
-![](/uploads/versions/kapper-amsterdam-haartrends-blondehighlights-2-1-2250-2250x---.jpg)
+![](/uploads1/versions/kapper-amsterdam-haartrends-blondehighlights-2-1-2250-2250x---.jpg)
 
 **Trend 2: Soda**<br>Bij deze trend worden koelere en warmere blondtinten gecombineerd met high- en lowlights. Door de subtiele kleurverschillen cre&euml;er je een speels effect, en met de juiste coupe straal je moeiteloos op en top elegantie uit.
 
@@ -19,7 +19,7 @@ Nieuw jaar, nieuw haar! Wil jij dit jaar iets nieuws proberen? Laat je inspirere
 
 **Trend 4: Hidden colors**<br>Deze techniek is zeer geschikt voor stijlvolle lob’s en bob’s, waarbij de langere bovenlagen speels en zacht over de onderliggende lagen valt, die in verschillende kleurschakeringen geverfd zijn. Wanneer het haar beweegt of wanneer je het krult, komen de ‘verborgen kleuren’ subtiel naar boven. Steek je je haar op? Dan zal het kleurcontrast nog meer opvallen!
 
-<br>![](/uploads/versions/kapper-amsterdam-haartrends-blondehighlights-3---x----2250-2250x---.jpg)
+<br>![](/uploads1/versions/kapper-amsterdam-haartrends-blondehighlights-3---x----2250-2250x---.jpg)
 
 **Trend 5: Sunlight**<br>Bij deze trend gebruikt de stylist een speciale techniek die een optische illusie cre&euml;ert. Het lijkt net alsof er een streep zonlicht over je haar heen valt, met meer zachtheid en een spannende draai aan je natuurlijke haarkleur als resultaat.
 

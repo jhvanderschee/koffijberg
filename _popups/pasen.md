@@ -1,7 +1,7 @@
 ---
 title: Pasen
 active: false
-image: /uploads/priorities2.jpg
+image: /uploads1/priorities2.jpg
 text_color: '#241a1f'
 large_text: false
 button_color: '#241a1f'

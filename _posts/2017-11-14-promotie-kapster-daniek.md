@@ -1,6 +1,6 @@
 ---
 title: Promotie kapster Daniek
-image: /uploads/kapper-daniek-amsterdam-kleurspecialist.jpg
+image: /uploads1/kapper-daniek-amsterdam-kleurspecialist.jpg
 alignment: top
 ---
 

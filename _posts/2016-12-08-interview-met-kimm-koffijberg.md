@@ -1,6 +1,6 @@
 ---
 title: Interview met Kimm Koffijberg
-image: /uploads/interview1.jpg
+image: /uploads1/interview1.jpg
 alignment: top
 ---
 
@@ -10,7 +10,7 @@ Kinderen: Stijn van acht jaar en Vinn van zes jaar.<br />
 Functies: Koffijberg Hairdressers en Global Color Director Keune Haircosmetics<br />
 Quote/ lijfspreuk: Het mooiste wat je kunt worden is jezelf. Beauty begint op het moment dat je besluit jezelf te zijn.
 
-![](/uploads/interview.jpg)
+![](/uploads1/interview.jpg)
 
 **Wat is de missie van je bedrijf/merk?**<br />
 Wij willen het mooiste in onze klanten naar boven halen. Hun identiteit versterken met de juiste coupe en haarkleur of de bijpassende identiteit zorgvuldig onderhouden. Wij helpen klanten in de verschillende levensfases door ze te voorzien van die uitstraling die zij op dat moment nodig hebben. Wij denken vanuit concepten.

@@ -1,12 +1,12 @@
 ---
 title: Kerastase Aura Botanica
-image: /uploads/aura_botanica__kerastase.jpg
+image: /uploads1/aura_botanica__kerastase.jpg
 alignment: middle
 ---
 
 Het nieuwe Aura Botanica gamma. De pure kracht van de natuur in een verfijnde ervaring.
 
-![](/uploads/aura_botanica__kerastase.jpg)
+![](/uploads1/aura_botanica__kerastase.jpg)
 
 Het Aura Botanica gamma biedt een antwoord op een groeiende vraag voor verantwoorde luxe. Het biedt effectieve verzorging voor natuurlijk, licht dof haar en laat een gezonde natuurlijke glow achter. De sublieme sensatie van 'nude' hair wordt ge&iuml;ntroduceerd, zonder laagje en zonder residuen. Prachtig haar met een natuurlijke glow, alsof het herboren is.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Shining Grey: zo word je mooi grijs!'
-image: /uploads/shining-grey-3.jpg
+image: /uploads1/shining-grey-3.jpg
 alignment: top
 ---
 
@@ -17,7 +17,7 @@ Kimm Koffijberg ontwikkelde een uniek concept: **‘Shining Grey’.**Een persoo
 
 In de loop van het 'shining grey' proces wennen zowel jij en je omgeving aan je nieuwe grijze haarkleur en dat terwijl onze kappers de kwaliteit van de kleur en het haar goed bewaken. Na een jaar komt een vrouw tevoorschijn met een sprankelende grijze en eigentijdse look. Brigit onderging afgelopen jaar dit proces en vertelt in het onderstaande interview haar ervaring.
 
-[![](/uploads/versions/shining-grey-voor---x----2048-1152x---.jpg)](https://youtu.be/f8JpVi4UMEM)*Brigit bij aanvang proces*
+[![](/uploads1/versions/shining-grey-voor---x----2048-1152x---.jpg)](https://youtu.be/f8JpVi4UMEM)*Brigit bij aanvang proces*
 
 ## *Interview*
 
@@ -48,7 +48,7 @@ In de eerste zes maanden was de verandering eigenlijk het meest confronterend ma
 
 Elke ‘Shining Grey’ behandeling is anders en sterk afhankelijk van je haar. In mijn geval, bij langer haar, zullen de kosten schat ik iets hoger liggen dan bij kort haar. Uiteraard kan je vrijblijvend navragen wat ongeveer jouw investering zal zijn. Elk ‘Shining Grey’ stappenplan wordt te allen tijde op maat gemaakt.
 
-[![](/uploads/versions/shining-grey---x----844-474x---.png)](https://youtu.be/f8JpVi4UMEM)*Brigit midden in het proces*
+[![](/uploads1/versions/shining-grey---x----844-474x---.png)](https://youtu.be/f8JpVi4UMEM)*Brigit midden in het proces*
 
 ## *Wat heeft de verandering met jou als mens gedaan?*
 
@@ -64,4 +64,4 @@ Het eindresultaat is prachtig. Het is even een stap om ermee te beginnen, het ee
 
 Ben jij ook geïnteresseerd in het ondergaan van een 'Shining Grey' behandeling, spreek vooral onze kappers hier eens op aan of [maak een afspraak voor een adviesgesprek](http://www.koffijberg.nl/contact/), zodat wij ook voor jou een mooi plan kunnen maken voor de ‘perfect grey look’!
 
-[![](/uploads/shining-grey-3.jpg)](https://youtu.be/f8JpVi4UMEM)*Brigit shines grey!*
+[![](/uploads1/shining-grey-3.jpg)](https://youtu.be/f8JpVi4UMEM)*Brigit shines grey!*

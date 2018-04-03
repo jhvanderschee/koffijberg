@@ -2,14 +2,14 @@
 title: Natural Softness
 date: 2015-09-01T11:00:00.000Z
 images: 
-  - image: '/uploads/ns1-1.jpg'
-  - image: '/uploads/ns1-2.jpg'
-  - image: '/uploads/ns2-1.jpg'
-  - image: '/uploads/ns2-2.jpg'
-  - image: '/uploads/ns3-1.jpg'
-  - image: '/uploads/ns3-2.jpg'
-  - image: '/uploads/ns5-1.jpg'
-  - image: '/uploads/ns5-2.jpg'
+  - image: '/uploads1/ns1-1.jpg'
+  - image: '/uploads1/ns1-2.jpg'
+  - image: '/uploads1/ns2-1.jpg'
+  - image: '/uploads1/ns2-2.jpg'
+  - image: '/uploads1/ns3-1.jpg'
+  - image: '/uploads1/ns3-2.jpg'
+  - image: '/uploads1/ns5-1.jpg'
+  - image: '/uploads1/ns5-2.jpg'
 ---
 
 Amsterdam, september 2015 – Kimm Koffijberg lanceert de nieuwe herfstwintercollectie 2015-2016 ‘Natural softness’. De collectie is gebaseerd op  de natuurlijke structuur en valling van het haar; er komen nauwelijks stylingtools aan te pas. Eyecatchers van Natural softness zijn de accenten op textuur en lichtweerkaatsing. 

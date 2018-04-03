@@ -2,14 +2,14 @@
 title: Glossom
 date: 2014-03-28T11:00:00.000Z
 images:
-  - image: /uploads/glossom0.jpg
-  - image: /uploads/glossom1.jpg
-  - image: /uploads/glossom2.jpg
-  - image: /uploads/glossom3.jpg
-  - image: /uploads/glossom4.jpg
-  - image: /uploads/glossom5.jpg
-  - image: /uploads/glossom6.jpg
-  - image: /uploads/glossom7.jpg
+  - image: /uploads1/glossom0.jpg
+  - image: /uploads1/glossom1.jpg
+  - image: /uploads1/glossom2.jpg
+  - image: /uploads1/glossom3.jpg
+  - image: /uploads1/glossom4.jpg
+  - image: /uploads1/glossom5.jpg
+  - image: /uploads1/glossom6.jpg
+  - image: /uploads1/glossom7.jpg
 ---
 
 

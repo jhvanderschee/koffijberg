@@ -1,6 +1,6 @@
 ---
 title: Fashionlab @ Koffijberg
-image: /uploads/identitybehandeling.jpg
+image: /uploads1/identitybehandeling.jpg
 alignment: top
 ---
 

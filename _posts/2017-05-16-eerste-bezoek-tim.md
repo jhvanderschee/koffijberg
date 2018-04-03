@@ -1,6 +1,6 @@
 ---
 title: Eerste bezoek Tim
-image: /uploads/Tim-kapper-amsterdam-stylist-esmee.jpg
+image: /uploads1/Tim-kapper-amsterdam-stylist-esmee.jpg
 alignment: top
 ---
 
@@ -16,7 +16,7 @@ Elke maand lichten wij een leuke klant uit van Koffijberg Hairdressers, vandaag 
 3.Hoe heb je het advies ervaren wat jou gegeven werd?
 <br>Als zeer positief. Koffijberg heeft duidelijk aangegeven wat ik kon verwachten en hebben dit ook waargemaakt.
 
-![](/uploads/versions/tim-kapper-amsterdam-mini---x----250-376x---.jpg)
+![](/uploads1/versions/tim-kapper-amsterdam-mini---x----250-376x---.jpg)
 
 4.Hoe heb je de behandeling bij Koffijberg ervaren?
 <br>Koffijberg gaat veel verder dan een knipbeurt. De service is ten top en zij geven eerlijke adviezen. Dat stel ik op prijs. Je bent wellicht meer geld kwijt maar zeker een ervaring rijker.
@@ -36,4 +36,4 @@ Elke maand lichten wij een leuke klant uit van Koffijberg Hairdressers, vandaag 
 9.Hoe lang kom jij al bij Koffijberg Hairdressers?
 <br>Dit was mijn eerste maar zeker niet mijn laatste bezoek aan Koffijberg.
 
-![](/uploads/versions/tim-kapper-amsterdam-mini1---x----250-376x---.jpg)
+![](/uploads1/versions/tim-kapper-amsterdam-mini1---x----250-376x---.jpg)

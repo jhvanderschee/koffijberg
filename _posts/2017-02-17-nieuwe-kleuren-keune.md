@@ -1,6 +1,6 @@
 ---
 title: Nieuwe kleuren Keune
-image: /uploads/newdawn.jpg
+image: /uploads1/newdawn.jpg
 alignment: top
 ---
 
@@ -8,7 +8,7 @@ THE COLOR OF CHANGE - Maak kennis met de nieuwe Color Collection van Keune, New 
 
 Verander je leven, verander je haar. De New Dawn-campagne gaat over zes vrouwen die door opmerkelijke veranderingen gaan. Ze kozen ervoor een nieuw hoofdstuk te beginnen, of juist een oude af te sluiten. Zo verhuisde Shari naar Los Angeles om te dansen, begon Lyanne haar eigen designbureau, werd Jo&euml;lle voor het eerst moeder, verkocht Merle alles wat ze bezat om te reizen, deed Maya ondanks een knieblessure mee aan de New York Marathon en verloor Melissa alles om sterker dan ooit terug te komen.
 
-![](/uploads/newdawn.jpg)
+![](/uploads1/newdawn.jpg)
 
 Voor de New Dawn Color Collection ontwikkelden Keune vijf gloednieuwe kleurproducten, van natuurlijke tinten tot statementkleuren en een Blonde Spray:
 

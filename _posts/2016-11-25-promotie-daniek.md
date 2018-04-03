@@ -1,6 +1,6 @@
 ---
 title: Promotie Daniek
-image: /uploads/daniek_1.jpg
+image: /uploads1/daniek_1.jpg
 alignment: top
 ---
 
@@ -8,4 +8,4 @@ Vanaf 1 december 2016 is Daniek kleurspecialist. Na 6 jaar werkervaring bij Koff
 
 Daarnaast kun je nu ook terecht bij Daniek voor een mooie dag- of avond make-up, blowdry treatment en is zij ambassadeur van K&eacute;rastase. Wij feliciteren Daniek en wensen haar veel succes in haar nieuwe functie.
 
-![](/uploads/daniek.jpg)
+![](/uploads1/daniek.jpg)

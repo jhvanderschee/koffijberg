@@ -2,14 +2,14 @@
 title: Purity
 date: 2013-08-25T00:00:00.000Z
 images:
-  - image: /uploads/Kimm-njw13-01.jpg
-  - image: /uploads/Kimm-njw13-02.jpg
-  - image: /uploads/Kimm-njw13-03.jpg
-  - image: /uploads/Kimm-njw13-09.jpg
-  - image: /uploads/Kimm-njw13-05.jpg
-  - image: /uploads/Kimm-njw13-06.jpg
-  - image: /uploads/Kimm-njw13-08.jpg
-  - image: /uploads/Kimm-njw13-07.jpg
+  - image: /uploads1/Kimm-njw13-01.jpg
+  - image: /uploads1/Kimm-njw13-02.jpg
+  - image: /uploads1/Kimm-njw13-03.jpg
+  - image: /uploads1/Kimm-njw13-09.jpg
+  - image: /uploads1/Kimm-njw13-05.jpg
+  - image: /uploads1/Kimm-njw13-06.jpg
+  - image: /uploads1/Kimm-njw13-08.jpg
+  - image: /uploads1/Kimm-njw13-07.jpg
 ---
 
 

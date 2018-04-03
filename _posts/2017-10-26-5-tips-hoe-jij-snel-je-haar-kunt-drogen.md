@@ -1,6 +1,6 @@
 ---
 title: 5 TIPS HOE JIJ SNEL JE HAAR KUNT DROGEN
-image: /uploads/haar-drogen-thuis-kapper-amsterdam-1.jpeg
+image: /uploads1/haar-drogen-thuis-kapper-amsterdam-1.jpeg
 alignment: top
 ---
 
@@ -11,7 +11,7 @@ alignment: top
 
 **Voordat je de deur uitgaat, moet je eigenlijk toch &eacute;cht even je haar wassen. Bij kort haar, is je haar snel droog, maar bij lang haar kan het soms eeuwig duren voordat je haar droog is. Het beste is natuurlijk om je haar te laten drogen aan de lucht, maar helaas heb je hier vaak geen tijd voor. Gelukkig heb ik een aantal handige tips voor je, waardoor je haar een stuk sneller droogt.**
 
-![](/uploads/versions/haar-drogen-thuis-kapper-amsterdam---x----480-388x---.jpeg)
+![](/uploads1/versions/haar-drogen-thuis-kapper-amsterdam---x----480-388x---.jpeg)
 
 **Conditioner**
 
@@ -23,7 +23,7 @@ Wij verkopen diverse heerlijke conditioners van Kerastase tot Keune, we advisere
 
 Als jij je haar gaat f&ouml;hnen, doe dit dan niet in de badkamer waar je net hebt gedoucht. Het vocht in de lucht zorgt er namelijk voor dat het drogen langer duurt en je dus meer hitte op je haar moet gebruiken. De Blowdry spray van Keune versnelt het droogproces van het haar tijdens het f&ouml;hnen. Nog een goede bijkomstigheid het beschermt je haar ook nog eens tegen de hitte van de f&ouml;hn.
 
-![](/uploads/versions/haar-drogen-thuis-kapper-amsterdam-2---x----370-370x---.jpg)
+![](/uploads1/versions/haar-drogen-thuis-kapper-amsterdam-2---x----370-370x---.jpg)
 
 **Wring je haar voorzichtig uit**
 

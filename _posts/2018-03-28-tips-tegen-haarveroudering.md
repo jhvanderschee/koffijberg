@@ -1,7 +1,7 @@
 ---
 title: TIPS TEGEN HAARVEROUDERING
 image: >-
-  /uploads/keune-care-vital-nutrition-voor-normaal-tot-fijner-ouder-wordend-haar-1.jpg
+  /uploads1/keune-care-vital-nutrition-voor-normaal-tot-fijner-ouder-wordend-haar-1.jpg
 alignment: top
 ---
 
@@ -21,7 +21,7 @@ Net als bij veroudering van je huid krijgt je haar steeds meer moeite met het ve
 Van blond tot kastanjebruin; ons haar heeft een natuurlijke haarkleur door melanine, een organisch pigment dat ons lichaam aanmaakt. Wordt er geen pigment meer aangemaakt, dan wordt het haar grijs. Het niet meer aanmaken van pigment is een gevolg van ouder worden. De aanmaak van melanine neemt met de jaren langzaam af en kan uiteindelijk helemaal stoppen. Help je haar in de strijd tegen veroudering en houd het gezond door de juiste producten te gebruiken. Een anti-verouderingsmasker, shampoo of conditioner met bijvoorbeeld omega vetzuren of proteïnen helpen je haar bij het herstel. Gebruik bijvoorbeeld één keer in de week het Vital Nutrition Mask van Keune. Dit masker bevat microtarweproteïnen en versterkt en verdikt het haar. Daarnaast helpt het masker je haar bij herstellen van de interne structuur.
 {: .Body}
 
-![](/uploads/keune-care-vital-nutrition-voor-normaal-tot-fijner-ouder-wordend-haar-1.jpg)
+![](/uploads1/keune-care-vital-nutrition-voor-normaal-tot-fijner-ouder-wordend-haar-1.jpg)
 {: .Body}
 
 # Haarprofessional
@@ -29,5 +29,5 @@ Van blond tot kastanjebruin; ons haar heeft een natuurlijke haarkleur door melan
 De juiste verzorging voor je haar is van essentieel belang voor het zo lang mogelijk behouden van een prachtige bos lokken. Verschillende fasen van het verouderingsproces vragen om verschillende behandelingen. Zo is het eigenlijk altijd belangrijk om een hittebescherming te gebruiken wanneer je je haar blootstelt aan de warmte van bijvoorbeeld een föhn. Gebruik hiervoor bijvoorbeeld de Keune Vital Nutrition Thermal Creme. Verderop in het verouderingsproces wordt het pas belangrijker om bijvoorbeeld een speciale anti-aging shampoo of conditioner te gebruiken. Ook hebben verschillende haartypen baat bij verschillende ingrediënten. Jouw haarprofessional kan je precies vertellen wat voor jouw lokken de beste behandeling is!
 {: .Body}
 
-![](/uploads/keune-care-keratine-smooth-voor-dik-en-stug-haar.jpg)
+![](/uploads1/keune-care-keratine-smooth-voor-dik-en-stug-haar.jpg)
 {: .Body}

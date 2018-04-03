@@ -1,6 +1,6 @@
 ---
 title: Treatment Room
-image: /uploads/a--treatment-room---kapper---amsterdam.jpg
+image: /uploads1/a--treatment-room---kapper---amsterdam.jpg
 alignment: top
 ---
 
@@ -19,13 +19,13 @@ Wist je dat ongeveer 60% van de vrouwen en 40% van de mannen een gevoelige hoofd
 
 In onze salon bevindt zich een speciale afgesloten treatment room waarbij wij met een geavanceerde camera de conditie van je haar en hoofdhuid in beeld brengen. Op basis hiervan adviseert een van onze kappers je over een custom made behandeling en welke producten wij voor jouw behandeling gaan gebruiken.
 
-**![](/uploads/versions/duo-treatment-room-1---x----400-302x---.jpg)**
+**![](/uploads1/versions/duo-treatment-room-1---x----400-302x---.jpg)**
 
 **Hoe ziet een treatment room behandeling eruit?**
 
 Samen met één van onze kappers, selecteren wij een behandeling en kan je fijn gaan relaxen in een van onze massagestoelen. Wij verbeteren ondertussen de conditie van je haar en hoofdhuid met de speciaal op jou afgestemde verzorging en onze hightech tools [(clarisonic brush en micronizer)](/nieuws/2016/12/30/tools-treatment-room/). Met deze tools komt de verzorging nog dieper in je haar en hoofdhuid terecht. Uiteraard ontvang je een heerlijke uitgebreide hoofdhuidmassage en drogen wij je haar. Na de behandeling adviseren wij welke producten je het beste thuis kunt gebruiken, zodat je jouw hoofdhuid en je haar optimaal ook thuis kunt verzorgen! Deze producten kun je na de treatment met 25% korting aanschaffen in de salon.
 
-![](/uploads/versions/treatment-1---x----250-351x---.jpg)
+![](/uploads1/versions/treatment-1---x----250-351x---.jpg)
 
 **Welke zes verschillende behandelingen zijn er?**
 

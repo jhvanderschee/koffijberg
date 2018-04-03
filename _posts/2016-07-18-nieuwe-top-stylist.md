@@ -11,4 +11,4 @@ Behalve allround kapster ben ik een positief en enthousiast mens. Ik werk graag 
 
 Beschikbaarheid: di / wo / vr / za
 
-![](/uploads/versions/bethlehem-kapper-amsterdam-1---x----250-297x---.jpg)
+![](/uploads1/versions/bethlehem-kapper-amsterdam-1---x----250-297x---.jpg)

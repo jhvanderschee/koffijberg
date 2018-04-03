@@ -2,10 +2,10 @@
 title: Mystic Romance
 date: 2014-08-01T00:00:00.000Z
 images:
-  - image: /uploads/mystic-romance-1.jpg
-  - image: /uploads/mystic-romance-2.jpg
-  - image: /uploads/mystic-romance-3.jpg
-  - image: /uploads/mystic-romance-4.jpg
+  - image: /uploads1/mystic-romance-1.jpg
+  - image: /uploads1/mystic-romance-2.jpg
+  - image: /uploads1/mystic-romance-3.jpg
+  - image: /uploads1/mystic-romance-4.jpg
 ---
 
 

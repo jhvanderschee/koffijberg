@@ -14,6 +14,6 @@ Met I-dentity kijken we verder dan je gezichtsvorm of huidskleur. Ook verder dan
 
 Onze nieuwe metamorfose I-dentity bestaat uit verschillende onderdelen die ook los van elkaar te boeken zijn: Style I-dentity (advies over kapsel en styling), Color I-dentity (haarkleuranalyse) en visagie.
 
-![](/uploads/coloridentity.jpg)
+![](/uploads1/coloridentity.jpg)
 
-![](/uploads/styleidentity.jpg)
+![](/uploads1/styleidentity.jpg)

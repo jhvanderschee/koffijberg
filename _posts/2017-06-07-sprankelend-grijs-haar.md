@@ -1,6 +1,6 @@
 ---
 title: Sprankelend grijs haar
-image: /uploads/shining-grey-3.jpg
+image: /uploads1/shining-grey-3.jpg
 alignment: top
 ---
 
@@ -9,7 +9,7 @@ alignment: top
 
 -Maar liefst 68% van de 50+ dames kiest bewust voor sprankelend grijs haar
 
-![](/uploads/versions/shining-grey-3---x----5760-3240x---.jpg)
+![](/uploads1/versions/shining-grey-3---x----5760-3240x---.jpg)
 
 UNIEK IN NEDERLAND: SHINING GREY HAARCONCEPT
 
@@ -21,7 +21,7 @@ Kimm Koffijberg ontwikkelde het Shining Grey concept. Een persoonlijk stappenpla
 
 Klant Brigit onderging afgelopen jaar dit proces en vertelt haar ervaring. “Het eindresultaat is prachtig. Het is even een stap om ermee te beginnen, het eerste half jaar was best moeilijk maar daarna zag je het steeds mooier worden, kortom een absolute aanrader voor elke vrouw die nu wellicht op hetzelfde punt staat waar ik ooit begon. Ik voel me meer mezelf en heb meer zelfvertrouwen!”
 
-![](/uploads/versions/shining-grey-mini-kapper---x----250-376x---.jpg)
+![](/uploads1/versions/shining-grey-mini-kapper---x----250-376x---.jpg)
 
 Natuurlijk effect
 
