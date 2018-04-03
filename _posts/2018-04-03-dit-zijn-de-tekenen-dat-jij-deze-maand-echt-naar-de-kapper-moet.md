@@ -1,14 +1,12 @@
 ---
-title: Triggers voor Kappersbezoek
-image:
-alignment: top
+title: Dit zijn de tekenen dat jij deze maand echt naar de kapper moet!
+image: /uploads/kapper-tips-wanneer-naar-kapper-koffijberg-4.jpg
+alignment: middle
 ---
 
-Dit zijn de tekenen dat jij deze maand echt naar de kapper moet!
-{: .MsoTitle}
-
 Wanneer je echt geen volume meer in je haar krijgt, je haar slap gaat hangen en je punten er gespleten uitzien, dan wordt het echt tijd om naar de kapper te gaan! Soms denk je dat het alleen aan de lengte ligt, maar het kan ook heel goed zijn dat je haar weer highlights nodig heeft. Omdat je haar aan de aanzet dan weer wat stugger wordt en het volume zo beter hanteerbaar is.
-{: .MsoTitle}
+
+![](/uploads/kapper-tips-wanneer-naar-kapper-koffijberg-3.jpg)
 
 Wanneer je lengtes echt weer wat droger, pluiziger en dof eruit zien, zal het voor je haar ook een heerlijk verwenmomentje zijn. Laat de kapper ook weer een maskertje bij je aanbrengen, om het haar weer te voeden. Laat je ook adviseren of de producten die je hebt om je haar thuis te verzorgen nog wel de juiste zijn of dat je beter over kunt stappen op andere producten.
 
