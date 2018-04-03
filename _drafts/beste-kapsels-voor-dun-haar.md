@@ -1,6 +1,6 @@
 ---
 title: Beste Kapsels voor dun haar
-image: /uploads/kapper-dun-haar-beste-kapsel-veel-1-1.jpg
+image: /uploads1/kapper-dun-haar-beste-kapsel-veel-1-1.jpg
 alignment: top
 ---
 
@@ -15,6 +15,6 @@ In het geval van fijn haar is het belangrijk dat het haar lekker in lagen geknip
 
 In het geval van dun haar is het belangrijk dat er lagen over elkaar heen vallen in verschillende lengtes. Wanneer je het haar teveel op een lengte draagt, zal je meer accent op de doorschijnende hoofdhuid leggen. Laat je haar ook niet te donker kleuren, anders is er een te groot contrast met je hoofdhuid. De maximale lengte voor dun haar is tot het sleutelbeen, en met een pony of lok zal je haar veel voller lijken. Speelse laagjes zal je haar meer volume geven. Een kortere coupe is ook perfect voor dun haar.
 
-![](blob:https://app.cloudcannon.com/fe2723bb-756c-4c95-90b9-3135db338063)![](/uploads/kapper-dun-haar-beste-kapsel-veel-2.jpg)
+![](blob:https://app.cloudcannon.com/fe2723bb-756c-4c95-90b9-3135db338063)![](/uploads1/kapper-dun-haar-beste-kapsel-veel-2.jpg)
 
 Voor zowel fijn als dun haar is het belangrijk dat je een shampoo voor volume gebruikt die dus niet verzwaard. Een leave-in conditioner zal ervoor zorgen dat het haar niet te slap wordt. Gebruik hiervoor bij bijvoorbeeld Absolute volume van Keune Care. Qua styling is de Sea salt spray van Blend en de Volume Powder een geweldige combinatie.
