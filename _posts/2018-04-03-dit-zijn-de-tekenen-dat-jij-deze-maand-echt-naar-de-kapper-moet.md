@@ -1,6 +1,6 @@
 ---
 title: Dit zijn de tekenen dat jij deze maand echt naar de kapper moet!
-image: /uploads/kapper-tips-wanneer-naar-kapper-koffijberg.jpg
+image: /uploads/kapper-tips-wanneer-naar-kapper-koffijberg-4.jpg
 alignment: middle
 ---
 
