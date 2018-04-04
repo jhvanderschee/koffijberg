@@ -1,13 +1,11 @@
 ---
-title: Beste Kapsels voor dun haar
+title: Dit zijn de beste kapsels voor dun haar!
 image: /uploads1/kapper-dun-haar-beste-kapsel-veel-1-1.jpg
 alignment: top
 ---
 
-Dit zijn de beste kapsels voor dun haar
-{: .MsoTitle}
-
 Er zit een verschil tussen fijn haar en dun haar. Bij fijn haar ziet het haar er dun en fragiel uit, maar het zegt niets over de hoeveelheid haar op je hoofd. Het kan dus zijn dat je heel veel fijn haar hebt. Bij dun haar heb je fijne haartjes &eacute;n minder haren op je hoofd, waardoor het geen volle bos is. De haarzakjes liggen verder van elkaar vandaan en je ziet de hoofdhuid dan ook meer doorschijnen door het haar heen.
+{: .MsoTitle}
 
 ![](/uploads1/kapper-dun-haar-beste-kapsel-veel-1.jpg)
 
