@@ -124,7 +124,7 @@
                                   <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
-                              <tr class="expand1"><td colspan="4"><br /><b>Specials</b></td></tr>
+                              <tr class="expand1"><td colspan="4"><br /><b>Beauty area</b></td></tr>
                               {% for d in site.data.treatments.specials %}
                                   {% for p in d.prijs %}
                                   <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
