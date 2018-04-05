@@ -124,9 +124,9 @@ colorings:
     treatment: ontklering--ultimate-blond
   - item: Shining Grey
     prijs:
-      - stylist: o.b.v. adviesgesprek
-        topstylist: o.b.v. adviesgesprek
-        masterstylist: o.b.v. adviesgesprek
+      - stylist: obv adviesgesprek
+        topstylist: obv adviesgesprek
+        masterstylist: obv adviesgesprek
     treatment: shining-grey
   - item: Overige behandelingen op aanvraag
     prijs:
