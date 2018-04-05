@@ -79,7 +79,7 @@ colorings:
       - stylist: € 67.50
         topstylist: € 67.50
         masterstylist: € 75.50
-    treatment:
+    treatment: highlights-deel
   - item: Highlights deel Plus
     prijs:
       - stylist: € 86.00
@@ -91,7 +91,7 @@ colorings:
       - stylist: € 102.75
         topstylist: € 102.75
         masterstylist: € 113.25
-    treatment:
+    treatment: highlights-heel
   - item: Highlights heel Plus
     prijs:
       - stylist: € 125.75
@@ -103,7 +103,7 @@ colorings:
       - stylist: € 137.50
         topstylist: € 137.50
         masterstylist: € 150.90
-    treatment:
+    treatment: free-hand-techniek
   - item: Free hand techniek heel
     prijs:
       - stylist: € 190.70
@@ -127,6 +127,12 @@ colorings:
       - stylist:
         topstylist:
         masterstylist:
+    treatment:
+  - item: Shining Grey
+    prijs:
+      - stylist: o.b.v. adviesgesprek
+        topstylist: o.b.v. adviesgesprek
+        masterstylist: o.b.v. adviesgesprek
     treatment:
 blow-dry:
   - item: Normaal (30 min)
