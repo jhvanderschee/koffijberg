@@ -1,7 +1,11 @@
 ---
 title: Bruidskapsels
 images:
-  - image:
+  - image: /uploads/bruidkapsel-kapper-amsterdam-rivierenbuurt.jpg
 ---
 
 Perfect haar voor je bruiloft.
+
+&nbsp;
+
+![](/uploads/bruidkapsel-kapper-amsterdam-rivierenbuurt.jpg)
