@@ -199,9 +199,9 @@ specials:
     treatment: brow-area
   - item: Bruidskapsels
     prijs:
-      - stylist:
-        topstylist:
-        masterstylist:
+      - stylist: n.v.t.
+        topstylist: op aanvraag
+        masterstylist: op aanvraag
     treatment: bruidskapsels
 treatment-room:
   - item: Keune SoPure Ritueel
