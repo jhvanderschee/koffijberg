@@ -14,7 +14,7 @@ Je komt eerst voor een adviesgesprek bij ons in de kapsalon langs. Dit is geheel
 
 Zo’n proefsessie is een uitstekende ‘generale repetitie’ &nbsp;voor de echte trouwdag. Dan nemen we de tijd om uit te werken hoe het kapsel er op de huwelijksdag uit gaat zien. Hierdoor weten we ook hoeveel tijd er nodig is op de dag zelf. De kosten worden bepaald op basis van halfuur tarieven. Je betaald alleen de daadwerkelijk besteedde tijd.
 
-![](blob:https://app.cloudcannon.com/70fea881-65c5-4185-a446-a47cd3be867b)
+![](/uploads/bruidkapsel-kapper-amsterdam-rivierenbuurt-1.jpg)
 
 Ook voor een perfecte bruidsmake-up staan de topvisagisten van Koffijberg Hairdressers graag voor je klaar. Net als het kapsel kan ook de make-up geruime tijd voor de huwelijksdag worden uitgeprobeerd.
 
