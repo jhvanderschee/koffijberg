@@ -4,4 +4,4 @@ images:
   - image:
 ---
 
-Beschrijving
+Perfect haar voor je bruiloft.
