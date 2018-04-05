@@ -122,17 +122,17 @@ colorings:
         topstylist: € 80.00
         masterstylist: € 86.90
     treatment: ontklering--ultimate-blond
-  - item: Overige behandelingen op aanvraag
-    prijs:
-      - stylist:
-        topstylist:
-        masterstylist:
-    treatment:
   - item: Shining Grey
     prijs:
       - stylist: o.b.v. adviesgesprek
         topstylist: o.b.v. adviesgesprek
         masterstylist: o.b.v. adviesgesprek
+    treatment: shining-grey
+  - item: Overige behandelingen op aanvraag
+    prijs:
+      - stylist:
+        topstylist:
+        masterstylist:
     treatment:
 blow-dry:
   - item: Normaal (30 min)
