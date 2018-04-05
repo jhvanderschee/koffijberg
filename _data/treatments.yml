@@ -197,6 +197,12 @@ specials:
         topstylist: € 28.00
         masterstylist: € 28.00
     treatment: brow-area
+  - item: Bruidskapsels
+    prijs:
+      - stylist:
+        topstylist:
+        masterstylist:
+    treatment:
 treatment-room:
   - item: Keune SoPure Ritueel
     prijs:
