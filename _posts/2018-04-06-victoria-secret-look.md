@@ -1,6 +1,6 @@
 ---
 title: Victoria Secret look
-image: /uploads/victoria-secret-kapper-amsterdam-2.jpg
+image: /uploads/victoria-secret-kapper-amsterdam-2-1.jpg
 alignment: top
 ---
 
