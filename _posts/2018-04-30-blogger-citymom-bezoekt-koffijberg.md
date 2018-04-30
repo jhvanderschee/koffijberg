@@ -1,6 +1,6 @@
 ---
-title: Blogger bezoek
-image:
+title: Blogger CityMom bezoekt Koffijberg
+image: /uploads/hairdressers-amsterdam-kapper-mooi-haar-styling-1.jpg
 alignment: top
 ---
 
@@ -24,7 +24,7 @@ Ik was dan ook helemaal blij dat Kimm mij een haarkleuranalyse gaf! Kimm gaf mij
 
 Blow Dry Bar
 
-Ook Koffieberg heeft een Blow Dry Area. Binnen 30 minuten f&ouml;hnen ze je haar of verzorgen een updo. Jij geniet ondertussen van een hapje en een drankje. Je komt met gewassen en droog haar naar de kapsalon. Daar kies je uit een van de looks na een half uurtje verlaat je met een catwalk look de zaak! Ideaal voor busy moms die geen tijd hebben voor een hele knipbuurt maar wel er goed uit willen zien voor een zakelijke meeting of een feestje!
+Ook Koffieberg heeft een Blow Dry Area. Binnen 30 minuten föhnen ze je haar of verzorgen een updo. Jij geniet ondertussen van een hapje en een drankje. Je komt met gewassen en droog haar naar de kapsalon. Daar kies je uit een van de looks na een half uurtje verlaat je met een catwalk look de zaak! Ideaal voor busy moms die geen tijd hebben voor een hele knipbuurt maar wel er goed uit willen zien voor een zakelijke meeting of een feestje!
 
 ![](/uploads/hairdressers-amsterdam-kapper-mooi-haar-blow-dry.jpg)
 
