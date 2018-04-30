@@ -19,3 +19,5 @@ Ik was dan ook helemaal blij dat Kimm mij een haarkleuranalyse gaf! Kimm gaf mij
 Blow Dry Bar
 
 Ook Koffieberg heeft een Blow Dry Area. Binnen 30 minuten f&ouml;hnen ze je haar of verzorgen een updo. Jij geniet ondertussen van een hapje en een drankje. Je komt met gewassen en droog haar naar de kapsalon. Daar kies je uit een van de looks na een half uurtje verlaat je met een catwalk look de zaak! Ideaal voor busy moms die geen tijd hebben voor een hele knipbuurt maar wel er goed uit willen zien voor een zakelijke meeting of een feestje!
+
+[https://www.citymom.nl/newsmom/koffijberg-hairdressers-amsterdam/](https://www.citymom.nl/newsmom/koffijberg-hairdressers-amsterdam/)
