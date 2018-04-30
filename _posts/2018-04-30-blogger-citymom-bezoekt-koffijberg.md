@@ -1,7 +1,7 @@
 ---
 title: Blogger CityMom bezoekt Koffijberg
 image: /uploads/hairdressers-amsterdam-kapper-mooi-haar-styling-1.jpg
-alignment: top
+alignment: middle
 ---
 
 Wat is er als busy MOM nou lekkerder dan even een paar uur voor jezelf te hebben? Daarom vind ik het altijd zo’n feest om naar de kapper te gaan! Helemaal als ik mijn haar laat kleuren, is het drie uur even me-time! Een perfecte plek voor een goede haar coupe en dus ME-TIME is Koffijberg Hairdressers in Amsterdam. Mocht je kind een knipbeurt nodig hebben dan kan je hier trouwens ook terecht, want voor kinderen hebben ze een speciaal tarief.
