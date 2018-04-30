@@ -10,6 +10,8 @@ Wat is er als busy MOM nou lekkerder dan even een paar uur voor jezelf te hebben
 
 In het verleden heeft Kapsalon Koffijberg onder andere de Global Salon Business Award gewonnen en in 2013 de Coiffure Award. Deze kapsalon bestaat al 40 jaar! Richard Koffijberg startte in 1976 zijn kapsalon in een klein brugwachtershuisje aan de Amstelkade in Amsterdam-Zuid. In 1997 verhuisde de kapsalon naar het veel grotere pand aan de overkant op Scheldestraat 8. Sinds 2009 staan Kimm, de dochter van Richard, en van haar partner Robert aan het roer. Kimm heeft dezelfde passie voor het kappersvak als haar vader. Zij behoort tot de topkappers in Nederland.
 
+![](/uploads/hairdressers-amsterdam-kapper-mooi-haar-kleur.jpg)
+
 Global Color Director
 
 Naast eigenaar is Kimm Global Color Director voor Keune Haircosmetics. Zij is daar verantwoordelijk voor alle educatie op het gebied van haarkleuring, geeft (inter)nationale shows en masterclasses en ontwikkelt de creatieve kleurconcepten voor de nieuwste trendcollecties van Keune. Eigenaren van kapsalons uit heel Nederland laten hun medewerkers trainen door Kimm.
