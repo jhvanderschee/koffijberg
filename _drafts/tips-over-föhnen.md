@@ -1,5 +1,7 @@
 ---
 title: Tips over Föhnen
-image: /uploads/hairdressers-amsterdam-kapper-mooi-haar-styling-1.jpg
+image: /uploads/fohn-dyson-kapper-amsterdam.JPG
 alignment: middle
 ---
+
+https://youtu.be/FT1VC3XtiK0
