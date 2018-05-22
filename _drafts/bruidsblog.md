@@ -1,6 +1,6 @@
 ---
 title: Jullie hebben besloten te gaan trouwen!
-image:
+image: /uploads/brit-voor-spiegel.jpg
 alignment: middle
 ---
 
@@ -9,6 +9,8 @@ De grote dag voor hem en voor haar
 Eindelijk is het zover: Jullie hebben besloten te gaan trouwen!
 
 Vooraf moet je heel veel regelen: Een perfecte locatie, de gastenlijst, het chicste pak en de mooiste jurk. Het zijn nog maar een paar zaken uit een lange lijst. Op deze to-do lijst mag je kapsel niet ontbreken. Want net zoals jullie mooiste dag, vergt een trouwkapsel ook de juiste voorbereiding. Zowel voor hem als voor haar.
+
+![](/uploads/bruiloft-britt-kapper-actie-kimm.jpg)
 
 Om jullie een beetje op weg te helpen, hierbij mijn tips en tricks:
 
@@ -23,6 +25,8 @@ Om jullie een beetje op weg te helpen, hierbij mijn tips en tricks:
 &middot; &nbsp; &nbsp; &nbsp; &nbsp; Zorg dat je jurk en je haar een totaal vormen. Als het goed is, versterken ze elkaar! Is je jurk bijvoorbeeld heel uitgesproken en ‘gebeurt’ er veel op je jurk, dan is het verstandig om je haar wat ingetogener te laten zijn. En&nbsp; omgekeerd: Is je jurk heel minimalistisch, dan kan je goed voor een uitgesproken kapsel kiezen. Laat je kapper daarom ook foto’s van je jurk zien!
 
 &middot; &nbsp; &nbsp; &nbsp; &nbsp; Sta open voor verrassingen: Soms is een kapsel waar je al je hele leven van droomt niet het juiste kapsel voor jou. Niet getreurd, je kapper weet je zeker te verrassen met opties waar je nog niet over had nagedacht.
+
+![](/uploads/bruidegom-bruiloft-kapper-amsterdam.jpg)
 
 **Heren**
 
@@ -46,10 +50,16 @@ Er zijn ook een paar dingen die je beter kunt laten. Zo wil je niet het risico l
 
 &middot; &nbsp; &nbsp; &nbsp; &nbsp; Het knippen van je haar kun je het beste een maand voor de bruiloft doen. Op die manier heeft je haar tegen de dag van je huwelijk weer een natuurlijke valling.
 
+![](/uploads/bruiloft-britt-kapper-actie-fohn.jpg)
+
 &nbsp;**Heren**
 
 &middot; &nbsp; &nbsp; &nbsp; &nbsp; Laat je haar nooit een paar dagen voor de bruiloft knippen. Anders ziet je haar er ‘t&eacute; geknipt’ uit. Probeer een week of twee van tevoren je haar te laten knippen en ga twee dagen voor je bruiloft nog even bij je kapper langs om je contouren en nekharen strak te maken.
 
 &middot; &nbsp; &nbsp; &nbsp; &nbsp; Wijk niet te veel af van je gewoonlijke look. Anders voel je je misschien ongemakkelijk of niet jezelf. De dag is al spannend genoeg!
 
+![](/uploads/bruiloft-kapper-heren-amsterdam-2.jpg)
+
 En het allerbelangrijkst: Geniet enorm van de mooie dag die komen gaat en alles wat erbij komt kijken. Hij is zo snel voorbij. En zeg nou zelf, als jij als bruid of bruidegom de sterren van de hemel straalt, dan kan die mooie dag niet meer stuk. Veel geluk samen!
+
+Groet Peter
