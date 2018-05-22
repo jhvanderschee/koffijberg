@@ -226,7 +226,7 @@
                         <span onclick="prevmember();" class="prev teamcontrol"><i class="fa icon-angle-left"></i></span><span onclick="nextmember();" class="next teamcontrol"><i class="fa icon-angle-right"></i></span>
                         {% assign members = site.members | sort: 'order' %}
                         <ul class="ch-grid">{% for d in members %}<li>
-                            <div class="ch-item ch-img-1" style="background-image: url({{ d.image }});" onclick="document.location.href='{{ d.url }}';">
+                            <div class="ch-item ch-img-1" style="background-image: url({{ d.image | replace: " ","%20" }});" onclick="document.location.href='{{ d.url }}';">
                               <div class="ch-info">
                                 <h3>{{ d.naam }}</h3>
                                 <p>{{ d.functie }}</p>
