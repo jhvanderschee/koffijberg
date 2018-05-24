@@ -1,4 +1,5 @@
 ---
+title: Home
 layout: home
 highlights:
   - title: Award-winning topkapper
