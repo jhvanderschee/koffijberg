@@ -30,6 +30,8 @@ collections:
     output: false
 
 title: 'Kapper Koffijberg Hairdressers in Amsterdam'
+url: https://www.koffijberg.nl
+twitter_url: https://twitter.com/KoffijbergHair
 
 alignments:
   - top

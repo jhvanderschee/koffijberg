@@ -14,7 +14,21 @@
   <link rel="stylesheet" href="{{ "/css/combined.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
 
-  <meta property="og:image" content="https://www.koffijberg.nl{% if page.image %}{{ page.image }}{% else %}/img/kapper-amsterdam-dames1.jpg{% endif %}"/>
+   <!-- Facebook and Twitter integration -->
+   <meta property="og:title" content="{{ page.title }}"/>
+   {% if page.image %}<meta property="og:image" content="{{ site.url }}{{ page.image }}"/>{% endif %}
+   <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+   <meta property="og:type" content="article">
+   <meta property="og:site_name" content="{{ site.title }}"/>
+   <meta property="og:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}"/>
+   
+   <meta name="twitter:card" content="summary">
+   <meta name="twitter:site" content="{{ site.twitter_url }}">
+   <meta name="twitter:title" content="{{ page.title }}" />
+   {% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />{% endif %}
+   <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+   <meta name="twitter:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}" />
+
 
   <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700' rel='stylesheet' type='text/css'>
