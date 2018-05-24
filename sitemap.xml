@@ -5,7 +5,7 @@ layout: null
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for post in site.posts %}
     <url>
-      <loc>http://www.koffijberg.nl{{ post.url | replace: 'index.html', '' }}</loc>
+      <loc>https://www.koffijberg.nl{{ post.url | replace: 'index.html', '' }}</loc>
       <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -13,14 +13,14 @@ layout: null
   {% endfor %}
   {% for post in site.members %}
     <url>
-      <loc>http://www.koffijberg.nl{{ post.url | replace: 'index.html', '' }}</loc>
+      <loc>https://www.koffijberg.nl{{ post.url | replace: 'index.html', '' }}</loc>
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
     </url>
   {% endfor %}
   {% for post in site.treatments %}
     <url>
-      <loc>http://www.koffijberg.nl{{ post.url | replace: 'index.html', '' }}</loc>
+      <loc>https://www.koffijberg.nl{{ post.url | replace: 'index.html', '' }}</loc>
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -28,7 +28,7 @@ layout: null
   {% for page in site.pages %}
     {% if page.url contains '.html' %}
       <url>
-        <loc>http://www.koffijberg.nl{{ page.url | replace: 'index.html', '' }}</loc>
+        <loc>https://www.koffijberg.nl{{ page.url | replace: 'index.html', '' }}</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
        </url>
@@ -37,7 +37,7 @@ layout: null
   {% for page in site.collecties %}
     {% if page.url contains '.html' %}
       <url>
-        <loc>http://www.koffijberg.nl{{ page.url | replace: 'index.html', '' }}</loc>
+        <loc>https://www.koffijberg.nl{{ page.url | replace: 'index.html', '' }}</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
        </url>

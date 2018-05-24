@@ -37,6 +37,6 @@ Koffijberg Hairdressers is actief op Pinterest. Dit doen we zodat we jou kunnen 
 
 Hoe beter de communicatie tussen kapper en klant, hoe mooier het eindresultaat. Een kapper moet jou begrijpen en jouw wensen respecteren met zijn kennis, techniek en ervaringen. Zo voel jij je professioneel behandeld en op je mooist en is de kapper trots op wat hij heeft gecreëerd!
 
-Zin om nog meer inspirerende blogs te lezen? Klik dan [hier &gt;](http://www.koffijberg.nl/nieuws/)
+Zin om nog meer inspirerende blogs te lezen? Klik dan [hier &gt;](https://www.koffijberg.nl/nieuws/)
 
 **Tekst: Kimm Koffijberg**

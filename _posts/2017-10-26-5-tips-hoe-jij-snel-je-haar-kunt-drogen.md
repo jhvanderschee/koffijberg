@@ -37,6 +37,6 @@ Het is belangrijk om je haren als eerst droog te maken bij de haarwortels. Als d
 
 Hoewel de meesten van ons waarschijnlijk een handdoek gebruiken om onze haren te drogen, worden er tegenwoordig ook hele handige microvezel handdoeken verkocht. Ze zijn niet alleen zachter van textuur voor je haar maar nemen ook nog eens twee keer zoveel water op.
 
-Zin om nog meer inspirerende blogs te lezen? Klik dan&nbsp;[hier &gt;](http://www.koffijberg.nl/nieuws/)
+Zin om nog meer inspirerende blogs te lezen? Klik dan&nbsp;[hier &gt;](https://www.koffijberg.nl/nieuws/)
 
 **Tekst: Kimm Koffijberg**

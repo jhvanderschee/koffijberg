@@ -31,4 +31,4 @@ Als laatste werd ook mijn haar weer van een mooi model voorzien. De onderkant is
 
 Mocht jij ook toe zijn aan een kleine (of grote) make-over van je haar in de nieuwste kleuren? Wil je door middel van een huidanalyse weten welke haarkleuren perfect bij jouw huidtint passen? Of ben je ge&iuml;nteresseerd in hoe je je opkomende grijze haar door middel van een persoonlijk stappenplan kunt omarmen (want grijs is immers hot)? Dan zou ik zeker even langsgaan bij Koffijberg Hairdressers in de Scheldestraat te Amsterdam.
 
-[Graag contact opnemen](http://www.koffijberg.nl/contact/)! [Bekijk hier nog meer beelden van de behandeling.](http://whatiwouldbuy.com/VIOLET+LAVENDER+HAIR+WITH+KEUNE+COLOR+CRAVING+AT+KOFFIJBERG+HAIRDRESSERS)
+[Graag contact opnemen](https://www.koffijberg.nl/contact/)! [Bekijk hier nog meer beelden van de behandeling.](http://whatiwouldbuy.com/VIOLET+LAVENDER+HAIR+WITH+KEUNE+COLOR+CRAVING+AT+KOFFIJBERG+HAIRDRESSERS)

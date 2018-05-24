@@ -27,4 +27,4 @@ In het geval van incidentele haaruitval en dunner wordend haar adviseren wij de 
 
 ![](/uploads1/versions/kapper-haaruitval-post-keune-lotion-1---x----250-559x---.jpg)
 
-Meer leuke blogs lezen van Kimm? [Klik dan hier](http://www.koffijberg.nl/nieuws/)
+Meer leuke blogs lezen van Kimm? [Klik dan hier](https://www.koffijberg.nl/nieuws/)

@@ -5,7 +5,7 @@
   <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
   <meta id="viewport" name="viewport" content="width=device-width">
-  <link rel="canonical" href="http://www.koffijberg.nl{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="https://www.koffijberg.nl{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <link rel="shortcut icon" type="image/png" href="/img/icon-196x196.png">
     <link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png">
@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="{{ "/css/combined.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
 
-  <meta property="og:image" content="http://www.koffijberg.nl{% if page.image %}{{ page.image }}{% else %}/img/kapper-amsterdam-dames1.jpg{% endif %}"/>
+  <meta property="og:image" content="https://www.koffijberg.nl{% if page.image %}{{ page.image }}{% else %}/img/kapper-amsterdam-dames1.jpg{% endif %}"/>
 
   <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700' rel='stylesheet' type='text/css'>

@@ -15,4 +15,4 @@ Deze haarkleuren zijn limited edition en alleen dit jaar verkrijgbaar. Op de fot
 
 ![](/uploads1/versions/kapper-amsterdam-haar-kleuring-playful-pearl---x----250-250x---.jpg)![](/uploads1/versions/kapper-amsterdam-haar-kleuring-proud-brown---x----250-250x---.jpg)
 
-**[Vraag een afspraak aan!](http://www.koffijberg.nl/contact/)**
+**[Vraag een afspraak aan!](https://www.koffijberg.nl/contact/)**

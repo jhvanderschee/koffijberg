@@ -9,7 +9,7 @@ alignment: top
 
 **De oplossing voor al jouw haar- en hoofdhuidproblemen!**
 
-**Bij Koffijberg Hairdressers we’re all about hair.****Dat is natuurlijk vanzelfsprekend, wij zijn tenslotte haar professionals en geloven dat je met de nieuwste en juiste technieken je conditie van je haar en hoofdhuid kunt verbeteren. In dit artikel vertellen we jou welke [behandelingen](http://www.koffijberg.nl/#behandelingen)****wij je kunnen aanbieden om van die vervelende haar- en hoofdhuidproblemen af te komen. Lees je mee?**
+**Bij Koffijberg Hairdressers we’re all about hair.****Dat is natuurlijk vanzelfsprekend, wij zijn tenslotte haar professionals en geloven dat je met de nieuwste en juiste technieken je conditie van je haar en hoofdhuid kunt verbeteren. In dit artikel vertellen we jou welke [behandelingen](https://www.koffijberg.nl/#behandelingen)****wij je kunnen aanbieden om van die vervelende haar- en hoofdhuidproblemen af te komen. Lees je mee?**
 
 **Haar- en hoofdhuidproblemen**
 
@@ -31,4 +31,4 @@ Samen met één van onze kappers, selecteren wij een behandeling en kan je fijn 
 
 In totaal hebben we zes verschillende behandelingen waarbij we werken met de merken Keune en Kérastase. Je kunt een behandeling boeken van 30 minuten, maar ook van 60 minuten, uiteraard is dit geheel afhankelijk van jouw wensen. De zes behandelingen kunnen bestaan uit een ultieme **Keune So Pure welness experience** tot een **Kérastase hoofdhuid behandeling** waarbij de hoofdhuid wordt gezuiverd in drie stappen met o.a. een shampoo, klei scrub, masker en [Clarisonic brush](/nieuws/2016/12/30/tools-treatment-room/). Ook voor **beschadigd haar met gespleten punten** is een speciale behandeling ontwikkeld waardoor het haar van binnenuit weer wordt opgebouwd.
 
-Wil jij geen last meer hebben van pluizig, onhandelbaar haar of wil jij nu eindelijk ook eens af van die vervelende roos in je haar? Verwen jezelf dan eens met een van onze Treatment room behandelingen. [Bekijk hier](http://www.koffijberg.nl/#behandelingen) al onze behandelingen of neem direct contact op voor het maken van een afspraak via telefoonnummer 020-673 23 74, Whatsapp 06-47882233, per mail receptie@koffijberg.nl  of [klik hier](/contact/).
+Wil jij geen last meer hebben van pluizig, onhandelbaar haar of wil jij nu eindelijk ook eens af van die vervelende roos in je haar? Verwen jezelf dan eens met een van onze Treatment room behandelingen. [Bekijk hier](https://www.koffijberg.nl/#behandelingen) al onze behandelingen of neem direct contact op voor het maken van een afspraak via telefoonnummer 020-673 23 74, Whatsapp 06-47882233, per mail receptie@koffijberg.nl  of [klik hier](/contact/).

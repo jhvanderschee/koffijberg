@@ -13,4 +13,4 @@ text_shadow_color: '#000000'
 
 De gezellige, maar ook hele drukke,<br>kerstperiode breekt weer aan!<br>Wil je verzekerd zijn van een afspraak<br>op jouw favoriete dag en tijdstip?
 
-[Vraag direct een afspraak aan!](http://www.koffijberg.nl/contact/)
+[Vraag direct een afspraak aan!](https://www.koffijberg.nl/contact/)

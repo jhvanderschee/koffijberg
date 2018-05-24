@@ -21,4 +21,4 @@ Uiteraard adviseren wij jou hoe jij je haar het beste kunt verzorgen en stylen. 
 
 ![](/uploads1/versions/kapper-herentrend-2018-amsterdam-4---x----250-296x---.jpg)
 
-Meer leuke blogs van ons lezen? [Klik dan hier!](http://www.koffijberg.nl/nieuws/)
+Meer leuke blogs van ons lezen? [Klik dan hier!](https://www.koffijberg.nl/nieuws/)
