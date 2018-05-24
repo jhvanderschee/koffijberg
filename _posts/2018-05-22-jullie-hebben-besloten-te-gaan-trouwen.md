@@ -62,6 +62,6 @@ Er zijn ook een paar dingen die je beter kunt laten. Zo wil je niet het risico l
 
 En het allerbelangrijkst: Geniet enorm van de mooie dag die komen gaat en alles wat erbij komt kijken. Hij is zo snel voorbij. En zeg nou zelf, als jij als bruid of bruidegom de sterren van de hemel straalt, dan kan die mooie dag niet meer stuk. Veel geluk samen!
 
-[Voor nog meer informatie klik je hier.](http://www.koffijberg.nl/behandelingen/bruidskapsels/){: target="_blank"}
+[Voor nog meer informatie klik je hier.](https://www.koffijberg.nl/behandelingen/bruidskapsels/){: target="_blank"}
 
 Groet Peter

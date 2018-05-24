@@ -22,6 +22,6 @@ Voor een optimaal persoonlijke behandeling kunnen de kappers en visagisten uit o
 
 Jouw trouwdag moet in alle opzichten een hoogtepunt zijn. Daarom zorgen wij voor een perfecte look.
 
-[Meer informatie of een vrijblijvende afspraak aanvragen? klik hier](http://www.koffijberg.nl/contact/){: target="_blank"}
+[Meer informatie of een vrijblijvende afspraak aanvragen? klik hier](https://www.koffijberg.nl/contact/){: target="_blank"}
 
 &nbsp;
