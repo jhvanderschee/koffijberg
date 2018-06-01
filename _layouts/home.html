@@ -228,7 +228,7 @@
                         <ul class="ch-grid">{% for d in members %}<li>
                             <div class="ch-item ch-img-1" style="background-image: url({{ d.image | replace: " ","%20" }});" onclick="document.location.href='{{ d.url }}';">
                               <div class="ch-info">
-                                <h3>{{ d.naam }}</h3>
+                                <div class="h3">{{ d.naam }}</div>
                                 <p>{{ d.functie }}</p>
                               </div>
                             </div>
