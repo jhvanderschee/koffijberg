@@ -8,7 +8,9 @@
   <meta name="description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}">
 
   <meta id="viewport" name="viewport" content="width=device-width">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  {% asssign pageurl = page.url %}
+  {% if page.url == '/' %}{% asssign pageurl = '' %}{% endif %}
+  <link rel="canonical" href="{{ pageurl | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <link rel="shortcut icon" type="image/png" href="/img/icon-196x196.png">
     <link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png">
