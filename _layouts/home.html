@@ -91,55 +91,55 @@
                               <tr><td><b>Dames</b></td><td class="text-center"><b>Stylist</b></td><td class="text-center"><b>Top-Stylist</b></td><td class="text-center"><b>Master-Stylist<sup>1</sup></b></td></tr>
                               {% for d in site.data.treatments.ladies %}
                                   {% for p in d.prijs %}
-                                  <tr><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" alt="Meer informatie" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr><td colspan="4"><br /><b>Heren</b></td></tr>
                               {% for d in site.data.treatments.gents %}
                                   {% for p in d.prijs %}
-                                  <tr><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" alt="Meer informatie" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr><td colspan="4"><br /><b>Kinderen / jongeren / studenten<sup>2</sup></b></td></tr>
                               {% for d in site.data.treatments.discounts %}
                                   {% for p in d.prijs %}
-                                  <tr><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" alt="Meer informatie" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Kleur<sup>3</sup></b></td></tr>
                               {% for d in site.data.treatments.colorings %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" alt="Meer informatie" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Blow-dry-area</b></td></tr>
                               {% for d in site.data.treatments.blow-dry %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" alt="Meer informatie" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Wassen föhnen</b></td></tr>
                               {% for d in site.data.treatments.wash-and-dry %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" alt="Meer informatie" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Beauty area</b></td></tr>
                               {% for d in site.data.treatments.specials %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" alt="Meer informatie" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Treatment room</b></td></tr>
                               {% for d in site.data.treatments.treatment-room %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" alt="Meer informatie" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               <tr class="expand1"><td colspan="4"><br /><b>Extensions<sup>4</sup></b></td></tr>
                               {% for d in site.data.treatments.extensions %}
                                   {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
+                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" alt="Meer informatie" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
                               </table><br />
@@ -181,7 +181,7 @@
                           <h1 class="post-title editable">Blow Dry Area</h1>
                         </header>
                                               
-                        <div class="post-content"><div class="editable"><p><img src="img/blowdryarea.jpg" style="margin-bottom: 15px; cursor: pointer;" onclick="document.location.href='behandelingen/blow-dry/';" /><br />D&egrave; trend in Amerika nu ook bij ons in de kapsalon: de Blow Dry Area. Binnen 30 minuten f&ouml;hnen wij je haar of verzorgen een updo. Jij geniet ondertussen van een hapje en een drankje. Je komt met gewassen en droog haar naar onze kapsalon. Daar kies je uit een van onze looks en wij zorgen ervoor dat je na een half uurtje met een catwalk look onze kapsalon verlaat. Een blow dry voor je haar is snel en betaalbaar. Onverwacht een belangrijke zakelijke afspraak? Of vanavond een feestje? Bel ons of loop even binnen en <em>book a blow-out!</em></p></div>
+                        <div class="post-content"><div class="editable"><p><img src="img/blowdryarea.jpg" style="margin-bottom: 15px; cursor: pointer;" onclick="document.location.href='behandelingen/blow-dry/';" alt="Blow Dry Area" /><br />D&egrave; trend in Amerika nu ook bij ons in de kapsalon: de Blow Dry Area. Binnen 30 minuten f&ouml;hnen wij je haar of verzorgen een updo. Jij geniet ondertussen van een hapje en een drankje. Je komt met gewassen en droog haar naar onze kapsalon. Daar kies je uit een van onze looks en wij zorgen ervoor dat je na een half uurtje met een catwalk look onze kapsalon verlaat. Een blow dry voor je haar is snel en betaalbaar. Onverwacht een belangrijke zakelijke afspraak? Of vanavond een feestje? Bel ons of loop even binnen en <em>book a blow-out!</em></p></div>
                               <a href="/contact" class="btn btn-primary">Maak een afspraak</a>
                         </div>
                 </article>
