@@ -9,7 +9,7 @@
 
   <meta id="viewport" name="viewport" content="width=device-width">
   {% asssign pageurl = page.url %}
-  {% if page.url == '/' %}{% asssign pageurl = '' %}{% endif %}
+  {% if page.url == '/index.html' %}{% asssign pageurl = '' %}{% endif %}
   <link rel="canonical" href="{{ pageurl | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <link rel="shortcut icon" type="image/png" href="/img/icon-196x196.png">
