@@ -1,6 +1,6 @@
 ---
 title: Koffijberg kiest voor L'Oréal
-image: /uploads/logo-groot-loreal-3.jpg
+image: /uploads/loreal.jpg
 alignment: middle
 ---
 
