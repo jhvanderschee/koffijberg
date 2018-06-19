@@ -191,18 +191,6 @@ specials:
         topstylist: € 28.50
         masterstylist: € 28.50
     treatment: brow-area
-  - item: Wenkbrauwen Epileren / Harsen & Verven + Wimpers Verven
-    prijs:
-      - stylist: € 36.75
-        topstylist: € 36.75
-        masterstylist: € 36.75
-    treatment: brow-area
-  - item: Wenkbrauwen Epileren / Harsen & Wimpers Verven
-    prijs:
-      - stylist: € 28.00
-        topstylist: € 28.00
-        masterstylist: € 28.00
-    treatment: brow-area
   - item: Bruidskapsels
     prijs:
       - stylist: n.v.t.
