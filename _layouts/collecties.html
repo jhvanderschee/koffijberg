@@ -22,8 +22,7 @@
                                              
                         <div class="post-content">
                             {{ content }}
-                            {% assign sitecollecties = site.collecties | sort: 'date' %}
-                            {% assign sitecollecties = site.collecties | reverse %}
+                            {% assign sitecollecties = site.collecties | sort: 'date' | reverse %}
                             {% for post in sitecollecties %}
                                 {% if forloop.index0 < 2 %}
                                 {% for item in post.images %}
@@ -39,8 +38,7 @@
                                 {% endif %}
                             {% endfor %}
                             
-                            {% assign sitecollecties = site.collecties | sort: 'date' %}
-                            {% assign sitecollecties = site.collecties | reverse %}
+                            {% assign sitecollecties = site.collecties | sort: 'date' | reverse %}
                             {% for post in sitecollecties %}
                                 <p style='margin:0; padding: 0;'><a href="{{ post.url }}">{{ post.title }}</a> - {% assign m = post.date | date: "%-m" %}
                                   {% case m %}
