@@ -176,9 +176,17 @@ box-shadow: none;
 .intro .btn:hover {color: #241a1f;}
 .intro .btn, .intro h1 {color: #241a1f;}
 .intro .btn-primary {color: white;}
-.intro.dames > div {background: #c3c3c3 url('../img/kapper-amsterdam-dames1.jpg') center top no-repeat; height: 800px; }
-.intro.heren > div {background: #c3c3c3 url('../img/kapper-amsterdam-heren1.jpg') center top no-repeat; height: 800px; }
-.intro.koffijberg > div {background: #c3c3c3 url('../img/kapper-amsterdam-koffijberg1.jpg') center top no-repeat; height: 800px; }
+.intro.image1 > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg1.jpg') center top no-repeat; height: 800px; }
+.intro.image2 > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg2.jpg') center top no-repeat; height: 800px; }
+.intro.image3 > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg3.jpg') center top no-repeat; height: 800px; }
+.intro.image4 > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg4.jpg') center top no-repeat; height: 800px; }
+.intro.image5 > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg5.jpg') center top no-repeat; height: 800px; }
+.intro.image6 > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg6.jpg') center top no-repeat; height: 800px; }
+.intro.image7 > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg7.jpg') center top no-repeat; height: 800px; }
+.intro.image8 > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg8.jpg') center top no-repeat; height: 800px; }
+.intro.image9 > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg9.jpg') center top no-repeat; height: 800px; }
+
+.intro.koffijberg > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg1.jpg') center top no-repeat; height: 800px; }
 .intro .highlight {text-align: center; padding: 80px 15px 0;}
 .intro .highlight table {height: 720px;}
 .intro .highlight article {display: none;}
