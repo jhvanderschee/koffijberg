@@ -156,7 +156,7 @@ $( document ).ready(function() {
 	  if($(window).scrollTop()) $( ".arrow" ).hide(  );
 	  else if(!$('body').hasClass('touch')) $( ".arrow" ).show( );
 	});
-	
+
 	showslide($('.highlight article').first(),true);
 	
 	$('a').click(function(){
