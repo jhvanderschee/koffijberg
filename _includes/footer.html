@@ -37,7 +37,7 @@
 	<div class="close"><a onclick="$( '#popup' ).hide(); $( '#popup .videoWrapper' ).remove();" style="cursor: pointer;"><i class="fa icon-cancel-2"></i> </A></div>	
     <style>#popup div.popupcontent a {background: {{ popup.button_color }};}
     #popup div.popupcontent a:hover {background: {{ popup.button_hover_color }};}</style>
-	{% if popup.youtube_id %}<div class="popupcontent" style="padding: 0; margin: 0;"><div class="videoWrapper" style="margin-bottom: 0;"><iframe src="" data-src="https://www.youtube.com/embed/{{ popup.youtube_id }}?rel=0&amp;showinfo=0&amp;controls=0&amp;autoplay=1" allowfullscreen="" frameborder="0" width="720" height="420"></iframe></div></div>{% else %}<div class="popupcontent {% if popup.large_text %}large_text{% endif %}" style="{% if popup.text_shadow == true %}text-shadow: 0px 0px 7px {{ popup.text_shadow_color }};{% endif %} color: {{ popup.text_color }};">{{ popup.content }}</div>{% endif %}
+	{% if popup.youtube_id %}<div class="popupcontent" style="padding: 0; margin: 0;"><div class="videoWrapper" style="margin-bottom: 0;"><iframe src="" data-src="https://www.youtube.com/embed/{{ popup.youtube_id }}?rel=0&amp;showinfo=0&amp;controls=0&amp;autoplay=1&amp;mute=1" allowfullscreen="" frameborder="0" width="720" height="420"></iframe></div></div>{% else %}<div class="popupcontent {% if popup.large_text %}large_text{% endif %}" style="{% if popup.text_shadow == true %}text-shadow: 0px 0px 7px {{ popup.text_shadow_color }};{% endif %} color: {{ popup.text_color }};">{{ popup.content }}</div>{% endif %}
 
 </div></td></tr></table>
 {% endif %}{% endfor %}
