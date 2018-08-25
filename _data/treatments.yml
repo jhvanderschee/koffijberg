@@ -198,18 +198,6 @@ specials:
         masterstylist: op aanvraag
     treatment: bruidskapsels
 treatment-room:
-  - item: Keune SoPure Ritueel
-    prijs:
-      - stylist: € 37.50
-        topstylist: € 37.50
-        masterstylist: n.v.t.
-    treatment: keune-sopure-ritueel
-  - item: Keune Care Ritueel
-    prijs:
-      - stylist: € 37.50
-        topstylist: € 37.50
-        masterstylist: n.v.t.
-    treatment: keune-care-treatment
   - item: Kerastase Hoofdhuid Ritueel
     prijs:
       - stylist: € 32.50
