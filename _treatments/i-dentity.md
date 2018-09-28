@@ -20,4 +20,4 @@ Onze nieuwe metamorfose I-dentity bestaat uit verschillende onderdelen die ook l
 
 Make-up advies nodig na een Color-I-dentity behandeling? Wij zijn er voor je in onze Beauty Area. Wij adviseren en helpen je graag om je make-up aan te passen aan je nieuwe haarkleur. Wij geloven in less is more door de basics (foundation, concealer, primer, mascara en blush) zo toe te passen dat het beste van jou naar voren komt. Maak een afspraak voor een professioneel advies van een van onze visagistes!
 
-![](/uploads/2018-05-06-koffijberg-302.jpg)
+![](blob:https://app.cloudcannon.com/e88380e9-f767-41c6-98ed-3113eb9566a6)
