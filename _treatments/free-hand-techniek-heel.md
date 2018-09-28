@@ -10,4 +10,4 @@ Natuurlijk kijken we tijdens het kleuren ook naar de gesteldheid van je haar en 
 
 Na het kleuren kan je ervoor kiezen je haar door een van onze topkappers in model te laten knippen. Of je kunt het helemaal laten f&ouml;hnen waardoor je kapsel mooi gestyled blijft. Natuurlijk mag je het ook alleen even door ons laten drogen.
 
-Koffijberg maakt alleen gebruik van de allerbeste producten. In onze kapsalon werken we met de merken L'oreal en K&eacute;rastase.
+Koffijberg maakt alleen gebruik van de allerbeste producten. In onze kapsalon werken we met de merken L'Or&eacute;al Professionel en K&eacute;rastase.
