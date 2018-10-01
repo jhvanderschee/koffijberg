@@ -4,13 +4,11 @@ image:
 alignment: middle
 ---
 
-&nbsp;
-
 Heb jij mooie krullen en ben je daar trots op? Dan is deze contest echt iets voor jou!
 
 Helemaal wanneer je in jouw omgeving nog een vriend, vriendin, zus, broer, vader, moeder, dochter of zoon hebt met prachtige krullen. Want wie wil er nu niet samen gezellig naar de kapper, daar een professionele behandeling krijgen en als afsluiting samen op de foto gaan?
 
-![](/uploads/krullen-maken.jpg)![](blob:https://app.cloudcannon.com/761f948a-a884-4bdc-8724-275d184b6502)
+![](/uploads/krullen-maken.jpg)![](blob:https://app.cloudcannon.com/761f948a-a884-4bdc-8724-275d184b6502)![](/uploads/krullen-kapper-mareille-2.jpg)
 
 Hebben jullie mooie sterke krullen, fijne krullen, ‘mixed’ krullen of grove krullen? Heb je blonde krullen, donkere krullen, rode krullen of mooie grijze krullen? Ben je jong, middelbaar, ouder, of nog een kind? You name it, we love it!
 
@@ -18,7 +16,7 @@ Hebben jullie mooie sterke krullen, fijne krullen, ‘mixed’ krullen of grove 
 
 **Hoe doe je mee?**
 
-Stuur voor 28 Oktober 2018 een toffe foto van jullie (samen of apart) naar ons toe. En zorg vooral dat jullie krullen op een bijzondere manier in beeld komen.&nbsp; Insturen kan via Messenger (Koffijberg Hairdressers) of via Instagram (koffijberghairdressers). Uiteraard kunnen jullie de foto’s ook mailen naar receptie@koffijberg.nl. Vermeld je naam en email adres en vertel waarom jullie het verdienen om deze contest te winnen.&nbsp;
+Stuur voor 28 oktober 2018 een toffe foto van jullie (samen of apart) naar ons toe. En zorg vooral dat jullie krullen op een bijzondere manier in beeld komen.&nbsp; Insturen kan via Messenger (Koffijberg Hairdressers) of via Instagram (koffijberghairdressers). Uiteraard kunnen jullie de foto’s ook mailen naar receptie@koffijberg.nl. Vermeld je naam en email adres en vertel waarom jullie het verdienen om deze contest te winnen.&nbsp;
 
 **Gratis topbehandeling en professioneel op de foto**
 
@@ -32,11 +30,11 @@ Als kers op de taart krijgen jullie ook nog een goodiebag mee t.w.v. € 75,00 m
 
 **Bekendmaking winnaars**
 
-De winnaars worden op 5 November bekendgemaakt.
+De winnaars worden op 5 november 2018 bekendgemaakt.
 
 **Datum fotoshoot**
 
-De fotoshoot van de winnaars is op 14 November 2018
+De fotoshoot van de winnaars is op 14 november 2018
 
 **Juryleden**
 
@@ -50,7 +48,7 @@ Ruim twee jaar is Anne-Kaisa verantwoordelijk voor de communicatie strategie van
 
 ![](/uploads/jury-1.jpg)
 
-**Roxana Kotzebue en Angela Hermus zijn Black & Mixed hair Educators.**
+**Roxana Kotzebue en Angela Hermus zijn Black & Mixed Hair Educators.**
 
 Dat wil zeggen dat elke klant, met welke haarsoort dan ook, door hun vakkundig wordt behandeld. Zij hebben&nbsp; voor elke haarsoort een aangepaste techniek en productlijn en zijn pionier in het lesgeven hierin. Zij leiden graag Europees-haar-kappers op tot Multi-haar-kappers. Dit doen zij met veel enthousiasme en liefde voor haar, uw haar!
 
