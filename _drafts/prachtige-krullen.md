@@ -1,5 +1,9 @@
 ---
 title: Prachtige Krullen
-image: /uploads/2018-05-07-koffijberg-1607.jpg
+image:
 alignment: middle
 ---
+
+&nbsp;
+
+https://youtu.be/4b98Pc0VeU0&nbsp;
