@@ -1,5 +1,5 @@
 ---
-title: Heb jij de mooiste krullen van Amsterdam?
+title: 'Contest: de mooiste krullen van Amsterdam!'
 image:
 alignment: middle
 ---
@@ -24,7 +24,11 @@ Als kers op de taart krijgen jullie ook nog een goodybag mee t.w.v. € 75 met p
 
 Uit de inzendingen worden de mooiste krullen gekozen door een jury. De juryleden zijn Anne-Kaisa, Roxana Kotzebue en Angela Hermus en Kimm Koffijberg.&nbsp;
 
-Anne-Kaisa
+&nbsp;
+
+Anne-Kaisa Faber - Brand Communication Manager L’Or&eacute;al Professionele Product Divisie
+
+Ruim twee jaar is Anne-Kaisa verantwoordelijk voor de communicatie strategie van de professionele product divisie van L’Or&eacute;al. Met haar tien jaar ervaring als editor en director bij glossy magazines staat storytelling en beleving voorop en is de liefde voor het beauty vak ontstaan. Voorop staat het brand imago van de totaal tien professionnele haar en skincare merken, waaronder L’Or&eacute;al Professionnel en K&eacute;rastase – de twee merken waar Koffijberg sinds dit jaar mee werkt. Met als trotse nieuwe partner slaan we graag de handen in &eacute;&eacute;n met Koffijberg Hairdressers &nbsp;en met Kimm Koffijberg als Color Consultant voor L’Or&eacute;al Professionnel.
 
 ![](/uploads/jury-1.jpg)
 
