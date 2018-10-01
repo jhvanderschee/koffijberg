@@ -22,7 +22,7 @@ Stuur voor 28 Oktober 2018 een toffe foto van jullie (samen of apart) naar ons t
 
 **Gratis topbehandeling en professioneel op de foto**
 
-De winnaars worden gratis door een topkapper uit het team van Koffijberg behandeld. Zij of hij zal naar jullie wensen luisteren, een professioneel advies geven, jullie haar knippen en/of kleuren en mooi stylen. Reken maar dat we jullie krullen op z’n mooist laten zien!&nbsp;
+De winnaars worden gratis door een topkapper uit het team van Koffijberg&nbsp; Hairdressers behandeld. Zij of hij zal naar jullie wensen luisteren, een professioneel advies geven, jullie haar knippen en/of kleuren en mooi stylen. Reken maar dat we jullie krullen op z’n mooist laten zien!&nbsp;
 
 Als jullie klaar zijn, zet een professionele fotograaf jullie op de foto\*. Uiteraard ontvangen jij en je partner in crime een foto van het prachtige eindresultaat.
 
