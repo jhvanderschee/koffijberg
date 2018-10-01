@@ -24,7 +24,7 @@ Als kers op de taart krijgen jullie ook nog een goodybag mee t.w.v. € 75 met p
 
 Uit de inzendingen worden de mooiste krullen gekozen door een jury. De juryleden zijn Anne-Kaisa, Roxana Kotzebue en Angela Hermus en Kimm Koffijberg.&nbsp;
 
-&nbsp;
+![](/uploads/ak-loreal-kerastase-kapper.jpg)
 
 Anne-Kaisa Faber - Brand Communication Manager L’Or&eacute;al Professionele Product Divisie
 
@@ -32,11 +32,7 @@ Ruim twee jaar is Anne-Kaisa verantwoordelijk voor de communicatie strategie van
 
 ![](/uploads/jury-1.jpg)
 
-Wij zijn Roxana Kotzebue en Angela Hermus en wij zijn Black & Mixed hair Educators. Trots zijn we om Multi haar kappers te zijn, dat wil zeggen elke klant, met welke haarsoort dan ook, door ons vakkundig behandeld kan worden. Met voor elke haarsoort een aangepaste techniek en productlijn en daarin pionier in het lesgeven hierin.
-
-Kijkend naar het straatbeeld zien we gekruld haar in alle vormen steeds meer toenemen en op deze vraag behoort de kapper het aanbod te bieden.
-
-Wij leiden graag Europees haar kappers op tot Multi haar kappers. En dit doen wij met veel enthousiasme en liefde voor haar, uw haar!
+Wij zijn Roxana Kotzebue en Angela Hermus en wij zijn Black & Mixed hair Educators. Trots zijn we om Multi haar kappers te zijn, dat wil zeggen elke klant, met welke haarsoort dan ook, door ons vakkundig behandeld kan worden. Met voor elke haarsoort een aangepaste techniek en productlijn en daarin pionier in het lesgeven hierin. Kijkend naar het straatbeeld zien we gekruld haar in alle vormen steeds meer toenemen en op deze vraag behoort de kapper het aanbod te bieden. Wij leiden graag Europees haar kappers op tot Multi haar kappers. En dit doen wij met veel enthousiasme en liefde voor haar, uw haar!
 
 Hoe doe je mee?:
 
