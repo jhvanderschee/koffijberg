@@ -56,7 +56,7 @@ Kijkend naar het straatbeeld zien we gekruld haar in alle vormen steeds meer toe
 
 ![](/uploads/kimm-kapper-amsterdam-krullen.jpg)
 
-**Kimm Koffijberg –Eigenaar Koffijberg Hiardresers en Color Consultant voor L’Or&eacute;al Professionnel.**
+**Kimm Koffijberg –Eigenaar Koffijberg Hairdresers en Color Consultant voor L’Or&eacute;al Professionnel.**
 
 Kimm Koffijberg heeft dezelfde passie voor het kappersvak als haar vader. Zij behoort tot de topkappers in Nederland. Naast eigenaar van kapsalon Koffijberg is Kimm Color Consultant voor L’Or&eacute;al Professionnel. Zij geeft masterclasses en ontwikkelt nieuwe creatieve kleurconcepten. Het allerbelangrijkste voor onze kapsalon is een brede interesse in onze klanten. Wij baseren ons advies niet alleen op uiterlijke kenmerken zoals gezichtsvorm en huidtype, wij zijn ge&iuml;nteresseerd in je hele lifestyle en geven je graag een advies dat volledig op jou is afgestemd. Bel ons gerust als je meer wilt weten, of loop even bij ons binnen. Een vraag via de site stellen of direct een afspraak maken kan natuurlijk ook. Bij Koffijberg nemen we alle tijd om aan de hand van jouw lifestyle en jouw wensen tot een passend persoonlijk advies te komen.
 
