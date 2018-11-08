@@ -2,7 +2,7 @@
 title: Mareille
 naam: Mareille
 image: /uploads/kapper-amsterdam-mareille-wenkbrauw-harsen.jpg
-functie: Receptioniste
+functie: Receptioniste - Wenkbrauw Specilaiste
 order: '34'
 ---
 
