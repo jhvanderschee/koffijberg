@@ -3,7 +3,7 @@ title: Peter
 naam: Peter
 image: /img/profielfotos/IMG_0360_0000s_0017_Layer 0.jpg
 functie: Master-stylist en Kleurspecialist
-order: 2
+order_number: 2
 ---
 
 

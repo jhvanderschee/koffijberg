@@ -3,7 +3,7 @@ title: Bo
 naam: Bo
 image: /img/profielfotos/IMG_0360_0000s_0006_Layer 11.jpg
 functie: Top-Stylist
-order: 10
+order_number: 10
 ---
 
 "Van jongs af aan ben ik al bezig met haar. Vlechten was toen al mijn passie. Dit komt vooral omdat mijn moeder ook kapper is. Ik ben tijdens mijn studie als junior stylist in de kapsalon bij Koffijberg komen werken. Na het afronden van mijn opleiding mocht ik direct als kapper aan de slag.

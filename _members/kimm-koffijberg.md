@@ -3,7 +3,7 @@ title: Kimm Koffijberg
 naam: Kimm
 image: /img/profielfotos/IMG_0360_0000s_0002_Layer 15.jpg
 functie: 'Master-Stylist, Kleurspecialist en Eigenaar'
-order: -1
+order_number: -1
 ---
 
 
