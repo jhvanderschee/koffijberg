@@ -81,8 +81,8 @@ body.iOS .salon3 {background-attachment: scroll;}
 .visualnews a, .visualnews p a:hover {text-decoration: none;}
 .visualnews p a {text-decoration: underline;}
 .visualnews h3 a {color: #241a1f;}
-.visualnews .btn-primary {color: white !important; border_number: 1px solid $highlightkleur !important; background: $highlightkleur!important;}
-.visualnews .btn-primary:hover {border_number: 1px solid $accentkleur!important; background: $accentkleur!important;}
+.visualnews .btn-primary {color: white !important; border: 1px solid $highlightkleur !important; background: $highlightkleur!important;}
+.visualnews .btn-primary:hover {border: 1px solid $accentkleur!important; background: $accentkleur!important;}
 .visualnews a.btn-default {color: #241a1f;}
 .visualnews a.btn-default:hover, .visualnews a.btn-default:focus {color: white;}
 .visualnews p {margin-bottom: 20px;}
@@ -128,7 +128,7 @@ body.iOS .salon3 {background-attachment: scroll;}
     background: $highlightkleur;
     padding: 6px 12px; display: inline-block;
     color: white; text-decoration: none; padding-left: 25px; padding-right: 25px; border-radius: 0; 
-    border_number: 0; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; text-transform: uppercase;
+    border: 0; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; text-transform: uppercase;
     -webkit-transition: all 0.2s ease;                  
     -moz-transition: all 0.2s ease;                 
     -o-transition: all 0.2s ease;   
@@ -171,9 +171,9 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 #likeournews {padding: 20px; background: $highlightkleur; color: white; margin-bottom: 30px;}
 #likeournews form {float: right; padding-right: 0; margin-top: -4px;}
-#likeournews input[type='submit'] {vertical-align: top; display: inline-block; background: #241a1f!important; border_number: 1px solid #241a1f!important;}
-#likeournews input[type='submit']:hover {background: $highlightkleur!important; border_number: 1px solid white!important;}
-#likeournews input[type='email'] {font-size: 15px; background: rgba(255,255,255,1); color: #241a1f; vertical-align: top; height: 38px; display: inline-block; width: 300px; border-radius: 0; border_number: 0;
+#likeournews input[type='submit'] {vertical-align: top; display: inline-block; background: #241a1f!important; border: 1px solid #241a1f!important;}
+#likeournews input[type='submit']:hover {background: $highlightkleur!important; border: 1px solid white!important;}
+#likeournews input[type='email'] {font-size: 15px; background: rgba(255,255,255,1); color: #241a1f; vertical-align: top; height: 38px; display: inline-block; width: 300px; border-radius: 0; border: 0;
 -webkit-box-shadow: none;
 box-shadow: none;
 }
@@ -263,7 +263,7 @@ footer a, footer a:hover, footer a:focus {color: white;}
 .site-footer2 a {text-decoration: none;}
 
 .navbar {border-radius: 0px!important;}
-.navbar-default {z-index: 2; position: absolute; width: 100%; background: transparent; border_number: 0; text-transform: uppercase;}
+.navbar-default {z-index: 2; position: absolute; width: 100%; background: transparent; border: 0; text-transform: uppercase;}
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {opacity: 1; text-decoration: none; border-top: 3px solid transparent; color: #241a1f; margin: 20px 0 25px 30px; padding: 4px 0;}
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {border-top: 3px solid #241a1f;}
@@ -288,7 +288,7 @@ footer a, footer a:hover, footer a:focus {color: white;}
 .page-template .navbar-default .navbar-nav>li>a:focus, .page-template .navbar-default .navbar-nav>li>a:hover, .page-template .navbar-default .navbar-brand, .page-template .navbar-default .navbar-nav>li>a {color: $basiskleur;}
 .navbar-default.attop .navbar-nav>li>a:hover, .page-template .navbar-default .navbar-nav>li>a:hover {border-color: $basiskleur;}
 .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {margin-left: 0px!important;}
-.navmenu-default {border_number: 0; background-color: $accentkleur; border-color: transparent;}
+.navmenu-default {border: 0; background-color: $accentkleur; border-color: transparent;}
 .navmenu-default .navmenu-nav>li>a {text-decoration: none; color: $tekstkleur_op_accent;}
 .navmenu-default .navmenu-nav>li>a:hover, .navbar-default .navbar-offcanvas .navmenu-nav>li>a:hover, .navmenu-default .navmenu-nav>li>a:focus, .navbar-default .navbar-offcanvas .navmenu-nav>li>a:focus { color: $tekstkleur_op_accent;}
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {color: $tekstkleur_op_basis;}
@@ -317,21 +317,21 @@ a {text-decoration: underline;}
 a:hover {text-decoration: none;}
 .post-content {font-family: 'PT Serif', serif; font-weight: 400; font-size: 15px; line-height: 2em;}
 
-.btn {color: white; text-decoration: none; padding-left: 25px; padding-right: 25px; border-radius: 0; border_number: 0; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; text-transform: uppercase;
+.btn {color: white; text-decoration: none; padding-left: 25px; padding-right: 25px; border-radius: 0; border: 0; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; text-transform: uppercase;
     -webkit-transition: all 0.2s ease;                  
     -moz-transition: all 0.2s ease;                 
     -o-transition: all 0.2s ease;   
     -ms-transition: all 0.2s ease;          
     transition: all 0.2s ease;
 }
-.btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; border_number: 1px solid $accentkleur !important; background: transparent; color: $accentkleur; -webkit-box-shadow: none; box-shadow: none;}
+.btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; border: 1px solid $accentkleur !important; background: transparent; color: $accentkleur; -webkit-box-shadow: none; box-shadow: none;}
 .btn-default:active:hover, .btn-default:focus, .btn-default:hover {background: $highlightkleur; border-color: $highlightkleur!important;}
-.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {opacity: 1; border_number: 1px solid $accentkleur !important; background: $accentkleur; color: $tekstkleur_op_accent; -webkit-box-shadow: none; box-shadow: none;}
+.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {opacity: 1; border: 1px solid $accentkleur !important; background: $accentkleur; color: $tekstkleur_op_accent; -webkit-box-shadow: none; box-shadow: none;}
 .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {background: $highlightkleur; border-color: $highlightkleur!important;}
 .btn-default:active:hover, .btn-default:hover, .btn-primary:active:hover, .btn-primary:hover {opacity: 1;}
 .btn:active:hover, .btn:focus, .btn:hover {color: white;}
-.intro .btn-primary:hover, .intro .btn-default {color: white !important; border_number: 1px solid $highlightkleur !important; background: $highlightkleur!important;}
-.intro .btn-primary, .intro .btn-default:hover {border_number: 1px solid $accentkleur!important; background: $accentkleur!important;}
+.intro .btn-primary:hover, .intro .btn-default {color: white !important; border: 1px solid $highlightkleur !important; background: $highlightkleur!important;}
+.intro .btn-primary, .intro .btn-default:hover {border: 1px solid $accentkleur!important; background: $accentkleur!important;}
 .fa {font-size: 180%; display: inline-block; cursor: pointer; margin: 0; position: relative; top: 3px;} 
 .form-group {color: #666;}
 .btn:active {-webkit-box-shadow: none; box-shadow: none;}
@@ -470,7 +470,7 @@ a:hover {text-decoration: none;}
   .desktop {display: inline;}
 form {padding-right: 30px; clear: both;}
 label {font-weight: normal;}
-.border {border_number: 6px solid white; box-shadow: 0px 0px 6px rgba(0,0,0,0.25);}
+.border {border: 6px solid white; box-shadow: 0px 0px 6px rgba(0,0,0,0.25);}
 .border img {margin-top: 0px;}
 .rotate {
     -ms-transform: rotate(3deg); /* IE 9 */
@@ -533,7 +533,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
   form, .twocols .post-content p {padding-right: 0px;}
 }
 @media all and (max-width: 767px) {
-	.navbar-default .navbar-collapse {background: $accentkleur; border_number: none;}
+	.navbar-default .navbar-collapse {background: $accentkleur; border: none;}
   .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {margin-left: 15px!important;}
   .ch-grid {
     -ms-transform: scale(0.9);
