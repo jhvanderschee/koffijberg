@@ -1,7 +1,8 @@
 ---
 title: Saverha
-naam: Bo
-image: /img/profielfotos/IMG_0360_0000s_0006_Layer 11.jpg
+naam: Saverha
+image: /uploads/kapper-amsterdam-saverha-junior-stylist.jpg
 functie: Top-Stylist
-order: 10
+order: '10'
 ---
+
