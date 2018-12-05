@@ -4,7 +4,6 @@ images:
   - image:
 ---
 
-
 K&eacute;rastase - Hoofdhuid (30 minuten)
 
 *Als je last hebt van roos en schilfers en/of een vette en/of een ge&iuml;rriteerde hoofdhuid is dit de behandeling voor jou.*
@@ -23,4 +22,4 @@ Heb jij aandacht voor de conditie van je haar en hoofdhuid? En wil je die verbet
 
 De producten voor thuisgebruik kan je in combinatie met deze behandeling direct met een korting van 25% aanschaffen.
 
-Als je een van onze behandelingen hebt uitgekozen, ga je fijn relaxen in een van onze massagestoelen. Wij verbeteren ondertussen de conditie van je haar en hoofdhuid met de speciaal op jou afgestemde verzorging en onze hightech tools [(de Clarisonic brush en de Micronizer)](/nieuws/2016/12/30/tools-treatment-room/). Met deze tools komt de verzorging nog dieper in je haar en hoofdhuid terecht. De behandeling is inclusief het drogen van je haar en een uitgebreide hoofdhuidmassage.
+Als je een van onze behandelingen hebt uitgekozen, ga je fijn relaxen in een van onze massagestoelen. Wij verbeteren ondertussen de conditie van je haar en hoofdhuid met de speciaal op jou afgestemde verzorging en onze hightech tools [(de Clarisonic brush en de Micronizer)](/nieuws/2016/12/30/tools-treatment-room/). Met deze tools komt de verzorging nog dieper in je haar en hoofdhuid terecht. De behandeling is inclusief een uitgebreide hoofdhuidmassage en exclusief het drogen van je haar.
