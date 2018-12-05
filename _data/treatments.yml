@@ -19,9 +19,9 @@ ladies:
     treatment: wassen-knippen-fohnen
   - item: Wassen-knippen-föhnen-middellang haar
     prijs:
-      - stylist: € 68.75
-        topstylist: € 90.50
-        masterstylist: € 98.90
+      - stylist: € 70.20
+        topstylist: € 93.20
+        masterstylist: € 101.80
     treatment: wassen-knippen-fohnen-middel-lang-haar
   - item: Wassen-knippen-föhnen-lang haar
     prijs:
