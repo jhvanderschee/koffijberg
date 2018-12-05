@@ -52,7 +52,7 @@ discounts:
 colorings:
   - item: Kleuring
     prijs:
-      - stylist: € 66.70
+      - stylist: € 66.00
         topstylist: € 66.70
         masterstylist: € 72.10
     treatment: kleuring
