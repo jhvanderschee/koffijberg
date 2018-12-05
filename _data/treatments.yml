@@ -106,9 +106,9 @@ colorings:
     treatment: free-hand-techniek
   - item: Free hand techniek heel
     prijs:
-      - stylist: € 190.70
-        topstylist: € 190.70
-        masterstylist: € 207.25
+      - stylist: € 206.70
+        topstylist: € 206.70
+        masterstylist: € 223.70
     treatment: free-hand-techniek-heel
   - item: Free hand techniek lang haar
     prijs:
