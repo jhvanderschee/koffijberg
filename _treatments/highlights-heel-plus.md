@@ -1,5 +1,5 @@
 ---
-title: Highlights heel Plus + Incl Smart Bond
+title: Highlights heel Plus + Smart Bond
 images:
   - image:
 ---
