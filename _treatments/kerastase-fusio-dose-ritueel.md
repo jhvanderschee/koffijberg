@@ -4,7 +4,6 @@ images:
   - image:
 ---
 
-
 K&eacute;rastase – Fusio-dose (45 minuten)
 
 *Fusio-dose behandelt twee behoeften van je haar en hoofdhuid tegelijkertijd en helemaal op maat*.
@@ -19,4 +18,4 @@ Heb jij aandacht voor de conditie van je haar en hoofdhuid? En wil je die verbet
 
 De producten voor thuisgebruik kan je in combinatie met deze behandeling direct met een korting van 25% aanschaffen.
 
-Als je een van onze behandelingen hebt uitgekozen, ga je fijn relaxen in een van onze massagestoelen. Wij verbeteren ondertussen de conditie van je haar en hoofdhuid met de speciaal op jou afgestemde verzorging en onze hightech tools (de Clarisonic brush en de Micronizer). Met deze tools komt de verzorging nog dieper in je haar en hoofdhuid terecht. De behandeling is inclusief het drogen van je haar en een uitgebreide hoofdhuidmassage.
+Als je een van onze behandelingen hebt uitgekozen, ga je fijn relaxen in een van onze massagestoelen. Wij verbeteren ondertussen de conditie van je haar en hoofdhuid met de speciaal op jou afgestemde verzorging en onze hightech tools (de Clarisonic brush en de Micronizer). Met deze tools komt de verzorging nog dieper in je haar en hoofdhuid terecht. De behandeling is inclusief een uitgebreide hoofdhuidmassage en exclusief het drogen van je haar.
