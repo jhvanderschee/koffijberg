@@ -1,6 +1,6 @@
 ---
 title: VANILLE BLOND!
-image:
+image: /uploads/kapper-high-lights-kleurspecialist-amsterdam-blond-haar-5.jpg
 alignment: middle
 ---
 
@@ -16,9 +16,13 @@ Kimm vertelt: “In dit geval is het belangrijk dat rondom je gezicht wel de koe
 
 Wij kleur specialisten kunnen goed spelen met verschillende karakter kleuren. Dat betekend dat er iriserende kleuren gecre&euml;erd kunnen worden. Dit is een mengeling van warm en koele karakters in 1 kleur. Super interessant!”
 
+![](/uploads/kapper-high-lights-kleurspecialist-amsterdam-blond-haar.jpg)![](blob:https://app.cloudcannon.com/49c6b7f8-0fa2-4b24-97ad-f09c2bc7ee4f)
+
 De kleurtechniek is essentieel!
 
 De perfecte warme of iriserende haarkleur valt of staat met de juist gekozen kleurtechniek. Een egale haarkleur kan prachtig zijn of spelen in de lengtes met kleurkarakters die mooi bij elkaar passen. Kimm onderbouwd: “Laat je ook eens adviseren bijvoorbeeld je haar eerst intu&iuml;tief lichter te laten kleuren als een balyage, ombre of freehand color en dan vervolgens het haar weer mooi te tonen met het gewenste karakter. Een toner betekent niets anders dan de opgelichte haren een toon naar wens te geven. Ben je meer van gestructureerde geplaatste high lights dan is dat natuurlijk ook prachtig. De high lights kunnen we ook een andere toon geven net als de intu&iuml;tieve kleur.”
+
+![](/uploads/kapper-high-lights-kleurspecialist-amsterdam-blond-haar-4.jpg)![](/uploads/kapper-high-lights-kleurspecialist-amsterdam-blond-haar-krullen.jpg)
 
 Om terug te komen op het eerdere verhaal van een koele huid toon gecombineerd met warme tonen in het haar is het mogelijk om met de intu&iuml;tieve kleuren of high lights deze wat verder van de hoofdhuid af te zetten zodat de koele basiskleur rondom het gezicht zichtbaar blijft.
 
