@@ -1,7 +1,7 @@
 ---
 title: Karin Overtoom
 naam: Karin
-image:
+image: /uploads/karin-overtoom-kapper-amsterdam.jpg
 functie: Creative Director
 order_number: 3
 ---
@@ -12,6 +12,6 @@ Karin Overtoom, Creative Director
 
 In de salon in het bruisende Amsterdam ontmoet ik elke dag weer nieuwe mensen. Morgen kun jij dat zijn! Ik luister met veel aandacht naar je en ik laat me graag door je inspireren. Ik leer je kijken naar jezelf en ik weet als geen ander wat goed geknipt haar met je kan doen.
 
-Dankzij mijn ervaring en expertise kan ik jou n&eacute;t dat extra vertrouwen geven dat je nodig hebt. Ik vind het heerlijk om een kapsel te cre&euml;ren dat &eacute;cht bij je past en je laat stralen. Mijn tip: zorg goed voor jezelf, dan ben je op zijn allermooist.
+Dankzij mijn ervaring en expertise kan ik jou nét dat extra vertrouwen geven dat je nodig hebt. Ik vind het heerlijk om een kapsel te creëren dat écht bij je past en je laat stralen. Mijn tip: zorg goed voor jezelf, dan ben je op zijn allermooist.
 
 Aanwezig: Ma / Di / Wo (om de week) / Vr / Za
