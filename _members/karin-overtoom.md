@@ -1,7 +1,7 @@
 ---
 title: Karin Overtoom
 naam: Karin
-image: /uploads/karin-overtoom-kapper-amsterdam.jpg
+image: /uploads/karin.jpg
 functie: Creative Director
 order_number: 3
 ---
