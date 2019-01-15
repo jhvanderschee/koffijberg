@@ -6,6 +6,8 @@ alignment: middle
 
 D.I.Y. Bo: Grove Krul met steile punten voor een los effect
 
+[...](https://youtu.be/zIP2xvxgfLc){: target="_blank"}
+
 Laat je inspireren door deze look van Bo.
 
 Heb jij soms ook moeite met het klepje van de krultang goed te gebruiken? Dan is deze techniek misschien extra fijn voor jou!
