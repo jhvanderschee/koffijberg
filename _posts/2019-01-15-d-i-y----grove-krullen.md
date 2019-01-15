@@ -4,11 +4,11 @@ image: /uploads/grove-krul-kapper-amsterdam.jpg
 alignment: middle
 ---
 
-D.I.Y. Bo: Grove Krul met steile punten voor een los effect
-
-[...](https://youtu.be/zIP2xvxgfLc){: target="_blank"}
+D.I.Y. Bo: Grove Krul met steile punten voor een los effec
 
 Laat je inspireren door deze look van Bo.
+
+https://youtu.be/zIP2xvxgfLc
 
 Heb jij soms ook moeite met het klepje van de krultang goed te gebruiken? Dan is deze techniek misschien extra fijn voor jou!
 
