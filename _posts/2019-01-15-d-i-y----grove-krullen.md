@@ -4,7 +4,7 @@ image: /uploads/grove-krul-kapper-amsterdam.jpg
 alignment: middle
 ---
 
-D.I.Y. Bo: Grove Krul met steile punten voor een los effec
+D.I.Y. Bo: Grove Krul met steile punten voor een los effect
 
 Laat je inspireren door deze look van Bo.
 
