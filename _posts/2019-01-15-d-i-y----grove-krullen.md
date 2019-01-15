@@ -1,6 +1,6 @@
 ---
 title: D.I.Y. -> Grove Krullen
-image: /uploads/koper-haar-kapper-amsterdam.jpg
+image: /uploads/grove-krul-kapper-amsterdam.jpg
 alignment: middle
 ---
 
