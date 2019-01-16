@@ -6,7 +6,7 @@ alignment: middle
 
 KLEUREXPERT KIMM KOFFIJBERG LEGT HET UIT
 
-Kleurrijk eenhoornhaar. Carnavalstrend of toch nog een jaartje m&eacute;&eacute;r dan een trend. Een blijvertje wellicht? Anyway, mocht je zin hebben in het meest sprookjesachtige kapsel, verf je het dan zelf, of brengt de salon uitkomst?
+Kleurrijk eenhoornhaar. Carnavalstrend of toch nog een jaartje méér dan een trend. Een blijvertje wellicht? Anyway, mocht je zin hebben in het meest sprookjesachtige kapsel, verf je het dan zelf, of brengt de salon uitkomst?
 
 We vragen het Kimm Koffijberg, deze topkapster zit 20 jaar in het kappersvak en is 15 jaar kleurspecialist. En dat ben je niet zomaar. “Ik heb me ontwikkelt door veel te kleuren, en veel met klanten te praten. Het goed verven van haar is verder een samenspel van kleurtechniek en kleurproduct.”
 
@@ -20,7 +20,7 @@ We vragen het Kimm Koffijberg, deze topkapster zit 20 jaar in het kappersvak en 
 
 **Wat gaat er dan allemaal fout?**
 
-“Mooi eenhoornhaar heeft te maken met goed ontkleuren, de juiste kleurplaatsing is belangrijk, &eacute;n het goed mengen van kleuren.
+“Mooi eenhoornhaar heeft te maken met goed ontkleuren, de juiste kleurplaatsing is belangrijk, én het goed mengen van kleuren.
 
 Wat thuis echt niet lukt en bij ons in de salon wel is het aanbrengen van een 3-dimensionaal effect. Dat doe je door een tussenstuk van het haar te pakken, dat bijvoorbeeld roze maken, en de punten bijvoorbeeld geel. Het gevolg is dan een prachtig 3-dimensionaal effect. Voor de kwaliteit en mooie techniek heb je toch echt de kapper nodig.”
 
