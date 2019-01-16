@@ -1,5 +1,5 @@
 ---
-title: Unikorn
+title: Interview Mirror Mirror - Unikorn haar
 image: /uploads/kleur-unicorn-kapper-interview-mirror-mirror.jpg
 alignment: middle
 ---
