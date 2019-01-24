@@ -36,8 +36,6 @@ SUN-KISSED BLONDE
 
 Voor Sun-Kissed Blonde haar gebruik je het K&eacute;rastase Blond Absolu Masque Ultra-Violet elke twee weken of wanneer je brassiness ziet. Gebruik K&eacute;rastase Blond Absolu Bain Lumi&egrave;re + Cicaflash +&nbsp; Cicaplasme dagelijks voor verhelderen, hydrateren, beschermen en modelleren van het haar.
 
-![](/uploads/kerastase-blond-absolu-booster-cicifibre-1.jpg)
-
 ![](/uploads/kerastase-blond-absolu-booster-cicifibre.jpg)NEEM JE K&Eacute;RASTASE BLOND ABSOLU BOOSTER
 
 In de salon kan je gebruik maken van de K&eacute;rastase Blond Absolu Booster. Dit is een shot dat een &nbsp;krachtige boost geeft aan de natuurlijke schoonheid van blond haar tussen de kleuringsbeurten in. Het bevat geconcentreerde ingredi&euml;nten om de vezels die beschadigd zijn door te ontkleuren te re restaureren.
