@@ -1,6 +1,6 @@
 ---
 title: D.I.Y Snelle Up Do
-image:
+image: /uploads/3474630614611-superdust-tecniart-powder-packshotphoto-texturize.png
 alignment: middle
 ---
 
