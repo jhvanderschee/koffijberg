@@ -18,4 +18,4 @@ Handig wanneer je na je werk nog een belangrijk zakelijk diner hebt en je je los
 
 Bo heeft nog veel meer mooie filmpjes op ons You Tube kanaal.
 
-Wil je meer zien: https://www.youtube.com/channel/UCQ6RfbEXvRoI2s1iW4w906A
+Wil je meer zien: [https://www.youtube.com/channel/UCQ6RfbEXvRoI2s1iW4w906A](https://www.youtube.com/channel/UCQ6RfbEXvRoI2s1iW4w906A){: target="_blank"}
