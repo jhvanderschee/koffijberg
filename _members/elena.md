@@ -1,7 +1,7 @@
 ---
 title: Elena
 naam: Elena
-image: /img/elena.jpg
+image: /uploads/elena.jpg
 functie: Junior-Stylist
 order_number: 24
 ---
