@@ -1,7 +1,7 @@
 ---
 title: Yvonne
 naam: Yvonne
-image: /uploads/yvonne-masterstylist-kapper-amsterdam.jpg
+image: /uploads/yvonne.jpg
 functie: Master-Stylist & Kleurspecialist
 order_number: 2
 ---
