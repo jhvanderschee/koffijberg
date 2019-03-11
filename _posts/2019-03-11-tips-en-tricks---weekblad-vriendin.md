@@ -1,7 +1,7 @@
 ---
 title: Tips en tricks  - weekblad Vriendin
 image: /uploads/kapper-vriendin-tips-trics.jpg
-alignment: middle
+alignment: top
 ---
 
 \*Het haardossier Tips en Tricks \*
