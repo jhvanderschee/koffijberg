@@ -1,6 +1,6 @@
 ---
 title: L'Oréal 2019
-active: true
+active: false
 image:
 youtube_id: Vpp8gKB-Ugk
 text_color: '#ffffff'
