@@ -1,7 +1,7 @@
 ---
 title: De Grijze Golf!
 image: /uploads/koffijberg-shoot-260.jpg
-alignment: top
+alignment: middle
 ---
 
 SHINING GREY: NOG STEEDS ONWIJS SUCCESVOL\!
