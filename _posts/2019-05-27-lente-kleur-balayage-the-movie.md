@@ -1,6 +1,6 @@
 ---
 title: 'Lente Kleur Balayage: The movie'
-image: /uploads/2018-05-07-koffijberg-176.jpg
+image: /uploads/2018-05-07-koffijberg-80.jpg
 alignment: middle
 ---
 
