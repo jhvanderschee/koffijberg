@@ -1,7 +1,7 @@
 ---
 title: Valerie
 naam: Valerie
-image: /uploads/kapper-amsterdam-valerie-junior-stylist-1.jpg
+image: /uploads1/portraits/valerie.jpg
 functie: Junior-Stylist
 order_number: 26
 ---
