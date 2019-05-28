@@ -10,4 +10,4 @@ Mijn collega's kennen mij als een creatief en enthousiast persoon. Ik heb een po
 
 Mijn moeder is kapper en heeft een eigen kapsalon. Kapper zijn zit in mijn DNA. Ik kijk er naar ook bij jou een glimlach op je gezicht te toveren en kapper skills te laten zien.
 
-*Beschikbaar:&nbsp;**Ma / Do / Vr / Za*
+*Beschikbaar: Ma / Do / Vr / Za*
