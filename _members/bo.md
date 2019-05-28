@@ -10,4 +10,4 @@ order_number: 10
 
 Je kunt bij mij terecht voor een ontspannende behandeling in de treatmentroom. Of wanneer je een leuk feest hebt, kan ik jouw haar stylen in de blow-dry area. Uiteraard ben ik ook beschikbaar voor alle knipbeurten, Balmain Hair en (free hand)kleurtechnieken, dit alles om het mooiste uit haar te halen. Ik hoop je binnenkort te ontmoeten in onze kapsalon\!".
 
-beschikbaar di/vr/za/om de maandag
+*Beschikbaar: di / vr / za / om de maandag*
