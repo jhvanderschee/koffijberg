@@ -1,12 +1,7 @@
 ---
 title: Blow dry area
-images: 
-  - image: '/img/blowdryarea-1.jpg'
-  - image: '/img/blowdryarea-2.jpg'
-  - image: '/img/blowdryarea-3.jpg'
-  - image: '/img/blowdryarea-4.jpg'
-  - image: '/img/blowdryarea-5.jpg'
-  - image: '/img/blowdryarea-6.jpg'
+images:
+  - image:
 ---
 
 D&egrave; trend in Amerika nu ook bij ons in de kapsalon in Amsterdam: de Blow Dry Area. Binnen 30 minuten föhnen wij je haar of verzorgen een updo. Jij geniet ondertussen van een hapje en een drankje.
