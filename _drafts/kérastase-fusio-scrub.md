@@ -6,7 +6,7 @@ alignment: middle
 
 Nieuw van K&eacute;rastase: Fusio Scrub. 2 scrubs om de hoofdhuid en het haar diep te reinigen. De Scrub Energisant is voor een vettige, gevoelige hoofdhuid en de Scrub Apaisant is zeer geschikt voor de gevoelige hoofdhuid. De scrub reinig zonder te beschadigen of irriteren.&nbsp;&nbsp;
 
-![](/uploads/fusio-scrub-6.jpg){: width="10328" height="7760"}
+![](/uploads/fusio-scrub-6.jpg){: width="10328" height="7760"}![](/uploads/kerastase-fusio-scrub.jpg){: width="500" height="376"}
 
 #### K&Eacute;RASTASE FUSIO SCRUB APAISANT
 
@@ -29,6 +29,8 @@ Heb je echt een gelegenheid nodig om jezelf te trakteren op een sensueel, ontgif
 #### DE RUWE KRACHT VAN ETHERISCHE OLI&Euml;N
 
 Binnen een klein percentage planten kunnen zeldzame, kostbare krachten te vinden zijn. Essenti&euml;le oli&euml;n kunnen veilig op de huid worden aangebracht en kunnen lichaam en geest in een bloeiende, harmonieuze staat brengen. Essenti&euml;le oli&euml;n zijn de ideale aanvulling op de Fusio Scrub. Ontspan en verfris de geest en geniet van een positief effect op het hele lichaam\!
+
+[Vraag een afspraak aan of plaats een verzoek voor meer informatie](https://www.koffijberg.nl/contact/){: target="_blank"}
 
 ![](/uploads/kerastase-huile-rafrachissante.jpg){: width="250" height="265"}![](/uploads/kerastase-huile-relaxante.jpg){: width="250" height="265"}
 
