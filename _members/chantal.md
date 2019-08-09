@@ -6,6 +6,10 @@ functie: Top-Stylist & Kleur-Specialist & Visagiste
 order_number: 8
 ---
 
-Ieder mens is uniek. Dat maakt dat ik ontzettend veel plezier heb in mijn werk als kapper in de kapsalon. Een luisterend oor voor jou wensen en een moment van ontspanning waarop ik tijd voor je neem en je aandacht geef. Dat zijn kernwaarden die ik in mijn vak naar voren laat komen. Met mijn toegankelijke, blije en jonge karakter mag ik mij verder ontwikkelen als kapster en visagiste bij Koffijberg Hairdressers.
+Tegenwoordig zijn we veel bezig met zelfontwikkeling en bewustwording. Maar hoe zorg je ervoor dat jouw uitstraling bij jouw persoonlijkheid blijft passen? Hoe weet je welke kleur of coupe jou versterkt?&nbsp;
 
-*Beschikbaarheid: do / vr / za / om de maandag*
+Door middel van visuele communicatie en mijn passie als kapper voor haar, make-up en kledingstyle kan ik samen met jou, jouw innerlijke en uiterlijke kant in balans brengen.
+
+Zelf vind ik het heel belangrijk om mijn kennis over te brengen om jou een passend advies te geven in onze kapsalon.
+
+B*eschikbaarheid: do / vr / za / om de maandag*
