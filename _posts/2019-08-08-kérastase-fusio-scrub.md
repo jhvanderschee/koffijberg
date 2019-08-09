@@ -14,6 +14,8 @@ De Fusio Scrub Apaisant is een kalmerende scrub om de hoofdhuid te reinigen van 
 
 De scrub bevat een mix van jojoba en zoete sinaasappelschil. Het verzacht en de hoofdhuid zonder het te beschadigen of te irriteren. Het haar ziet er glanzender uit en heeft meer volume.
 
+![](/uploads/kerastase-fusio-scrub-4-1.jpg){: width="500" height="207"}
+
 #### K&Eacute;RASTASE FUSIO SCRUB ENERGISANT
 
 Reinig de hoofdhuid en het haar diep met de Fusio Scrub &Eacute;nergisant. De zuiverende textuur is speciaal ontworpen voor vettig gevoelige hoofdhuid en haar, om vettigheid en roos te bestrijden.De ontgiftende kracht van het zeezout exfolieert de hoofdhuid grondig, waardoor onzuiverheden, deeltjes en productopbouw effectief worden verwijderd, waardoor sterker, gezonder en mooier wordt haar. De scrub bevat vitamine B6 en salicylzuur die de hoofdhuid beschermen. Door de scrub zacht in te masseren op de hoofdhuid worden microcirculaties geactiveerd waardoor de huid wordt vernieuwd en de pori&euml;n worden opengezet voor een optimale gezondheid van de hoofdhuid. Terwijl je water aan je haar toevoegt, schuimt de stimulerende scrub en cre&euml;er je een intense slagroomwolk. De scrub laat de hoofdhuid vrij ademen. Het haar ziet er glanzender uit en heeft meer volume.&nbsp;
