@@ -2,7 +2,7 @@
 title: Chantal
 naam: Chantal
 image: /uploads1/portraits/chantal.jpg
-functie: Top-Stylist & Kleur-Specialist & Visagiste
+functie: Master-Stylist & Kleur-Specialist & Visagiste
 order_number: 8
 ---
 
