@@ -173,12 +173,6 @@ specials:
         topstylist: € 210.00
         masterstylist: € 223.00
     treatment: i-dentity
-  - item: Complete gezichts make-up
-    prijs:
-      - stylist: n.v.t.
-        topstylist: € 56.00
-        masterstylist: € 56.00
-    treatment:
   - item: Wenkbrauwen Epileren / Harsen
     prijs:
       - stylist: € 18.50
