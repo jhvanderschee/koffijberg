@@ -204,7 +204,7 @@ box-shadow: none;
 .about .post-content p {color: #666;}
 .about .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
 .about .post-header h1 {font-size: 60px; margin-top: 5px;}
-.about .post-header h1::after, .nieuws .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px auto!important;}
+.about .post-header h1::after, .nieuws .post-header h1::after, #instagram .post-header h2::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px auto!important;}
 
 
 .salon {height: 502px; background: url('../img/kapperamsterdamsalon.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
@@ -523,6 +523,24 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 .nieuws_date {border-top: 1px dotted silver; color: silver; line-height: 2.2em; padding-bottom: 50px;}
 .visualnieuws_date .fa, .nieuws_date .fa {font-size: 15px; position: relative; bottom: 6px; top: -1px; margin-right: 3px;}
 
+#instagram {
+  text-align: center;
+padding: 0 0 90px;
+background: white;
+color: #241a1f;
+}
+#instagram .post-header span {
+font-size: 22px;
+text-transform: uppercase;
+font-weight: 400;
+}
+#instagram .post-header h2 {
+    font-size: 60px;
+    margin-top: 5px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 0.5em;
+}
 
 @media all and (max-width: 1199px) {
 .behandelingen .sidebar {padding-left: 0!important; border-left: 0!important;}
