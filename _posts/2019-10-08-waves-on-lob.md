@@ -1,6 +1,6 @@
 ---
 title: WAVES ON LOB
-image:
+image: /uploads/bo-kapper-boblijn-waves.jpg
 alignment: middle
 ---
 
