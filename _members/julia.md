@@ -2,7 +2,7 @@
 title: Julia
 naam: Julia
 image: /uploads1/portraits/julia.jpg
-functie: Stylist
+functie: Top-Stylist
 order_number: 13
 ---
 
