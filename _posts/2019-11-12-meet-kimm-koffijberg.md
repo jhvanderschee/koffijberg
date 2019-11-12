@@ -4,7 +4,7 @@ image: /uploads/222222.jpg
 alignment: middle
 ---
 
-Kimm Koffijberg (1978) is de trotse dochter van Richard Koffijberg,<br>wiens werk ze al als klein meisje bewonderde. Maar haar grootste drijfveer om<br>\- ook - kapper te worden is de omgang met mensen. Sinds ze in 1996 van de<br>kappers academie kwam, werkt ze in de familiesalon, en op haar 21ste werd ze<br>medevennoot van haar vader's bedrijf. Ze volgde een managementopleiding en<br>nam in 2009 samen met haar man en zakenpartner de salon over. Ze won de<br>Coiffure Awards in 2013, deed redactionele producties voor tijdschriften en geeft<br>als Color Consultant van L’Or&eacute;al Professionnel graag haar professionele mening.
+Kimm Koffijberg (1978) is de trotse dochter van Richard Koffijberg, wiens werk ze al als klein meisje bewonderde. Maar haar grootste drijfveer om - ook - kapper te worden is de omgang met mensen. Sinds ze in 1996 van de kappers academie kwam, werkt ze in de familiesalon, en op haar 21ste werd ze medevennoot van haar vader's bedrijf. Ze volgde een managementopleiding en nam in 2009 samen met haar man en zakenpartner de salon over. Ze won de Coiffure Awards in 2013, deed redactionele producties voor tijdschriften en geeft als Color Consultant van L’Or&eacute;al Professionnel graag haar professionele mening.
 
 ![](/uploads/333333-1.jpg){: width="500" height="333"}
 
