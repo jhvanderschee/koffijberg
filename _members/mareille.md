@@ -1,7 +1,7 @@
 ---
 title: Mareille
 naam: Mareille
-image: /uploads/kapper-amsterdam-mareille-wenkbrauw-harsen-2.jpg
+image: /uploads/mareille-kapper-amsterdam-mooihaar.JPG
 functie: Receptioniste - Wenkbrauw Specialiste
 order_number: 34
 ---
