@@ -1,7 +1,7 @@
 ---
 title: Elena
 naam: Elena
-image: /uploads1/portraits/elena.jpg
+image: /uploads/elena-wasmassage-extentioniste-ritueel-kapper-amsterdam.JPG
 functie: Junior-Stylist
 order_number: 24
 ---
