@@ -1,7 +1,7 @@
 ---
 title: Kimm Koffijberg
 naam: Kimm
-image: /img/profielfotos/IMG_0360_0000s_0002_Layer 15.jpg
+image: /uploads/kimm-masterstylist-kleurspecialist-loreal-kapper-amsterdam.JPG
 functie: 'Master-Stylist, Kleurspecialist en Eigenaar'
 order_number: -1
 ---
