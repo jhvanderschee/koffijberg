@@ -1,7 +1,7 @@
 ---
 title: Chantal
 naam: Chantal
-image: /uploads1/portraits/chantal.jpg
+image: /uploads/chantal-kleurspecialist-masterstylist-bruidjes-kapper-amsterdam.JPG
 functie: Master-Stylist & Kleur-Specialist & Visagiste
 order_number: 8
 ---
