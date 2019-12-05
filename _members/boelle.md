@@ -1,7 +1,7 @@
 ---
 title: Boëlle
 naam: Boëlle
-image: /uploads1/portraits/boelle.jpg
+image: /uploads/boelle-kapper-rivierenbuurt-amsterdam-stylist-haarkleuring.JPG
 functie: Stylist
 order_number: 12
 ---
