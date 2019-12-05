@@ -1,7 +1,7 @@
 ---
 title: Bo
 naam: Bo
-image: /uploads1/portraits/headshot.jpg
+image: /uploads/bo-kleurspecialist-topstylist-kapper-amsterdam-highlights.JPG
 functie: Top-Stylist & Kleur-Specialist
 order_number: 10
 ---
