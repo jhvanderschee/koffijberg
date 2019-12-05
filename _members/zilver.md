@@ -1,7 +1,7 @@
 ---
 title: Zilver
 naam: Zilver
-image: /uploads1/portraits/zilver.jpg
+image: /uploads/zilver-langhaar-kapper-amsterdam-mooiekleuring.JPG
 functie: Junior-Stylist
 order_number: 25
 ---
