@@ -1,7 +1,7 @@
 ---
 title: Julia
 naam: Julia
-image: /uploads1/portraits/julia.jpg
+image: /uploads/julia-topstylist-kleuring-balayage-kapper-amsterdam.JPG
 functie: Top-Stylist
 order_number: 13
 ---
