@@ -32,9 +32,7 @@ Tip:&nbsp; Kom samen met je vriendin of geef de workshop als een leuk kerstcadea
 
 prijs: 79,00 euro
 
-Schrijf je in voor 14 januari 2020
-
-Er zijn 9 plekken beschikbaar&nbsp;
+Er zijn totaal 9 plekken beschikbaar&nbsp;
 
 Inschrijven kan via [receptie@koffijberg.nl](mailto:receptie@koffijberg.nl)&nbsp;/ telefonisch 020-6732374 / whatsapp 06-47268686
 
