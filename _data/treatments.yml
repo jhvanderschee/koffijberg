@@ -52,9 +52,9 @@ discounts:
 colorings:
   - item: Kleuring
     prijs:
-      - stylist: € 68.00
-        topstylist: € 68.80
-        masterstylist: € 74.25
+      - stylist: € 69.50
+        topstylist: € 70.50
+        masterstylist: € 76.25
     treatment: kleuring
   - item: Kleuring + Streaks
     prijs:
