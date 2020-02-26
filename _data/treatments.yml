@@ -100,9 +100,9 @@ colorings:
     treatment: highlights-heel-plus
   - item: Free hand techniek deel
     prijs:
-      - stylist: € 156.50
-        topstylist: € 156.50
-        masterstylist: € 170.70
+      - stylist: € 160.50
+        topstylist: € 160.50
+        masterstylist: € 174.95
     treatment: free-hand-techniek
   - item: Free hand techniek middel
     prijs:
