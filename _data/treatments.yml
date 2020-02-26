@@ -162,9 +162,9 @@ wash-and-dry:
     treatment: wassen--fohnen-middellang-haar
   - item: Wassen & Föhnen lang haar
     prijs:
-      - stylist: € 58.90
-        topstylist: € 65.60
-        masterstylist: € 72.00
+      - stylist: € 61.85
+        topstylist: € 69.25
+        masterstylist: € 76.00
     treatment: wassen--fohnen-lang-haar
 specials:
   - item: I-dentity (Metamorfose)
