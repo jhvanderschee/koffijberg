@@ -1,5 +1,5 @@
 ---
-title: Corona
+title: Corona Informatie
 image: /uploads/2018-05-07-koffijberg-2434-bewerkt-bewerkt.jpg
 alignment: middle
 ---
