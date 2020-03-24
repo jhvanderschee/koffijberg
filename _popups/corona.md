@@ -15,6 +15,12 @@ text_shadow_color: '#000000'
 
 &nbsp;
 
-Wilt u afspraak maken na 6 april, producten kopen of advies? Wij zijn bereikbaar via receptie@koffijberg.nl / Whatsapp 06-47 26 86 86 / telefoon 020-6732374
+Wilt u afspraak maken na 6 april, producten kopen of advies? Wij zijn bereikbaar via
+
+mail: receptie@koffijberg.nl
+
+Whatsapp: 06-47 26 86 86
+
+Telefoon: 020-6732374
 
 &nbsp;
