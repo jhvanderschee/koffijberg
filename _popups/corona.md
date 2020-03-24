@@ -11,10 +11,10 @@ text_shadow: true
 text_shadow_color: '#000000'
 ---
 
-## Wij volgen het advies van het RIVM en zijn geopend
+## Wij volgen het advies van het RIVM en zijn gesloten. Dit zal zeker tot 6 april zijn.
 
-**Onze salon is en blijft dus geopend. Wel met een heleboel extra voorzorgsmaatregelen en minder klanten tegelijk aanwezig in de salon. Maar je bent dus wel van harte welkom in onze salon.**
+&nbsp;
 
-De overheid en het RIVM hebben gekozen voor het scenario: ***het virus maximaal controleren.***
+Wilt u afspraak maken na 6 april, producten kopen of advies? Wij zijn bereikbaar via receptie@koffijberg.nl / Whatsapp 06-47 26 86 86 / telefoon 020-6732374
 
-Dat leidt tot een beheerste verspreiding, onder groepen die het minste risico lopen. Maximaal controleren betekent dat we proberen met maatregelen de piek in het aantal besmettingen af te vlakken en uit te smeren over een langere periode.Met deze aanpak waarin de meeste mensen alleen lichte klachten zullen krijgen, bouwen we immuniteit op en zorgen we dat de zorg het aankan. Met als doel dat de verpleeghuizen, de thuiszorg, de ziekenhuizen en vooral de intensive care afdelingen niet overbelast raken. Zodat er steeds voldoende capaciteit is de mensen te helpen die het meest kwetsbaar zijn.
+&nbsp;
