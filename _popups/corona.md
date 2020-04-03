@@ -11,11 +11,11 @@ text_shadow: true
 text_shadow_color: '#000000'
 ---
 
-## Wij volgen het advies van het RIVM en zijn gesloten. Dit zal zeker tot 6 april zijn.
+## Wij volgen het advies van het RIVM en zijn gesloten. Dit zal zeker tot 28 april zijn.
 
 &nbsp;
 
-Wilt u afspraak maken na 6 april, producten kopen of advies? Wij zijn bereikbaar via
+Wij nemen even geen nieuwe afspraken aan. Als er duidelijk is wanneer we open mogen starten we weer met het inplannen van afspraken. Wilt jeproducten kopen of advies? Wij zijn bereikbaar via
 
 mail: receptie@koffijberg.nl
 
