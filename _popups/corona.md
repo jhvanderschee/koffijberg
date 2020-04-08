@@ -14,6 +14,8 @@ text_shadow_color: '#000000'
 
 ## Wij volgen het advies van het RIVM en zijn gesloten. Dit zal zeker tot 28 april zijn.
 
+&nbsp;
+
 Wij nemen even geen nieuwe afspraken aan. Als er duidelijk is wanneer we open mogen starten we weer met het inplannen van afspraken. Wilt je producten kopen of advies? Wij zijn bereikbaar via
 
 mail: receptie@koffijberg.nl  
