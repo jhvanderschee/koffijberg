@@ -2,6 +2,7 @@
 title: Pasen
 active: false
 image: /uploads1/priorities2.jpg
+background_color: '#241a1f'
 text_color: '#241a1f'
 large_text: false
 button_color: '#241a1f'

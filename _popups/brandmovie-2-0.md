@@ -2,6 +2,7 @@
 title: Brandmovie 2.0
 active: false
 image:
+background_color: '#241a1f'
 youtube_id: R1BkN_rFbBY
 text_color: '#ffffff'
 large_text: true

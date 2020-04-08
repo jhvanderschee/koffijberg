@@ -2,6 +2,7 @@
 title: Corona
 active: true
 image:
+background_color: '#241a1f'
 youtube_id:
 text_color: '#ffffff'
 large_text: true

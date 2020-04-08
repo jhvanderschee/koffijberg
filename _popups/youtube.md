@@ -2,6 +2,7 @@
 title: Wij zijn er voor jou!
 active: false
 image:
+background_color: '#241a1f'
 youtube_id: 0PtOktg1bPU
 text_color: '#241a1f'
 button_color: '#241a1f'

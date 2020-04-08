@@ -2,6 +2,7 @@
 title: L'Oréal Le Bronzing
 active: false
 image:
+background_color: '#241a1f'
 youtube_id: fxd1nyVf_rM
 text_color: '#ffffff'
 large_text: true

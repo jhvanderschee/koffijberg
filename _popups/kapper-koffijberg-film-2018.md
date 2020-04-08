@@ -2,6 +2,7 @@
 title: Kapper Koffijberg Film 2018
 active: false
 image:
+background_color: '#241a1f'
 youtube_id: Vpp8gKB-Ugk
 text_color: '#ffffff'
 large_text: true
