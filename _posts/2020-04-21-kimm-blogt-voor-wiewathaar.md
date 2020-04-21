@@ -1,7 +1,7 @@
 ---
 title: Kimm blogt voor WieWatHaar
 image: /uploads/wie wat haar print screen.jpg
-alignment: middle
+alignment: top
 ---
 
 Kimm is als Expert gevraagd blogs te schrijven voor WieWatHaar en heeft hierop positief gereageerd. Meerdere malen per jaar zullen er blogs van Kimm op het platform te lezen/zien zijn.&nbsp;
