@@ -12,8 +12,10 @@ text_shadow: true
 text_shadow_color: '#000000'
 ---
 
-## Wij volgen het advies van het RIVM en zijn gesloten. Wij openen z.s.m. als het weer mag.
+## GOED NIEUWS\!\!\!\!
 
-<br>Wij nemen even geen nieuwe afspraken aan. Als er duidelijk is wanneer we open mogen starten we weer met het inplannen van afspraken. Wilt je producten kopen of advies? Wij zijn bereikbaar via:
+<br>Per maandag 11 mei 2020 mag de salon weer open. Vraag nu je afspraak aan. Wij zijn bereikbaar via:
 
 mail: receptie@koffijberg.nl<br>Whatsapp: 06-47 26 86 86<br>Telefoon: 020-6732374
+
+Blijf thuis als jij een van de volgende klachten hebt: neusverkoudheid, loopneus, niezen, keelpijn, lichte hoest, verhoging (tot 38 C&deg;) of koorts. Blijf ook thuis als iemand in jouw huis koorts heeft (vanaf 38 C&deg;) en/of benauwdheidsklachten.
