@@ -1,7 +1,7 @@
 ---
 title: 'Bruin: dé kleurtrend voor de komende jaren'
 image: /uploads/bruinhaar-koffijberg-kapper-boelle.jpg
-alignment: top
+alignment: middle
 ---
 
 De kleur bruin klinkt niet altijd even dynamisch. Bruin is gewoon bruin. Of toch niet? Waarom bruin? Welke indruk maken wij met bruin haar op anderen? En waarom ook eigenlijk geen bruin?
