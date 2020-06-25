@@ -8,7 +8,9 @@ Een bruine haarkleur is heel mooi te combineren met verschillende kleurtechnieke
 
 Je kunt bruine krullen meer definitie geven, denk aan high-lights, een free-handcolor, of juist aan meer dimensie in het haar aan te brengen door met verschillende warme en/of koele karakters te werken. Lidewij Edelkoort omschrijft dit als volgt: “Bruin is in harmonie met elke andere kleur. Het zorgt dat kleuren mooier worden, het ondersteunt ze.”
 
-![](/uploads/danielle-binnen-na-foto-koffijberg-hairdresesrs.jpg){: width="2000" height="1500"}
+![](/uploads/danielle-binnen-na-foto-koffijberg-hairdresesrs-1.jpg){: width="2000" height="1500"}
+
+&nbsp;
 
 #### Het juiste kleurrecept
 
@@ -18,4 +20,4 @@ Vaak is er ook kritiek op bruin haar, zo wordt de kleur snel te warm, te koper o
 
 Als kleurspecialist weten we dan dat we aan het kleurrecept een koel karakter moeten toevoegen om zo de warmte die vrijkomt tijdens het kleurproces te neutraliseren. Dit is een moeilijk proces, wat niet altijd serieus genomen wordt, omdat er vaak op social media een onrealistisch beeld geschetst wordt. Foto’s worden bewerkt en als voorbeeld door onze klanten naar de salon meegenomen.
 
-[Lees verder.......](https://www.wiewathaar.nl/bruin-is-in-harmonie-met-elke-andere-kleur/){: target="_blank"}
+[Lees verder…….](https://www.wiewathaar.nl/bruin-is-in-harmonie-met-elke-andere-kleur/){: target="_blank"}
