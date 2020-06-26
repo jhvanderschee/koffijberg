@@ -11,14 +11,19 @@
       <div class="container">
       <article class="">
         <div class="row">
-            <div class="col-sm-12" id="newsarchive">
+            <div class="col-sm-12">
 
-                    <header class="post-header">
+                    <header class="post-header ">
                         <h1 class="post-title">{{ page.title }}</h1>
                     </header>
-                      <div class="post-content" style="">
-                          <div>{% for post in site.posts offset:15 %}{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</div>
-                      </div>
+
+                    <div class="post-content">{{ content }}</div>
+                    <div  id="newsarchive">
+                    <div class="post-content">
+                        
+                        <div class="twocols">{% for post in site.posts offset:15 %}{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</div>
+                    </div>
+                    </div>
 
             </div>
           </div>
