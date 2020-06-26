@@ -1,8 +1,8 @@
 ---
 ---
-$accentkleur: #241a1f;
+$accentkleur: #222222;
 $tekstkleur_op_accent: white;
-$basiskleur: #241a1f;
+$basiskleur: #222222;
 $tekstkleur_op_basis: white;
 $highlightkleur: #5e2d83;
 
@@ -58,9 +58,9 @@ html * {max-height:1000000px;}
 * {-webkit-text-size-adjust: 100%;}
 .post-content p {max-height: 99999px;}
 img {max-width: 100%;}
-
+b, strong {font-weight: 600;}
 html {overflow-y: scroll;}
-body {color: $tekstkleur_op_basis; background: #3b2c33; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.4em;}
+body {color: $tekstkleur_op_basis; background: #444444; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.4em;}
 body.iOS .salon, 
 body.iOS .salon2,
 body.iOS .salon3 {background-attachment: scroll;}
@@ -68,7 +68,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 .post-content .editable h2, .post-content .editable h1 {font-family: 'PT Sans Narrow', sans-serif;
   text-transform: uppercase; font-weight: 700; font-size: 50px; margin-bottom: 0.5em; margin-top: 0px;
   line-height: 1.1;
-  color: #241a1f;
+  color: #222222;
 }
 
 #splash {display: none; position: fixed; height: 100%; width: 100%; background: #5e2d83; z-index: 99; cursor: pointer;}
@@ -81,10 +81,10 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 .visualnews a, .visualnews p a:hover {text-decoration: none;}
 .visualnews p a {text-decoration: underline;}
-.visualnews h3 a {color: #241a1f;}
+.visualnews h3 a {color: #222222;}
 .visualnews .btn-primary {color: white !important; border: 1px solid $highlightkleur !important; background: $highlightkleur!important;}
 .visualnews .btn-primary:hover {border: 1px solid $accentkleur!important; background: $accentkleur!important;}
-.visualnews a.btn-default {color: #241a1f;}
+.visualnews a.btn-default {color: #222222;}
 .visualnews a.btn-default:hover, .visualnews a.btn-default:focus {color: white;}
 .visualnews p {margin-bottom: 20px;}
 .visualnews img {min-width: 100%;}
@@ -100,13 +100,13 @@ body.iOS .salon3 {background-attachment: scroll;}
 }
 #newsarchive h2 {
   padding-top: 50px;
-  color: #241a1f;
+  color: #222222;
   text-transform: uppercase;
   font-family: 'PT Sans Narrow', sans-serif;
   font-weight: 700;
   font-size: 35px;
 }
-#newsarchive,#newsarchive a {color: #666;}
+#newsarchive,#newsarchive a {color: #333;}
 
 
 #popup {display: none; position: fixed; top: 0; left: 0; background: rgba(0,0,0,0.5); z-index: 99; cursor: pointer;}
@@ -122,7 +122,7 @@ body.iOS .salon3 {background-attachment: scroll;}
     text-align: center; position: relative; left: 15px; bottom: 15px;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
 }
-#popup div.popupcontent {color: #241a1f; padding: 55px 20px 20px 20px;}
+#popup div.popupcontent {color: #222222; padding: 55px 20px 20px 20px;}
 #popup div.popupcontent.large_text {line-height: 1.3em; font-size: 150%;}
 #popup div.popupcontent a {
     text-shadow: none;
@@ -152,7 +152,7 @@ body.iOS .salon3 {background-attachment: scroll;}
 #not_sharethis > div:hover {position: relative; right: 50px;}
 #not_sharethis.post > div:hover {right: 0;}
 #not_sharethis.post {position: relative; top: auto; height: auto; margin-top: 0; right: 0;}
-#not_sharethis div {background: #241a1f; text-align: left; width: 90px; height: 40px; color: white; border-bottom: 1px solid rgba(255,255,255,0.25);}
+#not_sharethis div {background: #222222; text-align: left; width: 90px; height: 40px; color: white; border-bottom: 1px solid rgba(255,255,255,0.25);}
 #not_sharethis > div > div {background: transparent; font-size: 12px; line-height: 32px;  width: 40px; float: left; text-align: center;}
 #not_sharethis.post div {float: left; width: 40px; border-bottom: 0; border-right: 1px solid rgba(255,255,255,0.25);}
 #not_sharethis h3 {padding-top: 30px; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; text-transform: uppercase;}
@@ -172,16 +172,16 @@ body.iOS .salon3 {background-attachment: scroll;}
 
 #likeournews {padding: 20px; background: $highlightkleur; color: white; margin-bottom: 30px;}
 #likeournews form {float: right; padding-right: 0; margin-top: -4px;}
-#likeournews input[type='submit'] {vertical-align: top; display: inline-block; background: #241a1f!important; border: 1px solid #241a1f!important;}
+#likeournews input[type='submit'] {vertical-align: top; display: inline-block; background: #222222!important; border: 1px solid #222222!important;}
 #likeournews input[type='submit']:hover {background: $highlightkleur!important; border: 1px solid white!important;}
-#likeournews input[type='email'] {font-size: 15px; background: rgba(255,255,255,1); color: #241a1f; vertical-align: top; height: 38px; display: inline-block; width: 300px; border-radius: 0; border: 0;
+#likeournews input[type='email'] {font-size: 16px; background: rgba(255,255,255,1); color: #222222; vertical-align: top; height: 38px; display: inline-block; width: 300px; border-radius: 0; border: 0;
 -webkit-box-shadow: none;
 box-shadow: none;
 }
 
-.intro {height: 800px; color: #444;}
-.intro .btn:hover {color: #241a1f;}
-.intro .btn, .intro h1 {color: #241a1f;}
+.intro {height: 800px; color: #222;}
+.intro .btn:hover {color: #222222;}
+.intro .btn, .intro h1 {color: #222222;}
 .intro .btn-primary {color: white;}
 .intro.image1 > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg1.jpg') center top no-repeat; height: 800px; }
 .intro.image2 > div {background: #bbb9c5 url('../img/kapper-amsterdam-koffijberg2.jpg') center top no-repeat; height: 800px; }
@@ -202,8 +202,8 @@ box-shadow: none;
 
 .about {text-align: center; padding: 90px 0; background: white; color: $accentkleur;}
 .about .post-content {font-size: 18px; line-height: 1.9em;}
-.about .post-content p {color: #666;}
-.about .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
+.about .post-content p {color: #333;}
+.about .post-header span {font-size: 23px; text-transform: uppercase; font-weight: 300;}
 .about .post-header h1 {font-size: 60px; margin-top: 5px;}
 .about .post-header h1::after, .nieuws .post-header h1::after, #instagram .post-header h2::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px auto!important;}
 
@@ -216,7 +216,7 @@ box-shadow: none;
 .salon .post-header {padding: 87px 0 0;}
 .salon .post-header h1 {margin-bottom: 5px;}
 .salon .post-content {font-size: 18px; line-height: 1.9em;}
-.salon .post-content p {color: #666;}
+.salon .post-content p {color: #333;}
 
 .salon2 {height: 502px; background: url('../img/website-actie-foto-kapper-amsterdam-large.jpg') center 15% no-repeat; background-size: cover; background-attachment: fixed;}
 .page-template .salon2 {height: 240px; background-attachment: scroll;}
@@ -225,36 +225,36 @@ box-shadow: none;
 .page-template .salon3 {height: 240px; background-attachment: scroll;}
 
 .twocols {padding: 0 0 90px; background: white; color: $accentkleur;}
-.twocols .post-content p {color: #666; padding-right: 30px;}
-.twocols .post-content table {color: #666; margin-bottom: 2em;}
+.twocols .post-content p {color: #333; padding-right: 30px;}
+.twocols .post-content table {color: #333; margin-bottom: 1.8em;}
 .twocols .post-content td {padding-right: 30px;}
 .twocols .post-header {padding-top: 90px;}
 .twocols .sidebar, .behandelingen .sidebar {border-left: 1px dotted silver; padding-left: 25px; padding-bottom: 2px;}
 
 .post .twocols .post-header h1 {font-size: 60px; margin-top: 5px;}
-.post .twocols .post-header span {font-size: 22px; text-transform: uppercase; font-weight: 400;}
+.post .twocols .post-header span {font-size: 23px; text-transform: uppercase; font-weight: 300;}
 .post .twocols .post-header h1::after {display: block; content: ""; width: 80px; height: 5px; background: $accentkleur; margin: 30px 0;}
 .post .twocols .post-content p:first-child {
-    font-size: 22px;
+    font-size: 23px;
     line-height: 1.7em;
     font-style: italic;
-    font-family: 'PT Serif', serif;
+    font-family: 'Jost';
     margin-bottom: 1.3em;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .behandelingen {padding: 90px 0; background: white; color: $accentkleur;}
-.behandelingen .post-content p {color: #666; margin-bottom: 0;}
-.behandelingen .post-content p.smaller {font-size: 12px; line-height: 1.7em;}
+.behandelingen .post-content p {color: #333; margin-bottom: 0;}
+.behandelingen .post-content p.smaller {font-size: 12px; line-height: 1.7em; font-weight: 400; color: #666;}
 .behandelingen .expand1 {display: none;}
 .behandelingen #expand1 {position: relative; bottom: 7px;}
-.behandelingen table {width: 100%; color: #666;}
-.behandelingen td {padding: 3px 0; font-size: 15px; line-height: 1.7em;}
+.behandelingen table {width: 100%; color: #333;}
+.behandelingen td {padding: 3px 0; font-size: 16px; line-height: 1.7em;}
 .behandelingen td.text-center {padding-left: 15px; padding-right: 15px;}
-.behandelingen td a {text-decoration: none; color: #666;}
+.behandelingen td a {text-decoration: none; color: #333;}
 
-footer p {margin: 0; font-family: 'PT Serif', serif; font-weight: 400; font-size: 15px; line-height: 2em;}
-footer a, footer a:hover, footer a:focus {color: white;}
+footer p {margin: 0; font-family: 'Jost'; font-weight: 300; font-size: 15px; line-height: 1.8em;}
+footer a, footer a:hover, footer a:focus {color: white; text-decoration: none;}
 .site-footer {padding: 0 0 90px; background: $accentkleur; color: $tekstkleur_op_accent;}
 .site-footer .row > div {max-height: 99999px;}
 .site-footer h3 {padding: 90px 0 0; clear: both;}
@@ -266,11 +266,11 @@ footer a, footer a:hover, footer a:focus {color: white;}
 .navbar {border-radius: 0px!important;}
 .navbar-default {z-index: 2; position: absolute; width: 100%; background: transparent; border: 0; text-transform: uppercase;}
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover,
-.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {opacity: 1; text-decoration: none; border-top: 3px solid transparent; color: #241a1f; margin: 20px 0 25px 30px; padding: 4px 0;}
-.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {border-top: 3px solid #241a1f;}
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {opacity: 1; text-decoration: none; border-top: 3px solid transparent; color: #222222; margin: 20px 0 25px 30px; padding: 4px 0;}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {border-top: 3px solid #222222;}
 .navbar-collapse {-webkit-box-shadow: none; box-shadow: none;}
 .navbar-default .navbar-toggle {margin-top: 20px; margin-bottom: 22px;}
-.navbar-default .navbar-toggle .icon-bar {background-color: #241a1f;}
+.navbar-default .navbar-toggle .icon-bar {background-color: #222222;}
 .page-template .navbar-default .navbar-toggle .icon-bar,
 .navbar-default.attop .navbar-toggle .icon-bar {background-color: $basiskleur;}
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {background-color: transparent; opacity: 1;}
@@ -306,17 +306,17 @@ footer a, footer a:hover, footer a:focus {color: white;}
 
 h1 {text-transform: uppercase; font-weight: 700; font-size: 50px; margin-bottom: 0.5em; margin-top: 0px;}
 h3 {font-weight: 700; font-size: 21px; text-transform: uppercase;}
-p {margin-bottom: 2em;}
-.post-content h2 {margin-bottom: 0; margin-top: 25px; color: #666; font-family: 'PT Serif', serif; font-weight: 700; font-size: 15px; line-height: 2em;}
-.post-content h2 em {font-size: 22px; line-height: 1.25em; padding: 10px 0 5px; font-style: normal; display: block;}
+p {margin-bottom: 1.8em;}
+.post-content h2 {margin-bottom: 0; margin-top: 25px; color: #333; font-family: 'Jost'; font-weight: 600; font-size: 16px; line-height: 1.8em;}
+.post-content h2 em {font-size: 23px; line-height: 1.25em; padding: 10px 0 5px; font-style: normal; display: block;}
 .post-content ul, 
-.post-content ol {margin-bottom: 2em; color: #666;}
+.post-content ol {margin-bottom: 1.8em; color: #333;}
 .featured-image img {margin-top: 10px; max-width: 100%;}
 
-.post-content p a {color: #666;}
+.post-content p a {color: #333;}
 a {text-decoration: underline;}
 a:hover {text-decoration: none;}
-.post-content {font-family: 'PT Serif', serif; font-weight: 400; font-size: 15px; line-height: 2em;}
+.post-content {font-family: 'Jost'; font-weight: 300; font-size: 16px; line-height: 1.8em;}
 
 .btn {color: white; text-decoration: none; padding-left: 25px; padding-right: 25px; border-radius: 0; border: 0; font-family: 'PT Sans Narrow', sans-serif; font-weight: 700; font-size: 17px; text-transform: uppercase;
     -webkit-transition: all 0.2s ease;                  
@@ -334,7 +334,7 @@ a:hover {text-decoration: none;}
 .intro .btn-primary:hover, .intro .btn-default {color: white !important; border: 1px solid $highlightkleur !important; background: $highlightkleur!important;}
 .intro .btn-primary, .intro .btn-default:hover {border: 1px solid $accentkleur!important; background: $accentkleur!important;}
 .fa {font-size: 180%; display: inline-block; cursor: pointer; margin: 0; position: relative; top: 3px;} 
-.form-group {color: #666;}
+.form-group {color: #333;}
 .btn:active {-webkit-box-shadow: none; box-shadow: none;}
 .form-control.error {border-color: red;}
 
@@ -357,7 +357,7 @@ a:hover {text-decoration: none;}
   animation: bounce 2s infinite;
 }
 
-.team {padding: 90px 0; text-align: center; background: #3b2c33;}
+.team {padding: 90px 0; text-align: center; background: #444444;}
 .team > div {}
 .teamcontrol {font-size: 20px; position: relative; bottom: 6px;
     -webkit-user-select: none; /* webkit (safari, chrome) browsers */
@@ -392,7 +392,7 @@ a:hover {text-decoration: none;}
     border-radius: 50%;
     position: relative;
     cursor: pointer;
-    box-shadow: inset 0 0 0 0 $accentkleur, inset 0 0 0 16px rgba(64,55,50,0.2);
+    box-shadow: inset 0 0 0 0 $accentkleur, inset 0 0 0 16px rgba(55,55,55,0.2);
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
@@ -440,8 +440,8 @@ a:hover {text-decoration: none;}
     font-size: 12px;
     line-height: 1.6em;
     border-top: 1px solid rgba(255,255,255,0.5);
-    font-family: 'PT Serif', serif;
-    font-weight: 400;
+    font-family: 'Jost';
+    font-weight: 300;
 }
 .ch-info p a {
     display: block;
@@ -491,7 +491,7 @@ label {font-weight: normal;}
 #lightbox #image {z-index: 0; display: inline; max-height: 95vh; max-width: 95vw;}
 #nextbutton {color: white; float: right; width: 50px; height: 50px; line-height: 45px; margin-right: 2.5vw; font-size: 50px;}
 #prevbutton {color: white; float: left; width: 50px; height: 50px; line-height: 45px; margin-left: 2.5vw; font-size: 50px;}
-#closebutton {color: white; position: absolute; top: 2vh; right: 2.5vw; width: 50px; height: 50px; line-height: 50px; margin-left: 2.5vw; font-size: 20px; font-weight: 400;}
+#closebutton {color: white; position: absolute; top: 2vh; right: 2.5vw; width: 50px; height: 50px; line-height: 50px; margin-left: 2.5vw; font-size: 20px; font-weight: 300;}
 #controls {height: 50px; top: 50%; position: fixed; margin-top: -25px; width: 100%;}
 #controls a {color: white; text-decoration: none;}
 #controls a:hover, #controls a:active {color: silver;}
@@ -521,19 +521,19 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 .gradientdown img {opacity: 0;}
 .gradientdown h3 {position: absolute; left: 38px; bottom: 33px; border-bottom: 1px dotted rgba(255,255,255,0.5); width: calc(100% - 76px); color: white!important; line-height: 1.5em;}
 .gradientdown div {color: rgba(255,255,255,0.6); position: absolute; left: 38px; bottom: 15px; }
-.nieuws_date {border-top: 1px dotted silver; color: silver; line-height: 2.2em; padding-bottom: 50px;}
+.nieuws_date {border-top: 1px dotted silver; color: silver; line-height: 2.1.8em; padding-bottom: 50px;}
 .visualnieuws_date .fa, .nieuws_date .fa {font-size: 15px; position: relative; bottom: 6px; top: -1px; margin-right: 3px;}
 
 #instagram {
   text-align: center;
 padding: 0 0 90px;
 background: white;
-color: #241a1f;
+color: #222222;
 }
 #instagram .post-header span {
-font-size: 22px;
+font-size: 23px;
 text-transform: uppercase;
-font-weight: 400;
+font-weight: 300;
 }
 #instagram .post-header h2 {
     font-size: 60px;
@@ -567,7 +567,6 @@ font-weight: 400;
   .desktop {display: none;}
 }
 @media all and (max-width: 450px) {
-  p, .post-content{font-family: Georgia, 'PT Serif'!important;}
   #popup div.popupcontent p {font-family: 'PT Sans Narrow', sans-serif!important;}
   .salon .circle p {width: 280px;}
   .salon .circle p .time {width: 140px;}
