@@ -2,9 +2,9 @@
 title: Home
 layout: home
 youtube_ids: 
-  - youtube_id: 9VrX0epB2rY
-  - youtube_id: 9VrX0epB2rY
-  - youtube_id: 9VrX0epB2rY
+  - youtube_id: 5QpnCnn4qDk
+  - youtube_id: M0hxoAYnayU
+  - youtube_id: bnVetOv-59k
 header_overlay: true
 highlights:
   - title: Award-winning topkapper
