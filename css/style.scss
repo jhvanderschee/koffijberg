@@ -547,6 +547,9 @@ font-weight: 300;
 
 .footerdate {width: 100px; display: inline-block;}
 
+@media all and (max-width: 1300px) {
+.site-footer2 .text-right {text-align: left;}
+}
 @media all and (max-width: 1199px) {
 .behandelingen .sidebar {padding-left: 0!important; border-left: 0!important;}
 }
