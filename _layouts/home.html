@@ -42,55 +42,56 @@
 
     <!-- NEW VIDEO HEADER -->
     <div class="intro">
-      <div>
-        <div style="height: 800px; position: relative; overflow: hidden; background: {% if page.header_overlay %}rgba(195, 195, 195, 0.8){% else %}none{% endif %};">
-          <div id="muteYouTubeVideoPlayer"></div>
+      <div style="position: relative; overflow: hidden;">
+        <div id="muteYouTubeVideoPlayer"></div>
 
-          <script async src="https://www.youtube.com/iframe_api"></script>
-          <script>
-           var youtubeids = [{% for item in page.youtube_ids %}{% unless forloop.first %}, {% endunless %}'{{ item.youtube_id }}'{% endfor %}];
-           var random_id = youtubeids[Math.floor(Math.random() * youtubeids.length)];
-           function onYouTubeIframeAPIReady() {
-            var player;
-            player = new YT.Player('muteYouTubeVideoPlayer', {
-              videoId: random_id, // YouTube Video ID
-              width: 560,           // Player width (in px)
-              height: 316,          // Player height (in px)
-              playerVars: {
-                autoplay: 1,        // Auto-play the video on load
-                controls: 0,        // Show pause/play buttons in player
-                showinfo: 0,        // Hide the video title
-                modestbranding: 1,  // Hide the Youtube Logo
-                loop: 1,            // Run the video in a loop
-                fs: 0,              // Hide the full screen button
-                cc_load_policy: 0,  // Hide closed captions
-                iv_load_policy: 3,  // Hide the Video Annotations
-                autohide: 1         // Hide video controls when playing
+        <script async src="https://www.youtube.com/iframe_api"></script>
+        <script>
+         var youtubeids = [{% for item in page.youtube_ids %}{% unless forloop.first %}, {% endunless %}'{{ item.youtube_id }}'{% endfor %}];
+         var random_id = youtubeids[Math.floor(Math.random() * youtubeids.length)];
+         function onYouTubeIframeAPIReady() {
+          var player;
+          player = new YT.Player('muteYouTubeVideoPlayer', {
+            videoId: random_id, // YouTube Video ID
+            width: 560,           // Player width (in px)
+            height: 316,          // Player height (in px)
+            playerVars: {
+              autoplay: 1,        // Auto-play the video on load
+              controls: 0,        // Show pause/play buttons in player
+              showinfo: 0,        // Hide the video title
+              modestbranding: 1,  // Hide the Youtube Logo
+              loop: 1,            // Run the video in a loop
+              fs: 0,              // Hide the full screen button
+              cc_load_policy: 0,  // Hide closed captions
+              iv_load_policy: 3,  // Hide the Video Annotations
+              autohide: 1         // Hide video controls when playing
+            },
+            events: {
+              onReady: function(e) {
+                e.target.mute();
               },
-              events: {
-                onReady: function(e) {
-                  e.target.mute();
-                },
-                onStateChange: function(e) {
-                  if (e.data === YT.PlayerState.ENDED) {
-                    player.playVideo(); 
-                  }
+              onStateChange: function(e) {
+                if (e.data === YT.PlayerState.ENDED) {
+                  player.playVideo(); 
                 }
               }
-            });
-           }
-          
-           // Written by @labnol
-          </script>
-          <style>
-            #muteYouTubeVideoPlayer {width: 100%; height: 400%; position: absolute; left: 50%; top: calc(50%{% if page.header_overlay %}{% else %} + 73px{% endif %}); transform: translate(-50%, -50%); z-index: -1;}
-            @media only screen and (max-width: 1422px) {
-              #muteYouTubeVideoPlayer {width: 400%; height: 100%;}
             }
-            @media only screen and (max-width: 600px) {
-              #muteYouTubeVideoPlayer {display: none;}
-            }
-          </style>
+          });
+         }
+        
+         // Written by @labnol
+        </script>
+        <style>
+          #muteYouTubeVideoPlayer {width: 100%; height: 400%; position: absolute; left: 50%; top: calc(50%{% if page.header_overlay %}{% else %} + 73px{% endif %}); transform: translate(-50%, -50%); z-index: 0;}
+          @media only screen and (max-width: 1422px) {
+            #muteYouTubeVideoPlayer {width: 400%; height: 100%;}
+          }
+          @media only screen and (max-width: 600px) {
+            #muteYouTubeVideoPlayer {display: none;}
+          }
+        </style>
+        <div style="height: 800px; position: relative; overflow: hidden; background: {% if page.header_overlay %}rgba(195, 195, 195, 0.8){% else %}none{% endif %};">
+
           <div class="container" style="display: {% if page.header_overlay %}block{% else %}none{% endif %}">
             <div class="row">
                 <div class="col-md-4"></div>
