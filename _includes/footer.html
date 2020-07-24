@@ -13,8 +13,14 @@
                     </header>
                   
                     <div class="post-content">
-                          {% include instagram.html clientId="d4cc436e8a1843dfa71798b44d5b9266" userId="1091322215" accessToken="1091322215.d4cc436.d54ebe060cb44ba689c5b50e81afdb71" %}
-                          <a href="https://www.instagram.com/koffijberghairdressers/" class="btn btn-primary" target="_blank">Check ons Instagram account</a>
+                        <div id="instafeed">
+                          {% for item in site.instagram %}<a href="https://www.instagram.com/koffijberghairdressers/" style="background: url('{{ item.image }}') center center / cover;"></a>{% endfor %}
+                        </div>
+                        <style>
+                          #instafeed {overflow: auto; margin-left: -1%; margin-bottom: 20px;}
+                          #instafeed a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; padding-bottom: 19%;}
+                        </style>
+                        <a href="https://www.instagram.com/koffijberghairdressers/" class="btn btn-primary" target="_blank">Check ons Instagram account</a>
                     </div>
                   
             </article>
