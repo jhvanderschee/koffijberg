@@ -41,7 +41,7 @@ gents:
       - stylist: €15
         topstylist: €15
         masterstylist: €15
-    treatment:
+    treatment: colorman
 discounts:
   - item: t/m 12 jaar
     prijs:
