@@ -36,6 +36,12 @@ gents:
         topstylist: € 56.00
         masterstylist: € 63.25
     treatment: wassen-knippen
+  - item: Kleurspoeling
+    prijs:
+      - stylist: €15
+        topstylist: €15
+        masterstylist: €15
+    treatment:
 discounts:
   - item: t/m 12 jaar
     prijs:
