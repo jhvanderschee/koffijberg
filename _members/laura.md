@@ -1,7 +1,7 @@
 ---
 title: Laura
 naam: Laura
-image: /uploads/laura-balmain-extentions-haarstukken-kapper-amsterdam.JPG
+image: /uploads/team-laura.jpg
 functie: Receptie & Quality Manager
 order_number: 30
 ---
