@@ -1,11 +1,9 @@
 ---
 title: Brittney
 naam: Brittney
-image: /uploads/brittney-stylist-mooilanghaar-wasmassage-kapper-amsterdam.JPG
+image: /uploads/team-brittney.jpg
 functie: Stylist
 order_number: 25
 ---
 
-Geslaagd\!&nbsp;
-
-Ik ga 3 dagen naar school en loop 1 a 2 dagen stage bij Koffijberg Hairdressers. De reis naar Amsterdam is voor mij geen probleem. Als alles goed gaat haal ik in 2018 mijn diploma en ben ik kapster.&nbsp;
+Brittney is begonnen als junior stylist bij Koffijberg Hairdressers. Zij is zeer leergierig en een doorzetter, ons nieuwste talent\! Inmiddels is zij afgestudeerd als kapster en werkzaam als styliste in de salon. Brittney heeft een luisterend oor, veel geduld en denkt graag met je mee. Voor zowel knippen als kleuren kun je altijd bij Brittney terecht.
