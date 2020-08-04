@@ -1,15 +1,11 @@
 ---
 title: Kimm Koffijberg
 naam: Kimm
-image: /uploads/kimm-masterstylist-kleurspecialist-loreal-kapper-amsterdam.JPG
+image: /uploads/team-kimm.jpg
 functie: 'Master-Stylist, Kleurspecialist en Eigenaar'
 order_number: -1
 ---
 
-Voor mij is het knippen en het kleuren van jouw haar net zo belangrijk als het adviesgesprek dat daaraan vooraf gaat. Ik vind het belangrijk om het mooiste bij jou naar boven te halen. Door goed naar je te luisteren en door jouw haar goed te analyseren. Wat heb jij nodig om een bepaalde uitstraling te bereiken? Welke haarkleuren passen het beste bij jouw huidskleur? Graag ga ik hier met je over in gesprek.
-
-Sinds 2009 ben ik de trotse eigenaar van Koffijberg Hairdressers. Het is mijn droom om Koffijberg Hairdressers ook de komende jaren innovatief, inspirerend en succesvol te laten zijn. Het hele Koffijbergteam is daarbij van belang. De kracht van ons team is dat wij elkaar enorm versterken, ieder vanuit zijn eigen expertise.
-
-Grote inspiratiebron voor mijn werk is de stad Amsterdam, een stad die constant in beweging is. Oude delen van de stad worden op bijzondere manieren vernieuwd en er is veel boeiende architectuur te zien. Ook de natuur en alle kleuren in de stad inspireren mij. Ik hou van de mensen en het internationale karakter van Amsterdam. De stad met de meeste nationaliteiten ter wereld.
+Kimm weet als de beste waar ze het over heeft\! Ze is letterlijk opgegroeid in de kapperswereld. Kimm is sinds 2009 trotse eigenaar van kapsalon Koffijberg Hairdressers, die ze overgenomen heeft van haar vader. Haar doel is om Koffijberg Hairdressers innovatief, inspirerend en succesvol te laten zijn. Kimm vindt dat het hele Koffijberg team daarbij van belang is. De kracht van het team is om elkaar te versterken, ieder vanuit zijn eigen expertise. Als kapper en kleurspecialist ligt haar kracht in het geven van advies over een coupe of kleur die zowel bij je gezichtsvorm en teint staat als past in jouw levensstijl. Kimm is sterk in communicatie en houdt van een uitdaging\! Ze heeft veel passie voor het kappersvak en het zit haar dan ook echt in het bloed. Ze is erg goed in het uitwerken en verfijnen van een coupe of kleur dat komt mede door haar jarenlange ervaring. Ben&nbsp; je op zoek naar een nieuwe look maar weet je niet precies wat je wilt? Dan kun je bij Kimm goed terecht.
 
 *Beschikbaarheid: di / do / vr / za*
