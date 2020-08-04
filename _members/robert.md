@@ -1,11 +1,11 @@
 ---
 title: Robert
 naam: Robert
-image: /uploads/robert-kapper-amsterdam-kerastase-baard-shaping.JPG
+image: /uploads/team-robert.jpg
 functie: Eigenaar & Office Manager
 order_number: 40
 ---
 
-Het is aan mij om ervoor te zorgen dat de dagelijkse gang van zaken in onze kapsalon soepel verloopt en dat alle collega's hun werk goed kunnen doen. Dit doe ik met veel plezier. Voor alle vragen en/of opmerkingen over de salon kun je bij mij terecht.
+Robert is “de man” achter maar ook zeker v&oacute;&oacute;r de Koffijberg schermen. Hij houdt zich zonder twijfel staande tussen alle vrouwen van het Koffijberg team. Maar even serieus: hij is de spil in het web, de manus van alles, hij is collegiaal en oplossingsgericht. Robert staat altijd voor iedereen klaar binnen het team en voor de klanten. Hij weet alles van de receptie, is altijd bereid om iedereen goed te helpen én heeft veel kennis van de producten.
 
 *Beschikbaarheid: ma / di / wo / do / vr*
