@@ -76,8 +76,11 @@ body.iOS .salon3 {background-attachment: scroll;}
 #splash td {vertical-align: middle; text-align: center;}
 #splash img {width: 75%; max-width: 729px;}
 
-#review {visibility: hidden; position: absolute; left: 0; top: 660px; z-index: 1;}
-#review > div:last-child {width: 160px; height: 120px; background: white; text-align: center;}
+#review {position: absolute; left: 0; top: 660px; z-index: 1;}
+#review > div:last-child {width: 160px; height: 115px; background: #222; text-align: center; color: #fff; font-family: 'Jost'; font-weight: 300; font-size: 15px; line-height: 1.7em;}
+#review > div:last-child img {margin: 18px 15px 12px; max-width: calc(100% - 30px); filter: invert(1);}
+#review > div:last-child span {background: #c1a87f; color: white; display: inline-block; padding: 0 3px; margin: 0 2px; line-height: 1.2em; font-size: 20px;}
+#review > div:last-child span:before {content: "★";}
 
 .visualnews a, .visualnews p a:hover {text-decoration: none;}
 .visualnews p a {text-decoration: underline;}
