@@ -13,8 +13,14 @@
                     </header>
                   
                     <div class="post-content">
-                          {% include instagram.html clientId="d4cc436e8a1843dfa71798b44d5b9266" userId="1091322215" accessToken="1091322215.d4cc436.d54ebe060cb44ba689c5b50e81afdb71" %}
-                          <a href="https://www.instagram.com/koffijberghairdressers/" class="btn btn-primary" target="_blank">Check ons Instagram account</a>
+                        <div id="instafeed">
+                          {% for item in site.instagram %}<a href="https://www.instagram.com/koffijberghairdressers/" style="background: url('{{ item.image }}') center center / cover;"></a>{% endfor %}
+                        </div>
+                        <style>
+                          #instafeed {overflow: auto; margin-left: -1%; margin-bottom: 20px;}
+                          #instafeed a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; padding-bottom: 19%;}
+                        </style>
+                        <a href="https://www.instagram.com/koffijberghairdressers/" class="btn btn-primary" target="_blank">Check ons Instagram account</a>
                     </div>
                   
             </article>
@@ -29,21 +35,22 @@
 <div class="site-footer">
       <div class="container">
         <div class="row">
-            <div class="col-lg-7 col-sm-6 text-center visible-xs"><h3 style="cursor: pointer;" onclick="document.location.href='/nieuws';">Nieuws</h3><p>{% for post in site.posts limit:7  %}{{ post.date | date: "%-d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p></div>
+            <div class="col-lg-7 col-sm-6 visible-xs"><h3 style="cursor: pointer;" onclick="document.location.href='/nieuws';">Nieuws</h3><p>{% for post in site.posts limit:7  %}<span class="footerdate">{{ post.date | date: "%-d/%m/%Y" }}</span><a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p></div>
             <div class="col-lg-3 col-sm-3 col-xs-6"><h3 id="contact">Contact</h3><p>{% include contactinfo.html %}</p></div>
-            <div class="col-lg-2 col-sm-3 col-xs-6"><h3>Openingstijden</h3>{% include openingstijden.html %}</div>
-            <div class="col-lg-7 col-sm-6 text-center hidden-xs"><h3 style="cursor: pointer;" onclick="document.location.href='/nieuws';">Nieuws</h3><p>{% for post in site.posts limit:7 %}{{ post.date | date: "%-d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p></div>
+            <div class="col-lg-6 col-sm-6 hidden-xs"><h3 style="cursor: pointer;" onclick="document.location.href='/nieuws';">Nieuws</h3><p>{% for post in site.posts limit:7 %}<span class="footerdate">{{ post.date | date: "%-d/%m/%Y" }}</span><a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</p></div>
+            <div class="col-lg-push-1 col-lg-2 col-sm-3 col-xs-6"><h3>Openingstijden</h3>{% include openingstijden.html %}</div>
           </div>
       </div>
 </div>
 <div class="site-footer2">
       <div class="container">
         <div class="row">
-        	<div class="col-lg-8 col-sm-7"><p>&copy; 2017 - Koffijberg Hairdressers - <a href="/privacy">Privacy</a> - <a href="/disclaimer">Disclaimer</a></p></div>
+        	<div class="col-lg-8 col-sm-7"><p>&copy; 2020 - Koffijberg Hairdressers - <a href="/privacy">Privacy</a> - <a href="/disclaimer">Disclaimer</a></p></div>
         	<div class="col-lg-4 col-sm-5 text-right"><p>Volg ons op:&nbsp;
         	<i class="fa icon-facebook" onclick="window.open('https://www.facebook.com/Koffijberg-Hairdressers-143537182417933/');"></i>&nbsp;
-        	<i class="fa icon-twitter" onclick="window.open('https://twitter.com/KoffijbergHair');"></i>&nbsp;
-        	<i class="fa icon-pinterest" onclick="window.open('https://nl.pinterest.com/koffijberghair/');"></i>&nbsp;
+        	<!--<i class="fa icon-twitter" onclick="window.open('https://twitter.com/KoffijbergHair');"></i>&nbsp;-->
+          <i class="fa icon-youtube-play" onclick="window.open('https://www.youtube.com/channel/UCQ6RfbEXvRoI2s1iW4w906A');"></i>&nbsp;
+          <i class="fa icon-pinterest" onclick="window.open('https://nl.pinterest.com/koffijberghair/');"></i>&nbsp;
         	<i class="fa icon-instagram" onclick="window.open('https://instagram.com/koffijberghairdressers/');"></i></p></div>
         </div>
       </div>
@@ -52,14 +59,90 @@
 
 <div id="not_sharethis" class="follow">
     <div class="facebook" onclick="window.open('https://www.facebook.com/Koffijberg-Hairdressers-143537182417933/');"><div><i class="fa icon-facebook"></i></div> Volgen</div>
-    <div class="twitter" onclick="window.open('https://twitter.com/KoffijbergHair');"><div><i class="fa icon-twitter"></i></div> Volgen</div>
+    <!--<div class="twitter" onclick="window.open('https://twitter.com/KoffijbergHair');"><div><i class="fa icon-twitter"></i></div> Volgen</div>-->
+    <div class="youtube" onclick="window.open('https://www.youtube.com/channel/UCQ6RfbEXvRoI2s1iW4w906A');"><div><i class="fa icon-youtube-play"></i></div> Volgen</div>
     <div class="pinterest" onclick="window.open('https://nl.pinterest.com/koffijberghair/');"><div><i class="fa icon-pinterest"></i></div> Volgen</div>
     <div class="instagram" onclick="window.open('https://instagram.com/koffijberghairdressers/');"><div><i class="fa icon-instagram"></i></div> Volgen</div>
 </div>
 
 
+<a id="whatsappme" onclick="this.nextElementSibling.style.display = 'block';"><img src="/img/whatsapplogo.svg" /></a>
+<div id="whatsappwindow">
+    <div>
+        <h3 onclick="this.parentElement.parentElement.style.display = 'none'; this.parentElement.parentElement.previousElementSibling.style.display = 'block';"><span>WhatsApp</span>Koffijberg</h3>
+        <p>Stuur ons eenvoudig een WhatsApp. Wij proberen zo snel mogelijk te antwoorden.</p>
+        <img src="/img/whatsapplogo.svg" alt="whatsapp logo"><br>
+        <a href="https://wa.me/31647268686" class="btn" target="_blank" rel="noopener">WhatsApp ons!</a>
+    </div>
+</div>
+<style>
+  #whatsappme {position: fixed; cursor: pointer;}
+  #whatsappme, #whatsappwindow {bottom: 20px; right: 15px;}
+  #whatsappme img {max-width: 70px;}
+  #whatsappwindow {
+    display:flex;
+    align-items:flex-start;
+    color: rgba(22,27,39,.6);
+    position: fixed;
+    display: none;
+  }
+  #whatsappwindow>div {
+    background:#f3f3f3;
+    text-align:center;
+    max-width:23rem;
+  }
+  #whatsappwindow>div h3 {
+    background:#1d6d5c;
+    color:#fff;
+    padding:.75rem 1rem .75rem;
+    margin: 0 0 1rem!important;
+    position: relative;
+  }
+  #whatsappwindow>div h3::after{
+    cursor: pointer;
+    position: absolute;
+    top: 0px; right: 5px;
+    content: "+";
+    font-family: 'Jost';
+    font-size:3rem;
+    font-weight: 300;
+    transform: rotate(45deg);
+    margin-top: -2px;
+  }
+  #whatsappwindow>div h3 span {
+    font-weight:400;
+    display:block;
+    font-size:1.3rem;
+    font-family: 'Jost';
+    text-transform: initial;
+  }
+  #whatsappwindow>div p {
+    padding:.5rem 1rem;
+    font-family: 'Jost';
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.4em;
+    margin-bottom: 0;
+  }
+  #whatsappwindow>div img {
+    width: 80px;
+    margin:0 1rem 1rem;
+  }
+  #whatsappwindow>div .btn {
+    position:relative;
+    background:#ff8e00;
+    margin:1rem 1rem 1.5rem;
+    border:0;
+    font-weight:700;
+    color:#fff;
+    border-bottom:4px solid #b76e01;
+  }
+
+</style>
+
+
 {% for popup in site.popups %}{% if popup.active == true %}
-<table cellpadding="0" cellspacing="0" id="popup"><tr><td><div style="background: url({{ popup.image }}) center top no-repeat; background-size: cover;">
+<table cellpadding="0" cellspacing="0" id="popup"><tr><td><div style="background: {{ popup.background_color }} url({{ popup.image }}) center top no-repeat; background-size: cover;">
 	<div class="close"><a onclick="$( '#popup' ).hide(); $( '#popup .videoWrapper' ).remove();" style="cursor: pointer;"><i class="fa icon-cancel-2"></i> </A></div>	
     <style>#popup div.popupcontent a {background: {{ popup.button_color }};}
     #popup div.popupcontent a:hover {background: {{ popup.button_hover_color }};}</style>

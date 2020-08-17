@@ -1,9 +1,9 @@
 ---
 title: Boëlle
 naam: Boëlle
-image: /uploads1/portraits/boelle.jpg
+image: /uploads/team-boelle.jpg
 functie: Stylist
 order_number: 12
 ---
 
-In augustus 2016 ben ik begonnen met de kappersopleiding en wilde graag bij een leuke maar ook goede kapsalon werken. Het worden van kapper en het verzorgen van klanten is mijn passie. Ik vind het werken bij Koffijberg Hairdressers super leuk. In 2018 ben ik klaar met mijn opleiding en hoop ik kapster te zijn.
+Boëlle startte haar carri&egrave;re als junior stylist bij Koffijberg en is echt getraind op de ’Koffijberg’ manier. Door haar nieuwsgierigheid en ongekende motivatie nam zij alles wat haar aangereikt werd aan en ontwikkelde zich snel in haar vakgebied. Inmiddels is zij alweer enige tijd een succesvolle stylist. Ze is nu dé expert op gebied van high lights. Ze is perfectionistisch en werkt daardoor heel precies en verfijnd. Ze houdt van een gezellig praatje maar biedt ook een goed luisterend oor. Haar rustige en inlevende karakter zorgt dat je je al snel prettig voelt bij Boëlle in de stoel. Ze is erg creatief met haar en kan prachtig föhnen.

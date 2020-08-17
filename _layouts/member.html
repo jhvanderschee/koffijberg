@@ -22,8 +22,6 @@
                         {% if page.image %}<p><img src="{{ page.image }}" style="width: 300px;" /></p>{% endif %}
                         <div class="post-content">
                         {{ content }}
-
-                        <p><a href="/#team">&larr; Terug naar het team</a></p>
                         </div>
 
             </div>
@@ -37,6 +35,8 @@
                 </article>
       </div>
     </div>
+
+    {% include team.html %}
 
 
     {% include footer.html %}

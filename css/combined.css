@@ -1,6 +1,7 @@
 ---
 layout:
 ---
+{% include css/font.css %} 
 {% include css/bootstrap.min.css %}
 {% include css/jasny-bootstrap.min.css %}
 {% include css/fontello.min.css %} 

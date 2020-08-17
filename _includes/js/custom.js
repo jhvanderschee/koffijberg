@@ -148,7 +148,7 @@ $( document ).ready(function() {
     }
     $( window ).scroll(function() {
 
-      if(!$('body').hasClass('old_Android') && !$('body').hasClass('old_iOS')) {
+      if(!$('body').hasClass('old_Android') && !$('body').hasClass('old_iOS') && !$('body').hasClass('alwaysattop')) {
 	  	if($(window).scrollTop()>(800-$( ".navbar-default" ).height()-1) && !$( ".navbar-default" ).hasClass('attop')) $( ".navbar-default" ).addClass('attop');
 	  	if($(window).scrollTop()<(800-$( ".navbar-default" ).height()-1) && $( ".navbar-default" ).hasClass('attop')) $( ".navbar-default" ).removeClass('attop');
 	  }
@@ -156,6 +156,8 @@ $( document ).ready(function() {
 	  if($(window).scrollTop()) $( ".arrow" ).hide(  );
 	  else if(!$('body').hasClass('touch')) $( ".arrow" ).show( );
 	});
+	if($('body').hasClass('alwaysattop')) $( ".navbar-default" ).addClass('attop');
+	
 
 	showslide($('.highlight article').first(),true);
 	

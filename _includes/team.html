@@ -1,0 +1,41 @@
+<div class="team" id="team">
+    <div class="container">
+      <article>
+      <div class="row">
+          <div class="col-md-1 col-lg-2"></div>
+          <div class="col-md-10 col-lg-8">
+
+                      <header class="post-header">
+                        <h1 class="post-title editable">
+                          Team
+                        </h1>
+                      </header>
+
+                      <div class="post-content editable">
+                        <p>Het team van Koffijberg Hairdressers Amsterdam bestaat uit meerdere getalenteerde kappers en kapsters. Binnen het team werken alle kappers volgens &eacute;&eacute;n filosofie: persoonlijke aandacht, vakmanschap en een op maat gesneden advies, waarbij innerlijk en uiterlijk van de klant voorop staan.</p>
+                      </div>
+          </div>
+          <div class="col-md-1 col-lg-2"></div>
+      </div>
+
+      <div class="row">
+          <div class="col-lg-1"></div>
+          <div class="col-lg-10" style="padding-bottom: 10px;">                  
+
+                      <span onclick="prevmember();" class="prev teamcontrol"><i class="fa icon-angle-left"></i></span><span onclick="nextmember();" class="next teamcontrol"><i class="fa icon-angle-right"></i></span>
+                      {% assign members = site.members | sort: 'order_number' %}
+                      <ul class="ch-grid">{% for d in members %}<li>
+                          <div class="ch-item ch-img-1" style="background-image: url({{ d.image | replace: " ","%20" }});" onclick="document.location.href='{{ d.url }}';">
+                            <div class="ch-info">
+                              <div class="h3">{{ d.naam }}</div>
+                              <p>{{ d.functie }}</p>
+                            </div>
+                          </div>
+                        </li>{% endfor %}</ul>
+                     
+            </div>
+            <div class="col-lg-1"></div>
+      </div>
+      </article>
+    </div>
+</div>

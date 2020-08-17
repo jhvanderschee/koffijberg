@@ -1,46 +1,52 @@
 ladies:
   - item: Wassen-knippen
     prijs:
-      - stylist: € 48.80
-        topstylist: € 62.95
-        masterstylist: € 69.75
+      - stylist: € 49.75
+        topstylist: € 64.50
+        masterstylist: € 71.50
     treatment: wassen-knippen-dame
   - item: Wassen-knippen-drogen
     prijs:
-      - stylist: € 53.30
-        topstylist: € 74.25
-        masterstylist: € 82.50
+      - stylist: € 54.50
+        topstylist: € 76.25
+        masterstylist: € 84.50
     treatment: wassen-knippen-drogen
   - item: Wassen-knippen-föhnen
     prijs:
-      - stylist: € 60.75
-        topstylist: € 81.60
-        masterstylist: € 90.15
+      - stylist: € 61.95
+        topstylist: € 83.75
+        masterstylist: € 92.50
     treatment: wassen-knippen-fohnen
   - item: Wassen-knippen-föhnen-middellang haar
     prijs:
-      - stylist: € 72.30
-        topstylist: € 96.00
-        masterstylist: € 104.85
+      - stylist: € 73.75
+        topstylist: € 98.50
+        masterstylist: € 107.50
     treatment: wassen-knippen-fohnen-middel-lang-haar
   - item: Wassen-knippen-föhnen-lang haar
     prijs:
-      - stylist: € 78.80
-        topstylist: € 110.95
-        masterstylist: € 119.75
+      - stylist: € 80.50
+        topstylist: € 113.70
+        masterstylist: € 122.75
     treatment: wassen-knippen-fohnen-lang-haar
 gents:
   - item: Wassen-knippen
     prijs:
-      - stylist: € 47.00
-        topstylist: € 54.60
-        masterstylist: € 61.70
+      - stylist: € 48.00
+        topstylist: € 56.00
+        masterstylist: € 63.25
     treatment: wassen-knippen
+  - item: Kleurspoeling
+    prijs:
+      - stylist: €15
+        topstylist: €15
+        masterstylist: €15
+    treatment: colorman
 discounts:
   - item: t/m 12 jaar
     prijs:
-      - stylist: € 31.00
-        topstylist: € 35.75
+      - stylist: € 32.75
+        topstylist: € 37.70
         masterstylist: n.v.t.
     treatment:
   - item: tot 20 jaar + studenten
@@ -52,75 +58,75 @@ discounts:
 colorings:
   - item: Kleuring
     prijs:
-      - stylist: € 68.00
-        topstylist: € 68.80
-        masterstylist: € 74.25
+      - stylist: € 69.50
+        topstylist: € 70.50
+        masterstylist: € 76.25
     treatment: kleuring
   - item: Kleuring + Streaks
     prijs:
-      - stylist: € 143.80
-        topstylist: € 145.25
-        masterstylist: € 157.85
+      - stylist: € 146.70
+        topstylist: € 148.90
+        masterstylist: € 161.80
     treatment: kleuring-streaks
   - item: Kleuring + Streaks effect
     prijs:
-      - stylist: € 107.95
-        topstylist: € 109.10
-        masterstylist: € 120.10
+      - stylist: € 110.25
+        topstylist: € 111.85
+        masterstylist: € 123.25
     treatment: kleuring-steaks-effect
   - item: Kleuring + Streaks Lang haar
     prijs:
-      - stylist: € 161.00
-        topstylist: € 162.85
-        masterstylist: € 178.00
+      - stylist: € 164.20
+        topstylist: € 166.70
+        masterstylist: € 172.50
     treatment: kleuring-streaks-lang-haar
   - item: Highlights deel
     prijs:
-      - stylist: € 70.95
-        topstylist: € 71.70
-        masterstylist: € 80.10
+      - stylist: € 72.50
+        topstylist: € 73.50
+        masterstylist: € 82.25
     treatment: highlights-deel
   - item: Highlights deel Plus
     prijs:
-      - stylist: € 90.15
-        topstylist: € 91.25
-        masterstylist: € 100
+      - stylist: € 91.95
+        topstylist: € 93.75
+        masterstylist: '€ 102,50'
     treatment: highlights-deel-plus
   - item: Highlights heel
     prijs:
-      - stylist: € 107.95
-        topstylist: € 109.10
-        masterstylist: € 120.20
+      - stylist: € 110.25
+        topstylist: € 111.85
+        masterstylist: € 123.25
     treatment: highlights-heel
-  - item: Highlights heel Plus
+  - item: Highlights heel Plus incl. Smart Bond
     prijs:
-      - stylist: € 142.25
-        topstylist: € 143.70
-        masterstylist: € 158.70
+      - stylist: € 145.25
+        topstylist: € 147.50
+        masterstylist: € 162.75
     treatment: highlights-heel-plus
   - item: Free hand techniek deel
     prijs:
-      - stylist: € 156.50
-        topstylist: € 156.50
-        masterstylist: € 170.70
+      - stylist: € 160.50
+        topstylist: € 160.50
+        masterstylist: € 174.95
     treatment: free-hand-techniek
   - item: Free hand techniek middel
     prijs:
-      - stylist: € 212.90
-        topstylist: € 212.90
-        masterstylist: € 230.45
+      - stylist: € 218.25
+        topstylist: € 218.25
+        masterstylist: € 236.50
     treatment: free-hand-techniek-heel
   - item: Free hand techniek lang haar
     prijs:
-      - stylist: € 228.90
-        topstylist: € 228.90
-        masterstylist: € 249.55
+      - stylist: € 234.75
+        topstylist: € 234.75
+        masterstylist: € 255.80
     treatment: free-hand-techniek-lang-haar
   - item: Ontkleuring / Ultimate blond
     prijs:
-      - stylist: € 84.00
-        topstylist: € 84.85
-        masterstylist: € 92.20
+      - stylist: € 85.75
+        topstylist: € 86.95
+        masterstylist: € 94.50
     treatment: ontklering--ultimate-blond
   - item: Shining Grey
     prijs:
@@ -137,34 +143,34 @@ colorings:
 blow-dry:
   - item: Normaal (30 min)
     prijs:
-      - stylist: € 30.00
-        topstylist: € 30.00
+      - stylist: € 30.75
+        topstylist: € 30.75
         masterstylist: n.v.t.
     treatment: blow-dry
   - item: Toeslag lang haar (per 15 min)
     prijs:
-      - stylist: € 16.00
-        topstylist: € 16.00
+      - stylist: € 16.40
+        topstylist: € 16.40
         masterstylist: n.v.t.
     treatment: blow-dry
 wash-and-dry:
   - item: Wassen & Föhnen
     prijs:
-      - stylist: € 32.25
-        topstylist: € 36.55
-        masterstylist: € 41.10
+      - stylist: € 33.00
+        topstylist: € 37.50
+        masterstylist: € 42.15
     treatment: wassen--fohnen
   - item: Wassen & Föhnen middellang haar
     prijs:
-      - stylist: € 53.10
-        topstylist: € 58.60
-        masterstylist: € 64.50
+      - stylist: € 54.25
+        topstylist: € 60.00
+        masterstylist: € 66.10
     treatment: wassen--fohnen-middellang-haar
   - item: Wassen & Föhnen lang haar
     prijs:
-      - stylist: € 58.90
-        topstylist: € 65.60
-        masterstylist: € 72.00
+      - stylist: € 61.85
+        topstylist: € 69.25
+        masterstylist: € 76.00
     treatment: wassen--fohnen-lang-haar
 specials:
   - item: I-dentity (Metamorfose)
@@ -175,15 +181,15 @@ specials:
     treatment: i-dentity
   - item: Wenkbrauwen Epileren / Harsen
     prijs:
-      - stylist: € 18.50
-        topstylist: € 18.50
-        masterstylist: € 18.50
+      - stylist: € 18.95
+        topstylist: € 18.95
+        masterstylist: € 18.95
     treatment: brow-area
   - item: Wenkbrauwen Epileren / Harsen & Verven
     prijs:
-      - stylist: € 28.50
-        topstylist: € 28.50
-        masterstylist: € 28.50
+      - stylist: € 33.30
+        topstylist: € 33.30
+        masterstylist: € 33.30
     treatment: brow-area
   - item: Bruidskapsels
     prijs:

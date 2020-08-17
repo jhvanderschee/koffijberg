@@ -1,10 +1,9 @@
 ---
 title: Laura
 naam: Laura
-image: /img/profielfotos/IMG_0360_0000s_0003_Layer 14.jpg
+image: /uploads/team-laura.jpg
 functie: Receptie & Quality Manager
 order_number: 30
 ---
 
-
-Als Quality manager ben ik het aanspreekpunt in de kapsalon voor onze klanten en voor alle medewerkers. Daarnaast draag ik zorg voor de uitstraling van de salon. We zitten in de Scheldestraat, Rivierenbuurt Amsterdam, aan een drukke weg. Onze etalage is heel belangrijk. Mijn creativiteit kan ik kwijt in de aankleding van de etalage en de kapsalon. Hier haal ik veel plezier uit. Onze klanten vinden het ook erg leuk om iedere keer verrast te worden met een nieuwe look van de salon. Daarnaast ben ik gespecialiseerd in Balmain Hairextensions en visagie.
+Laura is haar carri&egrave;re 20 jaar geleden begonnen bij Koffijberg Hairdressers. Ze ging aan de slag als junior stylist maar heeft na een paar jaar de overstap gemaakt naar de receptie. Laura is een inmiddels een vaste waarde van Koffijberg Hairdressers. Zij is een belangrijke verbindende factor tussen het team en de klanten. Laura is heel zorgzaam en zorgt voor de heerlijk fijne sfeer binnen kapsalon Koffijberg zodat je je meteen helemaal thuis voelt. Zij staat altijd voor iedereen klaar en dat maakt haar een zeer gewaardeerde en onmisbare gastvrouw en specialist in Balmain Hair producten.

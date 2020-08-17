@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+  {% include head.html %}
+
+  <body class="page-template post">
+	  {% include header.html %}
+    <div class="salon2"></div>
+
+    <div class="twocols">
+      <div class="container">
+      <article class="">
+        <div class="row">
+            <div class="col-sm-12">
+
+                    <header class="post-header ">
+                        <h1 class="post-title">{{ page.title }}</h1>
+                    </header>
+
+                    <div class="post-content">{{ content }}</div>
+                    <div  id="newsarchive">
+                    <div class="post-content">
+                        
+                        <div class="twocols">{% for post in site.posts offset:15 %}{{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}</div>
+                    </div>
+                    </div>
+
+            </div>
+          </div>
+      </article>
+      </div>
+    </div>
+
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

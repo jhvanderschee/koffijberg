@@ -1,12 +1,12 @@
 ---
 title: Philine
 naam: Philine
-image: /img/profielfotos/IMG_0360_0000s_0005_Layer 12.jpg
-functie: Stylist
+image: /uploads/team-philine.jpg
+functie: Top-Stylist
 order_number: 11
 ---
 
-Als Stylist sta ik graag waar dat nodig is klaar voor onze klanten. Knippen en kleuren zijn mijn passie. Goed advies geven over onze producten of een ontspannende hoofdmassage geven, vind ik heel erg leuk om te doen. Kapper zijn in deze kapsalon is waar ik tijdens mijn stage op gehoopt heb. En dat is gelukt!
+Philine is zeer gemotiveerd en luistert goed naar jouw wensen. Prettig aan Philine is dat ze heel rustig kan zijn en dat is wat je soms als klant nodig hebt. Dus even lekker ontspannen en nergens aan denken? Dat kan&nbsp; bij Philine. Vaktechnisch is zij heel sterk in het knippen en kleuren van vrouwelijke klanten. Ze doet er alles aan totdat jij helemaal tevreden bent. Philine is behulpzaam, nauwkeurig en biedt altijd een luisterend oor. Ze is een echte teamplayer en benadert alles positief. Philine is ambassadeur van Kérastase en kan een uitstekend passend advies geven voor een hoofdhuidbehandeling, bij haarproblemen en over de juiste producten.
 
 &nbsp;
 

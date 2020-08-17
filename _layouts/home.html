@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="home" id="top">
+  <body class="home {% unless page.header_overlay %}alwaysattop{% endunless %}" id="top">
   <div id="splash"><table cellpadding="0" cellspacing="0"><tr><td><img src="/img/koffijberglogo_ffffff.svg" onerror="this.onerror=null; this.src='/img/koffijberglogo_ffffff.png'" /></td></tr></table></div>
   <div id="nonsplash">
       <script>document.getElementById('nonsplash').style.display = 'none';</script>
@@ -21,7 +21,10 @@
     </div>
     {% include header.html %}
     <a class="arrow bounce" href="#over-ons"></a>
-    <div class="intro"><div><div>
+
+
+    <!-- OLD IMAGE HEADER -->
+    <!--<div class="intro"><div><div>
   		<div class="container">
   			<div class="row">
   		    	<div class="col-md-8"></div>
@@ -45,8 +48,87 @@
   		    	</div>
   		    </div>
   		</div>
-    </div></div></div>
+    </div></div></div>-->
 
+
+    <!-- NEW VIDEO HEADER -->
+    <div class="intro">
+      <div style="position: relative; overflow: hidden;">
+        <div id="muteYouTubeVideoPlayer"></div>
+
+        <script async src="https://www.youtube.com/iframe_api"></script>
+        <script>
+         var youtubeids = [{% for item in page.youtube_ids %}{% unless forloop.first %}, {% endunless %}'{{ item.youtube_id }}'{% endfor %}];
+         var random_id = youtubeids[Math.floor(Math.random() * youtubeids.length)];
+         function onYouTubeIframeAPIReady() {
+          var player;
+          player = new YT.Player('muteYouTubeVideoPlayer', {
+            videoId: random_id, // YouTube Video ID
+            width: 560,           // Player width (in px)
+            height: 316,          // Player height (in px)
+            playerVars: {
+              autoplay: 1,        // Auto-play the video on load
+              controls: 0,        // Show pause/play buttons in player
+              showinfo: 0,        // Hide the video title
+              modestbranding: 1,  // Hide the Youtube Logo
+              loop: 1,            // Run the video in a loop
+              fs: 0,              // Hide the full screen button
+              cc_load_policy: 0,  // Hide closed captions
+              iv_load_policy: 3,  // Hide the Video Annotations
+              autohide: 1         // Hide video controls when playing
+            },
+            events: {
+              onReady: function(e) {
+                e.target.mute();
+              },
+              onStateChange: function(e) {
+                if (e.data === YT.PlayerState.ENDED) {
+                  player.playVideo(); 
+                }
+              }
+            }
+          });
+         }
+        
+         // Written by @labnol
+        </script>
+        <style>
+          #muteYouTubeVideoPlayer {width: 100%; height: 400%; position: absolute; left: 50%; top: calc(50%{% if page.header_overlay %}{% else %} + 73px{% endif %}); transform: translate(-50%, -50%); z-index: 0;}
+          @media only screen and (max-width: 1422px) {
+            #muteYouTubeVideoPlayer {width: 400%; height: 100%;}
+          }
+          @media only screen and (max-width: 600px) {
+            #muteYouTubeVideoPlayer {display: none;}
+          }
+        </style>
+        <div style="height: 800px; position: relative; overflow: hidden; background: {% if page.header_overlay %}rgba(195, 195, 195, 0.8){% else %}none{% endif %};">
+
+          <div class="container" style="display: {% if page.header_overlay %}block{% else %}none{% endif %}">
+            <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-4 highlight">
+                <table cellpadding="0" cellspacing="0"><tr><td>
+                {% for d in page.highlights %}
+                    <article id="n{{ forloop.index }}">
+                            <header class="post-header">
+                              <h1 class="post-title">{{ d.title }}</h1>
+                            </header>
+                          
+                            <div class="post-content">
+                                  <p>{{ d.text }}</p>
+                                  <a href="/contact" class="btn btn-primary">Maak een afspraak</a><br />
+                                  <a href="tel:020-6732374" class="btn mobile">bel 020-6732374</a>
+                                  <span class="btn desktop">bel 020-6732374</span>
+                            </div>
+                    </article>
+                {% endfor %}
+                </td></tr></table>
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <div class="about" id="over-ons">
       <div class="container">
@@ -204,7 +286,7 @@
                         </header>
                                               
                         <div class="post-content"><div class="editable">
-  <p><img width="266" height="340" src="/uploads/feestelijk-haar-updo-kapper-amsterdam-koffijberg-250.jpg" /><img width="250" height="340" src="/uploads/feestelijk-koffijberg-amsterdam-kapper-250-250.jpg" /><br />D&egrave; trend in Amerika nu ook bij ons in de kapsalon: de Blow Dry Area. Binnen 30 minuten f&ouml;hnen wij je haar of verzorgen een updo. Jij geniet ondertussen van een hapje en een drankje. Je komt met gewassen en droog haar naar onze kapsalon. Daar kies je uit een van onze looks en wij zorgen ervoor dat je na een half uurtje met een catwalk look onze kapsalon verlaat. Een blow dry voor je haar is snel en betaalbaar. Onverwacht een belangrijke zakelijke afspraak? Of vanavond een feestje? Bel ons of loop even binnen en <em>book a blow-out!</em>&nbsp;Voor inspiratie <a target="_blank" href="https://www.koffijberg.nl/behandelingen/blow-dry/">klik hier</a></p>
+  <p><img src="/uploads/feestelijk-haar-updo-kapper-amsterdam-koffijberg-250.jpg" style="margin-bottom: 15px" /><br />D&egrave; trend in Amerika nu ook bij ons in de kapsalon: de Blow Dry Area. Binnen 30 minuten f&ouml;hnen wij je haar of verzorgen een updo. Jij geniet ondertussen van een hapje en een drankje. Je komt met gewassen en droog haar naar onze kapsalon. Daar kies je uit een van onze looks en wij zorgen ervoor dat je na een half uurtje met een catwalk look onze kapsalon verlaat. Een blow dry voor je haar is snel en betaalbaar. Onverwacht een belangrijke zakelijke afspraak? Of vanavond een feestje? Bel ons of loop even binnen en <em>book a blow-out!</em>&nbsp;Voor inspiratie <a target="_blank" href="https://www.koffijberg.nl/behandelingen/blow-dry/">klik hier</a></p>
 </div>
                               <a href="/contact" class="btn btn-primary">Maak een afspraak</a>
                         </div>
@@ -231,47 +313,7 @@
     </div>
 
 
-    <div class="team" id="team">
-      <div class="container">
-        <article>
-        <div class="row">
-            <div class="col-md-1 col-lg-2"></div>
-            <div class="col-md-10 col-lg-8">
-
-                        <header class="post-header">
-                          <h1 class="post-title editable">
-                            Team
-                          </h1>
-                        </header>
-
-                        <div class="post-content editable">
-                          <p>Het team van Koffijberg Hairdressers Amsterdam bestaat uit meerdere getalenteerde kappers en kapsters. Binnen het team werken alle kappers volgens &eacute;&eacute;n filosofie: persoonlijke aandacht, vakmanschap en een op maat gesneden advies, waarbij innerlijk en uiterlijk van de klant voorop staan.</p>
-                        </div>
-            </div>
-            <div class="col-md-1 col-lg-2"></div>
-        </div>
-
-        <div class="row">
-            <div class="col-lg-1"></div>
-            <div class="col-lg-10" style="padding-bottom: 10px;">                  
-
-                        <span onclick="prevmember();" class="prev teamcontrol"><i class="fa icon-angle-left"></i></span><span onclick="nextmember();" class="next teamcontrol"><i class="fa icon-angle-right"></i></span>
-                        {% assign members = site.members | sort: 'order_number' %}
-                        <ul class="ch-grid">{% for d in members %}<li>
-                            <div class="ch-item ch-img-1" style="background-image: url({{ d.image | replace: " ","%20" }});" onclick="document.location.href='{{ d.url }}';">
-                              <div class="ch-info">
-                                <div class="h3">{{ d.naam }}</div>
-                                <p>{{ d.functie }}</p>
-                              </div>
-                            </div>
-                          </li>{% endfor %}</ul>
-                       
-              </div>
-              <div class="col-lg-1"></div>
-        </div>
-        </article>
-      </div>
-    </div>
+    {% include team.html %}
 
     <div class="twocols">
       <div class="container">
@@ -285,12 +327,10 @@
                         </header>
                                               
                         <div class="post-content"><div class="editable">
-  <p>Heb je sterk gekruld en/of mixed hair en ben je op zoek naar een kapper die professioneel om kan gaan met je krullen? Dan ben je bij ons aan het goede adres: Koffijberg Hairdressers is al jaren d&egrave; kapsalon voor mooi natuurlijk krullend haar; het zit in onze genen. Wij snappen dat je sterk gekruld en/of mixed hair anders knipt en behandelt dan steil en fijn haar:</p>
-  <p><img src="/uploads/iva-mixed-hair---knip.jpg" /></p>
+  <p>Heb je sterk gekruld en/of mixed hair en ben je op zoek naar een kapper die professioneel om kan gaan met je krullen? Dan ben je bij ons aan het goede adres: Koffijberg Hairdressers is al jaren d&egrave; kapsalon voor mooi natuurlijk krullend haar; het zit in onze genen. Wij snappen dat je sterk gekruld en/of mixed hair anders knipt en behandelt dan steil en fijn haar.</p>
   <p>Onbehandeld mixed hair hoef je niet vaak te wassen. Het heeft wel regelmatig een masker of haarkuur nodig. Je haar is van nature droger dan andere soorten haar en het&nbsp; heeft heel veel behoefte aan vocht en olie. Onze speciale mixed hair productlijnen zitten daarom boordevol voedende en hydraterende bestanddelen. Er zitten veel meer oli&euml;n en moisturizers in dan in producten voor Europees of Aziatisch haar.</p>
-  <p><img src="/uploads/kapper-mixed-hair-krullen-heer.jpg" /></p>
+  <p><img src="/uploads/krullend-haar.jpg" /></p>
   <p>Voordeel van mixed hair is dat je je haar maar zo&rsquo;n 1 x in de vier maanden hoeft te knippen. Jij en wij weten dat er bij het knippen maar een snippertje vanaf mag!! Elke centimeter eraf, lijkt wel 5 centimeter korter als je haar is opgedroogd." Na het knippen, defini&euml;ren wij jouw krullen met de juiste producten. Voor het kleuren van je haar (puntkleuring, splitcolor etc.) gebruiken we de milde producten van L&rsquo;Oreal. Zij hebben ook ammonia vrije kleurproducten. En wil je er extra mooi uitzien? Dan zorgen we ervoor dat je haar supermooi gef&ouml;hnd en getangd wordt door een van onze professionele kappers.</p>
-  <p><img src="/uploads/kapper-mixed-hair-krullen-1.jpg" /></p>
 </div>
                               <a href="/contact" class="btn btn-primary">Maak een afspraak</a>
                         </div>
@@ -306,8 +346,8 @@
                                               
                         <div class="post-content"><div class="editable">
   <p><img src="/img/willemijn1.jpg" /></p>
-  <p>Kimm Koffijberg heeft een uniek concept ontwikkeld. Voor vrouwen met gekleurd haar die op een mooie manier hun grijze haar willen laten uitgroeien.</p>
-  <p>&lsquo;Shining grey&rsquo; verloopt via een subtiel persoonlijk stappenplan en duurt gemiddeld een jaar. Elke 3 of 4 maanden bezoek je onze kapsalon. Op een uitgekiende manier plaatsen onze kappers en kapsters bij ieder bezoek low- en highlights om zo het grijze en het gekleurde haar steeds meer te blenden. Jij en je omgeving wennen zo geleidelijk aan je nieuwe grijze haarkleur, terwijl onze kappers en kapsters de kwaliteit en de kleur van het haar goed bewaken. Na een jaar komt een vrouw tevoorschijn met een sprankelende grijze en eigentijdse look.</p>
+  <p>Kimm Koffijberg heeft een uniek concept ontwikkeld. Voor vrouwen met gekleurd haar die op een mooie manier hun grijze haar willen laten uitgroeien. &lsquo;Shining grey&rsquo; verloopt via een subtiel persoonlijk stappenplan en duurt gemiddeld een jaar. Elke 3 of 4 maanden bezoek je onze kapsalon. Op een uitgekiende manier plaatsen onze kappers en kapsters bij ieder bezoek low- en highlights om zo het grijze en het gekleurde haar steeds meer te blenden. Jij en je omgeving wennen zo geleidelijk aan je nieuwe grijze haarkleur, terwijl onze kappers en kapsters de kwaliteit en de kleur van het haar goed bewaken. Na een jaar komt een vrouw tevoorschijn met een sprankelende grijze en eigentijdse look.</p>
+  <br />
   <h2>100% Plantaardige Kleuring</h2>
   <p><img src="/uploads1/botanea.jpg" /></p>
   <p>Bij ons in de salon kleuren we nu ook met <a target="_blank" href="https://www.youtube.com/watch?v=khs3TE75YFA">Botanea</a>. Botanea is een 100% Plantaardige Professionele Haarkleur samengesteld uit slechts drie natuurlijke ingredi&euml;nten: Cassia, Henna en Indigo, zorgvuldig verbouwd en geoogst in India. <a target="_blank" href="/contact">Meer weten?</a></p>

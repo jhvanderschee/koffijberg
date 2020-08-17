@@ -1,6 +1,11 @@
 ---
 title: Home
 layout: home
+youtube_ids: 
+  - youtube_id: 5QpnCnn4qDk
+  - youtube_id: M0hxoAYnayU
+  - youtube_id: bnVetOv-59k
+header_overlay: true
 highlights:
   - title: Award-winning topkapper
     text: 'In het verleden hebben wij onder andere de Global Salon Business Award gewonnen en in 2013 de Coiffure Award. Kapsalon Koffijberg in Amsterdam staat al 40 jaar voor vakmanschap, creativiteit en vernieuwing op het gebied van kapsels, haarkleuringen en styling. Onze trendsettende kappers en kapsters blinken uit in technische vakkundigheid en in persoonlijke aandacht voor hun klanten.'
