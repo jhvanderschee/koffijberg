@@ -45,7 +45,7 @@ Kapsalon Koffijberg Hairdressers werkt met prijsdifferentiatie. Dit betekent dat
 
 **INTERVIEW KIMM**
 
-*Kimm Koffijberg (1978) is de trotse dochter van Richard Koffijberg, wiens werk ze al als klein meisje bewonderde. Maar haar grootste drijfveer om - ook - kapper te worden is de omgang met mensen. Sinds ze in 1996 van de kappers academie kwam, werkt ze in de familiesalon, en op haar 21ste werd ze medevennoot van haar vader’s bedrijf. Ze volgde een managementopleiding en nam in 2009 samen met haar man en zakenpartner de kapsalon over. Ze won de Coiffure Awards in 2013, deed redactionele producties voor tijdschriften en geeft als Color Consultant van L’Oréal Professionnel graag haar professionele mening........[Lees verder](https://www.koffijberg.nl/nieuws/2019/11/12/meet-kimm-koffijberg/){: target="_blank" rel="noopener"}*
+*Kimm Koffijberg (1978) is de trotse dochter van Richard Koffijberg, wiens werk ze al als klein meisje bewonderde. Maar haar grootste drijfveer om - ook - kapper te worden is de omgang met mensen. Sinds ze in 1996 van de kappers academie kwam, werkt ze in de familiesalon, en op haar 21ste werd ze medevennoot van haar vader’s bedrijf. Ze volgde een managementopleiding en nam in 2009 samen met haar man en zakenpartner de kapsalon over. Ze won de Coiffure Awards in 2013, deed redactionele producties voor tijdschriften en geeft als Color Consultant van L’Oréal Professionnel graag haar professionele mening……..[Lees verder](https://www.koffijberg.nl/nieuws/2019/11/12/meet-kimm-koffijberg/){: target="_blank" rel="noopener"}*
 
 &nbsp;
 
@@ -53,7 +53,7 @@ Kapsalon Koffijberg Hairdressers werkt met prijsdifferentiatie. Dit betekent dat
 
 **Afspraken:** Wij werken (op dit moment i.v.m. Corona) uitsluitend met behandelingen volgens afspraak. Deze kunnen telefonisch, per email en Whatsapp gemaakt worden.
 
-**Afspraakherinnering:** Wij versturen afspraakherinneringen naar onze patiënten per email. Zorg ervoor dat wij jouw correcte email in onze database hebben en dat wij niet als SPAM gezien worden. Deze email service is een gratis extra service die wij verlenen aan onze cliënten en waar geen rechten aan ontleend kunnen worden. Mocht het een keer voorkomen dat u geen herinnering van ons ontvangt, betekent dit niet dat uw afspraak niet door zou gaan.
+**Afspraakherinnering:** Wij versturen afspraakherinneringen naar onze klanten per email. Zorg ervoor dat wij jouw correcte email in onze database hebben en dat wij niet als SPAM gezien worden. Deze email service is een gratis extra service die wij verlenen aan onze cliënten en waar geen rechten aan ontleend kunnen worden. Mocht het een keer voorkomen dat u geen herinnering van ons ontvangt, betekent dit niet dat uw afspraak niet door zou gaan.
 
 **Het te laat komen op de afspraak:** Bij het te laat verschijnen op een afspraak loopt u het risico dat de behandeling niet geheel volgens planning kan worden voltooid, of soms moet worden geannuleerd wegens het hierdoor ontstane tijdsgebrek. Dit kan natuurlijk een keer voorkomen. Als dit herhaaldelijk gebeurd zijn wij genoodzaakt de gereserveerde tijd in rekening te brengen.
 
