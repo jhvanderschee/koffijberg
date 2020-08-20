@@ -39,7 +39,7 @@ Goede communicatie vinden wij erg belangrijk om een mooi eindresultaat te bereik
 
 Eigenaar Kimm is continu op zoek naar wat jou als klant en andere consumenten bezighoudt. Omdat Kapsalon Koffijberg Hairdressers jouw uiterlijk kan versterken, werken we met een persoonlijk plan dat we voor iedere klant afzonderlijk samenstellen. Denk bijvoorbeeld aan het *Shining Grey*\-concept waarin dames die hun grijze haar willen omarmen, door ons intensief worden begeleid bij dit proces naar mooi en natuurlijk grijs haar. Of wanneer jouw uiterlijk een nieuwe boost nodig heeft op zowel haar- als kledinggebied: met het *Personal Style Identity*\-concept werken we voor jou het beste plan uit. Wij zijn er voor je, niet alleen voor een goede knip- of kleurbehandeling maar ook wanneer je meer nodig hebt\!
 
-**Prijsdifferentiatie** \[naar prijslijst verschuiven\]
+**Prijsdifferentiatie&nbsp;**
 
 Kapsalon Koffijberg Hairdressers werkt met prijsdifferentiatie. Dit betekent dat wij verschillende prijzen berekenen voor dezelfde behandeling. Wij werken met prijsdifferentiatie omdat de lonen in de kappersbranche gekoppeld zijn aan leeftijd en ervaring. De prijs van jouw behandeling hangt samen met welke kapper je helpt; je vind dit terug in de prijslijst. Alle medewerkers in onze kapsalon zijn goed opgeleid en zeer getalenteerd. Je hebt zelf de vrijheid om te kiezen door wie je geholpen wilt worden en in het verlengde daarvan, hoeveel je wilt besteden. Bij ons staat kwaliteit altijd voorop. Dat garanderen wij voor iedere kapper in onze kapsalon.
 
