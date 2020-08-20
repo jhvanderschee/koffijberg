@@ -3,15 +3,51 @@ title: Over ons
 layout: page
 ---
 
-Richard Koffijberg startte in 1976 zijn kapsalon in een klein brugwachtershuisje aan de Amstelkade in Amsterdam-Zuid. In 1997 verhuisde de kapsalon naar het veel grotere pand aan de overkant op Scheldestraat 8. Daar groeit het familiebedrijf uit tot een van de topkapsalons van Nederland.&nbsp;[*bekijk de salon van binnen*](https://www.google.nl/maps/uv?hl=nl&amp;pb=!1s0x47c609f52b889af9%3A0xa0d852e46cb77f93!2m19!2m2!1i80!2i80!3m1!2i20!16m13!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!3m1!7e115!4s%2Fmaps%2Fplace%2Fkoffijberg%2Bhair%2F%4052.3478303%2C4.8910038%2C3a%2C75y%2C278.21h%2C90t%2Fdata%3D*213m4*211e1*213m2*211srA0saFomM0IAAAQvxR2meQ*212e0*214m2*213m1*211s0x0%3A0xa0d852e46cb77f93!5skoffijberg%20hair%20-%20Google%20zoeken&amp;imagekey=!1e2!2srA0saFomM0IAAAQvxR2meQ&amp;sa=X&amp;ved=0ahUKEwiLzbDa4YLRAhVQdFAKHYRjAHYQoB8IjQEwEg)
+**TOPKAPPER IN AMSTERDAM**
 
-Sinds 2009 is de kapsalon eigendom van Kimm, de dochter van Richard, en van haar partner Robert. Kimm heeft dezelfde passie voor het kappersvak als haar vader. Zij behoort tot de topkappers in Nederland. Naast eigenaar van kapsalon Koffijberg is Kimm Color Consultant voor L'Oréal Professionnel. Zij geeft masterclasses en ontwikkelt nieuwe creatieve kleurconcepten. Eigenaren van kapsalons uit heel Nederland laten hun zelf en hun medewerkers trainen door Kimm.
+Wij zijn Koffijberg Hairdressers en onze aanpak staat al bijna 45 jaar voor vakmanschap, creativiteit en vernieuwing op het gebied van kapsels, haarkleuringen en styling. Onze kappers blinken uit in technische vakkundigheid en in persoonlijke aandacht voor jullie: onze klanten.
 
-Kapsalon Koffijberg is nu al 40 jaar een autoriteit op het gebied van haarkleuringen en kniptechnieken, met een unieke [aanpak](/aanpak). Alleen gediplomeerde kappers en kapsters knippen en kleuren je haar. Zij nemen voortdurend deel aan vakgerichte trainingen en blijven zo up-to-date in het kappersvak. De kappers en kapsters van Kapsalon Koffijberg zijn vele malen in de prijzen gevallen en de kapsalon is in het verleden tot ‘Entrepeneur of the Year’ gekozen.
+**OVER ONS**
 
-Maar het allerbelangrijkste voor onze kapsalon is een brede interesse in onze klanten. Wij baseren ons advies niet alleen op uiterlijke kenmerken zoals gezichtsvorm en huidtype, wij zijn geïnteresseerd in je hele lifestyle en geven je graag een advies dat volledig op jou is afgestemd. Bel ons gerust als je meer wilt weten, of loop even bij ons binnen. Een vraag via de site stellen of direct een afspraak maken kan natuurlijk ook. Bij Koffijberg nemen we alle tijd om aan de hand van jouw lifestyle en jouw wensen tot een passend persoonlijk advies te komen.
+*Richard Koffijberg startte in 1976 zijn kaperszaak in een klein brugwachtershuisje aan de Amstelkade in Amsterdam-Zuid. In 1997 verhuisde de kapsalon naar het veel grotere pand aan de overkant op Scheldestraat 8. Daar groeit het familiebedrijf uit tot een van de topkapsalons van Nederland.&nbsp;*
 
-**[klik hier voor foto's van de salon](https://photos.google.com/share/AF1QipOJti8OeHzM6kd3MyzHAuHhZ-PtFqGDrupw9_zhqss0avv0DzEDnDC_80w-rfqRGA?key=MWNIVkpya2Y1U3JJN0FGMW5tbXJlaVkxYjhJZjZR)** of [**klik hier voor een rondleiding**](https://www.google.nl/maps/uv?hl=nl&amp;pb=!1s0x47c609f52b889af9%3A0xa0d852e46cb77f93!2m19!2m2!1i80!2i80!3m1!2i20!16m13!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!3m1!7e115!4s%2Fmaps%2Fplace%2Fkoffijberg%2Bhair%2F%4052.3478303%2C4.8910038%2C3a%2C75y%2C278.21h%2C90t%2Fdata%3D*213m4*211e1*213m2*211srA0saFomM0IAAAQvxR2meQ*212e0*214m2*213m1*211s0x0%3A0xa0d852e46cb77f93!5skoffijberg%20hair%20-%20Google%20zoeken&amp;imagekey=!1e2!2srA0saFomM0IAAAQvxR2meQ&amp;sa=X&amp;ved=0ahUKEwiLzbDa4YLRAhVQdFAKHYRjAHYQoB8IjQEwEg)
+**Over Kimm**
+
+Sinds 2009 is de kapsalon eigendom van Kimm, de dochter van Richard, en van haar partner Robert. Kimm heeft dezelfde passie voor het kappersvak als haar vader. Zij behoort tot de topkappers in Nederland. Naast eigenaar van kapsalon Koffijberg is Kimm *Color Consultant* voor L’Oréal Professionnel. Zij geeft masterclasses en ontwikkelt nieuwe creatieve kleurconcepten. Eigenaren van kapsalons uit heel Nederland en hun medewerkers worden regelmatig door Kimm getraind. Kimm mag met recht de haarkleurspecialist van Amsterdam genoemd worden. Wil je Kimm nog beter leren kennen en weten wat haar drijfveren zijn? [Lees hier het interview:](https://www.koffijberg.nl/nieuws/2019/11/12/meet-kimm-koffijberg/){: target="_blank" rel="noopener"}&nbsp;
+
+**Over Koffijberg Hairdressers**
+
+Kapsalon Koffijberg Hairdressers is al sinds 1976 een autoriteit op het gebied van haarkleuringen en kniptechnieken (zoals bijvoorbeeld het knippen van krullen). Alleen gediplomeerde kappers knippen en kleuren je haar. Zij nemen voortdurend deel aan vakgerichte trainingen en blijven zo up-to-date in het kappersvak. De kappers van Kapsalon Koffijberg Hairdressers zijn vele malen in de prijzen gevallen en de kapsalon is in het verleden tot ‘Entrepeneur of the Year’ gekozen. Maar het allerbelangrijkste bij onze werkwijze is onze interesse in onze klanten. Wij baseren ons advies niet alleen op uiterlijke kenmerken zoals natuurlijke haarkleur, gezichtsvorm en huidtype, wij zijn ook geïnteresseerd in jouw lifestyle en geven je graag een advies dat volledig op jou als persoon is afgestemd. Ook vinden wij het belangrijk om op de hoogte te blijven van jouw wensen en hier op in te spelen. Koffijberg Hairdressers creëert daarom continu concepten en 'persoonlijke plannen' die aansluiten bij de wens van de klant. Onze bekende persoonlijke coachingplannen zijn *Shining Grey*, *Color Style Identity* en *Personal Style Identity*. Bel ons gerust als je meer wilt weten of loop even bij ons binnen in de Rivierenbuurt. Een vraag via de website stellen of direct een afspraak maken kan natuurlijk ook. Bij Koffijberg Hairdressers nemen we alle tijd om aan de hand van jouw lifestyle en jouw wensen tot een passend persoonlijk advies te komen.&nbsp;
+
+**ONZE AANPAK**
+
+*Onze aanpak staat al bijna 45 jaar voor vakmanschap, creativiteit en vernieuwing op het gebied van kapsels, – natuurlijke – haarkleuringen en styling. Ook onderzoeken bij continu wat de behoeftes van onze klanten zijn om hun persoonlijkheid beter uit te laten komen en hun lifestyle te ondersteunen.*
+
+**Interesse en aandacht**
+
+Onze kappers hebben veel interesse in jou en in je manier van leven. Als je dat wilt, nemen wij graag de tijd om samen met jou te onderzoeken welke coupe, haarkleur en styling het beste bij jouw lifestyle past. Wij vinden het belangrijk dat je langere tijd tevreden bent met je kapsel en het ook thuis goed kunt onderhouden. Naast advies geven over je haarstijl en kleur, kunnen we je ook kledingadvies bieden met *Personal Style Identity*, een persoonlijk toegespitst plan waarbij we jou begeleiden bij het vormgeven van jouw kledingstijl en uitstraling.
+
+**Professioneel en trendsettend**
+
+Onze kappers nemen iedere week deel aan een praktijkgerichte interne training. Ook worden de allerbeste professionals van buitenaf uitgenodigd om onze kappers te trainen. Kimm geeft veel trainingen als *Color Consultant* voor L’Oréal Professionnel, aan haar eigen team maar ook aan professionals van andere salons. Ook is Kimm haarexpert voor informatieplatform Wie Wat Haar en deelt zij haar zakelijke ervaringen in het vakblad Style Vision. Zij ontwikkelt elk jaar [een eigen collectie](https://www.koffijberg.nl/collecties/) voor Kapsalon Koffijberg Hairdressers waarin zij samen met het team de door haarzelf ontwikkelde nieuwste kleur- en kniptechnieken toepast. Deze collecties zijn echt ontworpen voor onze klanten en de consument die geïnteresseerd is in haartrends. Dit alles zorgt ervoor dat onze kappers altijd uitstekend op de hoogte zijn van de allernieuwste vaktechnieken, trends en producten, denk hierbij bijvoorbeeld aan plantaardige, vegan haarkleuringen met natuurlijke producten.
+
+**Communicatie is belangrijk**
+
+Goede communicatie vinden wij erg belangrijk om een mooi eindresultaat te bereiken waarmee onze klanten meer dan tevreden zijn. Wij trainen onze kappers daarom regelmatig op hun communicatie skills. Om ervoor te zorgen dat echt niets aan onze aandacht ontsnapt, wordt er met enige regelmaat een *mystery guest* uitgenodigd om ons service- en kwaliteitsniveau te toetsen en doen wij navraag bij onze klanten.
+
+**Coaching met behulp van een persoonlijk plan**
+
+Eigenaar Kimm is continu op zoek naar wat jou als klant en andere consumenten bezighoudt. Omdat Kapsalon Koffijberg Hairdressers jouw uiterlijk kan versterken, werken we met een persoonlijk plan dat we voor iedere klant afzonderlijk samenstellen. Denk bijvoorbeeld aan het *Shining Grey*\-concept waarin dames die hun grijze haar willen omarmen, door ons intensief worden begeleid bij dit proces naar mooi en natuurlijk grijs haar. Of wanneer jouw uiterlijk een nieuwe boost nodig heeft op zowel haar- als kledinggebied: met het *Personal Style Identity*\-concept werken we voor jou het beste plan uit. Wij zijn er voor je, niet alleen voor een goede knip- of kleurbehandeling maar ook wanneer je meer nodig hebt\!
+
+**Prijsdifferentiatie** \[naar prijslijst verschuiven\]
+
+Kapsalon Koffijberg Hairdressers werkt met prijsdifferentiatie. Dit betekent dat wij verschillende prijzen berekenen voor dezelfde behandeling. Wij werken met prijsdifferentiatie omdat de lonen in de kappersbranche gekoppeld zijn aan leeftijd en ervaring. De prijs van jouw behandeling hangt samen met welke kapper je helpt; je vind dit terug in de prijslijst. Alle medewerkers in onze kapsalon zijn goed opgeleid en zeer getalenteerd. Je hebt zelf de vrijheid om te kiezen door wie je geholpen wilt worden en in het verlengde daarvan, hoeveel je wilt besteden. Bij ons staat kwaliteit altijd voorop. Dat garanderen wij voor iedere kapper in onze kapsalon.
+
+**INTERVIEW KIMM**
+
+*Kimm Koffijberg (1978) is de trotse dochter van Richard Koffijberg, wiens werk ze al als klein meisje bewonderde. Maar haar grootste drijfveer om - ook - kapper te worden is de omgang met mensen. Sinds ze in 1996 van de kappers academie kwam, werkt ze in de familiesalon, en op haar 21ste werd ze medevennoot van haar vader’s bedrijf. Ze volgde een managementopleiding en nam in 2009 samen met haar man en zakenpartner de salon over. Ze won de Coiffure Awards in 2013, deed redactionele producties voor tijdschriften en geeft als Color Consultant van L’Oréal Professionnel graag haar professionele mening........[Lees verder](https://www.koffijberg.nl/nieuws/2019/11/12/meet-kimm-koffijberg/){: target="_blank" rel="noopener"}*
+
+&nbsp;
 
 ***Huisregels Koffijberg Hairdressers***
 
