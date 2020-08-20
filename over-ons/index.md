@@ -45,7 +45,7 @@ Kapsalon Koffijberg Hairdressers werkt met prijsdifferentiatie. Dit betekent dat
 
 **INTERVIEW KIMM**
 
-*Kimm Koffijberg (1978) is de trotse dochter van Richard Koffijberg, wiens werk ze al als klein meisje bewonderde. Maar haar grootste drijfveer om - ook - kapper te worden is de omgang met mensen. Sinds ze in 1996 van de kappers academie kwam, werkt ze in de familiesalon, en op haar 21ste werd ze medevennoot van haar vader’s bedrijf. Ze volgde een managementopleiding en nam in 2009 samen met haar man en zakenpartner de salon over. Ze won de Coiffure Awards in 2013, deed redactionele producties voor tijdschriften en geeft als Color Consultant van L’Oréal Professionnel graag haar professionele mening........[Lees verder](https://www.koffijberg.nl/nieuws/2019/11/12/meet-kimm-koffijberg/){: target="_blank" rel="noopener"}*
+*Kimm Koffijberg (1978) is de trotse dochter van Richard Koffijberg, wiens werk ze al als klein meisje bewonderde. Maar haar grootste drijfveer om - ook - kapper te worden is de omgang met mensen. Sinds ze in 1996 van de kappers academie kwam, werkt ze in de familiesalon, en op haar 21ste werd ze medevennoot van haar vader’s bedrijf. Ze volgde een managementopleiding en nam in 2009 samen met haar man en zakenpartner de kapsalon over. Ze won de Coiffure Awards in 2013, deed redactionele producties voor tijdschriften en geeft als Color Consultant van L’Oréal Professionnel graag haar professionele mening........[Lees verder](https://www.koffijberg.nl/nieuws/2019/11/12/meet-kimm-koffijberg/){: target="_blank" rel="noopener"}*
 
 &nbsp;
 
