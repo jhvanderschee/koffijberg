@@ -12,7 +12,7 @@ Bij Koffijberg Hairdressers werken wij ook met L'Oréal Professionnel Serie Expe
 
 ![](/uploads/loreal-serieexpert-kapper-3.jpg){: width="400" height="600"}
 
-**Wist je dat...**
+**Wist je dat…**
 
 L'Oréal Professionnel Serie Expert gemiddeld 13% minder plastic verbruikt voor zijn verpakkingen?
 
