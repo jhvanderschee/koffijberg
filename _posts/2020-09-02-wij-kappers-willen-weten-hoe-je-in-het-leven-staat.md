@@ -1,7 +1,7 @@
 ---
 title: Wij kappers willen weten hoe je in het leven staat
 image: /uploads/web-mg-6937.jpg
-alignment: top
+alignment: middle
 ---
 
 Ik ben heel trots op het feit dat ik kapper ben en dat ik met mijn team kan bijdragen aan een stukje geluk van onze klanten. Ik vind dat wij ons dat best wel eens wat vaker mogen realiseren. Bij ons in de salon vinden we dat, naast je haar mooi en technisch knippen en kleuren, het net zo belangrijk is om ons te verdiepen in jou als persoon. Ik vind dat dit onlosmakelijk met elkaar verbonden is.
