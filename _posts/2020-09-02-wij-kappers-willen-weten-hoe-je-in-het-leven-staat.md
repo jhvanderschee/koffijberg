@@ -1,6 +1,6 @@
 ---
 title: Wij kappers willen weten hoe je in het leven staat
-image:
+image: /uploads/web-mg-6937.jpg
 alignment: top
 ---
 
