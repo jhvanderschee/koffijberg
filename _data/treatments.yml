@@ -223,51 +223,9 @@ treatment-room:
         masterstylist: n.v.t.
     treatment: kerastase-fluideliaste-ritueel
 extensions:
-  - item: Balmain Longueur plus
+  - item:
     prijs:
-      - stylist: € 80.00
-        topstylist: € 80.00
-        masterstylist: € 80.00
-    treatment:
-  - item: Balmain Ponytail (incl. aanbrengen en uitleg)
-    prijs:
-      - stylist: € 49.95
-        topstylist: € 49.95
-        masterstylist: € 49.95
-    treatment:
-  - item: Balmain Ponytail Ombé  (incl. aanbrengen en uitleg)
-    prijs:
-      - stylist: € 59.95
-        topstylist: € 59.95
-        masterstylist: € 59.95
-    treatment:
-  - item: Balmain Hairdress 40cm (incl. aanbrengen en uitleg)
-    prijs:
-      - stylist: € 199.00
-        topstylist: € 199.00
-        masterstylist: € 199.00
-    treatment:
-  - item: Balmain Hairdress 55cm  (incl. aanbrengen en uitleg)
-    prijs:
-      - stylist: € 355.00
-        topstylist: € 355.00
-        masterstylist: € 355.00
-    treatment:
-  - item: Balmain B-loved  (incl. aanbrengen en uitleg)
-    prijs:
-      - stylist: € 59.95
-        topstylist: € 59.95
-        masterstylist: € 59.95
-    treatment:
-  - item: Balmain Volume Supérieur  (incl. aanbrengen en uitleg)
-    prijs:
-      - stylist: € 59.95
-        topstylist: € 59.95
-        masterstylist: € 59.95
-    treatment:
-  - item: Balmain Double hair 3st. (incl. aanbrengen en uitleg)
-    prijs:
-      - stylist: € 187.00
-        topstylist: € 187.00
-        masterstylist: € 187.00
+      - stylist:
+        topstylist:
+        masterstylist:
     treatment:
