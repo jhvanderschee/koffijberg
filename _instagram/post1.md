@@ -1,4 +1,4 @@
 ---
 title: Post 1
-image: /uploads/instagram/post1.jpg
+image: /uploads/instagram/instagram1.jpg
 ---
