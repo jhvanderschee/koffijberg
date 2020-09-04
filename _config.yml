@@ -30,6 +30,8 @@ collections:
     output: false
   instagram:
     output: false
+  timeline:
+    output: false
 
 title: 'Kapper Koffijberg Hairdressers in Amsterdam'
 url: https://www.koffijberg.nl
