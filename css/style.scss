@@ -65,7 +65,7 @@ body.iOS .salon,
 body.iOS .salon2,
 body.iOS .salon3 {background-attachment: scroll;}
 
-.post-content .editable h2, .post-content .editable h1 {font-family: 'PT Sans Narrow', sans-serif;
+.post-content .section_editable h2, .post-content .section_editable h1 {font-family: 'PT Sans Narrow', sans-serif;
   text-transform: uppercase; font-weight: 700; font-size: 50px; margin-bottom: 0.5em; margin-top: 0px;
   line-height: 1.1;
   color: #222222;
@@ -220,11 +220,11 @@ box-shadow: none;
 
 
 .salon {height: 502px; background: url('../img/kapperamsterdamsalon.jpg') center center no-repeat; background-size: cover; background-attachment: fixed;}
-.salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px 0 0 -225px; border-radius: 250px; position: absolute; left: 50%;}
+.salon .circle {text-align: center; background: white; color: $accentkleur; height: 450px; width: 450px; margin: 25px 0 0 -225px; border-radius: 0px; position: absolute; left: 50%;}
 .salon .circle p {margin: 0 auto; display: block; width: 260px; position: relative; right: 40px;}
 .salon .circle p .day {display: inline-block; width: 130px;}
-.salon .circle p .time {display: inline-block; width: 130px;}
-.salon .post-header {padding: 87px 0 0;}
+.salon .circle p .time {padding-left: 30px; display: inline-block; width: 130px; text-align: left;}
+.salon .post-header {padding: 67px 0 15px;}
 .salon .post-header h1 {margin-bottom: 5px;}
 .salon .post-content {font-size: 18px; line-height: 1.9em;}
 .salon .post-content p {color: #333;}
@@ -590,4 +590,41 @@ font-weight: 300;
   .salon .circle p .day {width: 140px;}
   .salon {background-image: url('../img/kapperamsterdamsalon-xs.jpg');}
   .salon2 {background-image: url('../img/website-actie-foto-kapper-amsterdam.jpg');}
+}
+
+
+
+.youtube_embed {margin-top: 25px!important; padding-bottom: 56.8%; position: relative; cursor: pointer; display: block; margin-bottom: 15px;}
+.ytp-large-play-button {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        width: 68px;
+        height: 48px;
+        margin-left: -34px;
+        margin-top: -24px;
+        -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+        -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+        transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+        z-index: 63;
+}
+.ytp-button:not([aria-disabled="true"]):not([disabled]):not([aria-hidden="true"]) {cursor: pointer;}
+.ytp-button:focus, .ytp-button {outline: 0;}
+.ytp-button {
+        border: none;
+        background-color: transparent;
+        padding: 0;
+        color: inherit;
+        text-align: inherit;
+        font-size: 100%;
+        font-family: inherit;
+        cursor: default;
+        line-height: inherit;
+}
+.youtube_embed:hover .ytp-large-play-button-bg {
+        -moz-transition: fill .1s cubic-bezier(0.0,0.0,0.2,1),fill-opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+        -webkit-transition: fill .1s cubic-bezier(0.0,0.0,0.2,1),fill-opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+        transition: fill .1s cubic-bezier(0.0,0.0,0.2,1),fill-opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+        fill: #f00;
+        fill-opacity: 1;
 }
