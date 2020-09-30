@@ -54,8 +54,8 @@ sections:
     image:
     youtube_id:
     text_html: '<p>Denk je na over een nieuw kapsel? Of wil je je haar een meer eigentijdse look geven die past bij jouw lifestyle? Kom dan bij ons langs. \nWij staan bekend om de kwaliteit van onze knip- en kleurbehandelingen. Onze halfjaarlijkse nieuwe collecties zijn te zien in nationale en internationale vakbladen. Wij zorgen ervoor dat het nieuwe model en de kleur van je haar elkaar versterken en je uitstraling een nieuwe boost geven.</p>'
-    button:
-    button_url:
+    button: Maak een afspraak
+    button_url: /contact
   - title: 100% Plantaardig
     subtitle:
     image: /uploads1/botanea.jpg
