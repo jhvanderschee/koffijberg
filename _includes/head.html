@@ -46,77 +46,15 @@
 	if (screen.width < 450) {
 	  document.getElementById("viewport").setAttribute("content", "width=450");
 	}
-	
-function getParameterByName(name) {
-    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-        results = regex.exec(location.search);
-    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
-}
-function setimage() {
-    var url = getParameterByName('url');
-    document.getElementById('lightbox').style.display = 'table';
-    document.getElementById('image').src = '//images.weserv.nl/?url=www.koffijberg.nl'+url+'&w=1000&h=1000';
-}
-function closeimage() {
-    document.location.href = '{{ page.url }}';
-}
+  </script>
 
-function goNext(e) {
-    if (!e)
-      e = window.event;
-
-    //IE9 & Other Browsers
-    if (e.stopPropagation) {
-      e.stopPropagation();
-    }
-    //IE8 and Lower
-    else {
-      e.cancelBubble = true;
-    }
-    var current,next;
-    var imgArray = new Array();
-    {% for i in page.images %}{% capture iimagesize %}{{ i.image | size | minus:2 }}{% endcapture %}{% if iimagesize contains '-' %}{% else %}imgArray[{{ forloop.index0 }}] = '{{ i.image }}';
-    {% endif %}{% endfor %}
-    for (i = 0; i < imgArray.length; i++) { 
-        if(getParameterByName('url')==imgArray[i]) current = i;
-    }
-    if(current<(imgArray.length-1)) next = (current+1);
-    else next = 0;
-    window.location = '{{ page.url }}?url='+imgArray[next];
-}
-function goPrev(e) {
-    if (!e)
-      e = window.event;
-
-    //IE9 & Other Browsers
-    if (e.stopPropagation) {
-      e.stopPropagation();
-    }
-    //IE8 and Lower
-    else {
-      e.cancelBubble = true;
-    }
-    var current,prev;
-    var imgArray = new Array();
-    {% for i in page.images %}{% capture iimagesize %}{{ i.image | size | minus:2 }}{% endcapture %}{% if iimagesize contains '-' %}{% else %}imgArray[{{ forloop.index0 }}] = '{{ i.image }}';
-    {% endif %}{% endfor %}
-    for (i = 0; i < imgArray.length; i++) { 
-        if(getParameterByName('url')==imgArray[i]) current = i;
-    }    
-    if(current>0) prev = (current-1);
-    else prev = (imgArray.length-1);
-    window.location = '{{ page.url }}?url='+imgArray[prev];
-}
-
-	</script>
-		<script>
-			var script = document.createElement('script');
-			script.setAttribute('type','text/javascript');
-			script.setAttribute('defer','defer');
-			script.setAttribute('src','//widget.salonhub.nl/a/i.js');
-			document.getElementsByTagName('head')[0].appendChild(script);
-		</script>
+  <script>
+    var script = document.createElement('script');
+    script.setAttribute('type','text/javascript');
+    script.setAttribute('defer','defer');
+    script.setAttribute('src','//widget.salonhub.nl/a/i.js');
+    document.getElementsByTagName('head')[0].appendChild(script);
+  </script>
 	{% include ga.html %}
 <!-- Facebook Pixel Code -->
 <script>

@@ -293,7 +293,7 @@ footer a, footer a:hover, footer a:focus {color: white; text-decoration: none;}
 .navbar-default.attop .navbar-brand img {display: none;}
 .page-template .navbar-default .navbar-brand img.attop,
 .navbar-default.attop .navbar-brand img.attop {display:block;}
-.page-template .navbar-default, .navbar-default.attop {position: fixed; background: white; border-bottom: 1px solid rgba(86,76,73,0.15);}
+.page-template .navbar-default, .navbar-default.attop {position: fixed; background: white; border-bottom: 1px solid rgba(86,76,73,0.15); z-index: 99;}
 .navbar-default.attop .navbar-brand:focus, .navbar-default.attop .navbar-brand:hover,
 .navbar-default.attop .navbar-nav>li>a:focus, .navbar-default.attop .navbar-nav>li>a:hover, .navbar-default.attop .navbar-brand, .navbar-default.attop .navbar-nav>li>a,
 .page-template .navbar-default .navbar-brand:focus, .page-template .navbar-default .navbar-brand:hover,
