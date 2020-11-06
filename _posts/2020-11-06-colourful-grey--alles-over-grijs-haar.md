@@ -1,6 +1,6 @@
 ---
 title: Colourful grey | alles over grijs haar
-image: /uploads/chronologiste-post-1.jpg
+image: /uploads/parel-grijs-haar-kapsel-kapper.jpg
 alignment: middle
 ---
 
