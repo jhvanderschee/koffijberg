@@ -16,7 +16,7 @@ text_shadow_color: '#000000'
 
 <br>**Blijf thuis als jij een van de volgende klachten hebt: neusverkoudheid, loopneus, niezen, keelpijn, lichte hoest, verhoging (tot 38 C&deg;) of koorts. Blijf ook thuis als iemand in jouw huis koorts heeft (vanaf 38 C&deg;) en/of benauwdheidsklachten.**
 
-Houd zoveel als mogelijk 1.5 m afstand, kom zonder jas, betaal contactloos, kom op tijd en volg de instructies van het personeel.
+Houd zoveel als mogelijk 1.5 m afstand, team en klant draagt mondkapje, betaal contactloos, kom op tijd en volg de instructies van het personeel.
 
 Wij zijn bereikbaar voor afspraken via:
 
