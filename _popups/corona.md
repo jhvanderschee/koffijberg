@@ -21,3 +21,5 @@ Houd zoveel als mogelijk 1.5 m afstand, team en klant draagt mondkapje, betaal c
 Wij zijn bereikbaar voor afspraken via:
 
 mail: receptie@koffijberg.nl<br>Whatsapp: 06-47 26 86 86<br>Telefoon: 020-6732374
+
+***Op zondag 20december zijn wij geopend.***
