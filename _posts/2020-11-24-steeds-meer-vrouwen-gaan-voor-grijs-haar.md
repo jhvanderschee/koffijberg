@@ -12,10 +12,6 @@ Volgens de journalist is het geen trend, maar een omslag. "Het zal ook blijvend 
 
 https://www.youtube.com/watch?v=86shaHVUiSU
 
-&nbsp;
-
-&nbsp;
-
 Ik dacht dat mensen gemiddeld 6 jaar ouder zouden worden geschat met grijs haar, maar dat was gemiddeld 3 jaar.
 
 Wies Verbeek
