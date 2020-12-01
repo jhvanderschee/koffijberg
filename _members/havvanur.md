@@ -2,7 +2,7 @@
 title: Havvanur
 naam: Havvanur
 image: /uploads/kapper-amsterdam-havvanur-junior-stylist.JPG
-functie: Junior-Stylist
+functie: Junior-Stylist & Brow Specialist
 order_number: 25
 ---
 
