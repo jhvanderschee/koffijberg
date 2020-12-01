@@ -32,4 +32,4 @@ Na deze treatment stylen we je wenkbrauwen met onze speciale brow make-up. En je
 
 **De****Perfect Brows Threading Treatment** **duurt 30 minuten en bestaat uit:**\- Advies, rekening houdend met je gezichtsvorm, huidtype en wensen- Wenkbrauwen threaden- Verven van de wenkbrauwen in een passende kleur- Brow make-up (poeder) met een houdbaarheid van 24 uur- Advies voor thuis
 
-&nbsp;
+[vraag een afspraak aan](https://www.koffijberg.nl/contact/){: target="_blank" rel="noopener"}
