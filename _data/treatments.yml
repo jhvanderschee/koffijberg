@@ -157,19 +157,19 @@ wash-and-dry:
   - item: Wassen & Föhnen
     prijs:
       - stylist: € 33.65
-        topstylist: € 37.50
+        topstylist: € 38.25
         masterstylist: € 42.15
     treatment: wassen--fohnen
   - item: Wassen & Föhnen middellang haar
     prijs:
       - stylist: € 55.35
-        topstylist: € 60.00
+        topstylist: € 61.20
         masterstylist: € 66.10
     treatment: wassen--fohnen-middellang-haar
   - item: Wassen & Föhnen lang haar
     prijs:
       - stylist: € 63.10
-        topstylist: € 69.25
+        topstylist: € 70.65
         masterstylist: € 76.00
     treatment: wassen--fohnen-lang-haar
 specials:
