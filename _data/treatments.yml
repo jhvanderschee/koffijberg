@@ -94,33 +94,33 @@ colorings:
     treatment: highlights-deel-plus
   - item: Highlights heel
     prijs:
-      - stylist: € 110.25
-        topstylist: € 111.85
-        masterstylist: € 123.25
+      - stylist: € 112.50
+        topstylist: € 114.10
+        masterstylist: € 125.70
     treatment: highlights-heel
   - item: Highlights heel Plus incl. Smart Bond
     prijs:
-      - stylist: € 145.25
-        topstylist: € 147.50
-        masterstylist: € 162.75
+      - stylist: € 148.25
+        topstylist: € 150.50
+        masterstylist: € 166.00
     treatment: highlights-heel-plus
   - item: Free hand techniek deel
     prijs:
-      - stylist: € 160.50
-        topstylist: € 160.50
-        masterstylist: € 174.95
+      - stylist: € 163.70
+        topstylist: € 163.70
+        masterstylist: € 178.50
     treatment: free-hand-techniek
   - item: Free hand techniek middel
     prijs:
-      - stylist: € 218.25
-        topstylist: € 218.25
-        masterstylist: € 236.50
+      - stylist: € 222.60
+        topstylist: € 222.60
+        masterstylist: € 241.25
     treatment: free-hand-techniek-heel
   - item: Free hand techniek lang haar
     prijs:
-      - stylist: € 234.75
-        topstylist: € 234.75
-        masterstylist: € 255.80
+      - stylist: € 239.50
+        topstylist: € 239.50
+        masterstylist: € 260.90
     treatment: free-hand-techniek-lang-haar
   - item: Ontkleuring / Ultimate blond
     prijs:
