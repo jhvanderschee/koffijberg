@@ -38,15 +38,15 @@ gents:
     treatment: wassen-knippen
   - item: Kleurspoeling
     prijs:
-      - stylist: €15
-        topstylist: €15
-        masterstylist: €15
+      - stylist: €15.30
+        topstylist: €16.30
+        masterstylist: n.v.t.
     treatment: colorman
 discounts:
   - item: t/m 12 jaar
     prijs:
-      - stylist: € 32.75
-        topstylist: € 37.70
+      - stylist: € 33.40
+        topstylist: € 38.45
         masterstylist: n.v.t.
     treatment:
   - item: tot 20 jaar + studenten
@@ -58,39 +58,39 @@ discounts:
 colorings:
   - item: Kleuring
     prijs:
-      - stylist: € 69.50
-        topstylist: € 70.50
-        masterstylist: € 76.25
+      - stylist: € 70.90
+        topstylist: € 71.90
+        masterstylist: € 77.75
     treatment: kleuring
   - item: Kleuring + Streaks
     prijs:
-      - stylist: € 146.70
-        topstylist: € 148.90
-        masterstylist: € 161.80
+      - stylist: € 149.65
+        topstylist: € 151.90
+        masterstylist: € 165.00
     treatment: kleuring-streaks
   - item: Kleuring + Streaks effect
     prijs:
-      - stylist: € 110.25
-        topstylist: € 111.85
-        masterstylist: € 123.25
+      - stylist: € 112.45
+        topstylist: € 114.25
+        masterstylist: € 125.70
     treatment: kleuring-steaks-effect
   - item: Kleuring + Streaks Lang haar
     prijs:
-      - stylist: € 164.20
-        topstylist: € 166.70
-        masterstylist: € 172.50
+      - stylist: € 167.50
+        topstylist: € 170.00
+        masterstylist: € 186.15
     treatment: kleuring-streaks-lang-haar
   - item: Highlights deel
     prijs:
-      - stylist: € 72.50
-        topstylist: € 73.50
-        masterstylist: € 82.25
+      - stylist: € 73.95
+        topstylist: € 74.95
+        masterstylist: € 83.90
     treatment: highlights-deel
   - item: Highlights deel Plus
     prijs:
-      - stylist: € 91.95
-        topstylist: € 93.75
-        masterstylist: '€ 102,50'
+      - stylist: € 93.80
+        topstylist: € 95.65
+        masterstylist: '€ 104,50'
     treatment: highlights-deel-plus
   - item: Highlights heel
     prijs:
