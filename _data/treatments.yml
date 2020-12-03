@@ -181,15 +181,15 @@ specials:
     treatment: i-dentity
   - item: Wenkbrauwen Epileren / Harsen
     prijs:
-      - stylist: € 18.95
-        topstylist: € 18.95
-        masterstylist: € 18.95
+      - stylist: € 20.00
+        topstylist: € 20.00
+        masterstylist: € 20.00
     treatment: brow-area
   - item: Wenkbrauwen Epileren / Harsen & Verven
     prijs:
-      - stylist: € 33.30
-        topstylist: € 33.30
-        masterstylist: € 33.30
+      - stylist: € 35.00
+        topstylist: € 35.00
+        masterstylist: € 35.00
     treatment: brow-area
   - item: Bruidskapsels
     prijs:
