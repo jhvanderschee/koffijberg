@@ -32,6 +32,8 @@ collections:
     output: false
   timeline:
     output: false
+  notifications:
+    output: false
 
 title: 'Kapper Koffijberg Hairdressers in Amsterdam'
 url: https://www.koffijberg.nl
