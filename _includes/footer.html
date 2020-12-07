@@ -117,8 +117,9 @@ var element = document.querySelector('#bottomright_popup .window .close');
 if(typeof(element) != 'undefined' && element != null){
   element.addEventListener("click", function() {
     document.querySelector('#bottomright_popup').style.display = 'none';
+    sessionStorage.setItem('shownotification', 'false');
   }); 
-  setTimeout(function(){ document.body.classList.add('notificationactive'); }, 3000);
+  if(!sessionStorage.getItem('shownotification')) setTimeout(function(){ document.body.classList.add('notificationactive'); }, 3000);
 }
 
 
