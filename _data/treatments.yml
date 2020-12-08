@@ -216,12 +216,12 @@ treatment-room:
         topstylist: € 37.50
         masterstylist: n.v.t.
     treatment: kerastase-fusio-dose-ritueel
-  - item: Kerastase Fluidealiste Ritueel
+  - item: Kerastase Extensioniste Ritueel
     prijs:
       - stylist: € 50.00
         topstylist: € 50.00
         masterstylist: n.v.t.
-    treatment: kerastase-fluideliaste-ritueel
+    treatment: kerastase-extensioniste-ritueel
 extensions:
   - item:
     prijs:
