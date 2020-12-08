@@ -8,11 +8,7 @@ K&eacute;rastase – Anti-Vervuiling Ritueel
 
 De verzorging van de hoofdhuid is erg belangrijk: je staat er misschien niet bij stil maar een onbehandelde hoofdhuid is de oorzaak van veel haarproblemen. Denk bijvoorbeeld aan vet haar, haaruitval, roos en jeuk. Helaas leven we tegenwoordig in een vervuilde omgeving die veel klachten doet ontstaan of bestaande klachten verergert. Het <em>Hair Detox Anti-Pollution Ritual</em> is ontwikkeld om de hoofdhuid te ontgiften. Het ritueel omvat onder andere een dubbele reiniging van de hoofdhuid: het diep reinigende kleimasker Masquargil wordt gecombineerd met de hoofdhuidborstel van Clarisonic die speciaal voor dit ritueel is ontworpen. Als finishing touch wordt de Masque Hydra Appaisant masserend aangebracht. Dit is een masker op gelbasis die is geformuleerd om de hoofdhuid te kalmeren en de haarkwaliteit te verbeteren.
 
-![Anti-vervuiling ritueel](/uploads/antivervuiling.jpg)
-
-![Anti-vervuiling ritueel](/uploads/antivervuiling2.jpg)
-
-![Anti-vervuiling ritueel](/uploads/antivervuiling3.jpg)
+![Anti-vervuiling ritueel](/uploads/antivervuiling.jpg){:.small} ![Anti-vervuiling ritueel](/uploads/antivervuiling2.jpg){:.small} ![Anti-vervuiling ritueel](/uploads/antivervuiling3.jpg){:.small}
 
 **De Treatment room**
 
