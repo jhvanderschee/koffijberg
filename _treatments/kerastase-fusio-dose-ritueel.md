@@ -8,9 +8,7 @@ K&eacute;rastase – Fusio-dose (45 minuten)
 
 Fusio-dose is een op huidverzorging geïnspireerde behandeling; je hoofdhuid is immers ook onderdeel van je lichaamshuid. De Fusio-scrub bijvoorbeeld heeft het effect van een gezichtsbehandeling. Het reinigt en revitaliseert de hoofdhuid, verwijdert onzuiverheden en geeft het haar een lichter en luchtiger gevoel tot in de punten. Samen met essentiële oliën voor een ultieme geurbelevenis geeft deze behandeling een diep ontspannend spagevoel. Vervolgens worden de lengtes van het haar met een shot Fusio-dose intensief verzorgd. Fusio-dose kan tegelijkertijd twee haarbehoeftes vervullen. De Fusio-dosebehandeling voorziet in 20 mogelijke combinaties zodat er altijd een duo is die past bij wat jouw haar nodig heeft. Een shot Fusio-dose heeft snel resultaat want het heeft geen inwerktijd nodig. Het is zodanig geconcentreerd dat het meteen diep in het haar dringt en opgenomen wordt.
 
-![Fusio dose](/uploads/kerastase-fusiodose.jpg) 
-
-![Fusio dose](/uploads/kerastase-fusiodose2.jpg)
+![Fusio dose](/uploads/kerastase-fusiodose.jpg){:.small} ![Fusio dose](/uploads/kerastase-fusiodose2.jpg){:.small}
 
 **De Treatment room**
 
