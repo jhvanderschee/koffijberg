@@ -204,12 +204,12 @@ treatment-room:
         topstylist: € 32.50
         masterstylist: n.v.t.
     treatment:
-  - item: Kerastase Beschadigd haar Ritueel
+  - item: Kerastase Anti-Vervuiling Ritueel
     prijs:
       - stylist: € 32.50
         topstylist: € 32.50
         masterstylist: n.v.t.
-    treatment: kerastase-beschadigd-haar-ritueel
+    treatment: kerastase-anti-vervuiling-ritueel
   - item: Kerastase Fusio-Dose Ritueel
     prijs:
       - stylist: € 37.50
