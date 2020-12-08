@@ -5,7 +5,7 @@
 
   <body class="page-template post">
 	  {% include header.html %}
-    <div class="salon2"></div>
+    <div class="salon2" style="background-image: url('{{ site.data.settings.header_image }}');"></div>
 
     <div class="twocols">
       <div class="container">
@@ -46,7 +46,6 @@
     <div class="twitter"><div><i class="fa icon-twitter" onclick="window.open('http://twitter.com/home?status=https://www.koffijberg.nl{{ page.url }}');"></i></div></div>
     <div class="linkedin"><div><i class="fa icon-linkedin" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&url=www.koffijberg.nl{{ page.url }}&title=&summary=&source=');"></i></div></div>
     {% if page.image %}<div class="pinterest"><div><i class="fa icon-pinterest" onclick="window.open('https://pinterest.com/pin/create/button/?url=&media=http%3A//www.koffijberg.nl{{ page.image }}&description=');"></i></div></div>{% endif %}
-    <div class="gplus"><div><i class="fa icon-gplus" onclick="window.open('https://plus.google.com/share?url=www.koffijberg.nl{{ page.url }}');"></i></div></div>
     <div class="mail"><div><i class="fa icon-mail-alt" style="font-size: 19px;" onclick="window.open('mailto:?&body=http%3A//www.koffijberg.nl{{ page.url }}');"></i></div></div>
 </div>
                         </div>
