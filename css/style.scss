@@ -492,7 +492,7 @@ label {font-weight: normal;}
 #front {clear: both; position: absolute; margin-top: 530px; width: 100%; max-width: 300px;}
 #front img {display: block; width: 100%;}
 .post-content img, .post-content iframe {max-width: 100%;}
-.post-content img.small {max-height: 300px; width: auto;}
+.post-content img.small {max-height: 200px; width: auto; display: inline-block; margin-bottom: 4px;}
 
 #gallery {padding-top: 10px; padding-bottom: 20px;}
 #gallery.row {margin-left: -4px; margin-right: -4px;}
