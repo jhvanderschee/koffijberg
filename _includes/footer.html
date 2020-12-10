@@ -12,7 +12,7 @@
                     
                       <div class="post-content">
                           <div id="instafeed">
-                            {% for item in site.instagram %}<a href="https://www.instagram.com/koffijberghairdressers/" style="background: url('{{ item.image }}') center center / cover;"></a>{% endfor %}
+                            {% for i in (0..4) %}<a href="https://www.instagram.com/koffijberghairdressers/" style="background: url('https://profilepageimages.usecue.com/images/koffijberghairdressers/{{ i }}') center center / cover;"></a>{% endfor %}
                           </div>
                           <style>
                             #instafeed {overflow: auto; margin-left: -1%; margin-bottom: 20px;}
