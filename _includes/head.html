@@ -58,7 +58,7 @@
 
 
 <style>
-{% for item in site.data.settings.intro_images %}.intro.image1 > div {background: #bbb9c5 url('{{ item.image }}') center top no-repeat; height: 800px; }{% endfor %}
+{% for item in site.data.settings.intro_images %}.intro.image{{ forloop.index }} > div {background: #bbb9c5 url('{{ item.image }}') center top no-repeat; height: 800px; }{% endfor %}
 </style>
 
 	{% include ga.html %}

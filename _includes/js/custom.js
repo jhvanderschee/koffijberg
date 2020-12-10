@@ -189,16 +189,6 @@ $( document ).ready(function() {
     	$('#review').css('visibility','visible'); 
 		$('#review').animate({"left": '+='+$('#review').width()},1500);
 	}
-	var rand = Math.floor((Math.random() * 9) + 1);
-	if(rand==1) $('.intro').addClass('image1');
-	if(rand==2) $('.intro').addClass('image2');
-	if(rand==3) $('.intro').addClass('image3');
-	if(rand==4) $('.intro').addClass('image4');
-	if(rand==5) $('.intro').addClass('image5');
-	if(rand==6) $('.intro').addClass('image6');
-	if(rand==7) $('.intro').addClass('image7');
-	if(rand==8) $('.intro').addClass('image8');
-	if(rand==9) $('.intro').addClass('image9');
 	
 	$('input[name=contact-type]:radio').change(function () {
 		if($('input[name=contact-type]:checked').val() == 'vraag') {

@@ -107,7 +107,11 @@
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="{{ "/js/combined.js" | prepend: site.baseurl }}"></script>
-
+<script>
+  {% assign introimagecount = site.data.settings.intro_images | size | minus:1 %}
+  var rand = Math.floor((Math.random() * {{ introimagecount }}) + 1);
+  {% for i in (0..introimagecount) %}if(rand=={{ i | plus:1 }}) $('.intro').addClass('image{{ i | plus:1 }}');{% endfor %}
+</script>
 
 <script>
 var element = document.querySelector('#bottomright_popup .window .close');
