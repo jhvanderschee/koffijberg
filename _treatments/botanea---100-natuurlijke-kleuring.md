@@ -1,7 +1,7 @@
 ---
 title: Botanea 100% Natuurlijke Kleuring
 images:
-  - image: /uploads/mg-6502.jpg
+  - image:
 ---
 
 Bij Koffijberg Hairdressers kleuren we met Botanea. Botanea is een 100% Plantaardige Professionele Haarkleur samengesteld uit slechts drie natuurlijke ingrediënten: Cassia, Henna en Indigo, zorgvuldig verbouwd en geoogst in India.
