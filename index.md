@@ -144,9 +144,9 @@ sections:
       geven.</p>
     button: Maak een afspraak
     button_url: /contact
-  - title: 100% Plantaardig
+  - title: 100% Natuurlijke kleur
     subtitle:
-    image: /uploads1/botanea.jpg
+    image: /uploads/web-mg-7578.jpg
     youtube_id: M0hxoAYnayU
     text_html: >-
       <p>Bij ons in de salon kleuren we nu ook met <a target="_blank"
