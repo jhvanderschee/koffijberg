@@ -16,27 +16,9 @@
                           <span>Koffijberg</span>
                           <h1 class="post-title">{{ page.title }}</h1>
                         </header>
-                        <!--{% for post in site.posts limit:1 %}
-                        <div class="visualnews" style="padding-top: 65px; padding-bottom: 60px;">
-                          
-                          <div class="row post-content">
-                              <div class="col-md-4">
-                                <h1 style="margin: 0; padding: 0; font-size: 23px; text-transform: uppercase; font-weight: 300; font-family: 'PT Sans Narrow', sans-serif;">{{ page.title }}</h1>
-                                <h3 class="post-title" style="font-size: 60px; margin-top: 5px; text-transform: uppercase; font-weight: 700; margin-bottom: 20px;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                                <p style="margin-bottom: 1.8em;">{{ post.date | date: "%d/%m/%Y" }} - {{ post.content | strip_html | truncate: 200, '...' }}</p>
-
-                                <p><a href="{{ post.url }}" class="btn btn-default">Lees verder</a></p>
-                              </div>
-                              <div class="col-md-8">
-                                <a href="{{ post.url }}"><img src="//images.weserv.nl/?url=www.koffijberg.nl{% if post.image %}{{ post.image }}{% else %}/uploads1/priorities6.jpg{% endif %}&w=900&h=600&t=square&a=top" /></a>
-                              </div>
-                          </div>
-                          
-                        </div>
-                        {% endfor %}-->
 
 
-                        <div class="visualnews" style="padding-top: 17px; padding-bottom: 80px;">
+                        <div class="visualnews" style="padding-top: 17px; padding-bottom: 45px;">
                           
                           <div class="row post-content">
                         {% for post in site.posts limit:2 %}
@@ -74,6 +56,7 @@
 
                         <div class="visualnews post-content" style="">
                           <div class="row">
+                          {% include nieuwsbriefbar.html %}
                           {% for post in site.posts offset:2 limit:15 %}
                             <div class="col-sm-6 col-lg-4">
                               <a href="{{ post.url }}"><img src="//images.weserv.nl/?url=www.koffijberg.nl{% if post.image %}{{ post.image }}{% else %}/img/salon/kapper-amsterdam-salon{% cycle '1', '2', '3', '2', '3', '4', '5', '6', '8', '9' %}.jpg{% endif %}&w=600&h=400&t=square{% if post.alignment != 'middle' %}&a={{ post.alignment }}{% endif %}" /></a>
@@ -105,13 +88,7 @@
 
 
 
-                          {% if forloop.index == 6 %}<div class="col-lg-12 visible-lg"><div id="likeournews">Wil je niets missen qua nieuws of aanbiedingen? Schrijf je in voor de nieuwsbrief! <form action="//koffijberg.us11.list-manage.com/subscribe/post?u=e5e5f3db5bb0c7d4ac2121980&amp;id=97edcd9980" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate=""> 
-                            	  <input value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" type="email" placeholder="e-mailadres">
-                             		<div class="response" id="mce-error-response" style="display:none"></div>
-                            		<div class="response" id="mce-success-response" style="display:none"></div>
-                                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input name="b_e5e5f3db5bb0c7d4ac2121980_97edcd9980" tabindex="-1" value="" type="text"></div>
-                                <input value="Inschrijven" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary button" type="submit">
-                            </form></div></div>{% endif %}
+                          {% if forloop.index == 9 %}{% include nieuwsbriefbar.html %}{% endif %}
 
                           {% endfor %}
                           
