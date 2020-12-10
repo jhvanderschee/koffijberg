@@ -4,9 +4,9 @@ images:
   - image: /uploads/mg-6502.jpg
 ---
 
-Bij Koffijberg Hairdressers kleuren we met Botanea. Botanea is een 100% Plantaardige Professionele Haarkleur samengesteld uit slechts drie natuurlijke ingredïenten: Cassia, Henna en Indigo, zorgvuldig verbouwd en geoogst in India.
+Bij Koffijberg Hairdressers kleuren we met Botanea. Botanea is een 100% Plantaardige Professionele Haarkleur samengesteld uit slechts drie natuurlijke ingrediënten: Cassia, Henna en Indigo, zorgvuldig verbouwd en geoogst in India.
 
-Ben jij die klant die hiernaar op zoek is? Wil jij liever geen chemie aan je hoofd en haar, of minder haarbreuk door middel van kleur. Ben jij allergisch geworden of gevoelig voor oxidatieve haarkleuren dan is dit echt wat voor jou. Of wil je gewoon een gezonde levenstyle erop nahouden. Misschien ben je opzoek naar een mooie natuurlijke of warme kleur, of wil jij je grijze haar mooi laten blenden. Ben je het thuiskleuren met Henna zat en wil je ook wel eens een lekker verwenmoment bij de kapper dan ben je bij ons aan het juiste adres.
+Ben jij die klant die hiernaar op zoek is? Wil jij liever geen chemie aan je hoofd en haar, of minder haarbreuk door middel van kleur. Ben jij allergisch geworden of gevoelig voor oxidatieve haarkleuren dan is dit echt wat voor jou. Of wil je gewoon een gezonde levensstijl erop nahouden. Misschien ben je opzoek naar een mooie natuurlijke of warme kleur, of wil jij je grijze haar mooi laten blenden. Ben je het thuiskleuren met Henna zat en wil je ook wel eens een lekker verwenmoment bij de kapper dan ben je bij ons aan het juiste adres.
 
 ![](/uploads/kapper-amsterdam-henna-botanea-klein.jpg){: width="300" height="450"}![](/uploads/kapper-amsterdam-henna-botanea-klein2.jpg){: width="300" height="450"}
 
