@@ -14,8 +14,8 @@ https://youtu.be/307HXGFZhN4
 
 Beauty basic
 
-&nbsp;
-
 Make-up advies nodig na een Shining grey behandeling? Wij zijn er voor je in onze Beauty Area. Wij adviseren en helpen je graag om je make-up aan te passen aan je nieuwe haarkleur. Wij geloven in less is more door de basics (foundation, concealer, primer, mascara en blush) zo toe te passen dat het beste van jou naar voren komt. Maak een afspraak voor een professioneel advies van een van onze visagistes\!
 
-![](/uploads/kapper-amsterdam-koffijberg-hairdressers-grijs-haar-2.jpg){: width="250" height="375"}
+&nbsp;
+
+https://youtu.be/f8JpVi4UMEM
