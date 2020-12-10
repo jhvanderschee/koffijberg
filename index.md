@@ -69,7 +69,7 @@ sections:
     button_url: /contact
   - title: Color I-dentity
     subtitle:
-    image: /img/coloridentity.jpg
+    image: 'https://youtu.be/6JgdpevAVMs'
     youtube_id: V6TjD_GIu2k
     text_html: >-
       <p>Kapsalon Koffijberg tilt de haarkleuranalyse naar een hoger plan. Samen
