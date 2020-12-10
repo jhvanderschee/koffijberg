@@ -149,11 +149,11 @@ sections:
     image: /uploads/web-mg-7578.jpg
     youtube_id: M0hxoAYnayU
     text_html: >-
-      <p>Bij ons in de salon kleuren we nu ook met <a target="_blank"
-      href="https://www.youtube.com/watch?v=khs3TE75YFA">Botanea</a>. Botanea is
-      een 100% Plantaardige Professionele Haarkleur samengesteld uit slechts
-      drie natuurlijke ingredi&euml;nten: Cassia, Henna en Indigo, zorgvuldig
-      verbouwd en geoogst in India. <a target="_blank" href="/contact">Meer
+      <p>Bij ons in de salon kleuren we nu ook met Botanea. Botanea is een 100%
+      Plantaardige Professionele Haarkleur samengesteld uit slechts drie
+      natuurlijke ingredi&euml;nten: Cassia, Henna en Indigo, zorgvuldig
+      verbouwd en geoogst in India. <a target="_blank" rel="noopener"
+      href="https://www.koffijberg.nl/behandelingen/botanea---100-natuurlijke-kleuring/">Meer
       weten?</a></p>
     button: Maak een afspraak
     button_url: /contact
