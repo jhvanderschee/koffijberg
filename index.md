@@ -159,7 +159,7 @@ sections:
     button_url: /contact
 background_images:
   - image: /img/kapperamsterdamsalon.jpg
-  - image: /img/website-actie-foto-kapper-amsterdam-large.jpg
+  - image: /uploads/web-mg-5135-1.jpg
   - image: /img/kapperamsterdamsalon.jpg
 ---
 
