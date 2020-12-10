@@ -1,3 +1,4 @@
+---
 ladies:
   - item: Wassen-knippen
     prijs:
@@ -62,6 +63,12 @@ colorings:
         topstylist: € 71.90
         masterstylist: € 77.75
     treatment: kleuring
+  - item: Botanea 100% Natuurlijke Kleuring
+    prijs:
+      - stylist: Prijsopgave na intake
+        topstylist: idem
+        masterstylist: Idem
+    treatment: botanea---100-natuurlijke-kleuring
   - item: Kleuring + Streaks
     prijs:
       - stylist: € 149.65
@@ -222,3 +229,4 @@ treatment-room:
         topstylist: € 50.00
         masterstylist: n.v.t.
     treatment: kerastase-extensioniste-ritueel
+---
