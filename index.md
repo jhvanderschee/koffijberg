@@ -160,7 +160,7 @@ sections:
 background_images:
   - image: /uploads/web-mg-4894.jpg
   - image: /uploads/web-mg-5135-1.jpg
-  - image: /img/kapperamsterdamsalon.jpg
+  - image: /uploads/web-mg-4894.jpg
 ---
 
 Topkapper in Amsterdam die garant staat voor persoonlijk advies, prachtige haarkleuringen, service, kwaliteit en vakmanschap. Kapsalon Koffijberg heeft in het verleden onder andere de Global Salon Business Award gewonnen en was in 2013 winnaar van de Coiffure Award. Onze kappers en kapsters krijgen ook veel erkenning uit de branche in de vorm van andere prijzen.
