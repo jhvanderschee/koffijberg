@@ -6,7 +6,7 @@ images:
 
 D&egrave; trend in Amerika nu ook bij ons in de kapsalon in Amsterdam: de Blow Dry Area. Binnen 30 minuten föhnen wij je haar of verzorgen een updo. Jij geniet ondertussen van een hapje en een drankje.
 
-*Voor dit seizoen heeft het team van Koffijberg Hiardresers hun favourite looks voor jou gemaakt. \*\* **Ga je naar een Festival deze zomer laat je dan inspireren door de volgende looks:***
+*Voor dit seizoen heeft het team van Koffijberg Hiardressers hun favourite looks voor jou gemaakt. \*\* **Ga je naar een Festival deze zomer laat je dan inspireren door de volgende looks:***
 
 ![](/uploads/festival-haar-kapper-amsterdam-koffijberg-335.jpg){: width="206" height="335"}![](/uploads/amsterdam-kapper-feestelijk-festival-335.jpg){: width="223" height="335"}![](/uploads/vlecht-festival-haar-kapper-amsterdam-koffijberg-335.jpg){: width="208" height="335"}
 
