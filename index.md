@@ -158,7 +158,7 @@ sections:
     button: Maak een afspraak
     button_url: /contact
 background_images:
-  - image: /img/kapperamsterdamsalon.jpg
+  - image: /uploads/web-mg-4894.jpg
   - image: /uploads/web-mg-5135-1.jpg
   - image: /img/kapperamsterdamsalon.jpg
 ---
