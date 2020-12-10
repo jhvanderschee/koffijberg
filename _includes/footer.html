@@ -1,6 +1,3 @@
-
-
-
 {% unless page.layout == 'contact' %}
 <div id="instagram">
   <div class="container">
@@ -88,7 +85,7 @@
 
 {% for popup in site.popups %}{% if popup.active == true %}
 <table cellpadding="0" cellspacing="0" id="popup"><tr><td><div style="background: {{ popup.background_color }} url({{ popup.image }}) center top no-repeat; background-size: cover;">
-	<div class="close"><a onclick="$( '#popup' ).hide(); $( '#popup .videoWrapper' ).remove();" style="cursor: pointer;"><i class="fa icon-cancel-2"></i> </A></div>	
+	<div class="close"><a onclick="$( '#popup' ).hide(); $( '#popup .videoWrapper' ).remove();" style="cursor: pointer;"><i class="fa icon-cancel-2"></i> </a></div>	
     <style>#popup div.popupcontent a {background: {{ popup.button_color }};}
     #popup div.popupcontent a:hover {background: {{ popup.button_hover_color }};}</style>
 	{% if popup.youtube_id %}<div class="popupcontent" style="padding: 0; margin: 0;"><div class="videoWrapper" style="margin-bottom: 0;"><iframe src="" data-src="https://www.youtube.com/embed/{{ popup.youtube_id }}?rel=0&amp;showinfo=0&amp;controls=0&amp;autoplay=1&amp;mute=1" allowfullscreen="" frameborder="0" width="720" height="420"></iframe></div></div>{% else %}<div class="popupcontent {% if popup.large_text %}large_text{% endif %}" style="{% if popup.text_shadow == true %}text-shadow: 0px 0px 7px {{ popup.text_shadow_color }};{% endif %} color: {{ popup.text_color }};">{{ popup.content }}</div>{% endif %}
@@ -96,12 +93,12 @@
 </div></td></tr></table>
 {% endif %}{% endfor %}
 
-</div>
 
-<!--<div id="lightbox" style="width:100%;height:100%;" onclick="closeimage();" ><div style="display:table-cell;vertical-align:middle;"><div id="controls"><span onclick="goPrev(event); return false;" id="prevbutton">‹</span><span onclick="goNext(event); return false;" id="nextbutton">›</span></div><span id="closebutton">sluiten</span><img id="image" src="" /></div></div>-->
+
+<!--<div id="lightbox" style="width:100%;height:100%;" onclick="closeimage();" ><div style="display:table-cell;vertical-align:middle;"><div id="controls"><span onclick="goPrev(event); return false;" id="prevbutton">ª×<5sy</span><span onclick="goNext(event); return false;" id="nextbutton">:</span></div><span id="closebutton">sluiten</span><img id="image" src="" /></div></div>-->
 
 <script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
+<link rel="stylesheet" href="/css/lightbox.css" />
 
 
 
