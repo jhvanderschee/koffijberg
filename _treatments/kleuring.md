@@ -8,6 +8,6 @@ Voordat de kapper of kapster je haar in onze kapsalon gaat kleuren, maken we eer
 
 Natuurlijk kijken we tijdens het kleuren ook naar de gesteldheid van je haar en hoofdhuid en krijg je hier persoonlijk advies over. Alle kleurbehandelingen zijn inclusief een heerlijke hoofdmassage en haarmasker met warme handdoek.
 
-Na het kleuren kan je ervoor kiezen je haar door een van onze topkappers in model te laten knippen. Of je kunt het helemaal laten f&ouml;hnen waardoor je kapsel mooi gestyled blijft. Natuurlijk mag je het ook alleen even door ons laten drogen.
+Na het kleuren kan je ervoor kiezen je haar door een van onze topkappers in model te laten knippen. Of je kunt het helemaal laten föhnen waardoor je kapsel mooi gestyled blijft. Natuurlijk mag je het ook alleen even door ons laten drogen.
 
-Koffijberg maakt alleen gebruik van de allerbeste producten. In onze kapsalon werken we met de merken L'Or&eacute;al Professionel en K&eacute;rastase.
+Koffijberg maakt alleen gebruik van de allerbeste producten. In onze kapsalon werken we met de merken [L'Oréal Professionel](https://www.koffijberg.nl/nieuws/2020/09/04/de-stylingproducten-van-lor%C3%A9al-professionnel-tecni-art/){: target="_blank" rel="noopener"} en [Kérastase](https://www.koffijberg.nl/nieuws/2020/09/02/de-luxe-haarverzorging-van-kerastase/){: target="_blank" rel="noopener"}.
