@@ -132,8 +132,8 @@ sections:
     button_url: /contact
   - title: Personal style identity
     subtitle:
-    image: /uploads/instagram/instagram4.jpg
-    youtube_id: 6JgdpevAVMs
+    image: /uploads/danielle-binnen-na-foto-koffijberg-hairdresesrs-1.jpg
+    youtube_id: PWFYqEX23vw
     text_html: >-
       <p>Denk je na over een nieuw kapsel? Of wil je je haar een meer
       eigentijdse look geven die past bij jouw lifestyle? Kom dan bij ons langs.
