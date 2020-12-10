@@ -4,6 +4,6 @@ image: /uploads/chronologiste-post-1.jpg
 alignment: middle
 ---
 
-https://www.youtube.com/watch?v=Sj\_tYCFG6k0
+Bekijk de video van de nieuwe Chronologiste van Kerastase.
 
-&nbsp;
+https://www.youtube.com/watch?v=Sj\_tYCFG6k0
