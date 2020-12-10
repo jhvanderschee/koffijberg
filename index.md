@@ -158,7 +158,7 @@ sections:
     button: Maak een afspraak
     button_url: /contact
 background_images:
-  - image: /uploads/web-mg-4894.jpg
+  - image: /uploads/web-mg-6800.jpg
   - image: /uploads/web-mg-5135-1.jpg
   - image: /uploads/web-mg-4894.jpg
 ---
