@@ -52,8 +52,8 @@ sections:
     button_url: /collecties/
   - title: Blow Dry Area
     subtitle:
-    image: /uploads/feestelijk-haar-updo-kapper-amsterdam-koffijberg-250.jpg
-    youtube_id: bnVetOv-59k
+    image: /uploads/web-mg-6306.jpg
+    youtube_id:
     text_html: >-
       <p>D&egrave; trend in Amerika nu ook bij ons in de kapsalon: de Blow Dry
       Area. Binnen 30 minuten f&ouml;hnen wij je haar of verzorgen een updo. Jij
