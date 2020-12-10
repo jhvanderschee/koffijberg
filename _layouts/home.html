@@ -228,12 +228,6 @@
                                   <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" alt="Meer informatie" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
                                   {% endfor %}
                               {% endfor %}
-                              <tr class="expand1"><td colspan="4"><br /><b>Extensions<sup>4</sup></b></td></tr>
-                              {% for d in site.data.treatments.extensions %}
-                                  {% for p in d.prijs %}
-                                  <tr class="expand1"><td>{% if d.treatment != '' and d.treatment != nil %}<a href="/behandelingen/{{ d.treatment }}">{{ d.item }} <img src="/img/infoicon.svg" style="height: 15px; position: relative; bottom: 1px;" alt="Meer informatie" /></a>{% else %}{{ d.item }}{% endif %}</td><td class="text-center">{{ p.stylist }}</td><td class="text-center">{{ p.topstylist }}</td><td class="text-center">{{ p.masterstylist }}</td></tr>
-                                  {% endfor %}
-                              {% endfor %}
                               </table><br />
 
 
