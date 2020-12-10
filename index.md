@@ -39,7 +39,7 @@ sections:
     youtube_id:
     text_html: >-
       <p><a target="_blank" rel="noopener"
-      href="https://photos.google.com/">Kapsalon Koffijberg</a> heeft in het
+      href="https://www.google.nl/maps/place/Koffijberg+Hairdressers,+Scheldestraat,+Amsterdam/@52.3477901,4.8887502,17z/data=!4m7!3m6!1s0x47c609f52b889af9:0xa0d852e46cb77f93!8m2!3d52.3477901!4d4.8909389!11m1!2e1">Kapsalon Koffijberg</a> heeft in het
       verleden onder andere de Global Salon Business Award gewonnen en was in
       2013 winnaar van de Coiffure Award. Onze kappers en kapsters krijgen ook
       veel erkenning uit de branche in de vorm van andere prijzen. Onze aanpak
