@@ -114,7 +114,7 @@ sections:
     button_url: /contact
   - title: Shining grey
     subtitle:
-    image: /img/willemijn1.jpg
+    image: /uploads/web-mg-7381-1.jpg
     youtube_id: 307HXGFZhN4
     text_html: >-
       <p>Kimm Koffijberg heeft een uniek concept ontwikkeld. Voor vrouwen met
