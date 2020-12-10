@@ -86,7 +86,7 @@ sections:
     button_url: /contact
   - title: Sterk krullend haar
     subtitle:
-    image: /uploads/krullend-haar.jpg
+    image: /uploads/web-mg-7566.jpg
     youtube_id: VD1M5EQBw-s
     text_html: >-
       <p>Heb je sterk gekruld en/of mixed hair en ben je op zoek naar een kapper
