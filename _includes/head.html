@@ -55,6 +55,12 @@
     script.setAttribute('src','//widget.salonhub.nl/a/i.js');
     document.getElementsByTagName('head')[0].appendChild(script);
   </script>
+
+
+<style>
+{% for item in site.data.settings.intro_images %}.intro.image1 > div {background: #bbb9c5 url('{{ item.image }}') center top no-repeat; height: 800px; }{% endfor %}
+</style>
+
 	{% include ga.html %}
 <!-- Facebook Pixel Code -->
 <script>
@@ -71,6 +77,7 @@ src="https://www.facebook.com/tr?id=1393366147405131&ev=PageView&noscript=1"
 /></noscript>
 <!-- DO NOT MODIFY -->
 <!-- End Facebook Pixel Code -->
+
 </head>
 <script>
 fbq('track', 'ViewContent');
