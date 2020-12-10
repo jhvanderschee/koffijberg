@@ -20,7 +20,7 @@ Na deze treatment stylen we je wenkbrauwen met onze speciale brow make-up. En je
 
 ![](/uploads/brow-area-2-kapper-amsterdam-koffijberg.jpg){: width="500" height="750"}
 
-**De Perfect Brows Wax Treatment duurt 30 minuten en bestaat uit:**\- Advies, rekening houdend met je gezichtsvorm, huidtype en wensen- Wenkbrauwen waxen/harsen, in model knippen en epileren- Verven van de wenkbrauwen in een passende kleur- Brow make-up (poeder) met een houdbaarheid van 24 uur- Advies voor thuis
+**De Perfect Brows Wax Treatment duurt&nbsp; min. 30 minuten en bestaat uit:**\- Advies, rekening houdend met je gezichtsvorm, huidtype en wensen- Wenkbrauwen waxen/harsen, in model knippen en epileren- Verven van de wenkbrauwen in een passende kleur- Brow make-up (poeder) met een houdbaarheid van 24 uur- Advies voor thuis
 
 **DE PERFECT BROWS THREADING TREATMENT (ONTHAREN MET DRAAD)**
 
@@ -34,7 +34,7 @@ De Threading Treatment is geschikt voor de gevoelige huid die allergisch is voor
 
 Na deze treatment stylen we je wenkbrauwen met onze speciale brow make-up. En je krijgt natuurlijk van ons een passend advies om thuis je wenkbrauwen te onderhouden tussen de behandelingen door. Je gaat bij ons weg met de perfecte wenkbrauwen\!
 
-**De****Perfect Brows Threading Treatment**&nbsp;**duurt 30 minuten en bestaat uit:**\- Advies, rekening houdend met je gezichtsvorm, huidtype en wensen- Wenkbrauwen threaden- Verven van de wenkbrauwen in een passende kleur- Brow make-up (poeder) met een houdbaarheid van 24 uur- Advies voor thuis
+**De****Perfect Brows Threading Treatment**&nbsp;**duurt min. 30 minuten en bestaat uit:**\- Advies, rekening houdend met je gezichtsvorm, huidtype en wensen- Wenkbrauwen threaden- Verven van de wenkbrauwen in een passende kleur- Brow make-up (poeder) met een houdbaarheid van 24 uur- Advies voor thuis
 
 ![](/uploads/brow-area-3-kapper-amsterdam-koffijberg.jpg){: width="500" height="333"}
 
