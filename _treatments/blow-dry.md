@@ -6,9 +6,9 @@ images:
 
 D&egrave; trend in Amerika nu ook bij ons in de kapsalon in Amsterdam: de Blow Dry Area. Binnen 30 minuten föhnen wij je haar of verzorgen een updo. Jij geniet ondertussen van een hapje en een drankje.
 
-*Voor dit seizoen heeft het team van Koffijberg Hiardressers hun favourite looks voor jou gemaakt. \*\* **Ga je naar een Festival deze zomer laat je dan inspireren door de volgende looks:***
+*Voor dit seizoen heeft het team van Koffijberg Hairdressers hun favourite looks voor jou gemaakt.&nbsp;*
 
-![](/uploads/festival-haar-kapper-amsterdam-koffijberg-335.jpg){: width="206" height="335"}![](/uploads/amsterdam-kapper-feestelijk-festival-335.jpg){: width="223" height="335"}![](/uploads/vlecht-festival-haar-kapper-amsterdam-koffijberg-335.jpg){: width="208" height="335"}
+&nbsp;
 
 ***Ga je naar een bruiloft of ben je bruidsmeisje of heb je een ander leuk zomerfeest Laat je dan inspireren door deze looks:***
 
@@ -20,4 +20,4 @@ D&egrave; trend in Amerika nu ook bij ons in de kapsalon in Amsterdam: de Blow D
 
 \*\* Je komt met gewassen en droog haar naar onze kapsalon. Daar kies je uit een van onze looks en wij zorgen ervoor dat je na een half uurtje met een catwalk look onze kapsalon verlaat. Een blow dry voor je haar is snel en betaalbaar (30 euro).\* Onverwacht een belangrijke zakelijke afspraak? Of vanavond een feestje? Bel ons of loop even binnen en book a blow-out\!
 
-*Heb je erg lang haar of is je haar lastig te bewerken, dan moeten wij extra tijd inruimen en wordt een toeslag berekend van 16 euro.*
+*Heb je erg lang haar of is je haar lastig te bewerken, dan moeten wij extra tijd inruimen en wordt een toeslag berekend.*
