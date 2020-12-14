@@ -12,14 +12,10 @@ text_shadow: true
 text_shadow_color: '#000000'
 ---
 
-## Voorschriften bezoek
+## Vandaag 14 december geheel vol geboekt\!
 
-<br>**Blijf thuis als jij een van de volgende klachten hebt: neusverkoudheid, loopneus, niezen, keelpijn, lichte hoest, verhoging (tot 38 C&deg;) of koorts. Blijf ook thuis als iemand in jouw huis koorts heeft (vanaf 38 C&deg;) en/of benauwdheidsklachten.**
-
-Houd zoveel als mogelijk 1.5 m afstand, team en klant draagt mondkapje, betaal contactloos, kom op tijd en volg de instructies van het personeel.
-
-Wij zijn bereikbaar voor afspraken via:
+Wij vragen je geduld zodat wij weten wat dhr. Rutte vanavond gaat vertellen. Tot die tijd weten wij ook niets (officieel). Door de stormloop zijn wij wat lastig bereikbaar. Wij vragen hiervoor om je begrip. Wij zijn bereikbaar voor afspraken via:
 
 mail: receptie@koffijberg.nl<br>Whatsapp: 06-47 26 86 86<br>Telefoon: 020-6732374
 
-***Op zondag 20december zijn wij geopend.***
+&nbsp;
