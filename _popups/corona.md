@@ -14,7 +14,7 @@ text_shadow_color: '#000000'
 
 ## HELAAS GESLOTEN \!&nbsp;
 
-"Nederland gaat op slot", zei premier Rutte 14 december 2020 tijdens zijn toespraak. Wij nemen weer nieuwe afspraken aan wanneer er duidelijk is over het einde van de lockdown voor onze salon. Wil je toch iets delen met ons kan dat via:
+"Nederland gaat op slot", zei premier Rutte 14 december 2020 tijdens zijn toespraak. Wij nemen weer nieuwe afspraken aan wanneer er meer duidelijk is over het einde van de lockdown voor onze salon. Wil je toch iets delen met ons kan dat via:
 
 mail: receptie@koffijberg.nl<br>Whatsapp: 06-47 26 86 86<br>&nbsp;
 
