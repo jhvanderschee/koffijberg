@@ -14,10 +14,10 @@ text_shadow_color: '#000000'
 
 ## HELAAS GESLOTEN \!&nbsp;
 
-"Nederland gaat op slot", zei premier Rutte 14 december 2020 tijdens zijn toespraak. Hij kondigde aan dat we te maken krijgen met een ingrijpende lockdown en een groot pakket aan maatregelen en dringende adviezen. De nieuwe regels gelden tot en met 19 januari 2021. Wij zijn bereikbaar voor afspraken na 19 januari via:
+"Nederland gaat op slot", zei premier Rutte 14 december 2020 tijdens zijn toespraak. Wij nemen weer nieuwe afspraken aan wanneer er duidelijk is over het einde van de lockdown voor onze salon. Wil je toch iets delen met ons kan dat via:
 
-mail: receptie@koffijberg.nl<br>Whatsapp: 06-47 26 86 86<br>Telefoon: 020-6732374 (zeer beperkt)
+mail: receptie@koffijberg.nl<br>Whatsapp: 06-47 26 86 86<br>&nbsp;
 
-Hele fijne dagen gewenst en hopelijk tot snel in onze salon\! \#staysave
+Reeds bestaande afspraken gaan niet door tijdens de lockdown en hopelijk tot snel in onze salon\! \#staysave
 
 &nbsp;
