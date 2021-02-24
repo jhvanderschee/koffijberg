@@ -12,12 +12,14 @@ text_shadow: true
 text_shadow_color: '#000000'
 ---
 
-## HELAAS GESLOTEN \!&nbsp;
+## BIJNA OPEN \!&nbsp;
 
-"Nederland gaat op slot", zei premier Rutte 14 december 2020 tijdens zijn toespraak. Wij nemen weer nieuwe afspraken aan wanneer er meer duidelijk is over het einde van de lockdown voor onze salon. Wil je toch iets delen met ons dan kan dat via:
+Vanaf woensdag 3 maart 08:15 uur gaat onze voordeur weer open. Daar hebben we heel lang opgewacht maar zijn blij met dit perspectief. We zijn erg dankbaar voor de vele reacties. De hoeveelheid aanvragen voor afspraken kunnen wij niet allemaal tegelijk beantwoorden en helaas ook niet allemaal in de eerste week van opening inplannen. Wij doen ons best iedereen z.s.m. te antwoorden / bellen / mailen / appen.&nbsp;
+
+Wil je ons bereiken, graag via:
 
 mail: receptie@koffijberg.nl<br>Whatsapp: 06-47 26 86 86<br>&nbsp;
 
-Reeds bestaande afspraken gaan niet door tijdens de lockdown en hopelijk tot snel in onze salon\! \#staysave
+We zien jullie allemaal heel graag in de salon zo snel als mogelijk.
 
 &nbsp;
