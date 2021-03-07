@@ -16,10 +16,12 @@ text_shadow_color: '#000000'
 
 &nbsp;
 
-Wil je ons bereiken, graag via:
+Na 10 saaie en verschrikkelijke weken zonder jullie zijn we per 3 maart weer geopend. We hopen je snel weer te mogen begroeten in onze salon\!&nbsp;
+
+Wij zijn te bereiken via:
 
 Telefoon: 020-6732374<br>Mail: receptie@koffijberg.nl&nbsp;<br>Whatsapp: 06-47 26 86 86<br>&nbsp;
 
-We zien jullie allemaal heel graag in de salon zo snel als mogelijk.
+Het is heel druk dus een reactie kan iets langer duren dan je van ons gewend bent.&nbsp;
 
 &nbsp;
