@@ -1,6 +1,6 @@
 ---
 title: Hoe bereid jij je voor op jouw kappersafspraak?
-image:
+image: /uploads/2018-05-07-koffijberg-464.jpg
 alignment: top
 ---
 Yes we zijn weer open\! Dat is geeft een enorme boost aan onze geest, creativiteit en sociale contacten.
