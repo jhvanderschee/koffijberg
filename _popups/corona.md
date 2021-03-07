@@ -18,7 +18,7 @@ text_shadow_color: '#000000'
 
 Wil je ons bereiken, graag via:
 
-Telefoon: 02-6732374<br>Mail: receptie@koffijberg.nl&nbsp;<br>Whatsapp: 06-47 26 86 86<br>&nbsp;
+Telefoon: 020-6732374<br>Mail: receptie@koffijberg.nl&nbsp;<br>Whatsapp: 06-47 26 86 86<br>&nbsp;
 
 We zien jullie allemaal heel graag in de salon zo snel als mogelijk.
 
