@@ -12,13 +12,13 @@ text_shadow: true
 text_shadow_color: '#000000'
 ---
 
-## BIJNA OPEN \!&nbsp;
+## WELKOM WE ZIJN WEER OPEN \!&nbsp;
 
-Vanaf woensdag 3 maart 08:15 uur gaat onze voordeur weer open. Daar hebben we heel lang opgewacht maar zijn blij met dit perspectief. We zijn erg dankbaar voor de vele reacties. De hoeveelheid aanvragen voor afspraken kunnen wij niet allemaal tegelijk beantwoorden en helaas ook niet allemaal in de eerste week van opening inplannen. Wij doen ons best iedereen z.s.m. te antwoorden / bellen / mailen / appen.&nbsp;
+&nbsp;
 
 Wil je ons bereiken, graag via:
 
-mail: receptie@koffijberg.nl<br>Whatsapp: 06-47 26 86 86<br>&nbsp;
+Telefoon: 02-6732374<br>Mail: receptie@koffijberg.nl&nbsp;<br>Whatsapp: 06-47 26 86 86<br>&nbsp;
 
 We zien jullie allemaal heel graag in de salon zo snel als mogelijk.
 
