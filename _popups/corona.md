@@ -4,7 +4,7 @@ active: true
 image: /uploads/social-post---retail-ts-animatie.png
 background_color: '#222222'
 youtube_id:
-text_color: '#ffffff'
+text_color: '#0e0101'
 large_text: true
 button_color: '#222222'
 button_hover_color: '#5e2d83'
