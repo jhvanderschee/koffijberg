@@ -16,7 +16,7 @@ text_shadow_color: '#000000'
 
 &nbsp;
 
-Schaf in de salon een product naar keuze aan van Serie Expert en ontvang gratis een travelsize cadeau.&nbsp; Deze actie loopt zolang als onze voorraad strekt.
+Van 10 mei tot en met 15 mei geven wij **40% korting** op de shampoo's, conditioners en maskers van L'Oréal Professionnel Serie Expert. Kom snel je slag slaan\!
 
 Wil je contact met ons? Wij zijn te bereiken via:
 
