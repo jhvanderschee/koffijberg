@@ -1,6 +1,6 @@
 ---
 title: Corona
-active: true
+active: false
 image: /uploads/social-post---retail-ts-animatie.png
 background_color: '#222222'
 youtube_id:
