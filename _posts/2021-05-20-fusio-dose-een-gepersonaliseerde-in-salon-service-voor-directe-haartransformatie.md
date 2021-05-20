@@ -5,7 +5,7 @@ title: >-
 image: /uploads/fusio-dose-kerastase.jpg
 alignment: top
 ---
-# Fusio-Dose: Een gepersonaliseerde in-salon service voor directe haartransformatie
+# &nbsp;
 
 Wanneer haar droog, dof of gewoon niet op zijn best is, dan is Fusio-Dose de Kérastase behandeling voor jou, exclusief beschikbaar in de salon. Het haar is snel getransformeerd en volledig hersteld.
 
