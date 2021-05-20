@@ -22,20 +22,6 @@ Na deze treatment stylen we je wenkbrauwen met onze speciale brow make-up. En je
 
 **De Perfect Brows Wax Treatment duurt&nbsp; min. 30 minuten en bestaat uit:**\- Advies, rekening houdend met je gezichtsvorm, huidtype en wensen- Wenkbrauwen waxen/harsen, in model knippen en epileren- Verven van de wenkbrauwen in een passende kleur- Brow make-up (poeder) met een houdbaarheid van 24 uur- Advies voor thuis
 
-**DE PERFECT BROWS THREADING TREATMENT (ONTHAREN MET DRAAD)**
-
-Threading is een eeuwenoude manier van ontharen die weer helemaal terug is. Threading werkt op een andere manier dan waxen of harsen: er wordt een dun draadje gebruikt om de wenkbrauwen te epileren. Threading kan ook worden toegepast op de rest van het gezicht. De specialiste onthaart dan met twee touwtjes die langs elkaar bewegen.
-
-**Wij gaan zorgvuldig te werk**
-
-In overleg met jou bepalen we eerst de vorm van je wenkbrauwen. Met een draadje creëert de specialiste de juiste vorm en zie je direct een prachtig resultaat. Vervolgens verzorgen we de huid met een verkoelende en herstellende cr&egrave;me, waardoor de roodheid meteen wegtrekt.
-
-De Threading Treatment is geschikt voor de gevoelige huid die allergisch is voor wax of hars. Het is iets pijnlijker dan waxen maar geeft net zulke strakke wenkbrauwen. Ook kunnen lastige kleine haartjes vanaf 1 mm worden verwijderd. Net als bij waxen/harsen worden de haartjes met wortel en al verwijderd en blijven ze drie tot vijf weken weg.
-
-Na deze treatment stylen we je wenkbrauwen met onze speciale brow make-up. En je krijgt natuurlijk van ons een passend advies om thuis je wenkbrauwen te onderhouden tussen de behandelingen door. Je gaat bij ons weg met de perfecte wenkbrauwen\!
-
-**De****Perfect Brows Threading Treatment**&nbsp;**duurt min. 30 minuten en bestaat uit:**\- Advies, rekening houdend met je gezichtsvorm, huidtype en wensen- Wenkbrauwen threaden- Verven van de wenkbrauwen in een passende kleur- Brow make-up (poeder) met een houdbaarheid van 24 uur- Advies voor thuis
-
 ![](/uploads/brow-area-3-kapper-amsterdam-koffijberg.jpg){: width="500" height="333"}
 
 &nbsp;
