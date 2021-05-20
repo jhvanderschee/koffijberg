@@ -15,6 +15,14 @@ Zelfs wie het haar uitstekend verzorgt, heeft weleens een boost nodig. Stress, s
 
 https://www.youtube.com/watch?v=\_TG1\_GcmgA4
 
+#### 5 Concentrés en 6 Boosters
+
+Er zijn meer dan 30 verschillende combinaties mogelijk om dofheid, haarbreuk, kleurbehoud en voeding te behandelen De Concentré zorgt voor de primaire haarbehoefte en de booster zorgt voor de secundaire behoefte waardoor je het beste hebt van twee werelden. Het haar is zichtbaar gezonder, glanzender en sterker. Wanneer jij en jouw haar een boost nodig hebben, dan is Fusio-Dose het antwoord.
+
+#### Jouw Gepersonaliseerde Behandeling
+
+Jouw stylist maakt een diagnose van jouw haar en creëert een gepersonaliseerde mix die zich specifiek richt op jouw haarprobleem, met de juiste samenstelling van geconcentreerde actieve stoffen.
+
 &nbsp;
 
 &nbsp;
