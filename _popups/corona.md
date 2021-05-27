@@ -4,11 +4,11 @@ active: false
 image: /uploads/brugwachetrshuisje-1976-2.JPG
 background_color: '#222222'
 youtube_id:
-text_color: '#f30aa1'
-large_text: true
+text_color: '#f9f4f7'
+large_text: false
 button_color: '#222222'
 button_hover_color: '#5e2d83'
-text_shadow: true
+text_shadow: false
 text_shadow_color: '#000000'
 ---
 
