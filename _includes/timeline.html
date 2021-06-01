@@ -1,5 +1,5 @@
 <style>
-h2.timeline {font-size: 26px; margin-bottom: 5px; padding-top: 20px;}
+h2.timeline {font-size: 23px; margin-bottom: 5px; padding-top: 20px;}
 #timeline {position: relative; max-width: 575px;}
 #timeline > div {
     display: flex; 
@@ -17,6 +17,10 @@ h2.timeline {font-size: 26px; margin-bottom: 5px; padding-top: 20px;}
     flex-direction: row-reverse;
     align-items: center;
 }
+#timeline > div.imagetop {
+    flex-direction: column-reverse;
+    align-items: flex-end;
+}
 #timeline > div::after,
 #timeline > div::before {
     content: "";
@@ -24,7 +28,7 @@ h2.timeline {font-size: 26px; margin-bottom: 5px; padding-top: 20px;}
     position: absolute; 
     width: 2px; 
     height: 100%; 
-    background: rgb(34, 34, 34);
+    background: #333;
     top: 45px;
 }
 #timeline > div.noimage::after,
@@ -48,6 +52,9 @@ h2.timeline {font-size: 26px; margin-bottom: 5px; padding-top: 20px;}
     margin: 20px 0;
     font-size: 16px!important;
 }
+#timeline > div:last-child > div {background: #7a8e71;}
+#timeline > div:last-child > div * {color: white;}
+
 #timeline > div > div h3 {font-size: 16px!important;}
 #timeline > div > div * {
     font-style: normal!important;
@@ -78,8 +85,8 @@ h2.timeline {font-size: 26px; margin-bottom: 5px; padding-top: 20px;}
 <h2 class="timeline">Sinds 1976...</h2>
 <div id="timeline">
 {% for item in site.timeline %}
-    <div class="{% if item.image_location == 'left' %}imageleft{% elsif item.image_location == 'none' %}noimage{% elsif item.image_location == 'bottom' %}imagebottom{% endif %}">
-        <div style="width: {{ item.text_width }}%; {% if item.image_location == 'left' or item.image_location == 'right' %}margin-{{ item.image_location }}: -{{ item.text_overlap }}%;{% endif %}">
+    <div class="{% if item.image_location == 'left' %}imageleft{% elsif item.image_location == 'none' %}noimage{% elsif item.image_location == 'bottom' %}imagebottom{% elsif item.image_location == 'top' %}imagetop{% endif %}">
+        <div style="width: {{ item.text_width }}%; {% if item.image_location == 'left' or item.image_location == 'right' %}margin-{{ item.image_location }}: -{{ item.text_overlap }}%;{% endif %}{% if item.image_location == 'top'%}margin-top: calc(-40px - {{ item.text_overlap }}%);{% endif %}">
             <h3>{{ item.title }}</h3>
             {{ item.content }}
         </div>
