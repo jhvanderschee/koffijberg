@@ -12,6 +12,7 @@ text_shadow: false
 text_shadow_color: '#000000'
 bg_vertical_position: center
 bg_overlay: 'rgba(0,0,0,0.5)'
+width: narrow
 ---
 
 ## Wij zijn jarig\!&nbsp;
@@ -23,5 +24,3 @@ Op 1 juni 1976 ging de voordeur open van Kapper Richard met als locatie één va
 Wil je contact met ons? Wij zijn te bereiken via:
 
 Telefoon: 020-6732374<br>Mail: receptie@koffijberg.nl&nbsp;<br>Whatsapp: 06-47 26 86 86<br>&nbsp;
-
-&nbsp;

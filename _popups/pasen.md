@@ -11,6 +11,7 @@ text_shadow: true
 text_shadow_color: white
 bg_vertical_position: top
 bg_overlay: 'rgba(0,0,0,0)'
+width: wide
 ---
 
 # Paaskorting 30%!
