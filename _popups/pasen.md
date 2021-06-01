@@ -9,6 +9,8 @@ button_color: '#222222'
 button_hover_color: '#5e2d83'
 text_shadow: true
 text_shadow_color: white
+bg_vertical_position: top
+bg_overlay: 'rgba(0,0,0,0)'
 ---
 
 # Paaskorting 30%!

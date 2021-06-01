@@ -1,0 +1,74 @@
+<style>
+#timeline {position: relative;}
+#timeline > div {
+    display: flex; 
+    position: relative; 
+    flex-direction: row; 
+    padding-left: 70px; 
+    align-items: flex-start;
+    padding-bottom: 20px;
+}
+#timeline > div:first-child {
+    flex-direction: row-reverse;
+    padding-left: 0;
+}
+#timeline > div.imageleft {
+    flex-direction: row-reverse;
+    align-items: center;
+}
+#timeline > div::after,
+#timeline > div::before {
+    content: "";
+    left: 40px; 
+    position: absolute; 
+    width: 2px; 
+    height: 100%; 
+    background: rgb(34, 34, 34);
+    top: 45px;
+}
+#timeline > div.noimage::after,
+#timeline > div.noimage::before {top: 25px;}
+#timeline > div.noimage::before {height: calc(100% + 20px);}
+#timeline > div.noimage > div {margin-top: 0;}
+#timeline > div:first-child::after,
+#timeline > div:first-child::before {z-index: 0;}
+#timeline > div::after {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    margin-left: -9px;
+}
+#timeline > div:last-child::before {content: none;}
+#timeline > div > img {position: relative; z-index: 1; margin-bottom: 20px;}
+#timeline > div > div {
+    background: #ddd;
+    padding: 20px;
+    z-index: 2;
+    margin: 20px 0;
+}
+#timeline > div > div * {
+    font-size: 16px!important;
+    font-style: normal!important;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+#timeline > div > div h3 {
+    color: #333;
+    font-weight: 600;
+    text-transform: none;
+}
+</style>
+
+<h2>Sinds 1976...</h2>
+<div id="timeline">
+{% for item in site.timeline %}
+    <div class="{% if item.image_location == 'left' %}imageleft{% elsif item.image_location == 'none' %}noimage{% endif %}">
+        <div style="width: {{ item.text_width }}%; margin-{{ item.image_location }}: -{{ item.text_overlap }}%;">
+            <h3>{{ item.title }}</h3>
+            {{ item.content }}
+        </div>
+        <img style="width: {{ item.image_width }}%;" src="{{ item.image }}" />
+    </div>
+{% endfor %}
+</div>

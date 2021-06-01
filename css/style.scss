@@ -158,7 +158,7 @@ body.iOS .salon3 {background-attachment: scroll;}
     transition: right 0.2s ease;  
     line-height: 40px; 
 }
-#not_sharethis {position: fixed; top: 50%; height: 246px; margin-top: -123px; right: -50px; height: 164px; margin-top: -88px;}
+#not_sharethis {position: fixed; top: 50%; height: 246px; margin-top: -123px; right: -50px; height: 164px; margin-top: -88px; z-index: 2;}
 #not_sharethis > div:hover {position: relative; right: 50px;}
 #not_sharethis.post > div:hover {right: 0;}
 #not_sharethis.post {position: relative; top: auto; height: auto; margin-top: 0; right: 0;}
