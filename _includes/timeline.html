@@ -1,10 +1,11 @@
 <style>
-#timeline {position: relative;}
+h2.timeline {font-size: 30px; margin-bottom: 5px; padding-top: 20px;}
+#timeline {position: relative; max-width: 575px;}
 #timeline > div {
     display: flex; 
     position: relative; 
     flex-direction: row; 
-    padding-left: 70px; 
+    padding-left: 90px; 
     align-items: flex-start;
     padding-bottom: 20px;
 }
@@ -19,7 +20,7 @@
 #timeline > div::after,
 #timeline > div::before {
     content: "";
-    left: 40px; 
+    left: 60px; 
     position: absolute; 
     width: 2px; 
     height: 100%; 
@@ -60,7 +61,7 @@
 }
 </style>
 
-<h2>Sinds 1976...</h2>
+<h2 class="timeline">Sinds 1976...</h2>
 <div id="timeline">
 {% for item in site.timeline %}
     <div class="{% if item.image_location == 'left' %}imageleft{% elsif item.image_location == 'none' %}noimage{% endif %}">
