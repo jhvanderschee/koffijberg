@@ -64,8 +64,8 @@ h2.timeline {font-size: 26px; margin-bottom: 5px; padding-top: 20px;}
 <h2 class="timeline">Sinds 1976...</h2>
 <div id="timeline">
 {% for item in site.timeline %}
-    <div class="{% if item.image_location == 'left' %}imageleft{% elsif item.image_location == 'none' %}noimage{% endif %}">
-        <div style="width: {{ item.text_width }}%; margin-{{ item.image_location }}: -{{ item.text_overlap }}%;">
+    <div class="{% if item.image_location == 'left' %}imageleft{% elsif item.image_location == 'none' %}noimage{% elsif item.image_location == 'bottom' %}imagebottom{% endif %}">
+        <div style="width: {{ item.text_width }}%; {% if item.image_location == 'left' or item.image_location == 'right' %}margin-{{ item.image_location }}: -{{ item.text_overlap }}%;{% endif %}">
             <h3>{{ item.title }}</h3>
             {{ item.content }}
         </div>
