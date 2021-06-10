@@ -6,3 +6,4 @@ functie: Stylist
 order_number: 14
 ---
 
+Aanwezig op wo/do/vr/za
