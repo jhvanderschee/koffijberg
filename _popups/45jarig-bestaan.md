@@ -19,7 +19,7 @@ width: narrow
 
 &nbsp;
 
-Op 1 juni 1976 ging de voordeur open van Kapper Richard met als locatie één van de twee brugwachtershuisjes op de Amstelkade. Nu bestaan we alweer 45 jaar\! Wij vieren dit met macarons, cadeautjes en een twee artikel gratis actie op producten van Kérastase en L'Oréal Professionnel, We vieren de hele maand juni feest. Hopelijk tot snel in de salon.&nbsp;
+Op 1 juni 1976 ging de voordeur open van Kapper Richard met als locatie één van de twee brugwachtershuisjes op de Amstelkade. Nu bestaan we alweer 45 jaar\! Wij vieren dit met cadeautjes en een tweede artikel gratis actie op producten van Kérastase en L'Oréal Professionnel. We vieren de hele maand juni feest. Hopelijk tot snel in de salon.&nbsp;
 
 Wil je contact met ons? Wij zijn te bereiken via:
 
