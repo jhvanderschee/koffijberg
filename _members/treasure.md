@@ -1,7 +1,7 @@
 ---
 title: Treasure
 naam: Treasure
-image: /uploads/kapper-treasure-amsterdam-koffijberg.jpg
+image: /uploads/kapper-amsterdam-Treasure-topstylist.JPG
 functie: Top-Stylist
 order_number: 12
 ---
