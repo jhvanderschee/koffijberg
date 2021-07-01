@@ -1,6 +1,6 @@
 ---
 title: 45 jaar bestaan
-active: true
+active: false
 image: /uploads/brugwachetrshuisje-1976-2.JPG
 background_color: '#222222'
 youtube_id:
@@ -11,7 +11,7 @@ button_hover_color: '#5e2d83'
 text_shadow: false
 text_shadow_color: '#000000'
 bg_vertical_position: center
-bg_overlay: 'rgba(0,0,0,0.5)'
+bg_overlay: rgba(0,0,0,0.5)
 width: narrow
 ---
 
